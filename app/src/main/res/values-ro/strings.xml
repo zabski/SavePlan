@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Credite si Economii</string>
+<string name="app_name2">Împrumuturi și investiții</string>
+<string name="menu_title">Ce vrei să calculeze?</string>
+<string name="SavingCalc">Valoarea Viitorul economiilor</string>
+<string name="PeriodCalc">Perioada de economisire</string>
+<string name="DepositCalc">Valoarea depozitelor regulate</string>
+<string name="IntrestCalc">Rata dobânzii de economii</string>
+<string name="LoanCalc">Costurile de împrumut și rate</string>
+<string name="LoanCalcPro">Dobânda anuală de împrumut</string>
+<string name="info">Informații</string>
+<string name="help_translate">Ajutor traduce aceasta aplicație</string>
+<string name="rate_app">Evaluați această aplicație!</string>
+<string name="feedback">Dă feedback-ul dvs.</string>
+<string name="feedback_prompt">Hei, ai vrea să ne dea unele aprecieri, astfel încât să putem îmbunătăți experiența dumneavoastră?</string>
+<string name="opinion">Opinie</string>
+<string name="loan_amount">Suma inițială</string>
+<string name="loan_amt">Suma de împrumut</string>
+<string name="percentage">Dobânzii</string>
+<string name="period">Perioada de economisire</string>
+<string name="saving">Depozit lunar</string>
+<string name="capitalization">Dobânda compusă</string>
+<string name="deposit_period">Frecvența de depozite</string>
+<string name="target_amount">Target Suma</string>
+<string name="total_deposit">Raport Depozit</string>
+<string name="need_percentage">Ai nevoie pentru a salva de la rata procentuală (pe an)</string>
+<string name="need_gain">Ai nevoie pentru a câștiga</string>
+<string name="period_deposit">Fiecare perioadă trebuie să salvați</string>
+<string name="total">Suma salvate</string>
+<string name="profit">Profit / ca% din totalul depozit</string>
+<string name="fill_in">Vă rugăm să completați toate câmpurile de introducere</string>
+<string name="required_period">Perioada necesară de economisire</string>
+<string name="percent">Dobânzii (pe an)</string>
+<string name="payments">Numărul de rate</string>
+<string name="payment_amount">Rate Suma</string>
+<string name="each_month">(care urmează să fie plătit în fiecare lună)</string>
+<string name="total_cost">Cost total</string>
+<string name="total_cost_">Cost total /</string>
+<string name="cost_percent">Ca% din valoarea creditului</string>
+<string name="commission">Comision</string>
+<string name="other_fees">Alte Taxe</string>
+<string name="annual_percent_rate">Dobânda anuală</string>
+<string name="total_repay">Raport de a rambursa</string>
+<string name="leave_one_of_two">Lasă un gol de: Procentaj, rate Suma. Consultați instrucțiunile de mai jos.</string>
+<string name="deposit_calc">Calculați suma depozitului</string>
+<string name="savings_calc">Calculați suma de economii</string>
+<string name="period_calc">Calculați perioadă de economisire</string>
+<string name="intrest_calc">Calculați rata dobânzii</string>
+<string name="loan_calc">Calculați rate de credit</string>
+<string name="submit">Calcula</string>
+<string name="clear">Sterge toate</string>
+<string name="del">Șterge</string>
+<string name="show">Spectacol</string>
+<string name="go">Merge</string>
+<string name="exit">Ieșire</string>
+<string name="cancel">Anula</string>
+<string name="ok">În regulă</string>
+<string name="settings">Setări</string>
+<string name="go_to_menu">Acceptați și Close</string>
+<string name="choose_currency">Alege moneda</string>
+<string name="instructions">Instrucțiuni</string>
+<string name="see_details">Pentru instrucțiuni derulați în jos</string>
+<string name="results">Rezultate</string>
+<string name="hint_amount">Valoarea de împrumut.</string>
+<string name="hint_principal">Cât de mult ai acum?</string>
+<string name="hint_target">Cât de mult vrei să salvați?</string>
+<string name="hint_period">Cât timp ai de gând să salveze?</string>
+<string name="hint_percent">La ce rata procentuală vei economisi?</string>
+<string name="hint_interest">Care este rata dobânzii (pe an) din împrumut?</string>
+<string name="hint_deposit">Cât de mult poți depune în contul dumneavoastră de economisire în fiecare lună?</string>
+<string name="hint_dep_period">Cât de des veți depune bani în contul dumneavoastră de economisire?</string>
+<string name="hint_install">De obicei, egal cu numărul de plăți lunare</string>
+<string name="hint_compounded">Perioada la care se adaugă dobânda de economiile la valoarea principalului. Aceasta depinde de banca dvs. și / sau de pensie / economisire regulament planului. Poate lua valori: anual, lunar și de zi cu zi.</string>
+<string name="hint_amount_pro">Valoarea de împrumut. De obicei, egală cu prețul produsului în care doriți să achiziționați. Acest câmp este obligatoriu.</string>
+<string name="hint_commission">Comisia (sau taxa de împrumut), ca% din valoarea creditului. În cazul în care nu se cunoaște, lăsați necompletat.</string>
+<string name="hint_other_fees">Toate celelalte taxe care nu sunt dependente de valoarea împrumutului. În cazul în care nu se cunoaște, lăsați necompletat.</string>
+<string name="hint_total_repay">Suma totală care va trebui să fie rambursat la creditor.</string>
+<string name="hint_total_cost">Costul total al creditului, inclusiv dobânda compusă și toate taxele.</string>
+<string name="hint_cost_percent">Costul total (ca mai sus), exprimat ca procent din valoarea creditului.</string>
+<string name="hint_apr">Efectivă (reală) rata anuală a dobânzii împrumutului, inclusiv costul total.</string>
+<string name="hint_payment">Cantitatea de fiecare de (lunar)-ti rata. Nu aveți nevoie pentru a umple în acest domeniu, dacă nu a lăsat "rată procentuală" necompletat. În cazul în care nu se completează, se va calcula după apăsarea butonului.</string>
+<string name="information_1">Acest calculator vă permite pentru a afla suma viitor de economiile tale, precum și profit pe care le va face ratei dobânzii formă compus. Se presupune știți următoarele:</string>
+<string name="information_2">Acest calculator va permite să determine perioada de timp care este necesar pentru a salva suma țintă. Se presupune a vă oferi următoarele:</string>
+<string name="information_3">Aici puteti calcula depozit lunar, care este suma pe care va trebui să salvați în fiecare lună, în scopul de a atinge scopul de economisire. Acesta va avea nevoie de următoarele date:</string>
+<string name="information_4">Acesta vă permite pentru a afla rata dobânzii la care va trebui să fie de economisire, pentru a ajunge la suma țintă. Veți avea nevoie pentru a oferi:</string>
+<string name="information_5">Datorită acestui calculator simplu va fi capabil să determine valoarea fiecărei tranșe de împrumut, și se calculează costul total se în moneda dvs. și ca un procent din suma creditului. Tot ce trebuie sa stii este:</string>
+<string name="information_6">Dacă aveți de gând să ia un împrumut pentru achizițiile dvs., puteți calcula toate costurile implicate, precum și eficace (real) Dobânda anuală. Acesta funcționează în două moduri, în primul aveți nevoie să introduceți nominal (anual) rată procentuală furnizate de creditor și aplicația va calcula numarul de rate lunare, precum și costurile totale. În al doilea mod, va trebui să introduceți suma de rate lunare (uneori prezentată de un comerciant), iar aplicația va calcula procentual și a costurilor pentru tine.</string>
+<string name="years">De ani</string>
+<string name="months">Luni</string>
+<string name="days">Zi</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string-array name="kapitalizacja">
+<item>Zilnic</item>
+<item>Săptămânal</item>
+<item>Lunar</item>
+<item>La fiecare 3 luni</item>
+<item>La fiecare 6 luni</item>
+<item>Anual</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Luni</item>
+<item>Ani</item>
+</string-array>
+</resources>

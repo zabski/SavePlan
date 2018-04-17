@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">房子的財政狀況</string>
+<string name="app_name2">貸款和投資</string>
+<string name="menu_title">你想要什麼計算？</string>
+<string name="SavingCalc">儲蓄的未來價值</string>
+<string name="PeriodCalc">保存期</string>
+<string name="DepositCalc">定期儲蓄的金額</string>
+<string name="IntrestCalc">利率</string>
+<string name="LoanCalc">貸款分期金額</string>
+<string name="action_settings">設置</string>
+<string name="info">信息</string>
+<string name="loan_amount">初始金額</string>
+<string name="loan_amt">貸款金額</string>
+<string name="percentage">率的百分比（每年）</string>
+<string name="period">保存期</string>
+<string name="saving">每月存款</string>
+<string name="capitalization">利息是複利</string>
+<string name="deposit_period">存款頻率</string>
+<string name="target_amount">目標金額</string>
+<string name="total_deposit">總存款</string>
+<string name="need_percentage">您將需要保存的百分比率（每年）</string>
+<string name="need_gain">您將需要獲得</string>
+<string name="period_deposit">每一個時期，你需要存</string>
+<string name="total">儲存量</string>
+<string name="profit">溢利/佔總存款</string>
+<string name="fill_in">請填寫所有輸入字段</string>
+<string name="required_period">節省所需時間</string>
+<string name="percent">率的百分比（每年）</string>
+<string name="payments">期數</string>
+<string name="payment_amount">分期付款金額</string>
+<string name="each_month">（應每月支付）</string>
+<string name="total_cost">總成本</string>
+<string name="total_cost_">總成本/</string>
+<string name="cost_percent">佔貸款額</string>
+<string name="deposit_calc">計算保證金金額</string>
+<string name="savings_calc">計算可節約價值</string>
+<string name="period_calc">計算儲蓄期</string>
+<string name="intrest_calc">計算利率</string>
+<string name="loan_calc">計算分期付款的價值</string>
+<string name="submit">計算</string>
+<string name="clear">清除所有</string>
+<string name="del">刪除</string>
+<string name="show">展會</string>
+<string name="go">去</string>
+<string name="exit">出口</string>
+<string name="settings">設置</string>
+<string name="go_to_menu">接受並關閉</string>
+    <string name="remove_ads">刪除廣告</string>
+<string name="instructions">說明</string>
+<string name="hint_amount">您的貸款金額。</string>
+<string name="hint_principal">多少錢你現在有嗎？</string>
+<string name="hint_target">多少錢你要保存？</string>
+<string name="hint_period">多久你打算救？</string>
+<string name="hint_percent">在什麼速度的比例將節省您？</string>
+<string name="hint_interest">什麼是你的貸款（每年）利息率是多少？</string>
+<string name="hint_deposit">多少錢你可以存到你的儲蓄帳戶每月？</string>
+<string name="hint_dep_period">你會如何經常存錢到你的儲蓄帳戶？</string>
+<string name="hint_install">通常等於每月支付數</string>
+<string name="hint_compounded">時間在其儲蓄的利息加入本金。這取決於你的銀行及/或你的養老金/儲蓄計劃的規定。這可能需要從日常的價值觀，以“年”。</string>
+<string name="information_1">這個計算器可以讓你找到了你的儲蓄未來的量以及利潤，你會感興趣的形式複合率。它假定您了解以下內容：</string>
+<string name="information_2">這個計算器可以讓你確定那是需要保存的目標量的時間段。它假定你將提供下列資料：</string>
+<string name="information_3">在這裡，你可以計算出每月的存款，這是錢，你需要每個月保存，以達到自己的儲蓄目標金額。這將需要以下資料：</string>
+<string name="information_4">它可以讓你找出利率上，你將需要保存，以達到您的目標金額。您需要提供：</string>
+<string name="information_5">由於這個簡單的計算器，你可以決定你的貸款每期的金額，並在貨幣價值，並為貸款金額的百分比計算貸款的總成本。所有你需要知道的是：</string>
+<string name="information_6">如果您打算採取貸款為您的購買，就可以計算出參與以及有效的（真正的）年利率的所有費用。它有兩種工作模式，在第一，你需要輸入由貸款人與應用程序將計算量的每月分期付款，以及總成本提供的標稱值（年）的百分比率。在第二種模式中，你需要輸入的每月分期付款（有時由商家贈送）量，並且應用程序將計算比例和成本你。</string>
+<string name="years">年</string>
+<string name="months">個月</string>
+<string name="days">天</string>
+<string name="LoanCalcPro">貸款年利率</string>
+<string name="help_translate">幫忙翻譯這個應用程序</string>
+<string name="rate_app">評價這個應用程序！</string>
+<string name="feedback">給你的反饋</string>
+<string name="feedback_prompt">嘿，你想給我們一些反饋，以便我們能夠提高你的經驗？</string>
+<string name="opinion">意見</string>
+<string name="commission">佣金</string>
+<string name="other_fees">其他費用</string>
+<string name="annual_percent_rate">年利率</string>
+<string name="total_repay">共償還</string>
+<string name="leave_one_of_two">留下的空單：百分比，分期金額。見下面的說明。</string>
+
+<string name="okay">好</string>
+<string name="choose_currency">選擇貨幣</string>
+<string name="see_details">有關說明向下滾動</string>
+<string name="results">結果</string>
+<string name="hint_amount_pro">您的貸款金額。通常等於價格，你要購買的產品。此字段是必需的。</string>
+<string name="hint_commission">委員會（或貸款手續費）為％的貸款額。如果不知道，留空。</string>
+<string name="hint_other_fees">所有其他費用不依賴於貸款金額。如果不知道，留空。</string>
+<string name="hint_total_repay">這將需要總金額償還給貸款人。</string>
+<string name="hint_total_cost">貸款的總成本，包括複利和所有費用。</string>
+<string name="hint_cost_percent">總成本（如上）表示的貸款量％左右。</string>
+<string name="hint_apr">有效的（真正）的年利率，包括總成本的貸款利率。</string>
+<string name="hint_payment">您的每（月）分期付款的金額。你並不需要填寫此字段，除非你離開“百分比率”的空白。如果留空，則按下按鈕後進行計算。</string>
+
+    <string-array name="kapitalizacja">
+<item>每日</item>
+<item>週</item>
+<item>每月</item>
+<item>季報</item>
+<item>每6個月</item>
+<item>每年</item>
+    </string-array>    
+    <string-array name="okres">
+<item>個月</item>
+<item>年</item>
+    </string-array>     	    
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">這裡</string>
+<string name="profit_percent">佔總存款</string>
+<string name="that_is">這是</string>
+<string name="of_deposit">總存款</string>
+<string name="cancel">取消</string>
+<string name="ok">行</string>
+<string name="config">配置</string>
+<string name="help">幫助</string>
+<string name="month">一個月</string>
+<string name="hello_world">你好世界！</string>
+<string name="menu_settings">設置</string>
+
+</resources>

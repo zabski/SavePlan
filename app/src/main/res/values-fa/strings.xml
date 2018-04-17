@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">وام و پس انداز</string>
+
+<string name="app_name2">وام و سرمایه گذاری</string>
+
+<string name="menu_title">چه می خواهید برای محاسبه؟</string>
+<string name="SavingCalc">ارزش آینده پس انداز</string>
+<string name="PeriodCalc">دوره صرفه جویی</string>
+<string name="DepositCalc">میزان سپرده به طور منظم</string>
+<string name="IntrestCalc">نرخ بهره پس انداز</string>
+<string name="LoanCalc">هزینه های وام و اقساط</string>
+<string name="LoanCalcPro">نرخ درصد سالانه از وام</string>
+
+<string name="action_settings">تنظیمات</string>
+<string name="info">اطلاعات</string>
+<string name="rate_app">امتیاز به این برنامه!</string>
+<string name="feedback">به نظر شما</string>
+<string name="feedback_prompt">سلام، دوست دارید برای ما ارسال نظر شما، به طوری که ما می تواند این نرم افزار را برای شما بهبود؟</string>
+<string name="opinion">نظر</string>
+
+<string name="loan_amount">مقدار اولیه</string>
+<string name="loan_amt">مقدار وام</string>
+<string name="percentage">نرخ درصد</string>
+<string name="period">دوره صرفه جویی</string>
+<string name="saving">سپرده ماهانه</string>
+<string name="capitalization">بهره مرکب</string>
+<string name="deposit_period">فراوانی سپرده</string>
+<string name="target_amount">هدف مقدار</string>
+<string name="total_deposit">سپرده ها</string>
+
+<string name="need_percentage">شما نیاز به صرفه جویی در میزان درصد (در سال)</string>
+<string name="need_gain">شما نیاز به کسب</string>
+<string name="period_deposit">در هر دوره شما نیاز به صرفه</string>
+<string name="total">مقدار Economized</string>
+<string name="profit">سود / به عنوان درصد از سپرده ها</string>
+<string name="fill_in">لطفا در تمام زمینه های ورودی</string>
+<string name="required_period">دوره های الزامی صرفه جویی</string>
+<string name="percent">نرخ درصد (در سال)</string>
+<string name="payments">تعداد اقساط</string>
+<string name="payment_amount">مبلغ اقساط</string>
+<string name="each_month">(پرداخت می شود هر ماه)</string>
+<string name="total_cost">کل هزینه /</string>
+<string name="cost_percent">به عنوان درصد از مبلغ وام</string>
+<string name="commission">کمیسیون / اضافه</string>
+<string name="other_fees">سایر هزینه ها</string>
+<string name="annual_percent_rate">نرخ درصد سالانه</string>
+<string name="total_repay">مجموع به بازپرداخت</string>
+<string name="leave_one_of_two">ترک یک خالی از: درصد، مقدار قسط. دستورالعمل های زیر را ببینید.</string>
+
+<string name="deposit_calc">محاسبه مقدار سپرده</string>
+<string name="savings_calc">محاسبه مقدار پس انداز</string>
+<string name="period_calc">محاسبه دوره صرفه جویی</string>
+<string name="intrest_calc">محاسبه نرخ بهره</string>
+<string name="loan_calc">محاسبه اقساط وام</string>
+
+<string name="submit">محاسبه</string>
+<string name="clear">همه را پاک کن</string>
+<string name="del">حذف کردن</string>
+<string name="show">نمایش</string>
+<string name="go">رفتن</string>
+<string name="exit">خروج</string>
+<string name="cancel">لغو کردن</string>
+<string name="ok">باشه</string>
+<string name="settings">تنظیمات</string>
+<string name="go_to_menu">شرایط و بستن</string>
+<string name="choose_currency">انتخاب ارز</string>
+
+<string name="instructions">دستورالعمل</string>
+<string name="see_details">پایین برای دیدن دستورالعمل</string>
+<string name="results">نتایج</string>
+<string name="hint_amount">مقدار وام خود را.</string>
+<string name="hint_principal">تا چه حد شما در حال حاضر؟</string>
+<string name="hint_target">چقدر می خواهید صرفه؟</string>
+<string name="hint_period">چه مدت شما قصد دارید به صرفه؟</string>
+<string name="hint_percent">در چه میزان درصد به شما صرفه؟</string>
+<string name="hint_interest">نرخ بهره (در سال) از وام خود را چقدر است؟</string>
+<string name="hint_deposit">چقدر می تواند شما را به حساب صرفه جویی در خود را واریز هر ماه؟</string>
+<string name="hint_dep_period">چگونه اغلب پول شما واریز به حساب صرفه جویی در خود را؟</string>
+<string name="hint_install">معمولا به تعداد پرداخت های ماهانه برابر</string>
+<string name="hint_compounded">دوره که در آن به نفع پس انداز خود را به مقدار اصلی اضافه شده است. این در بانک / شرایط / قوانین و مقررات خود را دارد. ممکن است ارزش را: سالانه، ماهانه و یا روزانه.</string>
+<string name="hint_amount_pro">مقدار وام خود را. معمولا برابر با قیمت محصول می خواهید برای خرید. این فیلد الزامی است.</string>
+<string name="hint_commission">کمیسیون (یا هزینه وام) به عنوان درصد از مبلغ وام. اگر شناخته شده نیست، خالی بگذارید.</string>
+<string name="hint_other_fees">همه هزینه های دیگر که وابسته به مبلغ وام نیست. اگر شناخته شده نیست، خالی بگذارید.</string>
+<string name="hint_total_repay">مقدار کل که نیاز به به وام دهنده پرداخت شود.</string>
+<string name="hint_total_cost">کل هزینه وام، از جمله بهره مرکب و تمام هزینه.</string>
+<string name="hint_cost_percent">کل هزینه (همانطور که در بالا) بیان به عنوان درصد از مبلغ وام.</string>
+<string name="hint_apr">موثر (واقعی) نرخ بهره سالانه وام. آن را به کل هزینه بیان به عنوان درصدی از مبلغ وام است، مساوی است.</string>
+<string name="hint_payment">مقدار هر قسط (ماهانه). شما لازم نیست برای پر کردن در این زمینه، مگر اینکه شما در سمت چپ "نرخ درصد" خالی. اگر خالی، از آن خواهد شد پس از فشار دادن دکمه محاسبه می شود.</string>
+
+<string name="information_1">این ماشین حساب اجازه می دهد تا شما برای پیدا کردن مقدار پس انداز خود را در آینده، و همچنین به عنوان سود، که شما را از نرخ بهره مرکب را. این فرض که شما می دانید مقادیر زیر:</string>
+<string name="information_2">این ماشین حساب به شما اجازه می دوره از زمان، که مورد نیاز است برای صرفه جویی مقدار هدف خود را تعیین می کند. این فرض که شما ارائه به شرح زیر است:</string>
+<string name="information_3">در اینجا شما می توانید سپرده ماهانه، که مقدار که شما باید برای صرفه جویی در هر ماه به منظور رسیدن به هدف خود را از پس انداز محاسبه. آن را به داده های زیر نیاز دارید:</string>
+<string name="information_4">این اجازه می دهد تا شما برای پیدا کردن نرخ بهره، که در آن شما نیاز به صرفه جویی، به منظور رسیدن به مقدار هدف خود را. شما نیاز به ارائه:</string>
+<string name="information_5">با تشکر از این ماشین حساب ساده شما قادر به تعیین میزان هر قسط وام خود را، و محاسبه کل هزینه های آن در ارز و به عنوان یک درصد از مبلغ وام خواهد بود. همه شما نیاز به دانستن است:</string>
+<string name="information_6">اگر شما قصد دارید به یک وام برای خرید خود را، شما می توانید تمام هزینه های مربوط و همچنین موثر (واقعی) نرخ درصد سالانه محاسبه. این در دو حالت کار می کند، در ابتدا شما نیاز به وارد اسمی (سالانه) نرخ درصد ارائه شده توسط وام دهنده و کاربرد آن مقدار اقساط ماهانه و همچنین هزینه کل را محاسبه نمود. در حالت دوم، شما نیاز به وارد مقدار قسط ماهانه (گاهی اوقات توسط یک تاجر ارائه شده است)، و کاربرد آن درصد و هزینه را برای شما محاسبه کند.</string>
+
+<string name="years">سال</string>
+<string name="months">ماه</string>
+<string name="days">روز</string>
+<string-array name="kapitalizacja">
+<item>روزانه</item>
+<item>هفتگی</item>
+<item>ماهیانه</item>
+<item>هر 3 ماه</item>
+<item>هر 6 ماه</item>
+<item>سالیانه</item>
+</string-array>
+<string-array name="okres">
+<item>ماه گذشته</item>
+<item>سال</item>
+</string-array>
+
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">اینجا</string>
+<string name="profit_percent">عنوان٪ از کل سپرده</string>
+<string name="that_is">آن هست</string>
+<string name="of_deposit">از کل سپرده</string>
+<string name="config">پیکر بندی</string>
+<string name="help">کمک</string>
+
+<string name="month">ماه</string>
+<string name="hello_world">سلام دنیا!</string>
+<string name="menu_settings">تنظیمات</string>
+
+</resources>

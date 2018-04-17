@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Pinjaman dan Simpanan</string>
+<string name="app_name2">Pinjaman dan pelaburan</string>
+<string name="menu_title">Apa yang anda mahu untuk mengira?</string>
+<string name="SavingCalc">Nilai masa depan simpanan</string>
+<string name="PeriodCalc">Tempoh penjimatan</string>
+<string name="DepositCalc">Jumlah deposit tetap</string>
+<string name="IntrestCalc">Kadar faedah simpanan</string>
+<string name="LoanCalc">Kos pinjaman dan ansuran</string>
+<string name="LoanCalcPro">Kadar Peratus Tahunan pinjaman</string>
+<string name="info">Informasi</string>
+<string name="help_translate">Membantu menterjemahkannya aplikasi ini</string>
+<string name="rate_app">Nilai aplikasi ini!</string>
+<string name="feedback">Beri maklum balas anda</string>
+<string name="feedback_prompt">Hei, anda ingin memberikan kita beberapa maklum balas supaya kami boleh meningkatkan pengalaman anda?</string>
+<string name="opinion">Pendapat</string>
+<string name="loan_amount">Jumlah awal</string>
+<string name="loan_amt">Jumlah Pinjaman</string>
+<string name="percentage">Kadar peratusan</string>
+<string name="period">Tempoh penjimatan</string>
+<string name="saving">Deposit Bulanan</string>
+<string name="capitalization">Faedah kompaun</string>
+<string name="deposit_period">Kekerapan deposit</string>
+<string name="target_amount">Sasaran Jumlah</string>
+<string name="total_deposit">Jumlah Deposit</string>
+<string name="need_percentage">Anda perlu menyimpan pada kadar peratusan (setiap tahun)</string>
+<string name="need_gain">Anda perlu untuk mendapatkan</string>
+<string name="period_deposit">Setiap tempoh anda perlu menyimpan</string>
+<string name="total">Disimpan Jumlah</string>
+<string name="profit">Keuntungan / sebagai% daripada jumlah deposit</string>
+<string name="fill_in">Sila isikan semua medan input</string>
+<string name="required_period">Tempoh yang diperlukan penjimatan</string>
+<string name="percent">Kadar peratusan (setiap tahun)</string>
+<string name="payments">Bilangan ansuran</string>
+<string name="payment_amount">Jumlah ansuran</string>
+<string name="each_month">(yang akan dibayar setiap bulan)</string>
+<string name="total_cost">Jumlah Kos</string>
+<string name="total_cost_">Jumlah Kos /</string>
+<string name="cost_percent">Sebagai% daripada jumlah pinjaman</string>
+<string name="commission">Suruhanjaya</string>
+<string name="other_fees">Bayaran lain</string>
+<string name="annual_percent_rate">Kadar Peratus Tahunan</string>
+<string name="total_repay">Jumlah untuk membayar balik</string>
+<string name="leave_one_of_two">Tinggalkan satu kosong: Peratus, Amaun Ansuran. Lihat arahan di bawah.</string>
+<string name="deposit_calc">Kira jumlah deposit</string>
+<string name="savings_calc">Mengira jumlah simpanan</string>
+<string name="period_calc">Hitung tempoh menyimpan</string>
+<string name="intrest_calc">Kira kadar faedah</string>
+<string name="loan_calc">Kira ansuran pinjaman</string>
+<string name="submit">Kira</string>
+<string name="clear">Padam Semua</string>
+<string name="del">Padam</string>
+<string name="show">Show</string>
+<string name="go">Pergi</string>
+<string name="exit">Keluar</string>
+<string name="cancel">Batal</string>
+<string name="ok">Baik</string>
+<string name="settings">Tetapan</string>
+<string name="go_to_menu">Terima dan Tutup</string>
+<string name="choose_currency">Pilih mata wang</string>
+<string name="instructions">Arahan</string>
+<string name="see_details">Untuk arahan tatal ke bawah</string>
+<string name="results">Keputusan</string>
+<string name="hint_amount">Jumlah pinjaman anda.</string>
+<string name="hint_principal">Berapa banyak yang anda ada sekarang?</string>
+<string name="hint_target">Berapa banyak yang anda mahu simpan?</string>
+<string name="hint_period">Berapa lama anda bercadang untuk menyelamatkan?</string>
+<string name="hint_percent">Apakah kadar peratusan akan anda simpan?</string>
+<string name="hint_interest">Apakah kadar faedah (setahun) bagi pinjaman anda?</string>
+<string name="hint_deposit">Berapa banyak anda boleh deposit ke akaun simpanan anda setiap bulan?</string>
+<string name="hint_dep_period">Berapa kerap anda akan mendepositkan wang ke akaun simpanan anda?</string>
+<string name="hint_install">Biasanya sama dengan jumlah bayaran bulanan</string>
+<string name="hint_compounded">Tempoh di mana kepentingan simpanan anda ditambah kepada jumlah pokok. Ia bergantung kepada bank anda dan / atau pencen / penjimatan rancangan peraturan. Mungkin mengambil nilai-nilai: tahunan, bulanan dan harian.</string>
+<string name="hint_amount_pro">Jumlah pinjaman anda. Biasanya sama dengan harga produk yang anda ingin beli. Medan ini dikehendaki.</string>
+<string name="hint_commission">Suruhanjaya (atau bayaran pinjaman) sebagai% daripada jumlah pinjaman. Jika tidak diketahui, kosongkan.</string>
+<string name="hint_other_fees">Semua yuran lain yang tidak bergantung kepada jumlah pinjaman. Jika tidak diketahui, kosongkan.</string>
+<string name="hint_total_repay">Jumlah yang perlu dibayar balik kepada pemberi pinjaman.</string>
+<string name="hint_total_cost">Jumlah kos pinjaman, Termasuk faedah kompaun dan semua yuran.</string>
+<string name="hint_cost_percent">Jumlah kos (seperti di atas) dinyatakan sebagai peratus daripada jumlah pinjaman.</string>
+<string name="hint_apr">Berkesan (sebenar) kadar faedah tahunan pinjaman termasuk jumlah kos.</string>
+<string name="hint_payment">Jumlah setiap (bulanan) ansuran. Anda tidak perlu untuk mengisi dalam bidang ini, melainkan jika anda meninggalkan "Kadar Peratus" kosong. Jika dibiarkan kosong, ia akan dikira selepas menekan butang.</string>
+<string name="information_1">Kalkulator ini membolehkan anda untuk mengetahui jumlah masa depan simpanan anda serta keuntungan yang anda akan membuat kadar faedah kompaun bentuk. Ia mengandaikan anda tahu yang berikut:</string>
+<string name="information_2">Kalkulator ini akan membolehkan anda menentukan tempoh masa yang diperlukan untuk menyimpan jumlah sasaran anda. Ia mengandaikan anda berikan yang berikut:</string>
+<string name="information_3">Di sini anda boleh mengira deposit bulanan, iaitu jumlah yang anda akan perlu menyimpan setiap bulan dalam usaha untuk mencapai matlamat penjimatan anda. Ia akan memerlukan data berikut:</string>
+<string name="information_4">Ia membolehkan anda untuk mengetahui kadar faedah di mana anda perlu menyimpan, untuk mencapai jumlah sasaran anda. Anda akan perlu menyediakan:</string>
+<string name="information_5">Terima kasih kepada kalkulator ini mudah anda akan dapat menentukan jumlah setiap bayaran ansuran pinjaman anda, dan mengira jumlah kos ia dalam mata anda dan sebagai peratusan daripada jumlah pinjaman. Semua yang anda perlu tahu adalah:</string>
+<string name="information_6">Jika anda bercadang untuk mengambil pinjaman untuk pembelian anda, anda boleh mengira semua kos yang terlibat dan juga berkesan (sebenar) Kadar Peratus Tahunan. Ia berfungsi dalam dua mod, dalam yang pertama anda perlu memasukkan nominal (tahunan) kadar peratusan yang disediakan oleh pemberi pinjaman dan permohonan itu akan mengira jumlah ansuran bulanan dan jumlah kos. Dalam mod kedua, anda perlu memasukkan jumlah ansuran bulanan (kadang-kadang disampaikan oleh pedagang), dan permohonan itu akan mengira peratusan dan kos untuk anda.</string>
+<string name="years">Tahun</string>
+<string name="months">Bulan</string>
+<string name="days">Hari-hari</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string-array name="kapitalizacja">
+<item>Harian</item>
+<item>Mingguan</item>
+<item>Bulanan</item>
+<item>Setiap 3 bulan</item>
+<item>Setiap 6 bulan</item>
+<item>Setiap tahun</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Bulan</item>
+<item>Tahun</item>
+</string-array>
+</resources>

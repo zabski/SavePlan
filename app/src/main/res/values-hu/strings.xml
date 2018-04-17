@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Hitelek és megtakarítások</string>
+<string name="app_name2">Hitelek és befektetések</string>
+<string name="menu_title">Mit akarsz számítani?</string>
+<string name="SavingCalc">Jövő megtakarítások értéke</string>
+<string name="PeriodCalc">Idejű megtakarítás</string>
+<string name="DepositCalc">Összegét a rendszeres betétek</string>
+<string name="IntrestCalc">Kamatláb-megtakarítás</string>
+<string name="LoanCalc">Költségei hitel és részletekben</string>
+<string name="LoanCalcPro">Teljes Hiteldíj Mutató lejárta</string>
+<string name="info">Információ</string>
+<string name="help_translate">Segíts lefordítani ezt app</string>
+<string name="rate_app">Értékelje az app!</string>
+<string name="feedback">Adja meg a visszajelzést</string>
+<string name="feedback_prompt">Hé, szeretne adni nekünk visszajelzést, hogy tudjuk javítani a tapasztalata?</string>
+<string name="opinion">Vélemény</string>
+<string name="loan_amount">Eredeti összeg</string>
+<string name="loan_amt">Hitelösszeg</string>
+<string name="percentage">Hiteldíjmutató</string>
+<string name="period">Idejű megtakarítás</string>
+<string name="saving">Havi befizetési</string>
+<string name="capitalization">Érdeklődést fokozza</string>
+<string name="deposit_period">Gyakorisága betétek</string>
+<string name="target_amount">Célösszeg</string>
+<string name="total_deposit">Teljes betéti</string>
+<string name="need_percentage">Meg kell menteni a hiteldíjmutató (évente)</string>
+<string name="need_gain">Meg kell keresni</string>
+<string name="period_deposit">Minden időszakban meg kell menteni</string>
+<string name="total">Mentett Összeg</string>
+<string name="profit">Profit /% -ában teljes betéti</string>
+<string name="fill_in">Kérjük, töltse ki az összes input mezők</string>
+<string name="required_period">Szükséges idejű megtakarítás</string>
+<string name="percent">Hiteldíjmutató (évente)</string>
+<string name="payments">Számú részletben</string>
+<string name="payment_amount">Törlesztőrészlet összegét</string>
+<string name="each_month">(fizetendő havonta)</string>
+<string name="total_cost">Teljes költség</string>
+<string name="total_cost_">Teljes költség /</string>
+<string name="cost_percent">Mint% -a hitel összege</string>
+<string name="commission">Bizottság</string>
+<string name="other_fees">Egyéb díjak</string>
+<string name="annual_percent_rate">Teljes Hiteldíj Mutató</string>
+<string name="total_repay">Összesen visszafizetni</string>
+<string name="leave_one_of_two">Hagyja üresen az egyik: Százalék, törlesztőrészlet összegét. Lásd az alábbi utasításokat.</string>
+<string name="deposit_calc">Számolja ki befizetés összege</string>
+<string name="savings_calc">Számolja ki megtakarítások összege</string>
+<string name="period_calc">Számolja ki megtakarítási időszak</string>
+<string name="intrest_calc">Számolja ki kamatláb</string>
+<string name="loan_calc">Számolja ki a törlesztőrészletek</string>
+<string name="submit">Számol</string>
+<string name="clear">Összes törlése</string>
+<string name="del">Töröl</string>
+<string name="show">Előadás</string>
+<string name="go">Megy</string>
+<string name="exit">Kijárat</string>
+<string name="cancel">Mégsem</string>
+<string name="ok">Rendben</string>
+<string name="settings">Beállítások</string>
+<string name="go_to_menu">Elfogadás és bezárás</string>
+<string name="choose_currency">Válasszon pénznemet</string>
+<string name="instructions">Utasítás</string>
+<string name="see_details">Az utasításokat lépjünk le</string>
+<string name="results">Eredmények</string>
+<string name="hint_amount">Az összeg a kölcsönt.</string>
+<string name="hint_principal">Mennyit van most?</string>
+<string name="hint_target">Mennyit akarsz menteni?</string>
+<string name="hint_period">Meddig tervezi, hogy megmentse?</string>
+<string name="hint_percent">Hogy milyen százalékos arány menteni?</string>
+<string name="hint_interest">Mi a kamatláb (évente) a hitel?</string>
+<string name="hint_deposit">Mennyit tud befizetni a megtakarítási számlán minden hónapban?</string>
+<string name="hint_dep_period">Milyen gyakran pénzt befizetni a megtakarítási számlára?</string>
+<string name="hint_install">Általában számával megegyező havi kifizetések</string>
+<string name="hint_compounded">Időszakot, amikor a kamatot a megtakarítások bekerül a tőkeösszeg. Attól függ, hogy a bank és / vagy panzióban / megtakarítási tervet szabályozás. Eltarthat értékek: éves, havi és napi.</string>
+<string name="hint_amount_pro">Az összeg a kölcsönt. Általában egyenlő a termék árát szeretne vásárolni. A mező kitöltése kötelező.</string>
+<string name="hint_commission">Bizottság (vagy kölcsön díj) számít% -a hitel összegét. Ha nem ismert, hagyja üresen.</string>
+<string name="hint_other_fees">Minden egyéb díjak, amelyek nem függnek a hitel összegét. Ha nem ismert, hagyja üresen.</string>
+<string name="hint_total_repay">Teljes összeget, amit kell majd visszafizetni a hitelezőnek.</string>
+<string name="hint_total_cost">Teljes költségét a hitel, beleértve a kamatos kamat és az összes díjat.</string>
+<string name="hint_cost_percent">Összes költség (mint fent), megadva a százalékos a hitel összegét.</string>
+<string name="hint_apr">Hatékony (valós) éves kamatláb a kölcsön beleértve teljes költség.</string>
+<string name="hint_payment">Az egyes a (havi) részlet. Nem kell, hogy töltse ki a mezőt, ha nem maradt "hiteldíjmutató" üresen. Ha üresen hagyja, akkor kell számítani a gomb megnyomása után.</string>
+<string name="information_1">A számológép lehetővé teszi, hogy megtudja, a jövőben összeg a megtakarítási, valamint profit hogy lesz, hogy formában a kamatos kamatláb. Ez azt feltételezi, tudod, hogy a következő:</string>
+<string name="information_2">Ez a kalkulátor segítségével határozza meg azt az időtartamot, amelyre szükség van, hogy megmentse a cél összeget. Ez azt feltételezi, hogy adja meg az alábbi:</string>
+<string name="information_3">Itt lehet számítani havi kaució, hogy az az összeg, akkor meg kell menteni minden hónapban annak érdekében, hogy elérje a megtakarítási cél. Szüksége lesz a következő adatokat:</string>
+<string name="information_4">Ez lehetővé teszi, hogy megtudja, a kamatláb, amellyel meg kell majd mentés, annak érdekében, hogy elérje a célt összeget. Meg kell majd mondania:</string>
+<string name="information_5">Hála ennek az egyszerű számológép lesz képes meghatározni a az egyes részletek összege a hitel, és kiszámítja, hogy teljes költség a valuta és százalékban a hitel összegét. Mindössze annyit kell tudni, hogy:</string>
+<string name="information_6">Ha azt tervezi, hogy egy kölcsön a vásárlások, akkor lehet számolni valamennyi költségét, valamint a hatékony (valós) Teljes Hiteldíj Mutató. Ez két módban működik, az első meg kell adnia a névleges (éves) százalékos aránya, amelyet a hitelező és az alkalmazás kiszámítja a havi részletekben, valamint a teljes költséget. A második mód, meg kell adnia a havi törlesztőrészlet (néha mutat, amelyet egy kereskedő), és az alkalmazás kiszámítja százalékos és a költségeket Önnek.</string>
+<string name="years">Év</string>
+<string name="months">Hónap</string>
+<string name="days">Nap</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string-array name="kapitalizacja">
+<item>Napi</item>
+<item>Heti</item>
+<item>Havi</item>
+<item>3 havonta</item>
+<item>6 havonta</item>
+<item>Évi</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Hónap</item>
+<item>Év</item>
+</string-array>
+</resources>

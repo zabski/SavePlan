@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+	<!-- Menu labels -->
+    <string name="app_name">Łatwe Finanse Domowe</string>
+    <string name="menu_title">Co chcesz obliczyć?</string>
+    <string name="SavingCalc">Przyszła wartość oszczędności</string>
+    <string name="PeriodCalc">Okres oszczędzania</string>
+    <string name="DepositCalc">Regularna wpłata</string>
+    <string name="IntrestCalc">Oprocentowanie</string> 	
+    <string name="LoanCalc">Kwota rat kredytu</string>
+    <!-- Action labels -->
+    <string name="action_settings">Ustawienia</string>    
+    <string name="info">Informacja</string>   
+    <!-- Input field labels -->
+ 	<string name="loan_amount">Kwota początkowa</string>
+    <string name="percentage">Oprocentowanie (roczne)</string>
+    <string name="capitalization">Kapitalizacja odsetek</string>
+    <string name="period">Okres oszczędzania</string>
+    <string name="saving">Miesięczna wpłata</string>      
+    <string name="loan_amt">Kwota pożyczki</string>
+    <string name="deposit_period">Częstość wpłat</string>
+    <string name="target_amount">Przyszła wartość</string> 
+    <string name="total_deposit">Całkowity wkład</string>      
+    <!-- Results labels -->
+    <string name="total">Kwota zaoszczędzona</string>
+    <string name="profit">Zysk</string>     
+    <string name="need_percentage">Musisz odkładać na roczny procent równy</string>
+    <string name="need_gain">Musisz zarobić kwotę</string>       
+    <string name="period_deposit">W kązdym okresie musisz odłożyć</string>   
+    <string name="fill_in">Proszę wypełnić wszystkie pola!</string>
+    <string name="required_period">Wymagany czas oczędzania wynosi</string>
+    <string name="percent">Oprocentowanie (roczne)</string>
+    <string name="payments">Liczba rat</string>
+    <string name="payment_amount">Wyskość jednej raty</string>
+    <string name="each_month">(do spłaty każdego miesiąca)</string>    
+	<string name="total_cost">Całkowity koszt / </string>
+    <string name="total_cost_">Całkowity koszt / </string>
+	<string name="cost_percent">jako % kwoty pożyczki/kredytu</string>    
+	<!-- Activity titles -->
+    <string name="deposit_calc">Oblicz kwotę wpłat</string>
+    <string name="savings_calc">Oblicz zaoszczędzoną kwotę</string>
+    <string name="period_calc">Oblicz okres oszczędzania</string>
+    <string name="intrest_calc">Oblicz oprocentowanie</string>	
+    <string name="loan_calc">Oblicz wysokość rat pożyczki/kredytu</string>
+    <!-- Button labels (imperative mode) -->
+    <string name="submit">Oblicz</string>    
+    <string name="clear">Wyczyść</string>
+    <string name="del">Usuń</string>    
+   	<string name="show">Pokaż</string>
+   	<string name="go">Start</string>
+    <string name="exit">Wyjście</string>	
+    <string name="settings">Ustawienia</string>
+    <string name="go_to_menu">Zamknij</string>
+    <string name="remove_ads">Usuń reklamy</string>
+    <!-- Instructions / help text -->
+    <string name="instructions">Instrukcje</string>
+    <string name="hint_principal">Jaką kwotę posiadasz obecnie?</string>
+    <string name="hint_target">Jaką kwotę zamierzasz zaoszczędzić?</string>
+    <string name="hint_period">Przez jaki okres czasu chcesz oszczędzać?</string>
+    <string name="hint_percent">Na jaki procent (rocznie) będziesz oszczędzać?</string>
+    <string name="hint_deposit">Jaką kwotą możesz odłożyć miesięcznie?</string>     
+    <string name="hint_amount">Kwota Twojej pożyczki lub kredytu.</string>
+    <string name="hint_interest">Jakie jest oprocentowanie (roczne) Twojej pożyczki lub kredytu?</string>
+    <string name="hint_dep_period">Jak często będziesz odkładać na swoje konto oszczędnościowe?</string>
+    <string name="hint_install">Liczba rat kredytu, zwykle równa liczbie miesięcznych wpłat (okres kredytu w miesiącach).</string>
+    <string name="hint_compounded">Okres czasu po jakim odsetki dodawane są do kapitału. Watość zależy od warunków funduszu/banku, długości lokaty etc. Może przyjmowaść wartości od \'dzienna\' do \'roczna\'.</string>
+ 	<!-- Full text explainations -->
+    <string name="information_1">Ten kalkulator pozwala obliczyć przyszłą wartość oszczędności (czyli zaoszczędzoną kwotę + odsetki). Musisz podać dane jak poniżej:</string>
+    <string name="information_2">Ten kalkulator pokazuje okres czasu jaki jest niezbędny do osiągniecia określonej kwoty oszczędności. Należy podać poniższe informacje:</string>
+    <string name="information_3">Tutaj możesz policzyć regularną wpłatę, jaka jest wymagana aby osiągnąć zamierzoną wartość oszczędności. Zakłada się, że znasz:</string>
+    <string name="information_4">Ten kalkulator policzy wymaganą wysokość oprocentowania (rocznie), aby osiągnąć zamierzoną wartość oszczędności w określonym czasie. Będziesz musiał(a) podać:</string>
+    <string name="information_5">Dzięki temu prostemu kalkulatorowi szybko policzysz wysokość rat kredytu lub pożyczki, a także całkowity koszt kredytu w postaci kwoty pieniężnej oraz jako procent wartości pożyczki</string>    
+	<!-- Time descriptive forms -->
+    <string name="years">lat(a)</string>
+    <string name="months">miesięcy</string>	   
+    <string name="days">dni</string>
+    <string-array name="kapitalizacja">
+        <item>Dzienna</item>
+        <item>Tygodniowa</item>
+        <item>Miesięczna</item>
+        <item>Kwartalna</item>
+        <item>Półroczna</item>
+        <item>Roczna</item>        
+    </string-array>
+    
+    <string-array name="okres">
+        <item>Miesięcy</item>
+        <item>Lat(a)</item>        
+    </string-array>    
+    	    
+	<!-- Additional -->
+
+    <string name="app_name2">Kredyty i inwestycje</string>
+
+    <string name="LoanCalcPro">Roczna stopa kredytu</string>
+
+
+    <string name="rate_app">Oceń tę aplikację!</string>
+    <string name="feedback">Wyraź swoje zdanie</string>
+    <string name="feedback_prompt">Witaj, chcesz przesłać nam swoją opinię, abyśmy mogli poprawić tę aplikację dla Ciebie?</string>
+    <string name="opinion">Opinia</string>
+
+
+    <string name="commission">Komisja / dopłaty</string>
+    <string name="other_fees">Inne opłaty</string>
+    <string name="annual_percent_rate">Roczna stopa</string>
+    <string name="total_repay">Razem do zwrotu</string>
+    <string name="leave_one_of_two">Zostaw pustą jedną z: Procent, wysokość raty. Zobacz instrukcje poniżej.</string>
+
+
+    <string name="cancel">Anulować</string>
+    <string name="ok">W porządku</string>
+
+    <string name="choose_currency">Wybierz walutę</string>
+
+    <string name="see_details">Przewiń w dół, aby zobaczyć instrukcje</string>
+    <string name="results">Wyniki</string>
+
+
+    <string name="hint_amount_pro">Kwota kredytu. Zazwyczaj równa cenie produktu, który chcesz zakupić. Pole to jest konieczne.</string>
+    <string name="hint_commission">Komisja (lub opłata za wypożyczenie) jako% kwoty kredytu. Jeśli nie wiadomo, pozostaw puste.</string>
+    <string name="hint_other_fees">Wszystkie inne opłaty, które nie są zależne od kwoty kredytu. Jeśli nie wiadomo, pozostaw puste.</string>
+    <string name="hint_total_repay">Całkowita kwota, która będzie musiała zostać zwrócona pożyczkodawcy.</string>
+    <string name="hint_total_cost">Całkowity koszt kredytu wraz odsetkami i wszystkimi opłatami.</string>
+    <string name="hint_cost_percent">Łączny koszt (jak wyżej) wyrażony jako procent kwoty kredytu.</string>
+    <string name="hint_apr">Skuteczne (prawdziwe) roczna stopa oprocentowania pożyczki. Jest ona równa całkowity koszt wyrażony jako procent kwoty kredytu.</string>
+    <string name="hint_payment">Wysokość każdej raty (miesięczne). Nie musisz wypełniać tego pola, jeśli nie pozostawił "Stopa Procentowa" puste. Jeśli pozostanie puste, zostanie obliczona po naciśnięciu przycisku.</string>
+
+    <string name="information_6">Jeśli planujesz wziąć kredyt na zakupy, można obliczyć wszystkie koszty z tym związane, a także skutecznej (prawdziwym) rocznej stopy oprocentowania. To działa w dwóch trybach, w pierwszym trzeba wprowadzić nominalną (roczny) stopę oprocentowania przedstawioną przez kredytodawcę i aplikacji będzie obliczyć wysokość rat miesięcznych, jak również całkowite koszty. W drugim trybie, należy wprowadzić kwotę miesięcznej raty (czasem przedstawiony przez kupca), a aplikacja będzie obliczyć odsetek i kosztów dla Ciebie.</string>
+
+
+
+    <string name="title_activity_loan_calc">LoanCalc</string>
+    <string name="enter_here">Tutaj</string>
+    <string name="profit_percent">Jako% depozytów ogółem</string>
+    <string name="that_is">Czyli</string>
+    <string name="of_deposit">Wszystkich depozytów</string>
+    <string name="config">Konfiguracja</string>
+    <string name="help">Pomoc</string>
+
+    <string name="month">Miesiąc</string>
+    <string name="hello_world">Witaj, świecie!</string>
+    <string name="menu_settings">Ustawienia</string>
+
+
+
+</resources>

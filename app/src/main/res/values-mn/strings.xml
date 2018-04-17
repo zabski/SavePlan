@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Зээл, хадгаламж</string>
+
+<string name="app_name2">Зээл, хөрөнгө оруулалт</string>
+
+<string name="menu_title">Та юу тооцоолох хүсч байна вэ?</string>
+<string name="SavingCalc">Хадгаламж ирээдүйн үнэ цэнэ</string>
+<string name="PeriodCalc">Хадгаламжийн хугацаа</string>
+<string name="DepositCalc">Байнгын хадгаламжийн хэмжээ</string>
+<string name="IntrestCalc">Хадгаламжийн хүү</string>
+<string name="LoanCalc">Зээл, хэсэгчлэн зардал</string>
+<string name="LoanCalcPro">Зээлийн дундаж хувь хэмжээ</string>
+
+<string name="action_settings">Тохиргоо</string>
+
+<string name="rate_app">Энэ програмыг үнэлэх!</string>
+<string name="feedback">Өөрийн саналаа өгнө үү</string>
+<string name="feedback_prompt">Сайн байна уу, Та бид та нарын төлөө энэ програмыг сайжруулж чадаж байна, бидэнд та нарын санаа бодлыг илгээх хүсэж байна вэ?</string>
+<string name="opinion">Санал</string>
+
+<string name="loan_amount">Эхний хэмжээ</string>
+<string name="loan_amt">Зээлийн хэмжээ</string>
+<string name="percentage">Хувь хэмжээ</string>
+<string name="period">Хадгаламжийн хугацаа</string>
+<string name="saving">Сарын орд</string>
+<string name="capitalization">Хүүгийн нийлмэл</string>
+<string name="deposit_period">Орд давтамж</string>
+<string name="target_amount">Зорилтот тоо хэмжээ</string>
+<string name="total_deposit">Нийт хадгаламж</string>
+
+<string name="need_percentage">Та хувь хэмжээгээр хэмнэх хэрэгтэй (жилд)</string>
+<string name="need_gain">Та олох хэрэгтэй</string>
+<string name="period_deposit">Үе бүрийн Та хэмнэх хэрэгтэй</string>
+<string name="total">Эдийн засгийн эргэлтэд хэмжээ</string>
+<string name="profit">Ашиг / нийт хадгаламжийн% нь</string>
+<string name="fill_in">Бүх оруулах талбаруудыг бөглөнө үү</string>
+<string name="required_period">Хуримтлалын шаардагдах хугацаа</string>
+<string name="percent">Хувь хэмжээ (жилд)</string>
+<string name="payments">Хуваан тоо</string>
+<string name="payment_amount">Хэсэгчилсэн хэмжээ</string>
+<string name="each_month">(Сар бүр төлөх ёстой)</string>
+<string name="total_cost">Нийт зардал /</string>
+<string name="cost_percent">Зээлийн хэмжээ% нь</string>
+<string name="commission">Комисс / хураамж</string>
+<string name="other_fees">Бусад төлбөр</string>
+<string name="annual_percent_rate">Жилийн хувь</string>
+<string name="total_repay">Эргэн төлөх нийт</string>
+<string name="leave_one_of_two">Хувь, хэсэгчилсэн хэмжээ: нэг нь хоосон орхи. Доорх зааврыг үзнэ үү.</string>
+
+<string name="deposit_calc">Хадгаламжийн хэмжээг тооцоолно</string>
+<string name="savings_calc">Хадгаламжийн хэмжээг тооцоолно</string>
+<string name="period_calc">Хугацааг хэмнэх тооцоолох</string>
+<string name="intrest_calc">Хүүг тооцно</string>
+<string name="loan_calc">Зээлийн төлөлтийн тооцоолох</string>
+
+<string name="submit">Тооцоолно</string>
+<string name="clear">Тодорхой мэдээлэл</string>
+<string name="del">Устгах</string>
+<string name="show">Харуулах</string>
+<string name="go">Go</string>
+<string name="exit">Гарах</string>
+<string name="cancel">Болих</string>
+<string name="ok">За</string>
+<string name="settings">Тохиргоо</string>
+<string name="go_to_menu">Хүлээн зөвшөөрч, ойр дотно</string>
+<string name="choose_currency">Валютаа сонгоно уу</string>
+
+<string name="instructions">Заавар</string>
+<string name="see_details">Зааврыг үзнэ үү доош нь гүйлгэж</string>
+<string name="results">Үр дүн</string>
+<string name="hint_amount">Таны зээлийн хэмжээ.</string>
+<string name="hint_principal">Та хэр нь одоо байна вэ?</string>
+<string name="hint_target">Та хэр зэрэг хэмнэхийг хүсч байна вэ?</string>
+<string name="hint_period">Та хэр удаан хэмнэх төлөвлөгөөтэй байна вэ?</string>
+<string name="hint_percent">Эзлэх хувь хэмжээ ямар үед та хэмнэх вэ?</string>
+<string name="hint_interest">Таны зээлийн (жилд) хүү хэд вэ?</string>
+<string name="hint_deposit">Та хэр сар бүр Таны хадгаламжийн дансанд байршуулах вэ?</string>
+<string name="hint_dep_period">Та хэр их Таны хадгаламжийн дансанд мөнгө байршуулах юм бэ?</string>
+<string name="hint_install">Сарын төлбөр тоотой тэнцүү Ихэвчлэн</string>
+<string name="hint_compounded">Хугацаа нь өөрийн хадгаламжийн хүү үндсэн өрийн нэмэгддэг. Энэ нь таны банк / нөхцөл / журам хамаарна. Утгуудыг авч болно: жил, сар, өдөр тутмын.</string>
+<string name="hint_amount_pro">Таны зээлийн хэмжээ. Хэрэв та худалдан авах хүсэлтэй бүтээгдэхүүний үнийн Ихэвчлэн тэнцүү. Энэ талбар нь шаардлагатай байна.</string>
+<string name="hint_commission">Комисс (эсвэл зээлийн төлбөр) зээлийн хэмжээ% байна. Тодорхой бус бол хоосон орхи.</string>
+<string name="hint_other_fees">Зээлийн дүнгээс хамааралтай биш бусад бүх төлбөр. Тодорхой бус бол хоосон орхи.</string>
+<string name="hint_total_repay">Хэрэгтэй болно нийт хэмжээ нь зээлдүүлэгчид төлөгдсөн байх ёстой.</string>
+<string name="hint_total_cost">Нийлмэл хүү, бүх хураамж зэргийг багтаасан зээлийн нийт зардал.</string>
+<string name="hint_cost_percent">Нийт өртөг нь (дээрх) нь зээлийн хэмжээ хувиар илэрхийлсэн байна.</string>
+<string name="hint_apr">Зээлийн үр дүнтэй (бодит) жилийн хүү. Энэ нь зээлийн хэмжээ хувиар илэрхийлсэн нийт зардлын тэнцүү байна.</string>
+<string name="hint_payment">Тус бүрийг (сар бүр) дүн. Хэрэв та "хувь хэмжээ" хоосон орхисон бол та, энэ чиглэлээр бөглөх шаардлага байхгүй. Хоосон орхисон бол, энэ товчийг дарж дараа нь тооцож болно.</string>
+
+<string name="information_1">Энэ тооны машины та нийлмэл хүүний хувиас болгоно ирээдүйд таны хадгаламжийн хэмжээ, түүнчлэн ашиг, олж мэдэх боломжийг олгодог. Энэ нь та дараах утгуудыг мэдэх гэж үздэг:</string>
+<string name="information_2">Энэ тооны машины та зорилтот хэмжээг хэмнэх шаардлагатай цаг хугацаа, хугацааг тодорхойлох зөвшөөрөх болно. Энэ бол та дараах өгөх гэж тооцдог:</string>
+<string name="information_3">Энд та хадгаламжийн өөрийн зорилгодоо хүрэхийн тулд сар бүр хэмнэх хэрэгтэй болно хэмжээг юм сар бүр орд, тооцож болно. Энэ нь дараах мэдээллийг хэрэгтэй болно:</string>
+<string name="information_4">Энэ нь та зорилтот хэмжээг хүрэхийн тулд, хэмнэх шаардлагатай бөгөөд тэр үед хүүтэй, олж мэдэх боломжийг олгодог. Та хангах хэрэгтэй болно:</string>
+<string name="information_5">Энэ нь энгийн тооны машин ачаар та зээл тус бүрийн хэсэгчилсэн хэмжээг тодорхойлох, таны валютын зээлийн хэмжээ хувь нь нийт зардлыг тооцох боломжтой болох юм. Та мэдэх хэрэгтэй мэдээлэл байна:</string>
+<string name="information_6">Хэрэв та худалдан авалт зээл авах төлөвлөж байгаа бол үр дүнтэй (бодит) дундаж хувь хэмжээ, түүнчлэн оролцогч бүх зардлыг тооцох болно. Энэ нь анх удаа та зээлдүүлэгч, сарын хийх төлбөрийн хэмжээг тус, түүнчлэн нийт зардлыг тооцоолж өргөдөл өгсөн нэрлэсэн (жилийн) хувь хэмжээг оруулах хэрэгтэй, хоёр алин дээр нь ажилладаг. Хоёр дахь горимонд, та (заримдаа худалдаачин танилцуулсан) сарын хэсэгчилсэн хэмжээг оруулах хэрэгтэй, програм та нарын төлөө хувь, зардлыг тооцох болно.</string>
+
+<string name="years">Жил</string>
+<string name="months">Сар</string>
+<string name="days">Өдөр</string>
+<string-array name="kapitalizacja">
+<item>Өдөр тутмын</item>
+<item>Долоо хоног</item>
+<item>Сарын</item>
+<item>3 сар тутам</item>
+<item>6 сар тутамд</item>
+<item>Жилд нэг удаа</item>
+</string-array>
+<string-array name="okres">
+<item>Сар</item>
+<item>Жил</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Энд</string>
+<string name="profit_percent">Нийт хадгаламжийн% нь</string>
+<string name="that_is">Байна</string>
+<string name="of_deposit">Нийт хадгаламжийн</string>
+<string name="config">Тохиргоо</string>
+<string name="help">Тусал</string>
+<string name="info">Мэдээлэл</string>
+<string name="month">Сар</string>
+<string name="hello_world">Бүгдээрээ сайн байна уу!</string>
+<string name="menu_settings">Тохиргоо</string>
+
+</resources>

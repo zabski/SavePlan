@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Iasachtaí agus coigiltis</string>
+
+<string name="app_name2">Iasachtaí agus Infheistíochtaí</string>
+
+<string name="menu_title">Cad ba mhaith leat a ríomh?</string>
+<string name="SavingCalc">Luach Todhchaí na coigiltis</string>
+<string name="PeriodCalc">Tréimhse a shábháil</string>
+<string name="DepositCalc">Méid na taiscí rialta</string>
+<string name="IntrestCalc">Ráta úis coigiltis</string>
+<string name="LoanCalc">Costais a bhaineann le iasachta agus dtráthchodanna</string>
+<string name="LoanCalcPro">Ráta Céatadánach Bliantúil na hiasachta</string>
+
+<string name="action_settings">Socruithe</string>
+
+<string name="rate_app">Ráta an iarratas seo!</string>
+<string name="feedback">Tabhair do thuairim</string>
+<string name="feedback_prompt">Dia duit, ba mhaith leat a chur chugainn do thuairim, ionas go bhféadfadh muid feabhas a chur ar an iarratas seo ar do shon?</string>
+<string name="opinion">Tuairim</string>
+
+<string name="loan_amount">Méid tosaigh</string>
+<string name="loan_amt">Méid Iasacht</string>
+<string name="percentage">Ráta céatadáin</string>
+<string name="period">Tréimhse a shábháil</string>
+<string name="saving">Éarlais míosúil</string>
+<string name="capitalization">Ús measa</string>
+<string name="deposit_period">Minicíocht na taiscí</string>
+<string name="target_amount">Sprioc Méid</string>
+<string name="total_deposit">Taisce Iomlán</string>
+
+<string name="need_percentage">Ní mór duit a economize ag ráta céatadáin (in aghaidh na bliana)</string>
+<string name="need_gain">Ní mór duit a thuilleamh</string>
+<string name="period_deposit">I ngach tréimhse is gá duit a economize</string>
+<string name="total">Méid Economized</string>
+<string name="profit">Brabús / mar% den éarlais iomlán</string>
+<string name="fill_in">Líon isteach i réimsí uile an ionchur</string>
+<string name="required_period">Tréimhse riachtanach a shábháil</string>
+<string name="percent">Ráta céatadáin (in aghaidh na bliana)</string>
+<string name="payments">Líon na tráthchodanna</string>
+<string name="payment_amount">Méid tráthchuid</string>
+<string name="each_month">(A bheidh le híoc gach mí)</string>
+<string name="total_cost">Costas Iomlán /</string>
+<string name="cost_percent">Mar% den méid iasachta</string>
+<string name="commission">Coimisiún / formhuirear</string>
+<string name="other_fees">Táillí Eile</string>
+<string name="annual_percent_rate">Ráta Céatadánach Bliantúil</string>
+<string name="total_repay">Iomlán a aisíoc</string>
+<string name="leave_one_of_two">Fág ceann folamh de: Céatadán, Méid tráthchuid. Féach na treoracha thíos.</string>
+
+<string name="deposit_calc">Ríomh méid taisce</string>
+<string name="savings_calc">Ríomh méid coigiltis</string>
+<string name="period_calc">Ríomh na tréimhse a shábháil</string>
+<string name="intrest_calc">Ríomh ráta úis</string>
+<string name="loan_calc">Ríomh tráthchodanna iasachta</string>
+
+<string name="submit">Ríomh</string>
+<string name="clear">Clear All</string>
+<string name="del">Scrios</string>
+<string name="show">Taispeáin</string>
+<string name="go">Téigh</string>
+<string name="exit">Scoir</string>
+<string name="cancel">Cealaigh</string>
+<string name="ok">Maith go leor</string>
+<string name="settings">Socruithe</string>
+<string name="go_to_menu">A ghlacadh agus Dún</string>
+<string name="choose_currency">Roghnaigh airgeadra</string>
+
+<string name="instructions">Treoracha</string>
+<string name="see_details">Scrollaigh síos treoracha a fheiceáil</string>
+<string name="results">Torthaí</string>
+<string name="hint_amount">An méid do iasachta.</string>
+<string name="hint_principal">Cé mhéad atá agat anois?</string>
+<string name="hint_target">Cé mhéad is mian leat a economize?</string>
+<string name="hint_period">Cé chomh fada ar intinn agat a economize?</string>
+<string name="hint_percent">Cén ráta céatadáin a bheidh tú economize?</string>
+<string name="hint_interest">Cé mhéad atá an ráta úis (in aghaidh na bliana) do iasacht?</string>
+<string name="hint_deposit">Cé mhéad is féidir leat a thaisceadh i do chuntas coigilt gach mí?</string>
+<string name="hint_dep_period">Cé chomh minic is a bheidh tú airgead taisce i do chuntas shábháil?</string>
+<string name="hint_install">De ghnáth is comhionann leis an líon na n-íocaíochtaí míosúla</string>
+<string name="hint_compounded">Tréimhse ag a bhfuil an t-ús ar do choigilteas leis an méid príomhshuime. Braitheann sé ar do bhanc / coinníollacha / rialacháin. Bealtaine luachanna ghlacadh: bliantúil, go míosúil nó go laethúil.</string>
+<string name="hint_amount_pro">An méid do iasachta. De ghnáth is comhionann le praghas an táirge a ba mhaith leat a cheannach. Tá an réimse ag teastáil.</string>
+<string name="hint_commission">Coimisiún (nó táille iasachta) mar% den méid iasachta. Más rud é Ní fios, fág bán.</string>
+<string name="hint_other_fees">Gach táillí eile nach bhfuil ag brath ar an méid iasacht. Más rud é Ní fios, fág bán.</string>
+<string name="hint_total_repay">Méid iomlán a chaithfear a aisíoc leis an iasachtóir.</string>
+<string name="hint_total_cost">Costas iomlán na hiasachta, Lena n-áirítear ús iolraithe agus na táillí uile.</string>
+<string name="hint_cost_percent">Costas iomlán (mar atá thuas) arna shloinneadh mar faoin gcéad den méid iasachta.</string>
+<string name="hint_apr">Éifeachtach (fíor) ráta úis bliantúil na hiasachta. Is comhionann le costas iomlán arna shloinneadh mar chéatadán den méid iasachta.</string>
+<string name="hint_payment">An méid gach tráthchoda (míosúil). Ní gá duit a líonadh isteach sa réimse seo, ach amháin má d\'fhág tú "ráta Céatadán" bán. Má d\'fhág bán, beidh sé a ríomh tar éis an cnaipe an cnaipe.</string>
+
+<string name="information_1">Ceadaíonn an t-áireamhán duit a fháil amach an méid de do chuid coigiltis sa todhchaí, chomh maith le brabús, a bheidh ort a dhéanamh ó ráta úis iolraithe. Glacann sé go bhfuil a fhios agat na luachanna seo a leanas:</string>
+<string name="information_2">Beidh an t-áireamhán in iúl duit a chinneadh an tréimhse ama, a cheanglaítear a economize ar do mhéid an sprioc. Glacann sé ar fáil duit an méid seo a leanas:</string>
+<string name="information_3">Anseo is féidir leat a ríomh taisce míosúil, a bhfuil an méid, a bheidh ort a economize gach mí d\'fhonn a bhaint amach do sprioc de coigiltis. Beidh sé sonraí seo a leanas de dhíth:</string>
+<string name="information_4">Ceadaíonn sé duit a fháil amach an ráta úis, ag a mbeidh ort a economize, d\'fhonn a bhaint amach do mhéid an sprioc. Beidh ort a chur ar fáil:</string>
+<string name="information_5">A bhuíochas leis seo áireamhán simplí a bheidh tú in ann chun a chinneadh an méid gach tráthchoda do iasacht, agus ríomh a chostas iomlán i do airgeadra agus mar chéatadán den méid iasachta. Gach gá duit fios a bheith agat go bhfuil:</string>
+<string name="information_6">Má tá plean agat a chur ar iasacht do do cheannacháin, is féidir leat a ríomh na costais go léir i gceist chomh maith le éifeachtach (fíor) Ráta Céatadánach Bliantúil. Oibríonn sé i dhá modhanna, sa chéad is gá duit a chur isteach ainmniúil (bliantúil) ráta faoin gcéad ar fáil ag an iasachtóir agus an t-iarratas a bheidh ríomh méid na dtráthchodanna míosúla chomh maith le costais iomlána. Sa dara modh, is gá duit a chur isteach méid an tráthchuid míosúil (uaireanta i láthair ag ceannaí), agus beidh an t-iarratas a ríomh chéatadán agus costais ar do shon.</string>
+
+<string name="years">Bliana</string>
+<string name="months">Mhí</string>
+<string name="days">Laethanta</string>
+<string-array name="kapitalizacja">
+<item>Laethúil</item>
+<item>Seachtainiúil</item>
+<item>Míosúil</item>
+<item>Gach 3 mhí</item>
+<item>Gach 6 mhí</item>
+<item>Bliantúil</item>
+</string-array>
+<string-array name="okres">
+<item>Míonna</item>
+<item>Blianta</item>
+</string-array>
+
+
+    <string name="title_activity_loan_calc">LoanCalc</string>
+    <string name="enter_here">Anseo</string>
+    <string name="profit_percent">Mar% de thaiscí iomlán</string>
+    <string name="that_is">Is é sin</string>
+    <string name="of_deposit">De thaiscí iomlán</string>
+    <string name="config">Cumraíocht</string>
+    <string name="help">Cabhair</string>
+    <string name="info">Eolas</string>
+    <string name="month">Mí</string>
+    <string name="hello_world">Dia duit ar domhan!</string>
+    <string name="menu_settings">Socruithe</string>
+
+    </resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">கடன்கள் மற்றும் சேமிப்பு</string>
+
+<string name="app_name2">கடன்கள் மற்றும் முதலீடுகள்</string>
+
+<string name="menu_title">நீங்கள் என்ன கணக்கிட வேண்டும்?</string>
+<string name="SavingCalc">சேமிப்பு எதிர்கால மதிப்பு</string>
+<string name="PeriodCalc">சேமிப்பு காலம்</string>
+<string name="DepositCalc">வழக்கமான வைப்பு தொகை</string>
+<string name="IntrestCalc">சேமிப்பு வட்டி விகிதம்</string>
+<string name="LoanCalc">கடன் மற்றும் தவணை செலவுகள்</string>
+<string name="LoanCalcPro">கடன் ஆண்டு சதவீதம் வீதம்</string>
+
+<string name="action_settings">அமைப்புகள்</string>
+
+<string name="rate_app">இந்தப் பயன்பாட்டை மதிப்பிடு!</string>
+<string name="feedback">உங்கள் கருத்தை கொடுக்க</string>
+<string name="feedback_prompt">வணக்கம், நீங்கள் நாம் இந்த பயன்பாட்டை மேம்படுத்த முடியும் என்று, எங்களுக்கு உங்கள் கருத்து அனுப்பவும் விரும்புகிறீர்கள்?</string>
+<string name="opinion">கருத்து</string>
+
+<string name="loan_amount">ஆரம்ப தொகை</string>
+<string name="loan_amt">கடன் வழங்கிய அளவு</string>
+<string name="percentage">விழுக்காடு வீதம்</string>
+<string name="period">சேமிப்பு காலம்</string>
+<string name="saving">மாதாந்திர வைப்பு</string>
+<string name="capitalization">வட்டியானது</string>
+<string name="deposit_period">வைப்பு அதிர்வெண்</string>
+<string name="target_amount">இலக்குத் தொகை</string>
+<string name="total_deposit">மொத்த வைப்பு</string>
+
+<string name="need_percentage">நீங்கள் சதவீதம் விகிதத்தில் சிக்கனப்படுத்த வேண்டும் (ஆண்டு ஒன்றுக்கு)</string>
+<string name="need_gain">நீங்கள் சம்பாதிக்க வேண்டும்</string>
+<string name="period_deposit">ஒவ்வொரு காலத்தில் நீங்கள் சிக்கனப்படுத்த வேண்டும்</string>
+<string name="total">Economized தொகை</string>
+<string name="profit">லாபம் / மொத்த வைப்பு% என</string>
+<string name="fill_in">அனைத்து உள்ளீடு பூர்த்தி செய்யுங்கள்</string>
+<string name="required_period">சேமிப்பு தேவையான காலம்</string>
+<string name="percent">சதவீதம் வீதம் (ஆண்டுக்கு)</string>
+<string name="payments">தவணைக்கட்டணங்களின் எண்ணிக்கை</string>
+<string name="payment_amount">தவணை தொகை</string>
+<string name="each_month">(ஒவ்வொரு மாதமும் ஊதியம் வேண்டும்)</string>
+<string name="total_cost">மொத்த செலவு /</string>
+<string name="cost_percent">கடன் தொகை% என</string>
+<string name="commission">கமிஷன் / கூடுதல் கட்டணம்</string>
+<string name="other_fees">பிற கட்டணங்கள்</string>
+<string name="annual_percent_rate">ஆண்டு சதவீதம் வீதம்</string>
+<string name="total_repay">திருப்பிச் செலுத்த மொத்த</string>
+<string name="leave_one_of_two">சதவீதம், தவணை தொகை: வெற்று ஒரு விடவும். கீழே உள்ள வழிமுறைகளை பார்க்கவும்.</string>
+
+<string name="deposit_calc">வைப்பு தொகை கணக்கிட</string>
+<string name="savings_calc">சேமிப்புத் தொகை கணக்கிட</string>
+<string name="period_calc">காலம் சேமிப்பு கணக்கிடுங்கள்</string>
+<string name="intrest_calc">வட்டி விகிதத்தை கணக்கிட</string>
+<string name="loan_calc">கடன் தவணைகள் கணக்கிட</string>
+
+<string name="submit">கணக்கிடுங்கள்</string>
+<string name="clear">அழி</string>
+<string name="del">நீக்கு</string>
+<string name="show">காட்டு</string>
+<string name="go">Go</string>
+<string name="exit">வெளியேறு</string>
+<string name="cancel">ரத்து</string>
+<string name="ok">சரி</string>
+<string name="settings">அமைப்புகள்</string>
+<string name="go_to_menu">ஏற்கவும் மற்றும் மூடு</string>
+<string name="choose_currency">நாணய தேர்வு</string>
+
+<string name="instructions">வழிமுறைகள்</string>
+<string name="see_details">வழிமுறைகளை பார்க்க கீழே உருட்டவும்</string>
+<string name="results">முடிவுகள்</string>
+<string name="hint_amount">உங்கள் கடன் தொகை.</string>
+<string name="hint_principal">இப்போது நீ எவ்வளவு இருக்கிறது?</string>
+<string name="hint_target">நீங்கள் எவ்வளவு சிக்கனப்படுத்த வேண்டும் என்று விரும்புகிறீர்கள்?</string>
+<string name="hint_period">எப்படி நீண்ட நீங்கள் சிக்கனப்படுத்த வேண்டும் திட்டமிட வேண்டும்?</string>
+<string name="hint_percent">சதவீதம் என்ன நீங்க, சிக்கனத்தை?</string>
+<string name="hint_interest">உங்கள் கடன் (ஆண்டு ஒன்றுக்கு) வட்டி விகிதம் எவ்வளவு?</string>
+<string name="hint_deposit">எவ்வளவு ஒவ்வொரு மாதமும் நீங்கள் உங்கள் சேமிப்பு கணக்கில் கட்டவேண்டும்?</string>
+<string name="hint_dep_period">எவ்வளவு அடிக்கடி உங்கள் சேமிப்பு கணக்கில் பணம் செலுத்த வேண்டும்?</string>
+<string name="hint_install">மாதாந்த கொடுப்பனவுகள் எண்ணிக்கை பொதுவாக சம</string>
+<string name="hint_compounded">காலம் இது உங்கள் சேமிப்பு வட்டி, அளவு சேர்க்கப்பட்டது. இது உங்கள் வங்கி / நிலைமைகளை / கட்டுப்பாடுகள் பொறுத்தது. மதிப்புகள் ஆகலாம்: வருடாந்திர மாதாந்திர அல்லது தினசரி.</string>
+<string name="hint_amount_pro">உங்கள் கடன் தொகை. நீங்கள் வாங்க வேண்டும் தயாரிப்பு விலை பொதுவாக சம. இந்த துறையில் தேவைப்படுகிறது.</string>
+<string name="hint_commission">ஆணையம் (அல்லது கடன் கட்டணம்) கடன் தொகை% என. தெரியவில்லை என்றால், காலியாக விட்டுவிடலாம்.</string>
+<string name="hint_other_fees">கடன் தொகை சார்ந்து இல்லை என்று அனைத்து மற்ற கட்டணங்கள். தெரியவில்லை என்றால், காலியாக விட்டுவிடலாம்.</string>
+<string name="hint_total_repay">வேண்டும் என்று மொத்த அளவு கடன் திருப்பிச் செலுத்தப்பட வேண்டும்.</string>
+<string name="hint_total_cost">கூட்டு வட்டி மற்றும் அனைத்து செலவுகள், உட்பட கடன் மொத்த செலவு.</string>
+<string name="hint_cost_percent">மொத்த செலவு (மேலே) கடன் தொகை சதவீதம் என தெரிவித்தார்.</string>
+<string name="hint_apr">கடன் பயனுள்ள (உண்மையான) ஆண்டு வட்டி விகிதம். இது கடன் தொகை அணுமின் மொத்த செலவு சமமாக இருக்கும்.</string>
+<string name="hint_payment">ஒவ்வொரு தவணை (மாதாந்திர) அளவு. நீங்கள் "விழுக்காடு வீதம்" காலியாக விட்டு வரை நீங்கள், இந்த துறையில் நிரப்ப வேண்டும். வெற்று விட்டு, அது பொத்தானை அழுத்தி பின்னர் கணக்கிடப்படும்.</string>
+
+<string name="information_1">இந்த கால்குலேட்டரை நீங்கள் கலவை வட்டி விகிதம் இருந்து செய்யும், எதிர்காலத்தில் உங்கள் சேமிப்பு அளவு, அதே போல் இலாப, கண்டுபிடிக்க அனுமதிக்கிறது. நீங்கள் பின்வரும் மதிப்புகளை என்று கருதுகிறது:</string>
+<string name="information_2">இந்த கால்குலேட்டரை நீங்கள் உங்கள் இலக்கை நிதியாதாரம் தேவையான நேரம், காலம் நிர்ணயிக்க அனுமதிக்க வேண்டும். நீங்கள் பின்வரும் வழங்க கருதுகிறது:</string>
+<string name="information_3">இங்கே நீங்கள் சேமிப்பு உங்கள் இலக்கை அடையும் பொருட்டு ஒவ்வொரு மாதமும், சிக்கனத்தை வேண்டும், இது அளவு, இது மாதாந்திர வைப்பு, கணக்கிட முடியும். இது பின்வரும் தரவுகள் வேண்டும்:</string>
+<string name="information_4">அதை நீங்கள் உங்கள் இலக்கை அடைய பொருட்டு, சிக்கனத்தை செய்ய வேண்டும் எந்த நேரத்தில் வட்டி விகிதம், கண்டுபிடிக்க அனுமதிக்கிறது. நீங்கள் வழங்க வேண்டும்:</string>
+<string name="information_5">இந்த எளிய கால்குலேட்டர் நன்றி உங்கள் கடன் ஒவ்வொரு தவணை அளவு தீர்மானிக்க, உங்கள் செலாவணி மற்றும் கடன் அளவு ஒரு சதவீதம் என அதன் மொத்த செலவு கணக்கிட முடியும். நீங்கள் அறிந்து கொள்ள வேண்டும் அனைத்து ஆகிறது:</string>
+<string name="information_6">நீங்கள் உங்கள் வாங்கிய கடன் எடுக்க திட்டமிட என்றால், நீங்கள் பயனுள்ள (உண்மையான) ஆண்டு சதவீதம் வீதம் அத்துடன் செலவுகளையும் கணக்கிட முடியும். அது முதல் நீங்கள் கடன் கொடுக்கும் மாத தவணை தொகை அதே மொத்த செலவுகள் கணக்கிட வேண்டும் விண்ணப்ப வழங்கிய பெயரளவு (வருடாந்திர) விழுக்காடு வீதம் நுழைய வேண்டும், இரண்டு முறைகளில் வேலை. இரண்டாவது முறையில், நீங்கள் (சில நேரங்களில் ஒரு வணிகர் வழங்கப்பட்டது) மாதாந்திர தவணை அளவு நுழைய வேண்டும், மற்றும் பயன்பாட்டை நீங்கள் சதவீதம் மற்றும் செலவுகள் கணக்கிட வேண்டும்.</string>
+
+<string name="years">ஆண்டுகள்</string>
+<string name="months">மாதங்கள்</string>
+<string name="days">நாட்கள்</string>
+<string-array name="kapitalizacja">
+<item>டெய்லி</item>
+<item>வீக்லி</item>
+<item>மாதாந்திர</item>
+<item>ஒவ்வொரு 3 மாதங்களுக்கு</item>
+<item>ஒவ்வொரு 6 மாதங்களுக்கு</item>
+<item>வருடாந்திரம்</item>
+</string-array>
+<string-array name="okres">
+<item>மாதங்கள்</item>
+<item>ஆண்டுகள்</item>
+</string-array>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">இங்கே</string>
+<string name="profit_percent">மொத்த வைப்பு% என</string>
+<string name="that_is">என்று ஆகிறது</string>
+<string name="of_deposit">மொத்த வைப்பு</string>
+<string name="config">கட்டமைப்பு</string>
+<string name="help">உதவி</string>
+<string name="info">தகவல்</string>
+<string name="month">மாதம்</string>
+<string name="hello_world">வணக்கம் உலக!</string>
+<string name="menu_settings">அமைப்புகள்</string>
+
+</resources>

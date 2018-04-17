@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Lenings en Spaar</string>
+<string name="app_name2">Lenings en beleggings</string>
+<string name="menu_title">Wat wil jy te bereken?</string>
+<string name="SavingCalc">Toekomstige waarde van spaargeld</string>
+<string name="PeriodCalc">Tydperk van besparing</string>
+<string name="DepositCalc">Bedrag van gereelde deposito</string>
+<string name="IntrestCalc">Rentekoers van spaar</string>
+<string name="LoanCalc">Koste van die lening en paaiemente</string>
+<string name="LoanCalcPro">Jaarlikse persentasie van die lening</string>
+<string name="info">Inligting</string>
+<string name="help_translate">Help met die vertaling van hierdie inligting</string>
+<string name="rate_app">Beoordeel hierdie app!</string>
+<string name="feedback">Gee jou terugvoer</string>
+<string name="feedback_prompt">Hey, wil jy ons te gee \'n paar terugvoer sodat ons kan jou ervaring te verbeter?</string>
+<string name="opinion">Mening</string>
+<string name="loan_amount">Aanvanklike bedrag</string>
+<string name="loan_amt">Bedrag van die lening</string>
+<string name="percentage">Persentasie</string>
+<string name="period">Tydperk van besparing</string>
+<string name="saving">Maandelikse deposito</string>
+<string name="capitalization">Rente saamgestel</string>
+<string name="deposit_period">Frekwensie van deposito\'s</string>
+<string name="target_amount">Doel Bedrag</string>
+<string name="total_deposit">Totale Deposito</string>
+<string name="need_percentage">Jy moet spaar op persentasie (per jaar)</string>
+<string name="need_gain">Jy moet verdien</string>
+<string name="period_deposit">Elke tydperk wat jy nodig het om te red</string>
+<string name="total">Gered Bedrag</string>
+<string name="profit">Wins / as% van die totale deposito</string>
+<string name="fill_in">Vul asseblief al insette velde</string>
+<string name="required_period">Vereiste tydperk van spaar</string>
+<string name="percent">Persentasie (per jaar)</string>
+<string name="payments">Aantal paaiemente</string>
+<string name="payment_amount">Paaiement Bedrag</string>
+<string name="each_month">(wat betaal moet word elke maand)</string>
+<string name="total_cost">Totale koste</string>
+<string name="total_cost_">Totale koste /</string>
+<string name="cost_percent">As% van leningsbedrag</string>
+<string name="commission">Kommissie</string>
+<string name="other_fees">Ander fooie</string>
+<string name="annual_percent_rate">Jaarlikse persentasie</string>
+<string name="total_repay">Totale terug te betaal</string>
+<string name="leave_one_of_two">Laat leë een van: Persentasie, afbetalingsbedrag. Sien instruksies hieronder.</string>
+<string name="deposit_calc">Bereken deposito bedrag</string>
+<string name="savings_calc">Bereken spaarbedrag</string>
+<string name="period_calc">Bereken spaar tydperk</string>
+<string name="intrest_calc">Bereken rentekoers</string>
+<string name="loan_calc">Bereken lening paaiemente</string>
+<string name="submit">Bereken</string>
+<string name="clear">Duidelik al</string>
+<string name="del">Verwyder</string>
+<string name="show">Wys</string>
+<string name="go">Gaan</string>
+<string name="exit">Uitgang</string>
+<string name="cancel">Kanselleer</string>
+<string name="ok">OK</string>
+<string name="settings">Instellings</string>
+<string name="go_to_menu">Aanvaar en Close</string>
+<string name="choose_currency">Kies geldeenheid</string>
+<string name="instructions">Instruksies</string>
+<string name="see_details">Vir instruksies rol af</string>
+<string name="results">Resultate</string>
+<string name="hint_amount">Die bedrag van jou lening.</string>
+<string name="hint_principal">Hoeveel het jy nou?</string>
+<string name="hint_target">Hoeveel wil jy te red?</string>
+<string name="hint_period">Hoe lank dink jy van plan is om te red?</string>
+<string name="hint_percent">Op watter persentasie sal jy red?</string>
+<string name="hint_interest">Wat is die rentekoers (per jaar) van jou lening?</string>
+<string name="hint_deposit">Hoeveel kan jy deponeer om jou besparing rekening elke maand?</string>
+<string name="hint_dep_period">Hoe dikwels sal jy geld vir jou spaar rekening?</string>
+<string name="hint_install">Gewoonlik gelyk aan die aantal maandelikse paaiemente</string>
+<string name="hint_compounded">Tydperk waarin die belang van jou spaargeld is bygevoeg na die skoolhoof bedrag. Dit hang af van jou bank en / of pensioen / spaar plan regulasie. Neem waardes: jaarlikse, maandelikse en daaglikse.</string>
+<string name="hint_amount_pro">Die bedrag van jou lening. Gewoonlik gelyk aan die prys van die produk wat jy wil koop. Hierdie veld word vereis.</string>
+<string name="hint_commission">Kommissie (of lening fooi) as% van leningsbedrag. Indien nie bekend, leeg laat.</string>
+<string name="hint_other_fees">Alle ander gelde wat nie afhanklik is van leningsbedrag. Indien nie bekend, leeg laat.</string>
+<string name="hint_total_repay">Totale bedrag wat terugbetaal hoef te word na die man wat uitleen.</string>
+<string name="hint_total_cost">Totale koste van die lening, insluitend saamgestelde rente en alle gelde.</string>
+<string name="hint_cost_percent">Totale koste (soos hierbo) uitgedruk as persent van leningsbedrag.</string>
+<string name="hint_apr">Effektiewe (ware) jaarlikse rentekoers van die lening, insluitend die totale koste.</string>
+<string name="hint_payment">Die bedrag van elk van jou (maandeliks) paaiement. Jy hoef nie in hierdie veld te vul, tensy jy links "persentasie" leeg. Indien oopgelaat, sal dit bereken word na die druk van die knoppie.</string>
+<string name="information_1">Hierdie sakrekenaar kan jy om uit te vind toekomstige bedrag van jou spaargeld sowel as wins wat jy sal maak vorm saamgestelde rentekoers. Dit veronderstel jy weet die volgende:</string>
+<string name="information_2">Hierdie sakrekenaar sal laat jy die tydperk van die tyd wat nodig is om jou doel bedrag te red bepaal. Dit veronderstel jy verskaf die volgende:</string>
+<string name="information_3">Hier kan jy die maandelikse deposito bereken, wat is die bedrag wat jy sal nodig hê om elke maand te spaar sodat jou besparing doel te bereik. Dit sal die volgende data nodig:</string>
+<string name="information_4">Dit kan jy om uit te vind die rentekoers waarteen jy sal nodig hê om te spaar, om jou teiken bedrag te bereik. Jy sal nodig hê om te voorsien:</string>
+<string name="information_5">Danksy hierdie eenvoudige sakrekenaar wat jy sal in staat wees om die bedrag van elke paaiement van die lening te bepaal, en bereken dit totale koste in jou valuta en as \'n persentasie van die leningsbedrag. Al wat jy nodig het om te weet, is:</string>
+<string name="information_6">As jy van plan is om \'n lening te neem vir jou aankope, kan jy alle koste verbonde asook effektiewe (ware) jaarlikse persentasie te bereken. Dit werk in twee modusse, in die eerste wat jy nodig het nominale (jaarlikse) persentasie wat deur die uitlener en die aansoek sal bedrag van die maandelikse paaiemente sowel as die totale koste te bereken te betree. In die tweede modus, moet jy bedrag van die maandelikse paaiement (soms deur \'n handelaar) te gaan, en die aansoek sal persentasie en koste bereken vir jou.</string>
+<string name="years">Jaar</string>
+<string name="months">Maande</string>
+<string name="days">Dae</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string-array name="kapitalizacja">
+<item>Daaglikse</item>
+<item>Weeklikse</item>
+<item>Maandelikse</item>
+<item>Elke 3 maande</item>
+<item>Elke 6 maande</item>
+<item>Jaarlikse</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Maande</item>
+<item>Jaar</item>
+</string-array>
+</resources>

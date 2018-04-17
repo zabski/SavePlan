@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">قرضوں اور بچت</string>
+
+<string name="app_name2">قرضہ جات اور سرمایہ کاری</string>
+
+<string name="menu_title">کیا آپ کو شمار کرنے کے لیے کرنا چاہتے ہیں؟</string>
+<string name="SavingCalc">بچت کی مستقبل کی قیمت</string>
+<string name="PeriodCalc">بچت کی مدت</string>
+<string name="DepositCalc">باقاعدہ ذخائر کی مقدار</string>
+<string name="IntrestCalc">بچت کی شرح سود</string>
+<string name="LoanCalc">قرض اور قسطوں کے اخراجات</string>
+<string name="LoanCalcPro">قرض کی سالانہ فیصد کی شرح</string>
+
+<string name="action_settings">ترتیبات</string>
+
+<string name="rate_app">اس درخواست میں رائے دیں!</string>
+<string name="feedback">اپنی رائے دے</string>
+<string name="feedback_prompt">ہیلو، آپ کو ہم آپ کے لئے اس درخواست کو بہتر بنا سکتے ہیں، تاکہ ہمیں آپ کی رائے بھیجنے کے لئے پسند کریں گے؟</string>
+<string name="opinion">رائے</string>
+
+<string name="loan_amount">ابتدائی رقم</string>
+<string name="loan_amt">قرض کی رقم</string>
+<string name="percentage">فی صد کی شرح</string>
+<string name="period">بچت کی مدت</string>
+<string name="saving">ماہانہ ڈپازٹ</string>
+<string name="capitalization">سود پیچیدہ</string>
+<string name="deposit_period">ذخائر کی فریکوئنسی</string>
+<string name="target_amount">ہدف رقم</string>
+<string name="total_deposit">کل رقم کا جمع</string>
+
+<string name="need_percentage">تم فی صد کی شرح سے بچت کرنے کی ضرورت ہے (ہر سال)</string>
+<string name="need_gain">آپ حاصل کرنے کی ضرورت ہے</string>
+<string name="period_deposit">ہر مدت میں آپ کو بچت کرنے کی ضرورت ہے</string>
+<string name="total">زیادہ economized رقم</string>
+<string name="profit">منافع / کل ڈیپازٹ٪ کے طور پر</string>
+<string name="fill_in">تمام ان پٹ کے کھیتوں میں بھرنے براہ مہربانی</string>
+<string name="required_period">بچت کی مطلوبہ مدت</string>
+<string name="percent">فی صد کی شرح (ہر سال)</string>
+<string name="payments">قسطوں کی تعداد</string>
+<string name="payment_amount">قسط کی رقم</string>
+<string name="each_month">(ہر ماہ ادا کی جائے)</string>
+<string name="total_cost">مجموعی لاگت /</string>
+<string name="cost_percent">قرض کی رقم کے فیصد کے طور پر</string>
+<string name="commission">کمیشن / سرچارج</string>
+<string name="other_fees">دیگر فیس</string>
+<string name="annual_percent_rate">سالانہ فیصد کی شرح</string>
+<string name="total_repay">ادا کرنے کے لئے کل</string>
+<string name="leave_one_of_two">فی صد، قسط کی رقم: کی خالی بھی چھوڑ دیں. مندرجہ ذیل ہدایات ملاحظہ کریں.</string>
+
+<string name="deposit_calc">ڈپازٹ کی رقم کا حساب</string>
+<string name="savings_calc">بچت کی رقم کا حساب</string>
+<string name="period_calc">مدت بچت کا حساب لگائیں</string>
+<string name="intrest_calc">سود کی شرح کا حساب</string>
+<string name="loan_calc">قرض قسطوں کا حساب لگائیں</string>
+
+<string name="submit">حساب لگائیں</string>
+<string name="clear">تمام کو صاف کریں</string>
+<string name="del">کو حذف کریں</string>
+<string name="show">دکھائیں</string>
+<string name="go">جانا</string>
+<string name="exit">سے باہر نکلیں</string>
+<string name="cancel">منسوخ کریں</string>
+<string name="ok">ٹھیک ہے</string>
+<string name="settings">ترتیبات</string>
+<string name="go_to_menu">قبول کریں اور بند کریں</string>
+<string name="choose_currency">کرنسی منتخب کریں</string>
+
+<string name="instructions">دی گئی ہدایات</string>
+<string name="see_details">ہدایات ملاحظہ کرنے کے لئے ذیل میں سکرال</string>
+<string name="results">نتائج</string>
+<string name="hint_amount">آپ کے قرض کی رقم.</string>
+<string name="hint_principal">کتنا آپ کو اب کیا ضرورت ہے؟</string>
+<string name="hint_target">تم کتنا بچت کرنا چاہتے ہیں؟</string>
+<string name="hint_period">تم کتنی دیر تک بچت کرنے کا ارادہ رکھتے ہیں؟</string>
+<string name="hint_percent">فی صد کے کس شرح سے آپ بچت کرے گا؟</string>
+<string name="hint_interest">آپ کے قرض کی (ہر سال) سود کی شرح کتنی ہے؟</string>
+<string name="hint_deposit">کتنا آپ کو ہر ماہ آپ کی بچت کے اکاؤنٹ میں جمع کر سکتے ہیں؟</string>
+<string name="hint_dep_period">کتنی بار آپ کو آپ کی بچت کے اکاؤنٹ میں پیسے جمع کرے گا؟</string>
+<string name="hint_install">ماہانہ ادائیگی کے شمار کے عام طور پر برابر</string>
+<string name="hint_compounded">مدت جس میں آپ کی بچت کی دلچسپی کا اصل رقم میں شامل کیا جاتا ہے. یہ آپ کے بینک / ضوابط / قواعد و ضوابط پر انحصار کرتا ہے. اقدار لگ سکتے ہیں: سالانہ، ماہانہ یا روزانہ.</string>
+<string name="hint_amount_pro">آپ کے قرض کی رقم. آپ کی خریداری کے لئے چاہتے ہیں کی مصنوعات کی قیمت عام طور پر برابر. اس میدان کی ضرورت ہے.</string>
+<string name="hint_commission">کمیشن (یا قرض کی فیس) ​​قرض کی رقم کے فیصد کے طور پر. اگر معلوم نہیں، خالی چھوڑ دیں.</string>
+<string name="hint_other_fees">قرض کی رقم پر منحصر نہیں ہیں کہ تمام دوسرے کی فیس. اگر معلوم نہیں، خالی چھوڑ دیں.</string>
+<string name="hint_total_repay">ضرورت ہو گی کہ کل رقم قرض خواہ کے لئے دوبارہ ادا کرنے کی.</string>
+<string name="hint_total_cost">کمپاؤنڈ سود اور سب کی فیس شامل ہے قرض کی کل لاگت،.</string>
+<string name="hint_cost_percent">کل لاگت (ع اوپر) قرض کی رقم کی فیصد کے طور پر اظہار.</string>
+<string name="hint_apr">قرض کو مؤثر طریقے سے (اس اصل) کی سالانہ شرح سود. اس قرض کی رقم کے فی صد کے طور پر اظہار کل لاگت کے برابر ہے.</string>
+<string name="hint_payment">ہر قسط (ماہانہ) کی رقم. آپ کو "فی صد کی شرح" خالی چھوڑ جب تک آپ، اس میدان میں بھرنے کے لئے کی ضرورت نہیں ہے. خالی چھوڑ ہے، تو یہ بٹن دبانے کے بعد حساب کیا جائے گا.</string>
+
+<string name="information_1">اس کیلکولیٹر آپ کو آپ کے کمپاؤنڈ سود کی شرح سے کر دے گا جس سے مستقبل میں آپ کی بچت کی رقم، اس کے ساتھ ساتھ منافع، باہر تلاش کرنے کی اجازت دیتا ہے. یہ آپ کو درج ذیل میں سے جانتے ہیں کہ مان لیا گیا:</string>
+<string name="information_2">اس کیلکولیٹر آپ کو آپ کے ہدف رقم بچت کرنے کی ضرورت ہے جو وقت کی مدت کا تعین کرنے دے گا. یہ آپ کو مندرجہ ذیل فراہم مان لیا گیا:</string>
+<string name="information_3">یہاں آپ کو آپ کی بچت کے اپنے مقصد تک پہنچنے کے لئے ہر ماہ بچت کرنا پڑے گا جس رقم، ہے جو ماہانہ ڈپازٹ، حساب کر سکتے ہیں. یہ مندرجہ ذیل اعداد و شمار کی ضرورت ہو گی:</string>
+<string name="information_4">یہ آپ کو آپ کے ہدف رقم تک پہنچنے کے لئے، بچت کی ضرورت ہو گی جس میں سود کی شرح، باہر تلاش کرنے کی اجازت دیتا ہے. آپ کو فراہم کرنے کی ضرورت ہو گی:</string>
+<string name="information_5">اس سادہ کیلکولیٹر کا شکریہ آپ کو آپ کے قرض کی ہر قسط کی رقم کا تعین، اور اپنی کرنسی میں اور قرض کی رقم کا ایک فی صد کے طور پر اس کی کل قیمت کا حساب کرنے کے قابل ہو جائے گا. آپ کو جاننے کی ضرورت ہے:</string>
+<string name="information_6">آپ کو آپ کی خریداری کے لیے قرض لینے کا ارادہ رکھتے ہیں، آپ کو مؤثر (حقیقی) سالانہ فیصد کی شرح کے طور پر بھی ملوث تمام اخراجات کا حساب کر سکتے. یہ سب سے پہلے میں آپ کو قرض خواہ اور ماہانہ اقساط کی رقم کے ساتھ ساتھ کل اخراجات کا حساب کرے گا درخواست کی طرف سے فراہم کی برائے نام (سالانہ) فی صد کی شرح داخل کرنے کی ضرورت، دو طریقوں میں کام کرتا ہے. دوسری موڈ میں، آپ (کبھی کبھی ایک مرچنٹ کی طرف سے پیش کئے گئے) ماہانہ قسط کی رقم درج کرنے کی ضرورت، اور درخواست آپ کے لئے فی صد اور اخراجات کا حساب کرے گا.</string>
+
+<string name="years">سال</string>
+<string name="months">ماہ</string>
+<string name="days">دنوں</string>
+<string-array name="kapitalizacja">
+<item>ڈیلی</item>
+<item>ہفتہ وار</item>
+<item>ماہانہ</item>
+<item>ہر 3 ماہ</item>
+<item>ہر 6 ماہ</item>
+<item>سالانہ</item>
+</string-array>
+<string-array name="okres">
+<item>ماہ</item>
+<item>سال</item>
+</string-array>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">یہاں</string>
+<string name="profit_percent">کل ذخائر کی فیصد کے طور پر</string>
+<string name="that_is">یہ ہے کہ،</string>
+<string name="of_deposit">کل ذخائر کی</string>
+<string name="config">ترتیب کے</string>
+<string name="help">مدد کریں</string>
+<string name="info">معلومات کے</string>
+<string name="month">مہینہ</string>
+<string name="hello_world">ہیلو دنیا!</string>
+<string name="menu_settings">ترتیبات</string>
+
+</resources>

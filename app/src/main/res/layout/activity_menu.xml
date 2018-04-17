@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--ScrollView android:id="@+id/scrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android"-->
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+        xmlns:amazon="http://schemas.android.com/apk/lib/com.amazon.device.ads"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:id="@+id/mainLayout"
+         >
+
+        <!--
+        android:background="@drawable/ocean_blur_1"
+		android:background="@drawable/sand6_blur"                        
+        android:background="#c6951c" 
+        android:paddingTop="10dp"
+		android:paddingLeft="10dp" 
+		android:paddingRight="10dp"-->
+		
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal|center_vertical"
+            android:layout_marginBottom="@dimen/margin_l"
+            android:gravity="center_horizontal|center_vertical"
+            android:text="@string/menu_title"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textColor="@color/bluedark"
+            android:textSize="@dimen/text_l"
+            android:textStyle="bold" />
+        
+        <!--ListView
+            
+            android:id="@android:id/list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="0dp"
+            android:layout_marginRight="0dp"
+            android:layout_marginTop="0dp"            
+            android:contentDescription="Choose Activity"
+            android:footerDividersEnabled="false"
+            android:headerDividersEnabled="false"
+            android:textAppearance="?android:attr/textAppearanceMedium" >
+
+
+    </ListView-->
+
+    <ListView
+        android:id="@+id/list"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="0dp"
+        android:layout_marginTop="@dimen/margin_l"
+        android:layout_marginBottom="@dimen/margin_l"
+        android:layout_below="@id/textView1"
+        android:visibility="visible"
+        android:contentDescription="Choose Activity"
+        android:footerDividersEnabled="false"
+        android:headerDividersEnabled="false"
+        android:textAppearance="?android:attr/textAppearanceMedium" >
+    </ListView>
+
+    <!--com.google.ads.AdView android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        ads:adUnitId="ca-app-pub-4402674240600002/7444210577"
+        ads:adSize="SMART_BANNER"
+        ads:testDevices="TEST_EMULATOR, TEST_DEVICE_ID"
+        ads:loadAdOnCreate="true"/-->
+
+    <!--com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_m"
+        android:layout_alignParentBottom="true"
+        ads:adUnitId="@string/admob_banner_bmi"
+        ads:adSize="BANNER"
+        android:visibility="visible"/>
+
+    <com.amazon.device.ads.AdLayout
+        android:id="@+id/amazonAdview"
+        android:layout_alignParentBottom="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone"
+        />
+
+    <FrameLayout
+        android:id="@+id/native_ad_container_end"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/list"
+        android:orientation="vertical"
+        android:background="@color/bkg_lt"
+        android:visibility="gone"
+        /-->
+
+    <!--LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@color/yellow"
+        android:paddingBottom="2dp"
+        android:paddingTop="10dp"
+        android:visibility="gone"
+        >
+        <Button
+            android:id="@+id/load_native_ad_button"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/load_native_ad"
+            android:background="@color/blue"
+            android:textSize="12sp"
+            />
+        <TextView
+            android:id="@+id/native_ad_status"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:background="@color/red"
+            android:textColor="@android:color/darker_gray"
+            />
+    </LinearLayout-->
+
+    <TextView
+        android:id="@+id/privacyPolicy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_below="@id/native_ad_container_end"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_horizontal|bottom"
+        android:text="@string/menu_title"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:background="@color/lt_grey"
+        android:textSize="@dimen/text_m"
+        android:textStyle="normal"
+        android:visibility="visible"/>
+
+    <include layout="@layout/ads_incl_admob_banner"/>
+
+    <include layout="@layout/ads_incl_fb_banner"/>
+
+    <include layout="@layout/ads_incl_amazon_banner"/>
+
+    </LinearLayout>

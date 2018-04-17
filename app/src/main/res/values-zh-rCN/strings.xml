@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">贷款和储蓄</string>
+<string name="app_name2">贷款和投资</string>
+<string name="menu_title">你要什么计算？</string>
+<string name="SavingCalc">储蓄的未来价值</string>
+<string name="PeriodCalc">保存期</string>
+<string name="DepositCalc">定期的存款金额</string>
+<string name="IntrestCalc">存款利率</string>
+<string name="LoanCalc">贷款与分期付款的费用</string>
+<string name="LoanCalcPro">贷款年利率</string>
+<string name="info">信息</string>
+<string name="help_translate">帮忙翻译这个应用程序</string>
+<string name="rate_app">评价这个应用程序！</string>
+<string name="feedback">给你的反馈</string>
+<string name="feedback_prompt">嘿，你想给我们一些反馈，以便我们能够提高你的经验？</string>
+<string name="opinion">意见</string>
+<string name="loan_amount">初始金额</string>
+<string name="loan_amt">贷款额</string>
+<string name="percentage">百分率</string>
+<string name="period">保存期</string>
+<string name="saving">每月存款</string>
+<string name="capitalization">复利利息</string>
+<string name="deposit_period">存款频率</string>
+<string name="target_amount">目标金额</string>
+<string name="total_deposit">总存款</string>
+<string name="need_percentage">您需要保存的百分比率（每年）</string>
+<string name="need_gain">你需要赚</string>
+<string name="period_deposit">您需要保存每个时期</string>
+<string name="total">保存量</string>
+<string name="profit">利润/为％总存款</string>
+<string name="fill_in">请填写所有输入字段</string>
+<string name="required_period">节省所需时间</string>
+<string name="percent">百分比率（每年）</string>
+<string name="payments">期数</string>
+<string name="payment_amount">分期金额</string>
+<string name="each_month">（应每月支付）</string>
+<string name="total_cost">总成本</string>
+<string name="total_cost_">总成本/</string>
+<string name="cost_percent">作为％的贷款额</string>
+<string name="commission">佣金</string>
+<string name="other_fees">其他费用</string>
+<string name="annual_percent_rate">年利率</string>
+<string name="total_repay">共偿还</string>
+<string name="leave_one_of_two">留下的空单：百分比，分期金额。见下面的说明。</string>
+<string name="deposit_calc">计算存款金额</string>
+<string name="savings_calc">计算节约量</string>
+<string name="period_calc">节能计算期</string>
+<string name="intrest_calc">计算利率</string>
+<string name="submit">计算</string>
+<string name="clear">清除所有</string>
+<string name="del">删除</string>
+<string name="show">节目</string>
+<string name="go">去</string>
+<string name="exit">出口</string>
+<string name="cancel">取消</string>
+<string name="ok">行</string>
+<string name="settings">设置</string>
+<string name="go_to_menu">接受并关闭</string>
+    <string name="remove_ads">移除广告</string>
+<string name="choose_currency">选择货币</string>
+<string name="instructions">说明</string>
+<string name="see_details">有关说明向下滚动</string>
+<string name="results">结果</string>
+<string name="hint_amount">您的贷款金额。</string>
+<string name="hint_principal">多少钱，你现在有吗？</string>
+<string name="hint_target">多少钱你要保存？</string>
+<string name="hint_period">多久你打算救？</string>
+<string name="hint_percent">在什么百分比率将你救谁？</string>
+<string name="hint_interest">什么是你的贷款利率（每年）？</string>
+<string name="hint_deposit">多少钱你可以存到你的储蓄帐户每个月？</string>
+<string name="hint_dep_period">你将如何经常存钱到你的储蓄账户？</string>
+<string name="hint_install">通常等于每月支付的数</string>
+<string name="hint_compounded">在期间，你的储蓄的利息加到本金。这取决于你的银行和/或养老金/储蓄计划调控。可能取值：每年，每月，每日的。</string>
+<string name="hint_amount_pro">您的贷款金额。通常等于价格，你要购买的产品。此字段是必需的。</string>
+<string name="hint_commission">委员会（或贷款手续费）为％的贷款额。如果不知道，留空。</string>
+<string name="hint_other_fees">所有其他费用不依赖于贷款金额。如果不知道，留空。</string>
+<string name="hint_total_repay">这将需要总金额偿还给贷款人。</string>
+<string name="hint_total_cost">贷款的总成本，包括复利和所有费用。</string>
+<string name="hint_cost_percent">总成本（如上）表示的贷款量％左右。</string>
+<string name="hint_apr">有效的（真正）的年利率，包括总成本的贷款利率。</string>
+<string name="hint_payment">您的每（月）分期付款的金额。你并不需要填写此字段，除非你离开“百分比率”的空白。如果留空，则按下按钮后进行计算。</string>
+<string name="information_1">这个计算器可以让你找出你的储蓄未来的量以及利润，你会形式复利。它假定您了解以下内容：</string>
+<string name="information_2">这个计算器可以让你确定那是需要保存的目标量的时间段。它假定你提供以下信息：</string>
+<string name="information_3">在这里，你可以计算出每月的存款，这是你需要每个月节省，以达到自己的储蓄目标金额。这将需要以下数据：</string>
+<string name="information_4">它可以让你找出利率，你将需要保存，以达到你的目标金额。您需要提供：</string>
+<string name="information_5">由于这个简单的计算器，你将能够确定您的贷款每期的金额，并计算您的货币和作为贷款金额的百分比是\的总成本。所有你需要知道的是：</string>
+<string name="information_6">如果您打算采取贷款为您的购买，就可以计算出参与以及有效的（真正）年利率所有费用。它有两种工作模式，在第一，你需要输入由贷款人与应用程序将计算量的每月分期付款，以及总成本提供的标称值（年）的百分比率。在第二种模式中，你需要输入每月分期付款（有时由商家赠送）的量，和应用程序将计算比例和成本为您服务。</string>
+<string name="years">岁月</string>
+<string name="months">个月</string>
+<string name="days">天</string>
+    <string-array name="kapitalizacja">
+<item>每日</item>
+<item>周刊</item>
+<item>每月一次</item>
+<item>每3个月</item>
+<item>每6个月</item>
+<item>每年</item>
+    </string-array>    
+    <string-array name="okres">
+<item>个月</item>
+<item>岁月</item>
+</string-array>
+<string-array name="symbols">
+<item>$</item>
+<item>€</item>
+<item>£</item>
+<item>¥</item>
+<item>元</item>
+<item>₹</item>
+<item>₩</item>
+<item>ل.س</item>
+<item>ج.م</item>
+<item>.د.ب</item>
+<item>؋</item>
+<item>৳</item>
+<item>฿</item>
+<item>៛</item>
+<item>₡</item>
+<item>₦</item>
+<item>₪</item>
+<item>₫</item>
+<item>₭</item>
+<item>₮</item>
+<item>₱</item>
+<item>₲</item>
+<item>₴</item>
+<item>₵</item>
+<item>Ar</item>
+<item>B/.</item>
+<item>Br</item>
+<item>Bs F</item>
+<item>Bs.</item>
+<item>C$</item>
+<item>D</item>
+<item>Db</item>
+<item>Esc</item>
+<item>Fr</item>
+<item>ƒ</item>
+<item>ƒ</item>
+<item>G</item>
+<item>K</item>
+<item>Kč</item>
+<item>KM</item>
+<item>kn</item>
+<item>kr</item>
+<item>Kz</item>
+<item>L</item>
+<item>Le</item>
+<item>Ls</item>
+<item>Lt</item>
+<item>m</item>
+<item>MK</item>
+<item>MTn</item>
+<item>Nfk</item>
+<item>Nu.</item>
+<item>P</item>
+<item>Q</item>
+<item>R</item>
+<item>R$</item>
+<item>RM</item>
+<item>Rp</item>
+<item>₨</item>
+<item>S/.</item>
+<item>Sh</item>
+<item>T</item>
+<item>T$</item>
+<item>TL</item>
+<item>UM</item>
+<item>Vt</item>
+<item>ZK</item>
+<item>zł</item>
+<item>ден</item>
+<item>дин.</item>
+<item>din.</item>
+<item>ЅМ</item>
+<item>лв</item>
+<item>р.</item>
+<item>ლ</item>
+<item>դր.</item>
+<item>դր.</item>
+<item>د.إ</item>
+<item>د.ا</item>
+<item>د.ت</item>
+<item>د.ج</item>
+<item>د.ك</item>
+<item>د.م.</item>
+<item>ر.س</item>
+<item>ر.ع.</item>
+<item>ر.ق</item>
+<item>﷼</item>
+<item>﷼</item>
+<item>ع.د</item>
+<item>ل.د</item>
+<item>ل.ل</item>
+<item>ރ.</item>
+<item>₸</item>
+</string-array>
+</resources>

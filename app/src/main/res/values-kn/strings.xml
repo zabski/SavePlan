@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">ಸಾಲ ಮತ್ತು ಉಳಿತಾಯ</string>
+
+<string name="app_name2">ಸಾಲಗಳು ಮತ್ತು ಹೂಡಿಕೆಗಳನ್ನು</string>
+
+<string name="menu_title">ನೀವು ಲೆಕ್ಕ ಬಯಸುತ್ತೀರಿ?</string>
+<string name="SavingCalc">ಉಳಿತಾಯ ಭವಿಷ್ಯ ಮೌಲ್ಯ</string>
+<string name="PeriodCalc">ಉಳಿತಾಯ ಅವಧಿಯಲ್ಲಿ</string>
+<string name="DepositCalc">ಸಾಮಾನ್ಯ ಠೇವಣಿಗಳ ಪ್ರಮಾಣವನ್ನು</string>
+<string name="IntrestCalc">ಉಳಿತಾಯ ಬಡ್ಡಿ ದರ</string>
+<string name="LoanCalc">ಸಾಲ ಮತ್ತು ಕಂತುಗಳಲ್ಲಿ ವೆಚ್ಚವನ್ನು</string>
+<string name="LoanCalcPro">ಸಾಲದ ವಾರ್ಷಿಕ ಶೇಕಡಾವಾರು ದರ</string>
+
+<string name="action_settings">ಸೆಟ್ಟಿಂಗ್ಗಳು</string>
+
+<string name="rate_app">ಈ ಅಪ್ಲಿಕೇಶನ್ ದರ!</string>
+<string name="feedback">ನಿಮ್ಮ ಅಭಿಪ್ರಾಯ ನೀಡಿ</string>
+<string name="feedback_prompt">ಹಲೋ, ನೀವು ನಾವು ನೀವು ಈ ಅಪ್ಲಿಕೇಶನ್ ಸುಧಾರಿಸಲು ಪರದೆಯಿಂದ, ನಿಮ್ಮ ಅಭಿಪ್ರಾಯ ಕಳುಹಿಸಲು ಬಯಸುತ್ತೀರಿ?</string>
+<string name="opinion">ಅಭಿಪ್ರಾಯ</string>
+
+<string name="loan_amount">ಆರಂಭಿಕ ಪ್ರಮಾಣವನ್ನು</string>
+<string name="loan_amt">ಸಾಲ ಪ್ರಮಾಣ</string>
+<string name="percentage">ಶೇಕಡಾವಾರು ದರ</string>
+<string name="period">ಉಳಿತಾಯ ಅವಧಿಯಲ್ಲಿ</string>
+<string name="saving">ಮಾಸಿಕ ಠೇವಣಿ</string>
+<string name="capitalization">ಆಸಕ್ತಿ ಜಟಿಲಗೊಂಡ</string>
+<string name="deposit_period">ನಿಕ್ಷೇಪಗಳ ಆವರ್ತನ</string>
+<string name="target_amount">ಟಾರ್ಗೆಟ್ ಪ್ರಮಾಣ</string>
+<string name="total_deposit">ಒಟ್ಟು ಠೇವಣಿ</string>
+
+<string name="need_percentage">ನೀವು ಶೇಕಡಾವಾರು ದರದಲ್ಲಿ ಮಿತವ್ಯಯದ ಅಗತ್ಯ (ವರ್ಷಕ್ಕೆ)</string>
+<string name="need_gain">ನೀವು ಗಳಿಸುವ ಅಗತ್ಯವಿದೆ</string>
+<string name="period_deposit">ಪ್ರತಿ ಅವಧಿಯಲ್ಲಿ ನೀವು ಮಿತವ್ಯಯದ ಅಗತ್ಯವಿದೆ</string>
+<string name="total">Economized ಪ್ರಮಾಣ</string>
+<string name="profit">ಲಾಭ / ಒಟ್ಟು ಠೇವಣಿ% ಎಂದು</string>
+<string name="fill_in">ಎಲ್ಲಾ ಇನ್ಪುಟ್ ಜಾಗ ಭರ್ತಿ ಮಾಡಿ</string>
+<string name="required_period">ಉಳಿತಾಯ ಅಗತ್ಯವಾದ ಅವಧಿಯಾದ</string>
+<string name="percent">ಶೇಕಡಾವಾರು ದರ (ವರ್ಷಕ್ಕೆ)</string>
+<string name="payments">ಕಂತುಗಳ ಸಂಖ್ಯೆ</string>
+<string name="payment_amount">ಕಂತು ಪ್ರಮಾಣ</string>
+<string name="each_month">(ಪ್ರತಿ ತಿಂಗಳು ಪಾವತಿಸಬೇಕಾದ)</string>
+<string name="total_cost">ಒಟ್ಟು ವೆಚ್ಚ /</string>
+<string name="cost_percent">ಸಾಲದ ಮೊತ್ತದ% ಎಂದು</string>
+<string name="commission">ಆಯೋಗದ / ಮೇಲ್ತೆರಿಗೆ</string>
+<string name="other_fees">ಇತರ ಶುಲ್ಕಗಳು</string>
+<string name="annual_percent_rate">ವಾರ್ಷಿಕ ಶೇಕಡಾವಾರು ದರ</string>
+<string name="total_repay">ಮರುಪಾವತಿಸಲು ಒಟ್ಟು</string>
+<string name="leave_one_of_two">ಶೇಕಡಾವಾರು, ಕಂತು ಪ್ರಮಾಣ: ಖಾಲಿ ಬಿಟ್ಟು. ಕೆಳಗಿನ ಸೂಚನೆಗಳನ್ನು ನೋಡಿ.</string>
+
+<string name="deposit_calc">ಠೇವಣಿ ಪ್ರಮಾಣವನ್ನು ಲೆಕ್ಕ</string>
+<string name="savings_calc">ಉಳಿತಾಯ ಪ್ರಮಾಣವನ್ನು ಲೆಕ್ಕ</string>
+<string name="period_calc">ಅವಧಿಯಲ್ಲಿ ಉಳಿಸುವ ಲೆಕ್ಕ</string>
+<string name="intrest_calc">ಆಸಕ್ತಿ ಪ್ರಮಾಣವನ್ನು ಲೆಕ್ಕಾಚಾರ</string>
+<string name="loan_calc">ಸಾಲದ ಕಂತುಗಳ ಲೆಕ್ಕ</string>
+
+<string name="submit">ಲೆಕ್ಕ</string>
+<string name="clear">ತೆರವುಗೊಳಿಸಿ ಎಲ್ಲಾ</string>
+<string name="del">ಅಳಿಸಿ</string>
+<string name="show">ತೋರಿಸು</string>
+<string name="go">ಹೋಗಿ</string>
+<string name="exit">ನಿರ್ಗಮಿಸಿ</string>
+<string name="cancel">ರದ್ದು</string>
+<string name="ok">ಸರಿ</string>
+<string name="settings">ಸೆಟ್ಟಿಂಗ್ಗಳು</string>
+<string name="go_to_menu">ಸ್ವೀಕರಿಸಲು ಮತ್ತು ಮುಚ್ಚಿ</string>
+<string name="choose_currency">ಕರೆನ್ಸಿ ಆಯ್ಕೆ</string>
+
+<string name="instructions">ಸೂಚನೆಗಳು</string>
+<string name="see_details">ಸೂಚನೆಗಳನ್ನು ನೋಡಲು ಕೆಳಗೆ ಸ್ಕ್ರೋಲ್</string>
+<string name="results">ಫಲಿತಾಂಶಗಳು</string>
+<string name="hint_amount">ನಿಮ್ಮ ಸಾಲದ ಪ್ರಮಾಣವನ್ನು.</string>
+<string name="hint_principal">ಎಷ್ಟು ನೀವು ಈಗ ಹೊಂದಿರುತ್ತವೆ?</string>
+<string name="hint_target">ಎಷ್ಟು ನೀವು ಮಿತವ್ಯಯದ ಬಯಸುತ್ತೀರಿ?</string>
+<string name="hint_period">ಎಷ್ಟು ನೀವು ಮಿತವ್ಯಯದ ಯೋಜನೆ ಏನು?</string>
+<string name="hint_percent">ಶೇಕಡಾವಾರು ಯಾವ ದರದಲ್ಲಿ ನೀವು ಮಿತವ್ಯಯದ ಕಾಣಿಸುತ್ತದೆ?</string>
+<string name="hint_interest">ನಿಮ್ಮ ಸಾಲದ (ವರ್ಷಕ್ಕೆ) ಬಡ್ಡಿ ದರ ಎಷ್ಟು?</string>
+<string name="hint_deposit">ಎಷ್ಟು ನೀವು ಪ್ರತಿ ತಿಂಗಳು ನಿಮ್ಮ ಉಳಿತಾಯ ಖಾತೆಗೆ ಠೇವಣಿ ಮಾಡಬಹುದು?</string>
+<string name="hint_dep_period">ಎಷ್ಟು ಬಾರಿ ನೀವು ನಿಮ್ಮ ಉಳಿತಾಯ ಖಾತೆಗೆ ಹಣ ಠೇವಣಿ ಕಾಣಿಸುತ್ತದೆ?</string>
+<string name="hint_install">ಮಾಸಿಕ ಪಾವತಿ ಸಂಖ್ಯೆ ಸಾಮಾನ್ಯವಾಗಿ ಸಮಾನ</string>
+<string name="hint_compounded">ಅವಧಿಯಲ್ಲಿ ಇದು ನಿಮ್ಮ ಉಳಿತಾಯ ಆಸಕ್ತಿ ಪ್ರಮುಖ ಪ್ರಮಾಣವನ್ನು ಸೇರಿಸಲಾಗುತ್ತದೆ. ಇದು ನಿಮ್ಮ ಬ್ಯಾಂಕ್ / ಪರಿಸ್ಥಿತಿಗಳು / ನಿಯಮಗಳು ಅವಲಂಬಿಸಿರುತ್ತದೆ. ಮೌಲ್ಯಗಳನ್ನು ತೆಗೆದುಕೊಳ್ಳಬಹುದು: ವಾರ್ಷಿಕ, ಮಾಸಿಕ ಅಥವಾ ದೈನಂದಿನ.</string>
+<string name="hint_amount_pro">ನಿಮ್ಮ ಸಾಲದ ಪ್ರಮಾಣವನ್ನು. ನೀವು ಖರೀದಿಸಲು ಬಯಸುವ ಉತ್ಪನ್ನದ ಬೆಲೆ ಸಾಮಾನ್ಯವಾಗಿ ಸಮಾನ. ಈ ಕಡ್ಡಾಯವಾದುದು.</string>
+<string name="hint_commission">ಆಯೋಗ (ಅಥವಾ ಸಾಲ ಶುಲ್ಕ) ಸಾಲದ ಮೊತ್ತದ% ಎಂದು. ತಿಳಿದಿಲ್ಲ ವೇಳೆ, ಖಾಲಿ ಬಿಡಿ.</string>
+<string name="hint_other_fees">ಸಾಲದ ಪ್ರಮಾಣವನ್ನು ಅವಲಂಬಿಸಿದೆ ಎಂದು ಎಲ್ಲಾ ಇತರ ಶುಲ್ಕಗಳು. ತಿಳಿದಿಲ್ಲ ವೇಳೆ, ಖಾಲಿ ಬಿಡಿ.</string>
+<string name="hint_total_repay">ಅಗತ್ಯವಿದೆ ಎಂದು ಒಟ್ಟು ಪ್ರಮಾಣದ ಸಾಲ ಮರುಪಾವತಿ ಮಾಡಲು.</string>
+<string name="hint_total_cost">ಸಂಯುಕ್ತ ಆಸಕ್ತಿ ಮತ್ತು ಎಲ್ಲಾ ಶುಲ್ಕಗಳು ಸೇರಿದಂತೆ ಸಾಲದ ಒಟ್ಟು ವೆಚ್ಚವನ್ನು,.</string>
+<string name="hint_cost_percent">ಒಟ್ಟು ವೆಚ್ಚ (ಮೇಲೆ) ಸಾಲದ ಮೊತ್ತದ ಶೇಕಡಾ ವ್ಯಕ್ತಪಡಿಸಬಹುದು.</string>
+<string name="hint_apr">ಸಾಲದ ಪರಿಣಾಮಕಾರಿ (ನಿಜವಾದ) ವಾರ್ಷಿಕ ಬಡ್ಡಿ ದರ. ಇದು ಸಾಲದ ಮೊತ್ತದ ಶೇಕಡವಾರು ಒಟ್ಟು ವೆಚ್ಚಕ್ಕೆ ಸಮನಾಗಿರುತ್ತದೆ.</string>
+<string name="hint_payment">ಪ್ರತಿ ಕಂತು (ಮಾಸಿಕ) ಪ್ರಮಾಣವನ್ನು. ನೀವು "ಶೇಕಡಾವಾರು ದರ" ಖಾಲಿ ಮಾಡದೆ, ಈ ಕ್ಷೇತ್ರದಲ್ಲಿ ತುಂಬಲು ಅಗತ್ಯವಿಲ್ಲ. ಖಾಲಿ ಬಿಟ್ಟರೆ, ಇದು ಗುಂಡಿಯನ್ನು ಒತ್ತುವ ನಂತರ ಲೆಕ್ಕಾಚಾರ ಮಾಡಲಾಗುತ್ತದೆ.</string>
+
+<string name="information_1">ಈ ಕ್ಯಾಲ್ಕುಲೇಟರ್ ನೀವು ಸಂಯುಕ್ತ ಬಡ್ಡಿದರದ ರಿಂದ ಮಾಡುತ್ತದೆ ಭವಿಷ್ಯದಲ್ಲಿ ನಿಮ್ಮ ಉಳಿತಾಯ ಪ್ರಮಾಣವನ್ನು, ಹಾಗೆಯೇ ಲಾಭ, ಕಂಡುಹಿಡಿಯಲು ಅನುಮತಿಸುತ್ತದೆ. ನೀವು ಕೆಳಗಿನ ಮೌಲ್ಯಗಳು ತಿಳಿದಿರುವ ಊಹಿಸುತ್ತದೆ:</string>
+<string name="information_2">ಈ ಕ್ಯಾಲ್ಕುಲೇಟರ್ ನಿಮ್ಮ ಗುರಿ ಪ್ರಮಾಣವನ್ನು ಮಿತವ್ಯಯದ ಅಗತ್ಯವಿದೆ ಇದು ಸಮಯ, ಅವಧಿಯಲ್ಲಿ ನಿರ್ಧರಿಸಲು ಅವಕಾಶ. ನೀವು ಕೆಳಗಿನ ಒದಗಿಸಲು ಊಹಿಸುತ್ತದೆ:</string>
+<string name="information_3">ಇಲ್ಲಿ ನೀವು ಉಳಿತಾಯ ನಿಮ್ಮ ಗುರಿ ತಲುಪಲು ಸಲುವಾಗಿ ಪ್ರತಿ ತಿಂಗಳು ಬೆಲೆಯನ್ನು ಹೊಂದಿರುವ ಪ್ರಮಾಣದ, ಇದು ಮಾಸಿಕ ಠೇವಣಿ, ಅಳೆಯಬಹುದಾಗಿದೆ. ಇದು ಈ ಕೆಳಗಿನ ಮಾಹಿತಿ ಅಗತ್ಯವಿದೆ:</string>
+<string name="information_4">ಇದು ನಿಮ್ಮ ಗುರಿ ಪ್ರಮಾಣವನ್ನು ತಲುಪಲು ಸಲುವಾಗಿ, ಮಿತವ್ಯಯದ ಅಗತ್ಯವಿದೆ ಇದು ಬಡ್ಡಿ ದರ, ಕಂಡುಹಿಡಿಯಲು ಅನುಮತಿಸುತ್ತದೆ. ನೀವು ಒದಗಿಸಬೇಕಾಗುತ್ತದೆ:</string>
+<string name="information_5">ಈ ಸರಳ ಕ್ಯಾಲ್ಕುಲೇಟರ್ ಧನ್ಯವಾದಗಳು ನಿಮ್ಮ ಸಾಲದ ಪ್ರತಿ ಕಂತು ಮೊತ್ತವನ್ನು ನಿರ್ಧರಿಸಲು, ಮತ್ತು ನಿಮ್ಮ ಕರೆನ್ಸಿ ಮತ್ತು ಸಾಲದ ಮೊತ್ತದ ಶೇಕಡಾವಾರು ಅದರ ಒಟ್ಟು ವೆಚ್ಚ ಲೆಕ್ಕ ಸಾಧ್ಯವಾಗುತ್ತದೆ. ನೀವು ತಿಳಿದುಕೊಳ್ಳಬೇಕಾದ ಎಲ್ಲಾ ಹೊಂದಿದೆ:</string>
+<string name="information_6">ನಿಮ್ಮ ಖರೀದಿಗಾಗಿ ಸಾಲವನ್ನು ಪಡೆಯಲು ಯೋಜನೆ ಇದ್ದರೆ, ನೀವು ಪರಿಣಾಮಕಾರಿ (ನಿಜವಾದ) ವಾರ್ಷಿಕ ಶೇಕಡಾವಾರು ದರ ಹಾಗೂ ಭಾಗವಹಿಸುವ ಎಲ್ಲಾ ವೆಚ್ಚವನ್ನು ಲೆಕ್ಕ ಮಾಡಬಹುದು. ಇದು ಮೊದಲ ನೀವು ಸಾಲ ಮತ್ತು ಮಾಸಿಕ ಕಂತುಗಳಲ್ಲಿ ಪ್ರಮಾಣವನ್ನು ಹಾಗೂ ಒಟ್ಟು ವೆಚ್ಚವನ್ನು ಲೆಕ್ಕ ಮಾಡುತ್ತದೆ ಅಪ್ಲಿಕೇಶನ್ ಒದಗಿಸಿದ ಅತ್ಯಲ್ಪ (ವಾರ್ಷಿಕ) ಶೇಕಡಾವಾರು ದರ ನಮೂದಿಸಿ ಅಗತ್ಯವಿದೆ, ಎರಡು ವಿಧಾನಗಳಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ. ಎರಡನೇ ಕ್ರಮದಲ್ಲಿ, ನೀವು (ಕೆಲವೊಮ್ಮೆ ಒಂದು ವ್ಯಾಪಾರಿ ಮಂಡಿಸಿದ) ಮಾಸಿಕ ಕಂತು ಪ್ರಮಾಣವನ್ನು ನಮೂದಿಸಿ ಅಗತ್ಯವಿದೆ, ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್ ನೀವು ಶೇಕಡಾವಾರು ಮತ್ತು ವೆಚ್ಚವನ್ನು ಲೆಕ್ಕ ಮಾಡುತ್ತದೆ.</string>
+
+<string name="years">ವರ್ಷಗಳ</string>
+<string name="months">ತಿಂಗಳ</string>
+<string name="days">ದಿನಗಳ</string>
+<string-array name="kapitalizacja">
+<item>ಡೈಲಿ</item>
+<item>ಸಾಪ್ತಾಹಿಕ</item>
+<item>ಮಾಸಿಕ</item>
+<item>ಪ್ರತಿ 3 ತಿಂಗಳ</item>
+<item>ಪ್ರತಿ 6 ತಿಂಗಳ</item>
+<item>ವಾರ್ಷಿಕ</item>
+</string-array>
+<string-array name="okres">
+<item>ತಿಂಗಳ</item>
+<item>ವರ್ಷಗಳ</item>
+</string-array>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">ಇಲ್ಲಿ</string>
+<string name="profit_percent">ಒಟ್ಟು ನಿಕ್ಷೇಪಗಳ% ಎಂದು</string>
+<string name="that_is">ಎಂದು</string>
+<string name="of_deposit">ಒಟ್ಟು ನಿಕ್ಷೇಪಗಳ</string>
+<string name="config">ಸಂರಚನೆ</string>
+<string name="help">ಸಹಾಯ</string>
+<string name="info">ಮಾಹಿತಿ</string>
+<string name="month">ತಿಂಗಳು</string>
+<string name="hello_world">ಹಲೋ ವರ್ಲ್ಡ್!</string>
+<string name="menu_settings">ಸೆಟ್ಟಿಂಗ್ಗಳು</string>
+
+</resources>

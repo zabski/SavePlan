@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Pinjaman dan Tabungan</string>
+<string name="app_name2">Pinjaman dan investasi</string>
+<string name="menu_title">Apa yang Anda ingin menghitung?</string>
+<string name="SavingCalc">Nilai masa depan dari tabungan</string>
+<string name="PeriodCalc">Periode tabungan</string>
+<string name="DepositCalc">Jumlah deposito biasa</string>
+<string name="IntrestCalc">Tingkat suku bunga tabungan</string>
+<string name="LoanCalc">Biaya pinjaman dan angsuran</string>
+<string name="LoanCalcPro">Nilai prosentase tahunan pinjaman</string>
+<string name="info">Informasi</string>
+<string name="help_translate">Membantu menerjemahkan aplikasi ini</string>
+<string name="rate_app">Menilai aplikasi ini!</string>
+<string name="feedback">Berikan tanggapan Anda</string>
+<string name="feedback_prompt">Hei, Anda ingin memberikan umpan balik sehingga kami dapat meningkatkan pengalaman Anda?</string>
+<string name="opinion">Pendapat</string>
+<string name="loan_amount">Jumlah awal</string>
+<string name="loan_amt">Jumlah Pinjaman</string>
+<string name="percentage">Tingkat persentase</string>
+<string name="period">Periode tabungan</string>
+<string name="saving">Setoran bulanan</string>
+<string name="capitalization">Bunga majemuk</string>
+<string name="deposit_period">Frekuensi deposito</string>
+<string name="target_amount">Target Jumlah</string>
+<string name="total_deposit">Total Deposit</string>
+<string name="need_percentage">Anda harus menyimpan di tingkat persentase (per tahun)</string>
+<string name="need_gain">Anda perlu untuk mendapatkan</string>
+<string name="period_deposit">Setiap periode Anda harus menyimpan</string>
+<string name="total">Disimpan Jumlah</string>
+<string name="profit">Laba / sebagai% dari total deposit</string>
+<string name="fill_in">Silahkan isi semua field input</string>
+<string name="required_period">Periode diperlukan tabungan</string>
+<string name="percent">Tingkat persentase (per tahun)</string>
+<string name="payments">Jumlah angsuran</string>
+<string name="payment_amount">Jumlah angsuran</string>
+<string name="each_month">(yang harus dibayar setiap bulan)</string>
+<string name="total_cost">Total Biaya</string>
+<string name="total_cost_">Total Biaya /</string>
+<string name="cost_percent">Sebagai% dari jumlah pinjaman</string>
+<string name="commission">Komisi</string>
+<string name="other_fees">Biaya lain</string>
+<string name="annual_percent_rate">Tingkat Persentase Tahunan</string>
+<string name="total_repay">Total untuk membayar</string>
+<string name="leave_one_of_two">Meninggalkan satu kosong: Persentase, Jumlah angsuran. Lihat petunjuk di bawah ini.</string>
+<string name="deposit_calc">Hitung jumlah deposit</string>
+<string name="savings_calc">Hitung jumlah tabungan</string>
+<string name="period_calc">Hitung periode tabungan</string>
+<string name="intrest_calc">Menghitung tingkat bunga</string>
+<string name="loan_calc">Hitung angsuran pinjaman</string>
+<string name="submit">Menghitung</string>
+<string name="clear">Batal Semua</string>
+<string name="del">Hapus</string>
+<string name="show">Menunjukkan</string>
+<string name="go">Pergi</string>
+<string name="exit">Keluar</string>
+<string name="cancel">Membatalkan</string>
+<string name="ok">Oke</string>
+<string name="settings">Pengaturan</string>
+<string name="go_to_menu">Terima dan Tutup</string>
+<string name="choose_currency">Pilih mata uang</string>
+<string name="instructions">Instruksi</string>
+<string name="see_details">Untuk instruksi gulir ke bawah</string>
+<string name="results">Hasil</string>
+<string name="hint_amount">Jumlah pinjaman Anda.</string>
+<string name="hint_principal">Berapa banyak yang Anda miliki sekarang?</string>
+<string name="hint_target">Berapa banyak yang Anda ingin menyimpan?</string>
+<string name="hint_period">Berapa lama Anda berencana untuk menyimpan?</string>
+<string name="hint_percent">Pada berapa persen tingkat akan menghemat?</string>
+<string name="hint_interest">Apa adalah tingkat bunga (per tahun) dari pinjaman Anda?</string>
+<string name="hint_deposit">Berapa banyak yang dapat anda deposit ke rekening tabungan Anda setiap bulan?</string>
+<string name="hint_dep_period">Seberapa sering Anda akan deposit uang ke rekening tabungan Anda?</string>
+<string name="hint_install">Biasanya sama dengan jumlah pembayaran bulanan</string>
+<string name="hint_compounded">Masa di mana kepentingan tabungan Anda akan ditambahkan ke jumlah pokok. Hal ini tergantung pada bank Anda dan / atau peraturan dana pensiun / tabungan. Dapat mengambil nilai-nilai: tahunan, bulanan dan harian.</string>
+<string name="hint_amount_pro">Jumlah pinjaman Anda. Biasanya sama dengan harga dari produk yang Anda ingin membeli. Bidang ini diperlukan.</string>
+<string name="hint_commission">Komisi (atau biaya pinjaman) sebagai% dari jumlah pinjaman. Jika tidak diketahui, biarkan kosong.</string>
+<string name="hint_other_fees">Semua biaya lain yang tidak tergantung pada jumlah pinjaman. Jika tidak diketahui, biarkan kosong.</string>
+<string name="hint_total_repay">Jumlah total yang harus dibayar kembali ke pemberi pinjaman.</string>
+<string name="hint_total_cost">Total biaya pinjaman, termasuk bunga majemuk dan semua biaya.</string>
+<string name="hint_cost_percent">Total biaya (seperti di atas) dinyatakan sebagai persen dari jumlah pinjaman.</string>
+<string name="hint_apr">(Real) suku bunga efektif tahunan pinjaman termasuk biaya total.</string>
+<string name="hint_payment">Jumlah masing-masing angsuran (bulanan) Anda. Anda tidak perlu mengisi bidang ini, kecuali jika Anda meninggalkan "Tingkat Persentase" kosong. Jika dibiarkan kosong, maka akan dihitung setelah menekan tombol.</string>
+<string name="information_1">Kalkulator ini memungkinkan Anda untuk mengetahui jumlah masa depan tabungan Anda serta keuntungan yang akan Anda buat bunga bentuk majemuk. Ini mengasumsikan Anda tahu berikut:</string>
+<string name="information_2">Kalkulator ini akan membiarkan Anda menentukan jangka waktu yang diperlukan untuk menyimpan sejumlah target Anda. Ini mengasumsikan Anda memberikan hal berikut:</string>
+<string name="information_3">Di sini Anda dapat menghitung setoran bulanan, yang merupakan jumlah yang Anda akan perlu untuk menyimpan setiap bulan untuk mencapai tujuan tabungan Anda. Ini akan membutuhkan data sebagai berikut:</string>
+<string name="information_4">Hal ini memungkinkan Anda untuk mengetahui tingkat bunga di mana Anda akan perlu menabung, untuk mencapai jumlah target Anda. Anda akan perlu menyediakan:</string>
+<string name="information_5">Berkat kalkulator sederhana ini Anda akan dapat menentukan jumlah setiap angsuran pinjaman Anda, dan menghitung biaya total itu dalam mata uang Anda dan sebagai persentase dari jumlah pinjaman. Semua yang perlu Anda ketahui adalah:</string>
+<string name="information_6">Jika Anda berencana untuk mengambil pinjaman untuk pembelian Anda, Anda dapat menghitung semua biaya yang terlibat serta efektif (real) Tingkat Persentase Tahunan. Ia bekerja dalam dua mode, dalam pertama Anda harus memasukkan nominal (tahunan) tingkat persentase yang diberikan oleh pemberi pinjaman dan aplikasi akan menghitung jumlah angsuran bulanan serta total biaya. Dalam modus kedua, Anda harus memasukkan jumlah angsuran bulanan (kadang-kadang disajikan oleh pedagang), dan aplikasi akan menghitung persentase dan biaya untuk Anda.</string>
+<string name="years">Tahun</string>
+<string name="months">Bulan</string>
+<string name="days">Hari-hari</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string-array name="kapitalizacja">
+<item>Sehari-hari</item>
+<item>Mingguan</item>
+<item>Bulanan</item>
+<item>Setiap 3 bulan</item>
+<item>Setiap 6 bulan</item>
+<item>Tahunan</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Bulan</item>
+<item>Tahun</item>
+</string-array>
+</resources>

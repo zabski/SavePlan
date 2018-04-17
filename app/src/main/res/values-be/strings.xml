@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Крэдыты і зберажэнні</string>
+<string name="app_name2">Крэдыты і інвестыцыі</string>
+<string name="menu_title">Што вы хочаце, каб вылічыць?</string>
+<string name="SavingCalc">Будучая кошт зберажэнняў</string>
+<string name="PeriodCalc">Перыяд эканоміі</string>
+<string name="DepositCalc">Колькасць рэгулярных укладаў</string>
+<string name="IntrestCalc">Працэнтная стаўка зберажэнняў</string>
+<string name="LoanCalc">Кошт крэдыту і растэрміноўкі</string>
+<string name="LoanCalcPro">Гадавая працэнтная стаўка крэдыту</string>
+
+<string name="action_settings">Налады</string>
+<string name="info">Інфармацыя</string>
+<string name="rate_app">Ацаніць гэта дадатак!</string>
+<string name="feedback">Выказаць сваё меркаванне</string>
+<string name="feedback_prompt">Добры дзень, вы хацелі б адправіць нам сваё меркаванне, так што мы маглі б палепшыць гэта дадатак для вас?</string>
+<string name="opinion">Меркаванне</string>
+
+<string name="loan_amount">Першапачатковая сума</string>
+<string name="loan_amt">Сума крэдыту</string>
+<string name="percentage">Працэнтная стаўка</string>
+<string name="period">Перыяд эканоміі</string>
+<string name="saving">Штомесячны дэпазіт</string>
+<string name="capitalization">Цікавасць пагаршаецца</string>
+<string name="deposit_period">Частата радовішчаў</string>
+<string name="target_amount">Мэтавае колькасць</string>
+<string name="total_deposit">Усяго Дэпазіт</string>
+
+<string name="need_percentage">Вы павінны эканоміць на працэнтнай стаўцы (у год)</string>
+<string name="need_gain">Вы павінны зарабіць</string>
+<string name="period_deposit">У кожным перыядзе неабходна эканоміць</string>
+<string name="total">Эканамічнасць Сума</string>
+<string name="profit">Прыбытак / у% ад агульнага дэпазіту</string>
+<string name="fill_in">Калі ласка, запоўніце ўсе палі ўводу</string>
+<string name="required_period">Патрабуецца перыяд эканоміі</string>
+<string name="percent">Працэнтная стаўка (у год)</string>
+<string name="payments">Колькасць плацяжоў</string>
+<string name="payment_amount">Растэрміноўка Сума</string>
+<string name="each_month">(Аплачваецца кожны месяц)</string>
+<string name="total_cost">Агульны кошт /</string>
+<string name="cost_percent">У% ад сумы крэдыту</string>
+<string name="commission">Камісія / за дадатковую плату</string>
+<string name="other_fees">Іншыя зборы</string>
+<string name="annual_percent_rate">Гадавая працэнтная стаўка</string>
+<string name="total_repay">Усяго на пагашэнне</string>
+<string name="leave_one_of_two">Пакіньце пустым, адно з наступнага: Працэнт, сумы ўнёску. Глядзіце інструкцыі ніжэй.</string>
+
+<string name="deposit_calc">Разлічыць суму ўкладу</string>
+<string name="savings_calc">Разлічыць суму зберажэнняў</string>
+<string name="period_calc">Разлічыць эканомны перыяд</string>
+<string name="intrest_calc">Разлічыць працэнтную стаўку</string>
+<string name="loan_calc">Разлічыць крэдыту растэрміноўку</string>
+
+<string name="submit">Вылічаць</string>
+<string name="clear">Ачысціць ўсе</string>
+<string name="del">Выдаляць</string>
+<string name="show">Шоў</string>
+<string name="go">Ісці</string>
+<string name="exit">Выхад</string>
+<string name="cancel">Адмяніць</string>
+<string name="ok">Добра</string>
+<string name="settings">Налады</string>
+<string name="go_to_menu">Прыняць і зачыніць</string>
+<string name="choose_currency">Выберыце валюту</string>
+
+<string name="instructions">Інструкцыі</string>
+<string name="see_details">Пракруціць ўніз, каб убачыць інструкцыі</string>
+<string name="results">Вынікі</string>
+<string name="hint_amount">Сума Вашага крэдыту.</string>
+<string name="hint_principal">Колькі ў вас зараз?</string>
+<string name="hint_target">Колькі вы хочаце зэканоміць?</string>
+<string name="hint_period">Як доўга вы плануеце эканоміць?</string>
+<string name="hint_percent">Па якой стаўцы адсоткавага вы эканоміць?</string>
+<string name="hint_interest">Колькі каштуе працэнтная стаўка (у год) вашага крэдыту?</string>
+<string name="hint_deposit">Як шмат вы можаце папоўніць свой ашчадны рахунак кожны месяц?</string>
+<string name="hint_dep_period">Як часта вы ўносіце грошы на свой ашчадны рахунак?</string>
+<string name="hint_install">Звычайна роўна ліку штомесячных плацяжоў</string>
+<string name="hint_compounded">Перыяд, у якім цікавасць вашых зберажэнняў дадаецца да асноўнай суме. Гэта залежыць ад вашага банка / ўмовы / правілаў. Можа прымаць значэння: штогод, штомесяц або штодня.</string>
+<string name="hint_amount_pro">Сума Вашага крэдыту. Звычайна роўны цане прадукту, які вы жадаеце набыць. Гэта поле абавязкова да запаўнення.</string>
+<string name="hint_commission">Камісія (або плата крэдыту) у% ад сумы крэдыту. Калі не вядома, пакіньце поле пустым.</string>
+<string name="hint_other_fees">Ўсе іншыя плацяжы, якія не залежаць ад сумы крэдыту. Калі не вядома, пакіньце поле пустым.</string>
+<string name="hint_total_repay">Агульная сума, якую трэба будзе вернута крэдытору.</string>
+<string name="hint_total_cost">Агульны кошт крэдыту, у тым ліку складаных працэнтаў і ўсіх збораў.</string>
+<string name="hint_cost_percent">Агульны кошт (як паказана вышэй), выяўленая ў працэнтах ад сумы крэдыту.</string>
+<string name="hint_apr">Эфектыўная (рэальная) працэнтная стаўка па крэдыце. Яна роўная агульнай кошту, выказанае ў працэнтах ад сумы крэдыту.</string>
+<string name="hint_payment">Сума кожнага плацяжу (штомесяц). Вам не трэба запаўняць гэтае поле, калі вы не пакінулі "Працэнтная стаўка" пустым. Калі пакінуць пустым, то будуць разлічаны пасля націску на кнопку.</string>
+
+<string name="information_1">Гэты калькулятар дазваляе даведацца колькасць вашых зберажэнняў у будучыні, а таксама прыбытак, якую вы складзе ад стаўкі адсотка. Яна мяркуе, што вы ведаеце наступныя значэнні:</string>
+<string name="information_2">Гэты калькулятар дазволіць вам вызначыць перыяд часу, які неабходны для эканоміі вашага мэтавага суму. Мяркуецца, што вы даць наступнае:</string>
+<string name="information_3">Тут вы можаце разлічыць штомесячны плацёж, які ўяўляе сабой суму, якую вы павінны будзеце эканоміць кожны месяц для таго, каб дасягнуць сваёй мэты зберажэнняў. Для гэтага спатрэбіцца наступныя дадзеныя:</string>
+<string name="information_4">Яна дазваляе даведацца працэнтную стаўку, пры якой вам трэба будзе эканоміць, каб дасягнуць вашай мэты суму. Вам трэба будзе прадаставіць:</string>
+<string name="information_5">Дзякуючы гэтай простай калькулятара Вы зможаце вызначыць колькасць кожнага ўзносу вашага крэдыту, і вылічыць яго агульную кошт у валюце і ў працэнтах ад сумы крэдыту. Усё, што вам трэба ведаць:</string>
+<string name="information_6">Калі вы плануеце ўзяць крэдыт для пакупак, можна разлічыць ўсе выдаткі, звязаныя, а таксама эфектыўнага (рэальнай) гадавы працэнтнай стаўкі. Ён працуе ў двух рэжымах, у спачатку павінны ўвайсці ў намінальную (гадавы) працэнтную стаўку, прадстаўленую крэдыторам і дадатак будзе разлічыць суму штомесячных узносаў, а таксама агульныя выдаткі. У другім рэжыме, неабходна ўвесці суму штомесячнага ўнёску (часам прадстаўленага купца), і дадатак будзе разлічыць адсотак і цэны для вас.</string>
+
+<string name="years">Гады</string>
+<string name="months">Месяцы</string>
+<string name="days">Дзён</string>
+<string-array name="kapitalizacja">
+<item>Штодня</item>
+<item>Штотыдзень</item>
+<item>Штомесяц</item>
+<item>Кожныя 3 месяцы</item>
+<item>Кожныя 6 месяцаў</item>
+<item>Гадавы</item>
+</string-array>
+<string-array name="okres">
+<item>Месяцы</item>
+<item>Гады</item>
+</string-array>
+
+
+    <string name="title_activity_loan_calc">LoanCalc</string>
+    <string name="enter_here">Вось</string>
+    <string name="profit_percent">У% ад агульнага аб\'ёму дэпазітаў</string>
+    <string name="that_is">Гэта значыць</string>
+    <string name="of_deposit">Ад агульнай сумы укладаў</string>
+    <string name="config">Канфігурацыя</string>
+    <string name="help">Дапамажыце</string>
+
+    <string name="month">Месяц</string>
+    <string name="hello_world">Прывітанне, свет!</string>
+    <string name="menu_settings">Налады</string>
+
+    </resources>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Nem økonomi af huset</string>
+<string name="app_name2">Lån og investeringer</string>
+<string name="menu_title">Hvad vil du ønsker at beregne?</string>
+<string name="SavingCalc">Fremtidige værdi af opsparing</string>
+<string name="PeriodCalc">Opsparingsperiode</string>
+<string name="DepositCalc">Mængden af regelmæssige indskud</string>
+<string name="IntrestCalc">Rente</string>
+<string name="LoanCalc">Mængden af ​​afdrag på et lån</string>
+<string name="action_settings">Indstillinger</string>
+<string name="info">Oplysninger</string>
+<string name="loan_amount">Oprindeligt beløb</string>
+<string name="loan_amt">Størrelsen af ​​lånet</string>
+<string name="percentage">Procentuel (per år)</string>
+<string name="period">Opsparingsperiode</string>
+<string name="saving">Månedlig indbetaling</string>
+<string name="capitalization">Renter forværres</string>
+<string name="deposit_period">Frekvens af indskud</string>
+<string name="target_amount">Målbeløb</string>
+<string name="total_deposit">Samlet indbetaling</string>
+<string name="need_percentage">Du bliver nødt til at spare på omkostninger i procent (per år)</string>
+<string name="need_gain">Du bliver nødt til at tjene</string>
+<string name="period_deposit">Hver periode vil du nødt til at deponere</string>
+<string name="total">Beløb gemt</string>
+<string name="profit">Overskud / i% af samlede indlån</string>
+<string name="fill_in">Udfyld alle indtastningsfelter</string>
+<string name="required_period">Nødvendig periode besparelse</string>
+<string name="percent">Procentuel (per år)</string>
+<string name="payments">Antal rater</string>
+<string name="payment_amount">Mængden af ​​afdrag</string>
+<string name="each_month">(der skal betales hver måned)</string>
+<string name="total_cost">Samlede omkostninger</string>
+<string name="total_cost_">Samlede omkostninger/</string>
+<string name="cost_percent">I% af lånebeløbet</string>
+<string name="deposit_calc">Beregn mængden af ​​depositum</string>
+<string name="savings_calc">Beregn værdien af ​​opsparing</string>
+<string name="period_calc">Beregn opsparingsperiode</string>
+<string name="intrest_calc">Beregn rente</string>
+<string name="loan_calc">Beregn værdien af ​​rater</string>
+<string name="submit">Beregn</string>
+<string name="clear">Ryd alle</string>
+<string name="del">Slet</string>
+<string name="show">Vis</string>
+<string name="go">Gå</string>
+<string name="exit">Afslut</string>
+<string name="settings">Indstillinger</string>
+<string name="go_to_menu">Accepter og Luk</string>
+<string name="instructions">Instruktioner</string>
+<string name="hint_amount">Mængden af dit lån.</string>
+<string name="hint_principal">Hvor meget har du nu?</string>
+<string name="hint_target">Hvor meget vil du spare?</string>
+<string name="hint_period">Hvor længe har du tænkt dig at spare?</string>
+<string name="hint_percent">På hvilken sats procentdel vil du spare?</string>
+<string name="hint_interest">Hvad er den rentesats (per år) af dit lån?</string>
+<string name="hint_deposit">Hvor meget kan du indbetale til din opsparing konto hver måned?</string>
+<string name="hint_dep_period">Hvor ofte skal du indbetale penge til din besparelse konto?</string>
+<string name="hint_install">Normalt er lig med antallet af månedlige betalinger</string>
+<string name="hint_compounded">Periode, hvor der tilsættes interesse din opsparing til hovedstolen. Det afhænger af din bank og \/ eller bestemmelser i din pension \/ besparelse planen. Det kan tage værdier fra »daglig \'til\' årligt«.</string>
+<string name="information_1">Denne regnemaskine giver dig mulighed for at finde ud af fremtidige værdi af din opsparing samt fortjeneste, at du vil gøre formular sammensat rentesats. Det forudsætter, at du kender følgende:</string>
+<string name="information_2">Denne lommeregner vil fortælle dig at bestemme, hvor lang tid, der er nødvendig for at redde din målrettede beløb. Det forudsætter, at du vil give følgende:</string>
+<string name="information_3">Her kan du beregne månedlige indbetaling, som er det beløb, du bliver nødt til at spare hver måned for at nå dit mål for besparelse. Det vil brug for følgende data:</string>
+<string name="information_4">Det giver dig mulighed for at finde ud den rentesats, hvor du bliver nødt til at spare, for at nå dine målrettede beløb. Du bliver nødt til at give:</string>
+<string name="information_5">Takket være denne enkle lommeregner vil du være i stand til at bestemme mængden af hver rate af dit lån, og beregne de samlede omkostninger ved lånet pengebeløb og som en procentdel af størrelsen af ​​lån. Alt hvad du behøver at vide er:</string>
+<string name="information_6"></string>
+<string name="years">År</string>
+<string name="months">Måneder</string>
+<string name="days">Dage</string>
+
+
+    <string name="LoanCalcPro">Årlige omkostninger i procent lån</string>
+    <string name="rate_app">Bedøm denne ansøgning!</string>
+    <string name="feedback">Giv din mening</string>
+    <string name="feedback_prompt">Hej, vil du gerne sende os din mening, så vi kunne forbedre dette program for dig?</string>
+    <string name="opinion">Mening</string>
+    <string name="commission">Kommissionen / tillæg</string>
+    <string name="other_fees">Andre gebyrer</string>
+    <string name="annual_percent_rate">Årlige omkostninger i procent</string>
+    <string name="total_repay">Total til at tilbagebetale</string>
+    <string name="leave_one_of_two">Efterlad tom en af: Procentdel, Mængde rate. Se vejledningen nedenfor.</string>
+
+
+
+    <string name="choose_currency">Vælg valuta</string>
+
+
+    <string name="see_details">Rul ned for at se vejledningen</string>
+    <string name="results">Resultater</string>
+
+
+    <string name="hint_amount_pro">Mængden af ​​dit lån. Sædvanligvis svarer til prisen på det produkt, du vil købe. Dette felt er påkrævet.</string>
+    <string name="hint_commission">Kommissionen (eller lån gebyr) i% af lånebeløbet. Hvis ikke er kendt, udfyldes ikke.</string>
+    <string name="hint_other_fees">Alle andre gebyrer, der ikke er afhængige af lånebeløbet. Hvis ikke er kendt, udfyldes ikke.</string>
+    <string name="hint_total_repay">Samlet beløb, der skal betales tilbage til långiveren.</string>
+    <string name="hint_total_cost">Samlede omkostninger ved lånet, herunder renters rente og alle gebyrer.</string>
+    <string name="hint_cost_percent">Samlede omkostninger (som ovenfor), udtrykt som procent af lånebeløbet.</string>
+    <string name="hint_apr">Effektiv (real) årlig rente på lånet. Det er lig med de samlede omkostninger udtrykt i procent af lånebeløbet.</string>
+    <string name="hint_payment">Mængden af ​​hver rate (månedligt). Du behøver ikke at udfylde dette felt, medmindre du forlod "procent" blank. Hvis tomt, vil det blive beregnet efter tryk på knappen.</string>
+
+
+
+    <string-array name="kapitalizacja">
+<item>Daglig</item>
+<item>Ugentlig</item>
+<item>Månedligt</item>
+<item>Kvartalsvis</item>
+<item>Hver 6. måned</item>
+<item>Årligt</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Måneder</item>
+<item>År</item>
+    </string-array>     	    
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Her</string>
+<string name="profit_percent">I% af samlede indlån</string>
+<string name="that_is">Der er</string>
+<string name="of_deposit">Af det samlede indskud</string>
+	<string name="cancel">Annuller</string>
+<string name="ok">OK</string>
+<string name="config">Config</string>
+<string name="help">Hjælp</string>
+
+<string name="month">Måned</string>
+<string name="hello_world">Hej Verden!</string>
+<string name="menu_settings">Indstillinger</string>
+
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Mikopo na akiba</string>
+<string name="app_name2">Mikopo na uwekezaji</string>
+
+<string name="menu_title">Je, unataka kufanya mahesabu ya?</string>
+<string name="SavingCalc">Thamani ya baadaye ya akiba</string>
+<string name="PeriodCalc">Kipindi cha kuokoa</string>
+<string name="DepositCalc">Kiasi cha amana ya mara kwa mara</string>
+<string name="IntrestCalc">Riba ya akiba</string>
+<string name="LoanCalc">Gharama ya mkopo na awamu</string>
+<string name="LoanCalcPro">Mwaka Asilimia Kiwango cha mkopo</string>
+
+<string name="action_settings">Mipangilio</string>
+
+<string name="rate_app">Kiwango programu hii!</string>
+<string name="feedback">Kutoa maoni yako</string>
+<string name="feedback_prompt">Hello, ungependa tutumie maoni yako, ili tuweze kuboresha hii ya maombi kwa ajili yenu?</string>
+<string name="opinion">Maoni</string>
+
+<string name="loan_amount">Awali kiasi</string>
+<string name="loan_amt">Kiasi ya Mikopo</string>
+<string name="percentage">Kiwango cha asilimia</string>
+<string name="period">Kipindi cha kuokoa</string>
+<string name="saving">Kila mwezi amana</string>
+<string name="capitalization">Maslahi imezungukwa</string>
+<string name="deposit_period">Frequency ya amana</string>
+<string name="target_amount">Target Kiasi</string>
+<string name="total_deposit">Jumla ya Amana</string>
+
+<string name="need_percentage">Unahitaji economize katika asilimia kiwango (kwa mwaka)</string>
+<string name="need_gain">Unahitaji kupata</string>
+<string name="period_deposit">Katika kila kipindi unahitaji economize</string>
+<string name="total">Economized Kiasi</string>
+<string name="profit">Faida / kama% ya jumla ya amana</string>
+<string name="fill_in">Tafadhali kujaza katika nyanja zote pembejeo</string>
+<string name="required_period">Inahitajika kipindi cha kuokoa</string>
+<string name="percent">Kiwango cha asilimia (kwa mwaka)</string>
+<string name="payments">Idadi ya awamu</string>
+<string name="payment_amount">Installment Kiasi</string>
+<string name="each_month">(Kulipwa kila mwezi)</string>
+<string name="total_cost">Jumla ya Gharama /</string>
+<string name="cost_percent">Kama% ya kiasi cha mkopo</string>
+<string name="commission">Tume / surcharge</string>
+<string name="other_fees">Ada nyingine</string>
+<string name="annual_percent_rate">Mwaka Asilimia Rate</string>
+<string name="total_repay">Jumla ya kulipa</string>
+<string name="leave_one_of_two">Kuondoka tupu moja ya: Asilimia, Kiasi cha installment. Angalia maelekezo ya chini.</string>
+
+<string name="deposit_calc">Mahesabu ya amana kiasi</string>
+<string name="savings_calc">Mahesabu ya kiasi akiba</string>
+<string name="period_calc">Mahesabu ya kipindi kuokoa</string>
+<string name="intrest_calc">Mahesabu ya kiwango cha riba</string>
+<string name="loan_calc">Mahesabu ya mkopo awamu</string>
+
+<string name="submit">Mahesabu ya</string>
+<string name="clear">Wazi wote</string>
+<string name="del">Kufuta</string>
+<string name="show">Show</string>
+<string name="go">Go</string>
+<string name="exit">Toka</string>
+<string name="cancel">Kufuta</string>
+<string name="ok">Okay</string>
+<string name="settings">Mipangilio</string>
+<string name="go_to_menu">Kukubali na Close</string>
+<string name="choose_currency">Kuchagua fedha</string>
+
+<string name="instructions">Maelekezo</string>
+<string name="see_details">Kitabu chini kuona maelekezo</string>
+<string name="results">Matokeo</string>
+<string name="hint_amount">Kiasi cha mkopo wako.</string>
+<string name="hint_principal">Kiasi gani sasa?</string>
+<string name="hint_target">Kiasi gani unataka economize?</string>
+<string name="hint_period">Muda gani unaweza kupanga economize?</string>
+<string name="hint_percent">Katika kile kiwango cha asilimia wewe economize?</string>
+<string name="hint_interest">Ni kiasi gani kiwango cha riba (kwa mwaka) ya mkopo wako?</string>
+<string name="hint_deposit">Kiasi gani unaweza amana kwa akaunti yako kuokoa kila mwezi?</string>
+<string name="hint_dep_period">Ni mara ngapi, hukuiweka fedha kwa akaunti yako kuokoa?</string>
+<string name="hint_install">Kawaida ni sawa na idadi ya malipo ya kila mwezi</string>
+<string name="hint_compounded">Kipindi ambayo maslahi ya akiba yako ni aliongeza kwa kiasi kuu. Ni inategemea benki yako / hali / kanuni. Inaweza kuchukua maadili: kila mwaka, kila mwezi au kila siku.</string>
+<string name="hint_amount_pro">Kiasi cha mkopo wako. Kawaida ni sawa na bei ya bidhaa unataka kununua. Uwanja huu ni required.</string>
+<string name="hint_commission">Tume (au ada mkopo) kama% ya kiasi cha mkopo. Kama haijulikani, kuondoka tupu.</string>
+<string name="hint_other_fees">Ada mengine yote kwamba si tegemezi kwa kiasi cha mkopo. Kama haijulikani, kuondoka tupu.</string>
+<string name="hint_total_repay">Jumla ya kiasi kwamba haja ya kuwa na kulipwa kwa mkopeshaji.</string>
+<string name="hint_total_cost">Jumla ya gharama ya mkopo, ikiwa ni pamoja na kiwanja riba na ada zote.</string>
+<string name="hint_cost_percent">Jumla ya gharama (kama hapo juu) walionyesha kama asilimia ya kiasi cha mkopo.</string>
+<string name="hint_apr">Ufanisi (halisi) kila mwaka kiwango cha riba ya mkopo. Ni sawa na jumla ya gharama walionyesha kama asilimia ya kiasi cha mkopo.</string>
+<string name="hint_payment">Kiasi ya kila awamu (kila mwezi). Huna haja ya kujaza katika uwanja huu, isipokuwa wewe kushoto "kiwango cha Asilimia" tupu. Kama kushoto tupu, itakuwa mahesabu baada ya kubwa ya kifungo.</string>
+
+<string name="information_1">Calculator hii utapata kujua kiasi cha akiba yako katika siku zijazo, kama vile faida, ambayo wewe kufanya kutoka kiwanja kiwango cha riba. Inadhaniwa kuwa unajua maadili yafuatayo:</string>
+<string name="information_2">Calculator Hii basi wewe kuamua kipindi cha muda, ambayo inahitajika economize lengo yako kiasi. Inadhaniwa kutoa yafuatayo:</string>
+<string name="information_3">Hapa unaweza mahesabu ya kila mwezi amana, ambayo ni kiasi, ambayo utakuwa na economize kila mwezi ili kufikia malengo yako ya akiba. Itakuwa haja data yafuatayo:</string>
+<string name="information_4">Ni inaruhusu wewe kujua kiwango cha riba, ambayo unahitaji kubana, ili kufikia lengo yako kiasi. Unahitaji kutoa:</string>
+<string name="information_5">Shukrani kwa calculator hii rahisi wewe utakuwa na uwezo wa kuamua kiasi cha kila awamu ya mkopo wako, na mahesabu ya gharama yake ya jumla kwa fedha yako na kama asilimia ya kiasi cha mkopo. Wote unahitaji kujua ni:</string>
+<string name="information_6">Kama mpango wa kuchukua mkopo kwa ajili ya ununuzi yako, unaweza mahesabu ya gharama zote zinazohusika kama vile ufanisi (halisi) Mwaka Asilimia Rate. Ni kazi katika njia mbili, ya kwanza unahitaji kuingia majina (kwa mwaka) asilimia kiwango zinazotolewa na Taasisi na maombi mahesabu ya kiasi cha awamu ya kila mwezi pamoja na gharama ya jumla. Katika hali ya pili, unahitaji kuingia kiasi ya kila mwezi installment (wakati mwingine yaliyowasilishwa na mfanyabiashara), na maombi itakuwa mahesabu ya asilimia na gharama kwa ajili yenu.</string>
+
+<string name="years">Miaka</string>
+<string name="months">Miezi</string>
+<string name="days">Siku</string>
+<string-array name="kapitalizacja">
+<item>Daily</item>
+<item>Weekly</item>
+<item>Kila mwezi</item>
+<item>Kila baada ya miezi 3</item>
+<item>Kila baada ya miezi 6</item>
+<item>Kila mwaka</item>
+</string-array>
+<string-array name="okres">
+<item>Miezi</item>
+<item>Miaka</item>
+</string-array>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Hapa</string>
+<string name="profit_percent">Kama% ya jumla ya amana</string>
+<string name="that_is">Yaani</string>
+<string name="of_deposit">Ya jumla ya amana</string>
+<string name="config">Configuration</string>
+<string name="help">Msaada</string>
+<string name="info">Habari</string>
+<string name="month">Mwezi</string>
+<string name="hello_world">Wapendwa dunia!</string>
+<string name="menu_settings">Mipangilio</string>
+
+</resources>

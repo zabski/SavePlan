@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">სესხების და შემნახველი</string>
+
+<string name="app_name2">სესხები და ინვესტიციები</string>
+
+<string name="menu_title">რა გინდათ გამოთვლა?</string>
+<string name="SavingCalc">მომავალი ღირებულება დანაზოგების</string>
+<string name="PeriodCalc">პერიოდში გადარჩენის</string>
+<string name="DepositCalc">თანხის რეგულარული დეპოზიტების</string>
+<string name="IntrestCalc">საპროცენტო განაკვეთი შემნახველ</string>
+<string name="LoanCalc">ხარჯები სესხის და განვადებით</string>
+<string name="LoanCalcPro">წლიური საპროცენტო განაკვეთი სესხის</string>
+
+<string name="action_settings">პარამეტრები</string>
+
+<string name="rate_app">შეფასება ამ განაცხადს,</string>
+<string name="feedback">თქვენი აზრი</string>
+<string name="feedback_prompt">Hello, გსურთ გამოგვიგზავნოთ თქვენი აზრით, ასე, რომ ჩვენ შეიძლება გაუმჯობესდეს ამ განაცხადს, თქვენ?</string>
+<string name="opinion">აზრი</string>
+
+<string name="loan_amount">საწყისი თანხა</string>
+<string name="loan_amt">თანხის სესხის</string>
+<string name="percentage">საპროცენტო განაკვეთი</string>
+<string name="period">პერიოდში გადარჩენის</string>
+<string name="saving">ყოველთვიური შენატანი</string>
+<string name="capitalization">საპროცენტო ღრმავდება</string>
+<string name="deposit_period">სიხშირე დეპოზიტები</string>
+<string name="target_amount">სამიზნე სახეობა</string>
+<string name="total_deposit">სულ ანაბარი</string>
+
+<string name="need_percentage">თქვენ უნდა ეკონომია at საპროცენტო განაკვეთი (წელიწადში)</string>
+<string name="need_gain">თქვენ უნდა მიიღოთ</string>
+<string name="period_deposit">თითოეული პერიოდის თქვენ უნდა ეკონომია</string>
+<string name="total">Economized სახეობა</string>
+<string name="profit">მოგება / რადგან% -ს შენატანის</string>
+<string name="fill_in">გთხოვთ შეავსოთ ყველა შეყვანის სფეროებში</string>
+<string name="required_period">საჭირო პერიოდის გადარჩენის</string>
+<string name="percent">საპროცენტო განაკვეთი (წელიწადში)</string>
+<string name="payments">პუნქტების განვადებით</string>
+<string name="payment_amount">თანხა:</string>
+<string name="each_month">(გადაიხდება ყოველი თვის)</string>
+<string name="total_cost">სულ ღირებულება /</string>
+<string name="cost_percent">როგორც% სესხის თანხა</string>
+<string name="commission">კომისიის / საურავის</string>
+<string name="other_fees">სხვა ტარიფები</string>
+<string name="annual_percent_rate">წლიური საპროცენტო განაკვეთი</string>
+<string name="total_repay">სულ დაფარვა</string>
+<string name="leave_one_of_two">დატოვეთ ცარიელი ერთი: პროცენტი, თანხა განვადებით. იხილეთ ინსტრუქციას ქვემოთ.</string>
+
+<string name="deposit_calc">გამოთვალეთ ანაბრის თანხა</string>
+<string name="savings_calc">გამოვთვალოთ დანაზოგების ოდენობა</string>
+<string name="period_calc">გამოთვალეთ გადარჩენის ვადა</string>
+<string name="intrest_calc">გამოთვალეთ საპროცენტო განაკვეთი</string>
+<string name="loan_calc">გამოითვალეთ სესხის განვადებით</string>
+
+<string name="submit">გამოვთვალოთ</string>
+<string name="clear">წმინდა ყველა</string>
+<string name="del">წაშლა</string>
+<string name="show">შოუ</string>
+<string name="go">ტურიზმი</string>
+<string name="exit">Exit</string>
+<string name="cancel">გაუქმება</string>
+<string name="ok">Okay</string>
+<string name="settings">პარამეტრები</string>
+<string name="go_to_menu">მიიღოს და Close</string>
+<string name="choose_currency">აირჩიეთ ვალუტა</string>
+
+<string name="instructions">ინსტრუქციები</string>
+<string name="see_details">გადაფურცლეთ ქვემოთ იხილეთ ინსტრუქცია</string>
+<string name="results">შედეგები</string>
+<string name="hint_amount">თანხა თქვენი სესხის.</string>
+<string name="hint_principal">რამდენად გაქვთ ახლა?</string>
+<string name="hint_target">რამდენად გინდათ ეკონომია?</string>
+<string name="hint_period">რამდენ ხანს თქვენ აპირებთ ეკონომია?</string>
+<string name="hint_percent">რა განაკვეთით პროცენტული თქვენ ეკონომია?</string>
+<string name="hint_interest">რამდენად არის საპროცენტო განაკვეთი (წელიწადში) სესხის?</string>
+<string name="hint_deposit">რამდენად შეგიძლიათ შეიტანოს თქვენი გადარჩენის ანგარიშის ყოველი თვის?</string>
+<string name="hint_dep_period">რამდენად ხშირად თქვენ ანაბრის თანხა თქვენი გადარჩენის ანგარიშის?</string>
+<string name="hint_install">როგორც წესი, ტოლია რაოდენობის ყოველთვიური თანხის გადახდის</string>
+<string name="hint_compounded">პერიოდი, რომლის ინტერესი თქვენი დანაზოგი ემატება ძირითად თანხას. ეს დამოკიდებულია თქვენი საბანკო / პირობებში / დებულება. შეიძლება მიიღოს ღირებულებები: ყოველწლიურად, ყოველთვიურად ან ყოველდღიურად.</string>
+<string name="hint_amount_pro">თანხა თქვენი სესხის. როგორც წესი, ტოლია ფასი პროდუქტი გსურთ შეძენა. ამ სფეროში აუცილებელია.</string>
+<string name="hint_commission">კომისიის (ან სესხის საფასური) როგორც% სესხის თანხა. თუ არ არის ცნობილი, დატოვეთ ცარიელი.</string>
+<string name="hint_other_fees">ყველა სხვა საზღაური, რომელიც არ არის დამოკიდებული თანხა. თუ არ არის ცნობილი, დატოვეთ ცარიელი.</string>
+<string name="hint_total_repay">საერთო თანხა, რომელიც უნდა დაიფაროს იმ კრედიტორების.</string>
+<string name="hint_total_cost">საერთო ღირებულება სესხის, მათ შორის ნაერთის ინტერესი და ყველა გადასახადი.</string>
+<string name="hint_cost_percent">საერთო ღირებულება (როგორც ზემოთ) გამოხატული, როგორც პროცენტი სესხის თანხა.</string>
+<string name="hint_apr">ეფექტური (real) წლიური საპროცენტო განაკვეთი სესხის. ეს უდრის საერთო ღირებულება გამოიხატება როგორც პროცენტული სესხის თანხა.</string>
+<string name="hint_payment">თანხის თითოეული შენატანი (ყოველთვიური). თქვენ არ უნდა შეავსოთ ეს ველი, თუ თქვენ არ დატოვა "საპროცენტო განაკვეთი" ცარიელი. თუ მარცხენა ცარიელი, იქნება გათვლილი შემდეგ დაჭერით ღილაკს.</string>
+
+<string name="information_1">ეს კალკულატორი გაძლევთ, რათა გაირკვეს ოდენობით თქვენი დანაზოგი მომავალში, ისევე, როგორც მოგება, რომელიც თქვენ გახდის რთული ინტერესი კურსი. იგი მიიჩნევს, რომ თქვენ იცით, შემდეგ ფასეულობებს:</string>
+<string name="information_2">ეს კალკულატორი მოგცემთ დადგინდეს დროში, რომელიც არ არის საჭირო, ეკონომიის თქვენი სამიზნე ოდენობით. ეს გულისხმობს, რომ თქვენ გთავაზობთ შემდეგი:</string>
+<string name="information_3">აქ თქვენ შეგიძლიათ გამოთვლა ყოველთვიური შენატანის, რომელიც არის თანხა, რომელიც თქვენ უნდა ეკონომია ყოველი თვის რათა მიღწევა თქვენი მიზანი დანაზოგების. ის უნდა შემდეგ მონაცემებს:</string>
+<string name="information_4">ის საშუალებას გაძლევთ, რათა გაირკვეს, საპროცენტო განაკვეთი, რომელიც თქვენ უნდა ეკონომია, რათა მიაღწიოს თქვენი სამიზნე ოდენობით. თქვენ უნდა უზრუნველყოს:</string>
+<string name="information_5">მადლობა ამ მარტივი კალკულატორი თქვენ შეძლებთ, რათა დადგინდეს თანხის თითოეული შენატანი თქვენი სესხის და გამოვთვალოთ მისი საერთო ღირებულება თქვენი ვალუტა და როგორც პროცენტული სესხის თანხა. ყველა თქვენ უნდა იცოდეთ არის:</string>
+<string name="information_6">თუ თქვენ აპირებთ აიღოს სესხი შესყიდვები, შეგიძლიათ გამოთვალოთ ყველა ხარჯები ჩართული, ისევე როგორც ეფექტური (real) წლიური საპროცენტო განაკვეთი. ის მუშაობს ორ რეჟიმში, პირველ თქვენ უნდა მიუთითოთ ნომინალური (წლიური) საპროცენტო განაკვეთი უზრუნველყოფილი კრედიტორების და განაცხადის გამოთვლა რაოდენობის ყოველთვიურად, ისევე როგორც საერთო ხარჯები. მეორე რეჟიმი, თქვენ უნდა შეიყვანოთ თანხის შენატანი (ზოგჯერ წარმოდგენილი სავაჭრო), და განაცხადის გამოთვლა პროცენტული ხარჯები თქვენთვის.</string>
+
+<string name="years">წელი</string>
+<string name="months">თვის</string>
+<string name="days">დღის</string>
+<string-array name="kapitalizacja">
+<item>დღიური</item>
+<item>ყოველკვირეული</item>
+<item>ყოველთვიური</item>
+<item>ყოველ 3 თვეში</item>
+<item>ყოველ 6 თვეში</item>
+<item>ყოველწლიურად</item>
+</string-array>
+<string-array name="okres">
+<item>თვის</item>
+<item>წელი</item>
+</string-array>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">აქ</string>
+<string name="profit_percent">როგორც% ანაბრების</string>
+<string name="that_is">რომ არის</string>
+<string name="of_deposit">ანაბრების</string>
+<string name="config">კონფიგურაცია</string>
+<string name="help">დახმარება</string>
+<string name="info">ინფორმაცია</string>
+<string name="month">თვის</string>
+<string name="hello_world">Hello world!</string>
+<string name="menu_settings">პარამეტრები</string>
+
+</resources>

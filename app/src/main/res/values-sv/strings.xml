@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Lätt finanser huset</string>
+<string name="app_name2">Lån och placeringar</string>
+<string name="menu_title">Vad vill du beräkna?</string>
+<string name="SavingCalc">Framtida värde av sparande</string>
+<string name="PeriodCalc">Period sparande</string>
+<string name="DepositCalc">Mängd regelbundna insättningar</string>
+<string name="IntrestCalc">Ränta</string>
+<string name="LoanCalc">Mängd avbetalningar på ett lån</string>
+<string name="action_settings">Inställningar</string>
+<string name="info">Information</string>
+<string name="loan_amount">Initial mängd</string>
+<string name="loan_amt">Mängd Lån</string>
+<string name="percentage">Det relativa andel (per år)</string>
+<string name="period">Period sparande</string>
+<string name="saving">Månads insättning</string>
+<string name="capitalization">Intresset förvärras</string>
+<string name="deposit_period">Frekvens av insättningar</string>
+<string name="target_amount">Målbelopp</string>
+<string name="total_deposit">Totalt insättning</string>
+<string name="need_percentage">Du måste spara vid procentsats (per år)</string>
+<string name="need_gain">Du måste tjäna</string>
+<string name="period_deposit">Varje period måste du sätta in</string>
+<string name="total">Belopp sparas</string>
+<string name="profit">Vinst / i% av totala insättning</string>
+<string name="fill_in">Fyll i alla inmatningsfält</string>
+<string name="required_period">Krävs tid av sparande</string>
+<string name="percent">Det relativa andel (per år)</string>
+<string name="payments">Antal avbetalningar</string>
+<string name="payment_amount">Mängd avbetalning</string>
+<string name="each_month">(betalas varje månad)</string>
+<string name="total_cost">Total kostnad</string>
+<string name="total_cost_">Total kostnad /</string>
+<string name="cost_percent">I% av lånebeloppet</string>
+<string name="deposit_calc">Beräkna mängden deponerat</string>
+<string name="savings_calc">Beräkna värdet på besparingar</string>
+<string name="period_calc">Beräkna tid av sparande</string>
+<string name="intrest_calc">Beräkna ränta</string>
+<string name="loan_calc">Beräkna värdet av delbetalningar</string>
+<string name="submit">Beräkna</string>
+<string name="clear">Rensa alla</string>
+<string name="del">Radera</string>
+<string name="show">Visa</string>
+<string name="go">Go</string>
+<string name="exit">Utgång</string>
+<string name="settings">Inställningar</string>
+<string name="go_to_menu">Acceptera och stäng</string>
+<string name="instructions">Instruktioner</string>
+<string name="hint_amount">Mängden ditt lån.</string>
+<string name="hint_principal">Hur mycket har du nu?</string>
+<string name="hint_target">Hur mycket vill du spara?</string>
+<string name="hint_period">Hur länge planerar du att spara?</string>
+<string name="hint_percent">Vid vilken hastighet av procentsats kommer du att spara?</string>
+<string name="hint_interest">Vad är ränta (per år) av ditt lån?</string>
+<string name="hint_deposit">Hur mycket kan du sätta in på ditt sparande konto varje månad?</string>
+<string name="hint_dep_period">Hur ofta kommer du sätter in pengar på ditt sparkonto?</string>
+<string name="hint_install">Vanligtvis är lika med antalet månatliga betalningar</string>
+<string name="hint_compounded">Period där intresset för ditt sparande läggs till kapitalbeloppet. Det beror på din bank och / eller föreskrifter i din pension / frälsningsplan. Det kan ta värden från "dagligt" till "varje år".</string>
+<string name="information_1">Denna räknare kan du ta reda Framtida ditt sparande samt vinst som du kommer att göra formen förvärras ränta. Det förutsätter att du vet följande:</string>
+<string name="information_2">Räknaren kommer att låta dig bestämma tid som krävs för att rädda din riktade belopp. Det förutsätter att du kommer att ge följande:</string>
+<string name="information_3">Här kan du räkna ut månatlig insättning, är att den summa pengar du behöver spara varje månad för att nå ditt mål att rädda. Det behöver följande uppgifter:</string>
+<string name="information_4">Det kan du ta reda på den räntesats med vilken du kommer att behöva spara, för att nå din riktade belopp. Du måste ange:</string>
+<string name="information_5">Tack vare denna enkla kalkylator kommer du att kunna bestämma mängden av varje avbetalning av dina lån, och beräkna den totala kostnaden för lånet i penningvärde och i procent av det belopp av lån. Allt du behöver veta är:</string>
+<string name="information_6"></string>
+<string name="years">År</string>
+<string name="months">Månader</string>
+<string name="days">Dagar</string>
+<string name="LoanCalcPro">Effektiv ränta på lån</string>
+<string name="help_translate">Hjälpa till att översätta denna ansökan</string>
+<string name="rate_app">Betygsätt den här ansökan!</string>
+<string name="feedback">Lämna feedback</string>
+<string name="feedback_prompt">Hej, vill du ge oss feedback så att vi kan förbättra användarupplevelsen?</string>
+<string name="opinion">Yttrande</string>
+<string name="commission">Kommissionen</string>
+<string name="other_fees">Övriga avgifter</string>
+<string name="annual_percent_rate">Effektiv ränta</string>
+<string name="total_repay">Totalt att betala tillbaka</string>
+<string name="leave_one_of_two">Lämna tomt en av: Procent, avbetalning belopp. Se instruktioner nedan.</string>
+
+<string name="okay">Okay</string>
+<string name="choose_currency">Välj valuta</string>
+<string name="see_details">För instruktioner rulla ner</string>
+<string name="results">Resultat</string>
+<string name="hint_amount_pro">Mängden ditt lån. Oftast lika med priset på den produkt du vill köpa. Detta fält är tvingande.</string>
+<string name="hint_commission">Kommissionen (eller låneavgift) i% av lånebeloppet. Om inte känd, lämna tomt.</string>
+<string name="hint_other_fees">Alla andra avgifter som inte är beroende av lånebeloppet. Om inte känd, lämna tomt.</string>
+<string name="hint_total_repay">Totalt belopp som måste betalas tillbaka till långivaren.</string>
+<string name="hint_total_cost">Total kostnad för lånet, inklusive ränta och alla avgifter.</string>
+<string name="hint_cost_percent">Totala kostnader (enligt ovan) uttryckt i procent av lånebeloppet.</string>
+<string name="hint_apr">Effektiv (real) årlig ränta på lånet, inklusive totalkostnaden.</string>
+<string name="hint_payment">Mängden av var och en av er (månadsvis) avbetalning. Du behöver inte fylla i detta fält, om du lämnade "procentsats" tomt. Om det lämnas tomt, kommer det att beräknas efter att du tryckt på knappen.</string>
+
+    <string-array name="kapitalizacja">
+<item>Dagligen</item>
+<item>Veckovis</item>
+<item>Månads</item>
+<item>Kvartalsvis</item>
+<item>Varje 6 månader</item>
+<item>Årlig</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Månader</item>
+<item>År</item>
+    </string-array>     	    
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Här</string>
+<string name="profit_percent">I% av totala insättning</string>
+<string name="that_is">Som är</string>
+<string name="of_deposit">Av den totala insättning</string>
+<string name="cancel">Avbryt</string>
+<string name="ok">OK</string>
+<string name="config">Konfig</string>
+<string name="help">Hjälp</string>
+<string name="month">Månad</string>
+<string name="hello_world">Hej världen!</string>
+<string name="menu_settings">Inställningar</string>
+
+</resources>

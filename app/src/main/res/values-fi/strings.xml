@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Lainat ja säästöt</string>
+<string name="app_name2">Lainat ja sijoitukset</string>
+<string name="menu_title">Mitä haluat laskea?</string>
+<string name="SavingCalc">Tulevaisuuden arvo säästöt</string>
+<string name="PeriodCalc">Toimenpiteen säästö</string>
+<string name="DepositCalc">Määrä säännöllisiä talletuksia</string>
+<string name="IntrestCalc">Korko säästöjen</string>
+<string name="LoanCalc">Kustannukset laina ja lyhennykset</string>
+<string name="LoanCalcPro">Todellinen vuosikorko lainan</string>
+<string name="info">Tiedot</string>
+<string name="help_translate">Auta kääntämään tämän sovelluksen</string>
+<string name="rate_app">Arvioi tämä app!</string>
+<string name="feedback">Anna palautetta</string>
+<string name="feedback_prompt">Hei, haluaisit antaa meille palautetta, jotta voimme parantaa kokemustasi?</string>
+<string name="opinion">Lausunto</string>
+<string name="loan_amount">Alkuperäinen määrä</string>
+<string name="loan_amt">Lainamäärä</string>
+<string name="percentage">Prosenttiosuutta</string>
+<string name="period">Toimenpiteen säästö</string>
+<string name="saving">Kuukauden talletus</string>
+<string name="capitalization">Korot pahentaa</string>
+<string name="deposit_period">Taajuus talletusten</string>
+<string name="target_amount">Target Määrä</string>
+<string name="total_deposit">Talletukset yhteensä</string>
+<string name="need_percentage">Sinun täytyy säästää prosenttimäärä (vuodessa)</string>
+<string name="need_gain">Sinun täytyy ansaita</string>
+<string name="period_deposit">Jokainen jakso sinun pitää tallentaa</string>
+<string name="total">Tallennettu Määrä</string>
+<string name="profit">Voitto / kuin% kaikista talletus</string>
+<string name="fill_in">Täytä kaikki tietokentät</string>
+<string name="required_period">Tarvittava säästö</string>
+<string name="percent">Prosenttiosuutta (vuodessa)</string>
+<string name="payments">Lukumäärä erässä</string>
+<string name="payment_amount">Lyhennys Määrä</string>
+<string name="each_month">(maksetaan kuukausittain)</string>
+<string name="total_cost">Kokonaiskustannukset</string>
+<string name="total_cost_">Kokonaiskustannukset /</string>
+<string name="cost_percent">Kuin% lainan määrästä</string>
+<string name="commission">Provisio</string>
+<string name="other_fees">Muut maksut</string>
+<string name="annual_percent_rate">Vuosikorko</string>
+<string name="total_repay">Yhteensä takaisinmaksuun</string>
+<string name="leave_one_of_two">Jätä tyhjä yksi: Prosentti, Installment Määrä. Katso ohjeet alla.</string>
+<string name="deposit_calc">Laske talletus määrä</string>
+<string name="savings_calc">Laske säästöihin</string>
+<string name="period_calc">Laske säästää ajan</string>
+<string name="intrest_calc">Laske korko</string>
+<string name="loan_calc">Laske lainojen lyhennykset</string>
+<string name="submit">Laskea</string>
+<string name="clear">Tyhjennä kaikki</string>
+<string name="del">Poistaa</string>
+<string name="show">Show</string>
+<string name="go">Mennä</string>
+<string name="exit">Poistua</string>
+<string name="cancel">Peruuttaa</string>
+<string name="ok">Kunnossa</string>
+<string name="settings">Asetukset</string>
+<string name="go_to_menu">Hyväksy ja sulje</string>
+<string name="choose_currency">Valitse valuutta</string>
+<string name="instructions">Ohjeet</string>
+<string name="see_details">Ohjeet selaa</string>
+<string name="results">Tulokset</string>
+<string name="hint_amount">Määrä lainaa.</string>
+<string name="hint_principal">Kuinka paljon teillä on nyt?</string>
+<string name="hint_target">Kuinka paljon haluat säästää?</string>
+<string name="hint_period">Kuinka kauan aiot säästää?</string>
+<string name="hint_percent">Millä prosenttiosuutta säästät?</string>
+<string name="hint_interest">Mikä on korko (per vuosi) lainaa?</string>
+<string name="hint_deposit">Kuinka paljon voit tallettaa rahaa säästöön tilille kuukausittain?</string>
+<string name="hint_dep_period">Kuinka usein tallettaa rahaa sinun säästää tilille?</string>
+<string name="hint_install">Yleensä sama määrä kuukausimaksut</string>
+<string name="hint_compounded">Ajanjakso, jolloin etu säästösi lisätään lainapääoma. Se riippuu pankista ja / tai eläke / säästö suunnitelma sääntelyä. Voi ottaa arvot: vuosittain, kuukausittain ja päivittäin.</string>
+<string name="hint_amount_pro">Määrä lainaa. Yleensä sama -hinnasta haluat ostaa. Tämä kenttä on pakollinen.</string>
+<string name="hint_commission">Komission (tai lainan maksu) kuin% lainan määrästä. Jos ei tiedetä, jätä tyhjäksi.</string>
+<string name="hint_other_fees">Kaikki muut maksut, jotka eivät ole riippuvaisia lainan määrästä. Jos ei tiedetä, jätä tyhjäksi.</string>
+<string name="hint_total_repay">Kokonaismäärä, joka täytyy maksaa takaisin lainanantajalle.</string>
+<string name="hint_total_cost">Kokonaiskustannukset laina, mukaan lukien korkoa korolle ja kaikki maksut.</string>
+<string name="hint_cost_percent">Kokonaiskustannukset (kuten yllä) ilmaistuna prosenttia lainan määrästä.</string>
+<string name="hint_apr">Tehokas (real) vuotuinen korko Laina kokonaiskustannuksista.</string>
+<string name="hint_payment">Kunkin oman (kuukausittain) erä. Sinun ei tarvitse täyttää tällä alalla, ellei jätit "prosenttiosuutta" tyhjäksi. Jos jätetään tyhjäksi, se lasketaan painikkeen painamisen jälkeen.</string>
+<string name="information_1">Tämä laskin voit selvittää tulevaisuuden määrä säästöjä sekä voitto että saatte lomakkeen yhdiste korko. Siinä oletetaan, että seuraavat:</string>
+<string name="information_2">Tämä laskin antaa sinun määrittää ajan, joka tarvitaan tallentaa kohde määrä. Siinä oletetaan annat seuraavat:</string>
+<string name="information_3">Täällä voit laskea kuukausittain talletus, joka on määrä sinun täytyy säästää joka kuukausi päästäkseen säästö tavoite. Se tarvitsee seuraavat tiedot:</string>
+<string name="information_4">Sen avulla voit selvittää korko, jolla sinun tulee säästää, jotta tavoitat määrä. Sinun täytyy antaa:</string>
+<string name="information_5">Tämän ansiosta yksinkertainen laskin voit määrittää määrän kutakin erän lainaa, ja laskea se kokonaiskustannuksista omassa valuutassa ja prosentteina lainan määrästä. Kaikki mitä sinun tarvitsee tietää on:</string>
+<string name="information_6">Jos aiot ottaa lainaa ostoksistasi, voit laskea kaikki kustannukset sekä tehokas (real) vuosikorko. Se toimii kahdella tavalla, että ensin sinun täytyy syöttää nimellisen (vuotuinen) prosenttiosuutta tarjoamia lainanantajan ja sovellus laskee määrän kuukausierää sekä kokonaiskustannukset. Toisessa tilassa, sinun täytyy syöttää määrän kuukausittaisen maksuerän (joskus esittämä kauppias), ja sovellus laskee prosenttiosuuden ja kustannuksia sinulle.</string>
+<string name="years">Vuotta</string>
+<string name="months">Kuukauden</string>
+<string name="days">Päivää</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string-array name="kapitalizacja">
+<item>Päivittäin</item>
+<item>Viikoittain</item>
+<item>Kuukausittain</item>
+<item>3 kuukauden välein</item>
+<item>6 kuukauden välein</item>
+<item>Vuosittain</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Months</item>
+<item>Vuodet</item>
+</string-array>
+</resources>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Кредити и штедња</string>
+
+<string name="app_name2">Кредити и инвестиције</string>
+
+<string name="menu_title">Шта желите да израчунате?</string>
+<string name="SavingCalc">Будућа вредност штедње</string>
+<string name="PeriodCalc">Период штедње</string>
+<string name="DepositCalc">Износ редовне депозита</string>
+<string name="IntrestCalc">Каматна стопа штедње</string>
+<string name="LoanCalc">Трошкови кредита и рате</string>
+<string name="LoanCalcPro">Годишња стопа кредита Проценат</string>
+
+<string name="action_settings">Подешавања</string>
+
+<string name="rate_app">Гласај ову апликацију!</string>
+<string name="feedback">Дај своје мишљење</string>
+<string name="feedback_prompt">Здраво, да ли бисте желели да нам пошаљете ваше мишљење, како бисмо могли да побољшамо ову апликацију за вас?</string>
+<string name="opinion">Мишљење</string>
+
+<string name="loan_amount">Почетни износ</string>
+<string name="loan_amt">Износ кредита</string>
+<string name="percentage">Проценат стопа</string>
+<string name="period">Период штедње</string>
+<string name="saving">Месечно депозит</string>
+<string name="capitalization">Каматна компликује</string>
+<string name="deposit_period">Учесталост депозита</string>
+<string name="target_amount">Таргет Износ</string>
+<string name="total_deposit">Укупно Депозит</string>
+
+<string name="need_percentage">Треба да се штеди на процентни стопи (годишње)</string>
+<string name="need_gain">Треба да се зарадити</string>
+<string name="period_deposit">У сваком периоду треба да штеде</string>
+<string name="total">Штеди Износ</string>
+<string name="profit">Добит / као% укупних депозита</string>
+<string name="fill_in">Молимо Вас да попуните сва поља за унос</string>
+<string name="required_period">Обавезна период штедње</string>
+<string name="percent">Проценат стопа (годишње)</string>
+<string name="payments">Број рата</string>
+<string name="payment_amount">Рата Износ</string>
+<string name="each_month">(Да се ​​плати сваког месеца)</string>
+<string name="total_cost">Укупни трошкови /</string>
+<string name="cost_percent">Као% од износа кредита</string>
+<string name="commission">Комисија / доплата</string>
+<string name="other_fees">Остале накнаде</string>
+<string name="annual_percent_rate">Годишња Проценат курс</string>
+<string name="total_repay">Укупно за отплату</string>
+<string name="leave_one_of_two">Оставите празну једну од: Проценат, износ рате. Погледајте упутства доле.</string>
+
+<string name="deposit_calc">Израчунајте износ депозита</string>
+<string name="savings_calc">Израчунајте износ штедње</string>
+<string name="period_calc">Израчунајте савинг период</string>
+<string name="intrest_calc">Израчунајте каматна стопа</string>
+<string name="loan_calc">Израчунајте рате кредита</string>
+
+<string name="submit">Израчунати</string>
+<string name="clear">Обриши све</string>
+<string name="del">Избрисати</string>
+<string name="show">Шоу</string>
+<string name="go">Ићи</string>
+<string name="exit">Излаз</string>
+<string name="cancel">Отказати</string>
+<string name="ok">Добро</string>
+<string name="settings">Подешавања</string>
+<string name="go_to_menu">Прихвати и Цлосе</string>
+<string name="choose_currency">Изаберите валуту</string>
+
+<string name="instructions">Инструкције</string>
+<string name="see_details">Дођите доле да видите упутства</string>
+<string name="results">Резултати</string>
+<string name="hint_amount">Износ кредита вашег.</string>
+<string name="hint_principal">Колико сада имате?</string>
+<string name="hint_target">Колико желиш да штеде?</string>
+<string name="hint_period">Колико дуго планирате да штеде?</string>
+<string name="hint_percent">У ком проценту ће стопа ли штеде?</string>
+<string name="hint_interest">Колико је каматна стопа (годишње) вашег кредита?</string>
+<string name="hint_deposit">Колико можете да уплатите на ваш рачун за штедњу сваког месеца?</string>
+<string name="hint_dep_period">Колико често ће вам уплатити новац на ваш рачун штедње?</string>
+<string name="hint_install">Обично једнак броју месечних уплата</string>
+<string name="hint_compounded">Период на који интерес штедни се додаје износ главнице. То зависи од ваше банке / стања / прописа. Може имати вредност: годишње, месечно или дневно.</string>
+<string name="hint_amount_pro">Износ кредита вашег. Обично једнака цене производа који желите да купите. Поље је обавезно.</string>
+<string name="hint_commission">Комисија (или кредит такса) у% износа кредита. Ако не зна, оставите празно.</string>
+<string name="hint_other_fees">Све остале накнаде које не зависе од износа кредита. Ако не зна, оставите празно.</string>
+<string name="hint_total_repay">Укупан износ који ће морати да враћају се у зајмодавца.</string>
+<string name="hint_total_cost">Укупни трошкови кредита, Укључујући једињења интереса и свих накнада.</string>
+<string name="hint_cost_percent">Укупни трошкови (као горе) изражен као проценат износа кредита.</string>
+<string name="hint_apr">Ефективна (реална) годишња каматна стопа кредита. То је једнака укупној цени изражава као проценат од износа кредита.</string>
+<string name="hint_payment">Износ сваке транше (месечно). Не треба да попуните у овој области, осим ако сте напустили "Проценат стопа" празно. Ако остане празно, она ће се обрачунавати након притиска на дугме.</string>
+
+<string name="information_1">Овај калкулатор вам омогућава да сазнате количину ваших штедње у будућности, као и профит, који ћете направити од једињења каматне стопе. Он претпоставља да знате следеће вредности:</string>
+<string name="information_2">Овај калкулатор ће вам омогућити да одреди временски период, који је неопходан да штеде своју циљну износ. То претпоставља да обезбеди следеће:</string>
+<string name="information_3">Овде можете израчунати мјесечни депозит, што је износ који ћете морати да штеде сваког месеца како би се достигао свој циљ штедње. Она ће морати следеће податке:</string>
+<string name="information_4">То вам омогућава да сазнате каматну стопу, на који Вам је потребан да штеде, у циљу постизања своју циљну износ. Мораћете да обезбеди:</string>
+<string name="information_5">Захваљујући овом једноставном калкулатор ћете моћи да утврди износ сваке рате вашег кредита, и израчунати његову укупну цену у својој валути и као проценат од износа кредита. Све што треба да знате је:</string>
+<string name="information_6">Ако планирате да узмете кредит за ваше куповине, можете израчунати све трошкове који су укључени, као и ефикасну (реални) годишња процентуална курс. Она ради у два режима, у прво морате да унесете номинални (годишња) процентуално стопу дане од зајмодавца и апликација ће израчунати износ месечне рате, као и укупне трошкове. У другом режиму, потребно је да унесете износ месечне рате (понекад представљен од стране трговца), а апликација ће израчунати проценат и трошкове за вас.</string>
+
+<string name="years">Године</string>
+<string name="months">Месеци</string>
+<string name="days">Дани</string>
+<string-array name="kapitalizacja">
+<item>Дневно</item>
+<item>Недељно</item>
+<item>Месечно</item>
+<item>Свака 3 месеца</item>
+<item>Сваких 6 месеци</item>
+<item>Годишње</item>
+</string-array>
+<string-array name="okres">
+<item>Месеци</item>
+<item>Године</item>
+</string-array>
+
+<string name="title_activity_loan_calc">ЛоанЦалц</string>
+<string name="enter_here">Овде</string>
+<string name="profit_percent">Као% укупних депозита</string>
+<string name="that_is">Који је</string>
+<string name="of_deposit">Укупних депозита</string>
+<string name="config">Конфигурација</string>
+<string name="help">Помоћ</string>
+<string name="info">Информације</string>
+<string name="month">Месец</string>
+<string name="hello_world">Хелло ворлд!</string>
+<string name="menu_settings">Подешавања</string>
+
+</resources>

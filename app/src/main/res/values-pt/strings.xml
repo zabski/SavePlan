@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Poupança Fácil</string>
+<string name="app_name2">Empréstimos e investimentos</string>
+<string name="menu_title">O que você quer calcular?</string>
+<string name="SavingCalc">Valor futuro de poupança</string>
+<string name="PeriodCalc">Período de poupança</string>
+<string name="DepositCalc">Quantidade de depósitos regulares</string>
+<string name="IntrestCalc">Taxa de juro</string>
+<string name="LoanCalc">Quantidade de parcelas</string>
+    <!-- de um empréstimo</string> -->
+<string name="action_settings">Configurações</string>
+<string name="info">Informações</string>
+<string name="loan_amount">Quantidade inicial</string>
+<string name="loan_amt">Montante do empréstimo</string>
+<string name="percentage">Taxa de porcentagem (por ano)</string>
+<string name="period">Período de poupança</string>
+<string name="saving">Depósito mensal</string>
+<string name="capitalization">Interesse é agravado</string>
+<string name="deposit_period">Frequência de depósitos</string>
+<string name="target_amount">Quantidade alvo</string>
+<string name="total_deposit">Depósito total</string>
+<string name="need_percentage">Você terá que salvar a taxa (por ano)</string>
+<string name="need_gain">Você vai precisar para ganhar</string>
+<string name="period_deposit">Cada período será necessário depositar</string>
+<string name="total">Montante poupado</string>
+<string name="profit">Lucro / em% do depósito total</string>
+<string name="fill_in">Por favor, preencha todos os campos de entrada</string>
+<string name="required_period">Período necessário de poupança</string>
+<string name="percent">Taxa de porcentagem (por ano)</string>
+<string name="payments">Número de parcelas</string>
+<string name="payment_amount">Valor da parcela</string>
+<string name="each_month">(a ser pago a cada mês)</string>
+<string name="total_cost">Custo Total</string>
+<string name="total_cost_">Custo Total /</string>
+<string name="cost_percent">Em% do montante do empréstimo</string>
+<string name="deposit_calc">Calcula o montante do depósito</string>
+<string name="savings_calc">Calcula o valor de poupança</string>
+<string name="period_calc">Calcula o Período de poupança</string>
+<string name="intrest_calc">Calcula o taxa de juros</string>
+<string name="loan_calc">Calcula o valor das parcelas</string>
+<string name="submit">Calcula</string>
+<string name="clear">Limpa Tudo</string>
+<string name="del">Deleta</string>
+<string name="show">Mostra</string>
+<string name="go">Vá</string>
+<string name="exit">Saída</string>
+<string name="settings">Configurações</string>
+<string name="go_to_menu">Aceitar e fechar</string>
+    <string name="remove_ads">Remover propagandas</string>
+<string name="instructions">Instruções</string>
+<string name="hint_amount">O montante do seu empréstimo.</string>
+<string name="hint_principal">Quanto você tem agora?</string>
+<string name="hint_target">Quanto você quer salvar?</string>
+<string name="hint_period">Quanto tempo você pretende salvar?</string>
+<string name="hint_percent">A que taxa de porcentagem que você vai economizar?</string>
+<string name="hint_interest">Qual é a taxa de juros (por ano) do seu empréstimo?</string>
+<string name="hint_deposit">Quanto você pode depositar na sua conta de poupança por mês?</string>
+<string name="hint_dep_period">Quantas vezes você vai depositar o dinheiro em sua conta poupança?</string>
+<string name="hint_install">Normalmente igual ao número de pagamentos mensais</string>
+<string name="hint_compounded">Período em que os juros de suas economias é adicionado ao valor do principal. Depende do seu banco e / ou regulamentos de seu plano de previdência / poupança. Pode levar os valores do \'diário\' para \'anual\'.</string>
+<string name="information_1">Esta calculadora permite-lhe descobrir o valor futuro de suas economias, bem como o lucro que você vai fazer formulário de taxa composta de juros. Ele assume que você saber o seguinte:</string>
+<string name="information_2">Esta calculadora permite-lhe determinar o período de tempo que é necessário para salvar o seu valor-alvo. Ele assume que você irá fornecer o seguinte:</string>
+<string name="information_3">Aqui você pode calcular depósito mensal, que é a quantidade de dinheiro que você vai precisar para economizar a cada mês, a fim de alcançar seu objetivo de poupança. Ele terá os seguintes dados:</string>
+<string name="information_4">Ele permite que você descobrir a taxa de juro a que você precisará estar economizando, a fim de alcançar o seu valor-alvo. Você terá de fornecer:</string>
+<string name="information_5">Graças a esta calculadora simples, você será capaz de determinar o valor de cada parcela do seu empréstimo, e calcular o custo total do empréstimo em valor monetário e, como uma percentagem do montante do empréstimo. Tudo o que você precisa saber é:</string>
+<string name="information_6">Se você pretende tomar um empréstimo para suas compras, você pode calcular todos os custos envolvidos, bem como efetivo (real) taxa anual. Ele funciona em dois modos, no primeiro você precisa entrar nominal taxa (anual) fornecido pelo credor eo aplicativo irá calcular quantidade de parcelas mensais, bem como os custos totais. No segundo modo, você precisa digitar valor de prestação mensal (às vezes apresentada por um comerciante), eo aplicativo irá calcular porcentagem e custos para você.</string>
+<string name="years">Ano(s)</string>
+<string name="months">Meses</string>
+<string name="days">Dias</string>
+<string name="LoanCalcPro">Taxa Anual Efectiva Global</string>
+<string name="help_translate">Ajude a traduzir esta aplicação</string>
+<string name="rate_app">Avalie esta aplicação!</string>
+<string name="feedback">Dê sua opinião</string>
+<string name="feedback_prompt">Oi, você gostaria de nos dar alguns comentários para que possamos melhorar a sua experiência?</string>
+<string name="opinion">Opinião</string>
+<string name="commission">Comissão</string>
+<string name="other_fees">Outras Taxas</string>
+<string name="annual_percent_rate">Taxa Anual Efectiva Global</string>
+<string name="total_repay">Total a pagar</string>
+<string name="leave_one_of_two">Deixar um vazio de: Percentagem, valor da prestação. Veja instruções abaixo.</string>
+<string name="cancel">Cancelar</string>
+<string name="okay">Ok</string>
+<string name="choose_currency">Escolha uma moeda</string>
+<string name="see_details">Para obter instruções role</string>
+<string name="results">Resultados</string>
+<string name="hint_amount_pro">O montante do seu empréstimo. Normalmente igual ao preço do produto que pretende comprar. Este campo é obrigatório.</string>
+<string name="hint_commission">Comissão (ou taxa de empréstimo) em% do montante do empréstimo. Se não sabe, deixe em branco.</string>
+<string name="hint_other_fees">Todas as outras taxas que não são dependentes do valor do empréstimo. Se não sabe, deixe em branco.</string>
+<string name="hint_total_repay">Montante total que terá de ser reembolsado ao emprestador.</string>
+<string name="hint_total_cost">O custo total do empréstimo, incluindo os juros compostos e todas as taxas.</string>
+<string name="hint_cost_percent">O custo total (como acima), expresso em percentagem do montante do empréstimo.</string>
+<string name="hint_apr">(Real) taxa de juros efetiva do empréstimo, incluindo o custo total.</string>
+<string name="hint_payment">A quantidade de cada um de sua parcela (mensal). Você não precisa preencher esse campo, a menos que você deixou "Taxa" em branco. Se deixado em branco, será calculado após pressionar o botão.</string>
+
+    <string-array name="kapitalizacja">
+<item>Diário</item>
+<item>Semanal</item>
+<item>Mensal</item>
+<item>Trimestral</item>
+<item>A cada 6 meses</item>
+<item>Anual</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Meses</item>
+<item>Anos</item>
+    </string-array>     	    
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Aqui</string>
+<string name="profit_percent">Em% do depósito total</string>
+<string name="that_is">Que é</string>
+<string name="of_deposit">De depósito total</string>
+
+<string name="ok">Está bem</string>
+<string name="config">Configuração</string>
+<string name="help">Ajuda</string>
+<string name="month">Mês</string>
+<string name="hello_world">Olá Mundo!</string>
+<string name="menu_settings">Configurações</string>
+
+</resources>

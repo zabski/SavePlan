@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">הלוואות וחיסכון</string>
+<string name="app_name2">הלוואות והשקעות</string>
+<string name="menu_title">מה אתה רוצה לחשב?</string>
+<string name="SavingCalc">ערך עתידי של חיסכון</string>
+<string name="PeriodCalc">תקופת החיסכון</string>
+<string name="DepositCalc">כמות הפקדות שוטפות</string>
+<string name="IntrestCalc">ריבית של חיסכון</string>
+<string name="LoanCalc">עלויות הלוואה ותשלומים</string>
+<string name="LoanCalcPro">אחוז שיעור השנתי של הלוואה</string>
+<string name="info">מידע</string>
+<string name="help_translate">עזור לתרגם את היישום הזה</string>
+<string name="rate_app">לדרג את היישום הזה!</string>
+<string name="feedback">תן את המשוב שלך</string>
+<string name="feedback_prompt">היי, אתה רוצה לתת לנו משוב, כך שנוכל לשפר את החוויה שלך?</string>
+<string name="opinion">חוות דעת</string>
+<string name="loan_amount">סכום ראשוני</string>
+<string name="loan_amt">סכום ההלוואה</string>
+<string name="percentage">אחוז השיעור</string>
+<string name="period">תקופת החיסכון</string>
+<string name="saving">הפקדה חודשית</string>
+<string name="capitalization">עניין מורכב</string>
+<string name="deposit_period">תדר של פיקדונות</string>
+<string name="target_amount">יעד הסכום</string>
+<string name="total_deposit">הפקדת סך הכל</string>
+<string name="need_percentage">עליך לשמור על שיעור אחוז (לשנה)</string>
+<string name="need_gain">אתה צריך להרוויח</string>
+<string name="period_deposit">כל תקופה אתה צריך לשמור</string>
+<string name="total">הסכום הציל</string>
+<string name="profit">רווח / כ% מהפקדת סך הכל</string>
+<string name="fill_in">אנא מלא את כל שדות הקלט</string>
+<string name="required_period">התקופה הנדרשת של חיסכון</string>
+<string name="percent">אחוז השיעור (לשנה)</string>
+<string name="payments">מספר התשלומים</string>
+<string name="payment_amount">סכום בתשלומים</string>
+<string name="each_month">(שישולם בכל חודש)</string>
+<string name="total_cost">עלות כוללת</string>
+<string name="total_cost_">עלות כוללת /</string>
+<string name="cost_percent">כ% מסכום ההלוואה</string>
+<string name="commission">הוועדה</string>
+<string name="other_fees">עמלות אחרות</string>
+<string name="annual_percent_rate">אחוז שיעור השנתי</string>
+<string name="total_repay">סה"כ לפרוע</string>
+<string name="leave_one_of_two">שאר ריק אחד: אחוז, סכום בתשלומים. ראה הוראות שלהלן.</string>
+<string name="deposit_calc">חישוב סכום הפקדה</string>
+<string name="savings_calc">חישוב סכום חיסכון</string>
+<string name="period_calc">חישוב חיסכון בתקופה</string>
+<string name="intrest_calc">חישוב ריבית</string>
+<string name="loan_calc">חישוב תשלומי הלוואה</string>
+<string name="submit">לחשב</string>
+<string name="clear">נקה הכל</string>
+<string name="del">מחק</string>
+<string name="show">הצג</string>
+<string name="go">עבור</string>
+<string name="exit">יציאה</string>
+<string name="cancel">לבטל</string>
+<string name="ok">אישור</string>
+<string name="settings">הגדרות</string>
+<string name="go_to_menu">קבל ולסגור</string>
+<string name="choose_currency">בחר מטבע</string>
+<string name="instructions">הוראות</string>
+<string name="see_details">לקבלת הוראות לגלול למטה</string>
+<string name="results">תוצאות</string>
+<string name="hint_amount">סכום ההלוואה שלך.</string>
+<string name="hint_principal">כמה יש לך עכשיו?</string>
+<string name="hint_target">כמה אתה רוצה לחסוך?</string>
+<string name="hint_period">כמה זמן אתה מתכנן לחסוך?</string>
+<string name="hint_percent">באיזה אחוז השיעור יהיה לך לחסוך?</string>
+<string name="hint_interest">מהו שיעור הריבית (לשנה) של ההלוואה שלך?</string>
+<string name="hint_deposit">כמה אתה יכול להפקיד לחשבון החיסכון שלך בכל חודש?</string>
+<string name="hint_dep_period">באיזו תדירות אתה להפקיד כסף לחשבון החיסכון שלך?</string>
+<string name="hint_install">בדרך כלל שווה למספר של תשלומים חודשיים</string>
+<string name="hint_compounded">תקופה שבה האינטרס של החיסכון שלך תתווסף לסכום הקרן. זה תלוי בבנק שלך ו / או תקנת תכנית פנסיה / חיסכון. עלול לקחת ערכים: שנתי, חודשי ויומי.</string>
+<string name="hint_amount_pro">סכום ההלוואה שלך. בדרך כלל שווה ערך למחיר של המוצר שאתה רוצה לרכוש. שדה זה נדרש.</string>
+<string name="hint_commission">הוועדה (או תשלום הלוואה) כ% מסכום הלוואה. אם לא ידוע, שאר ריק.</string>
+<string name="hint_other_fees">כל תשלומים אחרים שאינם תלויים בסכום הלוואה. אם לא ידוע, שאר ריק.</string>
+<string name="hint_total_repay">הסכום כולל שיצטרך לפירעון למלווה.</string>
+<string name="hint_total_cost">עלות כוללת של ההלוואה, כולל ריבית דריבית וכל העמלות.</string>
+<string name="hint_cost_percent">עלות הכוללת (כאמור לעיל) הביעה כאחוז מסכום הלוואה.</string>
+<string name="hint_apr">ריבית אפקטיבית (אמיתית) ריבית שנתית של ההלוואה כולל עלות כוללת.</string>
+<string name="hint_payment">הסכום של כל אחד מהתשלומים שלך (החודשיים). אתה לא צריך למלא בתחום זה, אלא אם כן אתה עזב "אחוז השיעור" ריק. אם תשאיר שדה זה ריק, זה יחושב לאחר הלחיצה על הכפתור.</string>
+<string name="information_1">מחשבון זה מאפשר לך למצוא את סכום עתידי של החיסכון שלך, כמו גם רווח שאתה תעשה ריבית דריבית טופס. זה מבוסס על ההנחה שאתה יודע את הדברים הבאים:</string>
+<string name="information_2">מחשבון זה יאפשר לך לקבוע את משך זמן שנדרש כדי להציל את סכום היעד שלך. זה מבוסס על ההנחה שאתה מספק את הפעולות הבאות:</string>
+<string name="information_3">כאן אתה יכול לחשב הפקדה חודשית, שהוא הסכום שאתה צריך לחסוך בכל חודש כדי להגיע למטרת החיסכון שלך. זה יצטרך את הנתונים הבאים:</string>
+<string name="information_4">זה מאפשר לך למצוא את שיעור הריבית שבה אתה צריך להיות חיסכון, על מנת להגיע לסכום היעד שלך. יהיה עליך לספק:</string>
+<string name="information_5">תודה למחשבון פשוט זה תוכל לקבוע את הסכום של כל תשלום של ההלוואה שלך, ולחשב את העלות כוללת זה של \ במטבע שלך וכאחוז מסכום ההלוואה. כל מה שאתה צריך לדעת הוא:</string>
+<string name="information_6">אם אתם מתכננים לקחת הלוואה עבור הרכישות שלך, אתה יכול לחשב כל המעורבים, כמו גם ריבית אפקטיבי (אמיתית) שנתית אחוז העלויות. זה עובד בשני מצבים, בהתחלה אתה צריך להיכנס לשיעור נומינלי (שנתי) אחוז הניתן על ידי המלווה והיישום יהיה לחשב סכום של תשלומים חודשיים, כמו גם עלויות כוללת. במצב השני, אתה צריך להיכנס לסכום של תשלומים חודשיים (לפעמים שהוצגו על ידי סוחר), והיישום יהיה לחשב אחוז ועלויות עבורך.</string>
+<string name="years">שנים</string>
+<string name="months">חודשים</string>
+<string name="days">ימים</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string-array name="kapitalizacja">
+<item>יומי</item>
+<item>שבועי</item>
+<item>חודשי</item>
+<item>כל 3 חודשים</item>
+<item>כל 6 חודשים</item>
+<item>שנתי</item>
+    </string-array>    
+    <string-array name="okres">
+<item>חודשים</item>
+<item>שנים</item>
+</string-array>
+</resources>

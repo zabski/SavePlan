@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Snadné Finance Domu</string>
+<string name="app_name2">Úvěry a investice</string>
+<string name="menu_title">Co chcete vypočítat?</string>
+<string name="SavingCalc">Budoucí hodnota úspor</string>
+<string name="PeriodCalc">Doba spoření</string>
+<string name="DepositCalc">Výše pravidelných vkladů</string>
+<string name="IntrestCalc">Úroková sazba</string>
+<string name="LoanCalc">Výše splátek úvěru</string>
+<string name="action_settings">Nastavení</string>
+<string name="info">Informace</string>
+<string name="loan_amount">Původní částka</string>
+<string name="loan_amt">Výše úvěru</string>
+<string name="percentage">Hodnotit procenta (za rok)</string>
+<string name="period">Doba spoření</string>
+<string name="saving">Měsíční záloha</string>
+<string name="capitalization">Zájem je dále umocněn</string>
+<string name="deposit_period">Frekvence vkladů</string>
+<string name="target_amount">Cílová částka</string>
+<string name="total_deposit">Celkový vklad</string>
+<string name="need_percentage">Budete muset zachránit na procentní sazbou (za rok)</string>
+<string name="need_gain">Budete muset vydělávat</string>
+<string name="period_deposit">Každé období budete muset uložit</string>
+<string name="total">Výše uložené</string>
+<string name="profit">Zisk / v% z celkového vkladu</string>
+<string name="fill_in">Vyplňte, prosím, všechny vstupní pole</string>
+<string name="required_period">Požadovaná doba spoření</string>
+<string name="percent">Hodnotit procenta (za rok)</string>
+<string name="payments">Počet splátek</string>
+<string name="payment_amount">Výše splátky</string>
+<string name="each_month">(platí se každý měsíc)</string>
+<string name="total_cost">Celkové náklady</string>
+<string name="total_cost_">Celkové náklady/</string>
+<string name="cost_percent">Jako % z výše úvěru</string>
+<string name="deposit_calc">Spočítejte si výši vkladu</string>
+<string name="savings_calc">Vypočítejte hodnotu úspor</string>
+<string name="period_calc">Vypočítejte dobu spoření</string>
+<string name="intrest_calc">Vypočtěte úrokovou sazbu</string>
+<string name="loan_calc">Vypočítejte hodnotu splátek</string>
+<string name="submit">Spočítejte si</string>
+<string name="clear">Vymazat vše</string>
+<string name="del">Smazat</string>
+<string name="show">Zobrazit</string>
+<string name="go">Jít</string>
+    <string name="ok">OK</string>
+    <string name="exit">Výjezd</string>
+<string name="settings">Nastavení</string>
+<string name="go_to_menu">Přijmout a Clo</string>
+<string name="instructions">Návod</string>
+<string name="hint_amount">Výše vašeho úvěru.</string>
+<string name="hint_principal">Kolik máš teď?</string>
+<string name="hint_target">Kolik chcete ušetřit?</string>
+<string name="hint_period">Jak dlouho plánujete uložit?</string>
+<string name="hint_percent">V jakém poměru procenta ušetříte?</string>
+<string name="hint_interest">Jaká je úroková sazba (za rok) vašeho úvěru?</string>
+<string name="hint_deposit">Kolik si můžete uložit do svého spořícího účtu každý měsíc?</string>
+<string name="hint_dep_period">Jak často budete vkládat peníze na Váš spořicí účet?</string>
+<string name="hint_install">Obvykle se rovná počtu měsíčních plateb</string>
+<string name="hint_compounded">Období, ve kterém mají úroky ze svých úspor je přidán do jistiny. Záleží na bance a / nebo předpisy vašeho penzionu / plánu spásy. Může nabývat hodnot od "denní" na "roční".</string>
+<string name="information_1">Tato kalkulačka vám umožní zjistit budoucí výši svých úspor, jakož i zisku, který bude dělat formulář sestavenou mírou zájmu. To předpokládá, že znáte následující:</string>
+<string name="information_2">Tato kalkulačka vám umožní určit dobu, která je potřebná k uložení své cílové částky. To předpokládá, že bude poskytovat následující:</string>
+<string name="information_3">Zde si můžete vypočítat měsíční vklad, který je množství peněz, které budete potřebovat uložit každý měsíc, aby k dosažení vašeho cíle úspory. Bude potřebovat následující údaje:</string>
+<string name="information_4">To vám umožní zjistit, úrokovou sazbu, při které budete potřebovat, aby se úspory, aby se dosáhlo své cílové částky. Budete muset poskytnout:</string>
+<string name="information_5">Díky této jednoduché kalkulačky budete moci určit výši každé splátky vašeho úvěru a výpočet celkové náklady úvěru v peněžní hodnotě a jako procento z výše úvěru. Vše, co potřebujete vědět, je:</string>
+<string name="information_6"></string>
+<string name="years">Let</string>
+<string name="months">Měsíců</string>
+<string name="days">Dny</string>
+<string name="LoanCalcPro">Roční Procentní Sazba Nákladů</string>
+<string name="help_translate">Pomozte přeložit tuto aplikaci</string>
+<string name="rate_app">Hodnotit tuto aplikaci!</string>
+<string name="feedback">Dejte svůj názor</string>
+<string name="feedback_prompt">Ahoj, chtěl byste, aby nám nějakou zpětnou vazbu, takže můžeme vylepšit naše služby?</string>
+<string name="opinion">Názor</string>
+<string name="commission">Komise</string>
+<string name="other_fees">Další poplatky</string>
+<string name="annual_percent_rate">Roční Procentní Sazba Nákladů</string>
+<string name="total_repay">Celkem ke splacení</string>
+<string name="leave_one_of_two">Ponechte prázdné jedno z následujících: procento, výši splátky. Viz pokyny níže.</string>
+<string name="cancel">Zrušit</string>
+<string name="okay">Dobře</string>
+<string name="choose_currency">Zvolte si měnu</string>
+<string name="see_details">Pokyny přejděte dolů</string>
+<string name="results">Výsledky</string>
+<string name="hint_amount_pro">Výše vašeho úvěru. Zpravidla ve výši ceny výrobku, který chcete koupit. Toto pole je povinné.</string>
+<string name="hint_commission">Komise (nebo úvěru za poplatek) v% z výše úvěru. Pokud není známo, nechte prázdné.</string>
+<string name="hint_other_fees">Všechny ostatní poplatky, které nejsou závislé na výši úvěru. Pokud není známo, nechte prázdné.</string>
+<string name="hint_total_repay">Celková částka, která bude muset být vrácena věřiteli.</string>
+<string name="hint_total_cost">Celkové náklady na úvěr, včetně složeného úroku a všech poplatků.</string>
+<string name="hint_cost_percent">Celkové náklady (viz výše), vyjádřená jako procento z výše úvěru.</string>
+<string name="hint_apr">Efektivní (skutečný) roční úroková sazba z úvěru včetně celkových nákladů.</string>
+<string name="hint_payment">Množství každého z vaší (měsíční) splátky. Nemusíte vyplňovat v této oblasti, pokud jste odešel "procentní sazba" prázdné. Pokud necháte prázdné, bude se vypočte po stisknutí tlačítka.</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string-array name="kapitalizacja">
+<item>Každý den</item>
+<item>Týden</item>
+<item>Měsíčně</item>
+<item>Čtvrtletně</item>
+<item>Každých 6 měsíců</item>
+<item>Ročně</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Měsíců</item>
+<item>Let</item>
+    </string-array>     	    
+
+<!-- 
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Zde</string>
+<string name="profit_percent">V% z celkového vkladu</string>
+<string name="that_is">To je</string>
+<string name="of_deposit">Z celkového vkladu</string>
+<string name="cancel">Zrušit</string>
+<string name="ok">OK</string>
+<string name="config">Config</string>
+<string name="help">Pomoc</string>
+<string name="info">Informace</string>
+<string name="month">Měsíc</string>
+<string name="hello_world">Ahoj všichni!</string>
+<string name="menu_settings">Nastavení</string>
+-->
+</resources>

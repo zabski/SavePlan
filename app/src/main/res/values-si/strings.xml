@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">ණය හා ඉතුරුම්</string>
+
+<string name="app_name2">ණය හා ආයෝජන</string>
+
+<string name="menu_title">ඔබ ගණනය කිරීම සඳහා අවශ්ය කුමක් ද?</string>
+<string name="SavingCalc">ඉතිරි කිරීමේ අනාගත වටිනාකම</string>
+<string name="PeriodCalc">ඉතිරි කාලය</string>
+<string name="DepositCalc">නිත්ය තැන්පතු මුදල</string>
+<string name="IntrestCalc">ඉතිරි කිරීමේ බැංකුවේ පොලී අනුපාතය</string>
+<string name="LoanCalc">ණය සහ වාරික මිළ ගණන් මිළ ගණන්</string>
+<string name="LoanCalcPro">ණය වාර්ෂික ප්රතිශතය අනුපාත</string>
+
+<string name="action_settings">සැකසුම්</string>
+
+<string name="rate_app">මෙම යෙදුම අගයන්න!</string>
+<string name="feedback">ඔබගේ අදහස දෙන්න</string>
+<string name="feedback_prompt">ආයුබෝවන්, ඔබ අපි ඔබ වෙනුවෙන් මෙම යෙදුම වැඩි දියුණු විය හැකි නිසා, අපට ඔබේ මතය යැවීමට කැමති?</string>
+<string name="opinion">ජනමත</string>
+
+<string name="loan_amount">මූලික මුදල</string>
+<string name="loan_amt">ණය මුදල</string>
+<string name="percentage">ප්රතිශතය අනුපාතය</string>
+<string name="period">ඉතිරි කාලය</string>
+<string name="saving">මාසිකව තැන්පත්</string>
+<string name="capitalization">පොලී තවත් උග්ර</string>
+<string name="deposit_period">තැන්පතු සංඛ්යාත</string>
+<string name="target_amount">ඉලක්කගත ප්රමාණය</string>
+<string name="total_deposit">මුළු තැන්පතු</string>
+
+<string name="need_percentage">ඔබ (වසරකට) ප්රතිශතයක් අනුපාතයකින් economize කිරීමට අවශ්ය</string>
+<string name="need_gain">ඔබට ඉපැයීමට අවශ්ය</string>
+<string name="period_deposit">එක් එක් කාල ඔබ economize කිරීමට අවශ්ය</string>
+<string name="total">Economized මුදල</string>
+<string name="profit">ලාභය / මුළු තැන්පතු% ලෙස</string>
+<string name="fill_in">සියලු ආදාන තැන් පුරවන්න කරන්න</string>
+<string name="required_period">ඉතිරි අවශ්ය කාලය</string>
+<string name="percent">(වසරකට) ප්රතිශතය අනුපාතය</string>
+<string name="payments">වාරික ගණන</string>
+<string name="payment_amount">වාරික මුදල</string>
+<string name="each_month">(එක් එක් මාසය ගෙවිය යුතු)</string>
+<string name="total_cost">මුළු පිරිවැය /</string>
+<string name="cost_percent">ණය මුදල% ක් ලෙස</string>
+<string name="commission">කොමිෂන් සභාව / අධිභාරය</string>
+<string name="other_fees">වෙනත් ගාස්තු</string>
+<string name="annual_percent_rate">වාර්ෂික ප්රතිශතය අනුපාත</string>
+<string name="total_repay">ආපසු ගෙවීම සඳහා වන මුළු</string>
+<string name="leave_one_of_two">ප්රතිශතය, ණය වාරික ප්රමාණය: හිස් එකක් තබන්න. පහත උපදෙස් බලන්න.</string>
+
+<string name="deposit_calc">තැන්පතු මුදල ගණනය</string>
+<string name="savings_calc">ඉතුරුම් මුදල ගණනය</string>
+<string name="period_calc">කාලය ඉතිරි කර ගණනය</string>
+<string name="intrest_calc">පොලී අනුපාතය ගණනය</string>
+<string name="loan_calc">ණය වාරික ගණනය</string>
+
+<string name="submit">ගණනය</string>
+<string name="clear">සියල්ල හිස්කරන්න</string>
+<string name="del">Delete</string>
+<string name="show">පෙන්වන්න</string>
+<string name="go">යන්න</string>
+<string name="exit">පිටවීම</string>
+<string name="cancel">අවලංගු කරන්න</string>
+<string name="ok">හරි හරී</string>
+<string name="settings">සැකසුම්</string>
+<string name="go_to_menu">පිළිගෙන වසන්න</string>
+<string name="choose_currency">මුදල් තෝරන්න</string>
+
+<string name="instructions">උපදෙස්</string>
+<string name="see_details">උපදෙස් බැලීමට පහලට අනුචලනය</string>
+<string name="results">ප්රතිඵල</string>
+<string name="hint_amount">ඔබගේ ණය ප්රමාණය.</string>
+<string name="hint_principal">කොපමණ ඔබ දැන් මොනවාද?</string>
+<string name="hint_target">ඔබ economize කිරීමට කොපමණ අවශ්ය ඇයි?</string>
+<string name="hint_period">කොපමණ කල් ඔබ economize අදහස් කරනවාද?</string>
+<string name="hint_percent">ප්රතිශතයක් කුමන අනුපාතයකට ඔබ economize ඇත?</string>
+<string name="hint_interest">ඔබගේ ණය (වසරකට) පොලී අනුපාතය කීයද?</string>
+<string name="hint_deposit">කොපමණ එක් එක් මාසය තුළ ඔබගේ ඉතිරි ගිණුමට තැන්පත් කළ හැක්කේ කෙසේද?</string>
+<string name="hint_dep_period">කොපමණ වාරයක් ඔබ ඔබේ ඉතිරි ගිණුමට මුදල් තැන්පත් කරන්නේ කෙසේද?</string>
+<string name="hint_install">මාසික ගෙවීම් සංඛ්යාව සාමාන්යයෙන් සමාන</string>
+<string name="hint_compounded">ඔබගේ ඉතිරි කිරීමේ පොලී මුල් මුදල එකතු වන අවස්ථාවේ කාලය. එය ඔබගේ බැංකු / කොන්දේසි / රෙගුලාසි මත රඳා පවතී. සාරධර්ම ගත විය හැකිය: වාර්ෂික, මාසික හෝ දෛනික.</string>
+<string name="hint_amount_pro">ඔබගේ ණය ප්රමාණය. ඔබ මිලදී ගැනීමට අවශ්ය නිෂ්පාදන මිල කිරීමට සාමාන්යයෙන් සමාන. මෙම ක්ෂේත්රය අවශ්යයි.</string>
+<string name="hint_commission">කොමිසම (හෝ ණය ගාස්තුව) ණය මුදල% ක් ලෙස. දන්නා නොඑසේ නම්, ඒ හිස්ව තබන්න.</string>
+<string name="hint_other_fees">ණය මුදල මත යැපෙන නොවන බව අනෙකුත් සියලුම යුතු ගාස්තු ගාස්තු අය නොකෙරේ. දන්නා නොඑසේ නම්, ඒ හිස්ව තබන්න.</string>
+<string name="hint_total_repay">ණය දෙන්නාට ආපසු ගෙවිය යුතු මුළු මුදල බව.</string>
+<string name="hint_total_cost">සංයෝගයක් පොලී හා සියලු ගාස්තු ඇතුළු ණය මුළු පිරිවැය,.</string>
+<string name="hint_cost_percent">(ඉහත සඳහන් ලෙස) මුළු පිරිවැය ණය මුදල සියයට ලෙස ප්රකාශ කළේය.</string>
+<string name="hint_apr">ණය ඵලදායි (නියම) වාර්ෂික පොලී අනුපාතය. එය ණය මුදලින් ප්රතිශතයක් ලෙස ප්රකාශ මුළු පිරිවැය සමාන වේ.</string>
+<string name="hint_payment">එක් එක් වාරිකයට ප්රමාණය (මාසික). ඔබ හිස් "ප්රතිශතය අනුපාතය" වාම ඇති නම් හා ඔබ විසින්, මෙම ක්ෂේත්රයේ පිරවීම සඳහා අවශ්ය නැහැ. හිස්ව නම්, එය බොත්තම එබීමෙන් පසුව ගණනය කරනු ඇත.</string>
+
+<string name="information_1">මෙම කැල්ක්යුලේටරය ඔබ සංයෝගයක් පොලී අනුපාතය සිට කරන්නෙමි පවතින අනාගත ඔබේ ඉතිරිකිරීම් ප්රමාණය මෙන්ම, ලාභය, සොයා ගැනීමට හැක. එය පහත සඳහන් අගයන් දන්නා බව උපකල්පනය:</string>
+<string name="information_2">මෙම කැල්ක්යුලේටරය ඔබේ ඉලක්ක ප්රමාණය economize කිරීමට අවශ, ඔබට කාල සීමාව තීරණය කරමු ඇත. එය පහත සඳහන් ලබා උපකල්පනය:</string>
+<string name="information_3">මෙන්න ඔබට ඉතිරි කිරීමේ ඔබේ අරමුණ වෙත ලඟාවීම සඳහා එක් එක් මාසය economize ඇත ඇති මුදල කොපමණද, වන මුදලක් මාසිකව තැන්පත්, ගණනය කළ හැකිය. ඒ සඳහා පහත සඳහන් දත්ත අවශ්ය වේ:</string>
+<string name="information_4">එය ඔබ ඔබේ ඉලක්ක ප්රමාණය ලබා ගැනීම සඳහා, economize කිරීමට අවශ්ය වනු ඇත දී පොලී අනුපාතය, සොයා ගැනීමට හැක. ඔබ ඉදිරිපත් කල යුතු වේ:</string>
+<string name="information_5">මෙම සරල කැල්ක්යුලේටරය ස්තුති ඔබ ඔබේ එක් එක් ණය වාරිකය ප්රමාණය තීරණය කිරීමට හැකි විය යුතු අතර, ඔබගේ මුදල් සහ ණය ප්රමාණය ප්රතිශතයක් ලෙස එහි මුළු පිරිවැය ගණනය කරනු ඇත. ඔබට දැන ගත යුතු සියලුම වේ:</string>
+<string name="information_6">ඔබ ඔබේ මිලදී ගැනීම් සඳහා ණය ගැනීමට අදහස් කරන්නේ නම්, ඔබ සියලු සම්බන්ධ වියදම් මෙන්ම ඵලදායී (නියම) වාර්ෂික ප්රතිශතය අනුපාත තීරණය කළ හැක. එය ප්රථම ඔබ නාමික (වාර්ෂික) ප්රතිශතයක් ණය දෙන්නාට විසින් සපයන වේගය හා ඉල්ලුම් මාසික වාරික මුදල මෙන්ම මුළු පිරිවැය ගණනය කරනු ඇත ඇතුල් කිරීමට අවශ්ය දෙකක් මාතයන් ක්රියා කරයි. දෙවන ක්රමය තුළ, ඔබ (ඇතැම් විට වෙළඳ විසින් ඉදිරිපත්) මාසික වාරික ප්රමාණය ඇතුලත් කිරීමට අවශ්ය, සහ අයදුම් ඔබ සඳහා ප්රතිශත හා පිරිවැය ගණනය කරනු ඇත.</string>
+
+<string name="years">වසර</string>
+<string name="months">මාස</string>
+<string name="days">දින</string>
+<string-array name="kapitalizacja">
+<item>ඩේලි</item>
+<item>සතිපතා</item>
+<item>මාසික</item>
+<item>සෑම මාස 3</item>
+<item>සෑම මාස 6</item>
+<item>වාර්ෂික</item>
+</string-array>
+<string-array name="okres">
+<item>මාස</item>
+<item>වසර</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">මෙතැන</string>
+<string name="profit_percent">සමස්ත තැන්පතු වලින්% ලෙස</string>
+<string name="that_is">බවයි</string>
+<string name="of_deposit">සමස්ත තැන්පතු වලින්</string>
+<string name="config">වින්යාස</string>
+<string name="help">උදව්</string>
+<string name="info">තොරතුරු</string>
+<string name="month">මාසය</string>
+<string name="hello_world">හෙලෝ වර්ල්ඩ්!</string>
+<string name="menu_settings">සැකසුම්</string>
+
+</resources>

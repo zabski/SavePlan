@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">લોન અને બચત</string>
+
+<string name="app_name2">લોન અને રોકાણ</string>
+
+<string name="menu_title">શું તમે ગણતરી કરવા માંગો છો?</string>
+<string name="SavingCalc">બચત ભવિષ્ય કિંમત</string>
+<string name="PeriodCalc">બચત સમયગાળા</string>
+<string name="DepositCalc">નિયમિત થાપણો જથ્થો</string>
+<string name="IntrestCalc">બચત વ્યાજ દર</string>
+<string name="LoanCalc">લોન અને હપતાથી ના ખર્ચ</string>
+<string name="LoanCalcPro">લોનની વાર્ષિક ટકાવારી દર</string>
+
+<string name="action_settings">સેટિંગ્સ</string>
+
+<string name="rate_app">આ એપ્લિકેશન દર!</string>
+<string name="feedback">તમારા અભિપ્રાય આપો</string>
+<string name="feedback_prompt">હેલો, તમે અમે તમારા માટે આ એપ્લિકેશન સુધારવા શકે, જેથી અમને તમારી અભિપ્રાય મોકલવા માંગો છો?</string>
+<string name="opinion">અભિપ્રાય</string>
+
+<string name="loan_amount">પ્રારંભિક જથ્થો</string>
+<string name="loan_amt">લોન ની રકમ</string>
+<string name="percentage">ટકાવારી દર</string>
+<string name="period">બચત સમયગાળા</string>
+<string name="saving">માસિક ડિપોઝિટ</string>
+<string name="capitalization">વ્યાજ ચક્રવૃદ્ધિ</string>
+<string name="deposit_period">થાપણો આવૃત્તિ</string>
+<string name="target_amount">લક્ષ્ય રકમ</string>
+<string name="total_deposit">કુલ ડિપોઝિટ</string>
+
+<string name="need_percentage">તમને ટકાવારી દરે કરકસર કરવાની જરૂર (પ્રતિ વર્ષ)</string>
+<string name="need_gain">તમે કમાઇ જરૂર છે</string>
+<string name="period_deposit">દરેક સમયગાળામાં તમે કરકસર કરવાની જરૂર</string>
+<string name="total">Economized રકમ</string>
+<string name="profit">નફો / કુલ ડિપોઝિટ% તરીકે</string>
+<string name="fill_in">બધા ઇનપુટ ક્ષેત્રો ભરો કૃપા કરીને</string>
+<string name="required_period">બચત જરૂરી સમયગાળા</string>
+<string name="percent">દર (દર વર્ષે)</string>
+<string name="payments">હપતાથી સંખ્યા</string>
+<string name="payment_amount">હપતા રકમ</string>
+<string name="each_month">(દર મહિને ચૂકવણી કરવામાં)</string>
+<string name="total_cost">કુલ ખર્ચ /</string>
+<string name="cost_percent">લોન રકમ% તરીકે</string>
+<string name="commission">કમિશન / સરચાર્જ</string>
+<string name="other_fees">અન્ય ફી</string>
+<string name="annual_percent_rate">વાર્ષિક ટકાવારી દર</string>
+<string name="total_repay">ચૂકવવું કુલ</string>
+<string name="leave_one_of_two">ટકાવારી, હપતા રકમ: ખાલી એક રજા. નીચે સૂચનો જુઓ.</string>
+
+<string name="deposit_calc">ડિપોઝિટ જથ્થો ગણતરી</string>
+<string name="savings_calc">બચત જથ્થો ગણતરી</string>
+<string name="period_calc">સમયગાળા બચત ગણતરી</string>
+<string name="intrest_calc">વ્યાજ દર ગણતરી</string>
+<string name="loan_calc">લોન હપતાથી ગણતરી</string>
+
+<string name="submit">ગણતરી</string>
+<string name="clear">સ્પષ્ટ બધા</string>
+<string name="del">કાઢી</string>
+<string name="show">બતાવો</string>
+<string name="go">જાઓ</string>
+<string name="exit">બહાર નીકળો</string>
+<string name="cancel">રદ કરો</string>
+<string name="ok">ઠીક</string>
+<string name="settings">સેટિંગ્સ</string>
+<string name="go_to_menu">સ્વીકારી અને બંધ કરો</string>
+<string name="choose_currency">કરન્સી પસંદ</string>
+
+<string name="instructions">સૂચનો</string>
+<string name="see_details">સૂચનો જોવા માટે નીચે સરકાવો</string>
+<string name="results">પરિણામો</string>
+<string name="hint_amount">તમારી લોન જથ્થો.</string>
+<string name="hint_principal">કેટલી તમે હવે છે?</string>
+<string name="hint_target">તમને કેટલી કરકસર કરવા માંગો છો?</string>
+<string name="hint_period">લાંબા તમે કેવી રીતે કરકસર કરવાની યોજના કરો છો?</string>
+<string name="hint_percent">ટકાવારી કયા દરે તમે કરકસર કરશે?</string>
+<string name="hint_interest">તમારી લોન (પ્રતિ વર્ષ) વ્યાજ દર કેટલું છે?</string>
+<string name="hint_deposit">કેટલી તમે દર મહિને તમારા બચત ખાતામાં જમા કરી શકે?</string>
+<string name="hint_dep_period">કેટલી વાર તમે તમારા બચત ખાતામાં નાણા જમા થશે?</string>
+<string name="hint_install">માસિક ચૂકવણી સંખ્યા સામાન્ય રીતે સમાન</string>
+<string name="hint_compounded">પીરિયડ કે તમારી બચત રસ મુખ્ય રકમ ઉમેરવામાં આવે છે. તે તમારી બેંક / શરતો / નિયમો પર આધારિત છે. કિંમતો લાગી શકે છે: વાર્ષિક, માસિક અથવા દૈનિક.</string>
+<string name="hint_amount_pro">તમારી લોન જથ્થો. તમે ખરીદી કરવા માંગો છો ઉત્પાદન કિંમત સામાન્ય રીતે સમાન. આ ક્ષેત્ જરૂરી છે.</string>
+<string name="hint_commission">કમિશન (અથવા લોન ફી) લોન રકમ% તરીકે. જાણીતા નહિં, તો ખાલી છોડી દો.</string>
+<string name="hint_other_fees">લોન રકમ પર આધાર રાખે નથી કે તમામ અન્ય ફી. જાણીતા નહિં, તો ખાલી છોડી દો.</string>
+<string name="hint_total_repay">જરૂર પડશે કુલ જથ્થો પૈસા ધીરનાર માટે પાછી આપવામાં.</string>
+<string name="hint_total_cost">ચક્રવૃદ્ધિ વ્યાજ અને બધા ફી સહિત લોનની કુલ કિંમત,.</string>
+<string name="hint_cost_percent">કુલ ખર્ચ (ઉપર) લોન રકમ ટકાવારી પ્રમાણે વ્યક્ત કરી હતી.</string>
+<string name="hint_apr">લોનની અસરકારક (વાસ્તવિક) વાર્ષિક વ્યાજ દર. તે લોન રકમ ટકાવારી તરીકે વ્યક્ત કુલ ખર્ચ સમાન છે.</string>
+<string name="hint_payment">દરેક હપતો (માસિક) જથ્થો. જો તમે "ટકાવારી દર" ખાલી છોડી જ્યાં સુધી તમે, તો આ ક્ષેત્ર ભરવા માટે જરૂર નથી. ખાલી છોડી, તે બટન દબાવીને પછી ગણતરી કરવામાં આવશે.</string>
+
+<string name="information_1">આ કેલ્ક્યુલેટર તમને તમે સંયોજન વ્યાજ દર માંથી કરશે જે ભવિષ્યમાં તમારા બચત જથ્થો, સાથે સાથે નફાકારક, તે જાણવા માટે પરવાનગી આપે છે. તે તમે નીચેની કિંમતો ખબર કે ધારે:</string>
+<string name="information_2">આ કેલ્ક્યુલેટર તમે તમારા લક્ષ્ય જથ્થો કરકસર કરવા માટે જરૂરી છે, જે સમય, ના સમયગાળા નક્કી દો આવશે. તે તમે નીચેની પૂરી ધારે:</string>
+<string name="information_3">અહીં તમે બચત તમારા લક્ષ્ય સુધી પહોંચવા માટે ક્રમમાં દરેક મહિને કરકસર કરવી પડશે, જે રકમ, જે છે માસિક થાપણ, ગણતરી કરી શકે. તે નીચેનો માહિતી જરૂર પડશે:</string>
+<string name="information_4">તે શું તમે તમારા લક્ષ્ય સુધી પહોંચવા જથ્થો કરવા માટે, કરકસર કરવાની જરૂર પડશે જે અંતે વ્યાજ દર, તે જાણવા માટે પરવાનગી આપે છે. તમને આપવા માટે જરૂર પડશે:</string>
+<string name="information_5">આ સરળ કેલ્ક્યુલેટર માટે આભાર તમે તમારા લોન દર હપતો જથ્થો નક્કી છે, અને તમારા ચલણ અને લોન રકમ ટકાવારી તરીકે તેની કુલ ખર્ચ ગણતરી માટે સક્ષમ હશે. તમે જાણવા જરૂરી બધા છે:</string>
+<string name="information_6">તમે તમારા ખરીદીઓ માટે લોન લેવા માટે યોજના ઘડી રહ્યા હોય, તો તમે અસરકારક (વાસ્તવિક) વાર્ષિક ટકાવારી દર તેમજ સામેલ તમામ ખર્ચ ગણતરી કરી શકે. તે પ્રથમ તમે પૈસા ધીરનાર અને માસિક હપતાથી ની રકમ સાથે સાથે કુલ ખર્ચ ગણતરી કરશે જો કાર્યક્રમ દ્વારા પૂરી નજીવી (વાર્ષિક) દર આપવાના, બે સ્થિતિઓ માં કામ કરે છે. બીજા સ્થિતિમાં, તમે (ક્યારેક એક વેપારી દ્વારા રજૂ) માસિક હપતો જથ્થો દાખલ કરવાની જરૂર છે અને જો કાર્યક્રમ તમારા માટે ટકાવારી અને ખર્ચ ગણતરી કરશે.</string>
+
+<string name="years">વર્ષ</string>
+<string name="months">મહિના</string>
+<string name="days">દિવસો</string>
+<string-array name="kapitalizacja">
+<item>દૈનિક</item>
+<item>અઠવાડિક</item>
+<item>માસિક</item>
+<item>દર 3 મહિના</item>
+<item>દર 6 મહિના</item>
+<item>વાર્ષિક</item>
+</string-array>
+<string-array name="okres">
+<item>મહિના</item>
+<item>વર્ષ</item>
+</string-array>
+
+
+    <string name="title_activity_loan_calc">LoanCalc</string>
+    <string name="enter_here">અહીં</string>
+    <string name="profit_percent">કુલ થાપણો% તરીકે</string>
+    <string name="that_is">કે છે</string>
+    <string name="of_deposit">કુલ થાપણો</string>
+    <string name="config">રૂપરેખાંકન</string>
+    <string name="help">મદદ</string>
+    <string name="info">જાણકારી</string>
+    <string name="month">મહિને</string>
+    <string name="hello_world">હેલો વર્લ્ડ!</string>
+    <string name="menu_settings">સેટિંગ્સ</string>
+
+
+    </resources>

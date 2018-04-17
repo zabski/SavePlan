@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Els préstecs i estalvis</string>
+
+<string name="app_name2">Els préstecs i les inversions</string>
+
+<string name="menu_title">Què vols per calcular?</string>
+<string name="SavingCalc">Valor futur dels estalvis</string>
+<string name="PeriodCalc">Període d\'estalvi</string>
+<string name="DepositCalc">Quantitat de dipòsits regulars</string>
+<string name="IntrestCalc">Taxa d\'interès d\'estalvi</string>
+<string name="LoanCalc">Els costos de préstecs i quotes</string>
+<string name="LoanCalcPro">Taxa anual del préstec</string>
+
+<string name="action_settings">Ajustos</string>
+
+<string name="rate_app">Valoreu aquesta aplicació!</string>
+<string name="feedback">Donar la seva opinió</string>
+<string name="feedback_prompt">Hola, t\'agradaria que ens enviï la seva opinió, perquè puguem millorar aquesta aplicació per a vostè?</string>
+<string name="opinion">Opinió</string>
+
+<string name="loan_amount">Import inicial</string>
+<string name="loan_amt">Suma del Préstec</string>
+<string name="percentage">Taxa de percentatge</string>
+<string name="period">Període d\'estalvi</string>
+<string name="saving">Dipòsit mensual</string>
+<string name="capitalization">Interès compost</string>
+<string name="deposit_period">Freqüència dels dipòsits</string>
+<string name="target_amount">Objectiu Monto</string>
+<string name="total_deposit">Dipòsit total</string>
+
+<string name="need_percentage">Cal economitzar en percentatge (per any)</string>
+<string name="need_gain">Vostè ha de guanyar</string>
+<string name="period_deposit">En cada període que necessita per economitzar</string>
+<string name="total">Monto economizado</string>
+<string name="profit">Benefici / com% del total de dipòsits</string>
+<string name="fill_in">Si us plau, ompli tots els camps d\'entrada</string>
+<string name="required_period">Període requerit d\'estalvi</string>
+<string name="percent">Taxa de percentatge (per any)</string>
+<string name="payments">Nombre de quotes</string>
+<string name="payment_amount">Suma de la quota</string>
+<string name="each_month">(A pagar cada mes)</string>
+<string name="total_cost">Cost total /</string>
+<string name="cost_percent">Com% de la suma del préstec</string>
+<string name="commission">Comissió / recàrrec</string>
+<string name="other_fees">Altres Costos</string>
+<string name="annual_percent_rate">Taxa de Percentatge anual</string>
+<string name="total_repay">Total a pagar</string>
+<string name="leave_one_of_two">Deixa un buit de: Percentatge, Suma de la quota. Vegeu les instruccions de sota.</string>
+
+<string name="deposit_calc">Calcular la quantitat de dipòsits</string>
+<string name="savings_calc">Calcular la quantitat d\'estalvis</string>
+<string name="period_calc">Calcular període d\'estalvi</string>
+<string name="intrest_calc">Calcular la taxa d\'interès</string>
+<string name="loan_calc">Calcula les quotes del préstec</string>
+
+<string name="submit">Calcular</string>
+<string name="clear">Esborrar tot</string>
+<string name="del">Esborrar</string>
+<string name="show">Show</string>
+<string name="go">Anar</string>
+<string name="exit">Sortida</string>
+<string name="cancel">Cancel·la</string>
+<string name="ok">Bé</string>
+<string name="settings">Ajustos</string>
+<string name="go_to_menu">Acceptar i Tancar</string>
+<string name="choose_currency">Triar moneda</string>
+
+<string name="instructions">Instruccions</string>
+<string name="see_details">Desplaceu-vos cap avall per veure les instruccions</string>
+<string name="results">Resultats</string>
+<string name="hint_amount">La quantitat del seu préstec.</string>
+<string name="hint_principal">Quant té vostè ara?</string>
+<string name="hint_target">Quant vols economitzar?</string>
+<string name="hint_period">Quant de temps va a estalviar?</string>
+<string name="hint_percent">A quina taxa de percentatge va a estalviar?</string>
+<string name="hint_interest">De quant és la taxa d\'interès (per any) del seu préstec?</string>
+<string name="hint_deposit">Quant es pot dipositar en el seu compte d\'estalvi cada mes?</string>
+<string name="hint_dep_period">Amb quina freqüència vas a dipositar diners al seu compte d\'estalvi?</string>
+<string name="hint_install">En general, igual a la quantitat de pagaments mensuals</string>
+<string name="hint_compounded">Període en el qual s\'afegeix l\'interès dels seus estalvis per a la quantitat principal. Depèn del seu banc / condicions / regulacions. Pot prendre els valors: anual, mensual o diària.</string>
+<string name="hint_amount_pro">La quantitat del seu préstec. En general, igual al preu del producte que desitja comprar. Aquest camp és obligatori.</string>
+<string name="hint_commission">Comissió (o quota del préstec) com a% de la suma del préstec. Si no el coneix, deixi en blanc.</string>
+<string name="hint_other_fees">Tots els altres càrrecs que no depenen de la quantitat del préstec. Si no el coneix, deixi en blanc.</string>
+<string name="hint_total_repay">Import total que haurà de ser reintegrada a l\'entitat creditícia.</string>
+<string name="hint_total_cost">El cost total del préstec, incloent l\'interès compost i totes les tarifes.</string>
+<string name="hint_cost_percent">Cost total (com a dalt) expressen com a percentatge de la quantitat del préstec.</string>
+<string name="hint_apr">Efectiva (real) taxa d\'interès anual del préstec. És igual al cost total, expressada com a percentatge de la quantitat del préstec.</string>
+<string name="hint_payment">L\'import de cada quota (mensual). No cal omplir aquest camp, a menys que et vas "percentatge" en blanc. Si es deixa en blanc, es calcula després de prémer el botó.</string>
+
+<string name="information_1">Aquesta calculadora li permet saber la quantitat dels seus estalvis en el futur, així com el benefici, que farà a partir de la taxa d\'interès compost. S\'assumeix que vostè sap els següents valors:</string>
+<string name="information_2">Aquesta calculadora li permetrà determinar el període de temps que es requereix per economitzar el seu import objectiu. Se suposa que vostè proporcioni el següent:</string>
+<string name="information_3">Aquí es pot calcular dipòsit mensual, que és la quantitat que vostè haurà de estalviar cada mes per tal d\'assolir la seva meta d\'estalvi. Necessitareu les dades següents:</string>
+<string name="information_4">Permet a esbrinar el tipus d\'interès, a la que haurà de economitzar, per tal d\'arribar al seu import objectiu. Vostè necessitarà proporcionar:</string>
+<string name="information_5">Gràcies a aquesta senzilla calculadora que serà capaç de determinar l\'import de cada tram del seu préstec, i calcular el seu cost total en la seva moneda i com a percentatge de la suma del préstec. Tot el que necessites saber és:</string>
+<string name="information_6">Si vostè planeja prendre un préstec per a les seves compres, es pot calcular tots els costos involucrats, així com efectius (real) Taxa de Percentatge anual. Funciona en dues maneres, en el primer és necessari introduir nominal taxa de percentatge (anual) proporcionat pel prestador i l\'aplicació calcularà la quantitat de quotes mensuals, així com els costos totals. En el segon mode, cal ingressar una quantitat de quota mensual (de vegades presentat per un comerciant), i l\'aplicació calcularà el percentatge i els costos per a vostè.</string>
+
+<string name="years">Any</string>
+<string name="months">Mesos</string>
+<string name="days">Dia</string>
+<string-array name="kapitalizacja">
+<item>Diari</item>
+<item>Setmanal</item>
+<item>Mensual</item>
+<item>Cada 3 mesos</item>
+<item>Cada 6 mesos</item>
+<item>Anual</item>
+</string-array>
+<string-array name="okres">
+<item>Mesos</item>
+<item>Anys</item>
+</string-array>
+
+
+    <string name="title_activity_loan_calc">LoanCalc</string>
+    <string name="enter_here">Aquí</string>
+    <string name="profit_percent">Com% del total de dipòsits</string>
+    <string name="that_is">És a dir</string>
+    <string name="of_deposit">Del total de dipòsits</string>
+    <string name="config">Configuració</string>
+    <string name="help">Ajuda</string>
+    <string name="info">Informació</string>
+    <string name="month">Mes</string>
+    <string name="hello_world">Hola Món!</string>
+    <string name="menu_settings">Ajustos</string>
+
+    </resources>

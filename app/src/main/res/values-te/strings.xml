@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">రుణాలు మరియు పొదుపు</string>
+
+<string name="app_name2">రుణాలు మరియు పెట్టుబడులు</string>
+
+<string name="menu_title">ఏం మీరు లెక్కించేందుకు అనుకుంటున్నారు?</string>
+<string name="SavingCalc">పొదుపు యొక్క భవిష్య విలువ</string>
+<string name="PeriodCalc">పొదుపు కాలం</string>
+<string name="DepositCalc">సాధారణ డిపాజిట్లపై</string>
+<string name="IntrestCalc">పొదుపుపై వడ్డీ రేటు</string>
+<string name="LoanCalc">అప్పు మరియు వాయిదాలలో యొక్క వ్యయాలు</string>
+<string name="LoanCalcPro">రుణ వార్షిక రేటు శాతాన్ని</string>
+
+<string name="action_settings">సెట్టింగులు</string>
+
+<string name="rate_app">ఈ అప్లికేషన్ రేటు!</string>
+<string name="feedback">మీ అభిప్రాయం ఇవ్వండి</string>
+<string name="feedback_prompt">హలో, మీరు మేము మీరు ఈ అప్లికేషన్ పెరుగుతుంది కనుక, మీ అభిప్రాయాన్ని మాకు పంపాలనుకున్న?</string>
+<string name="opinion">అభిప్రాయం</string>
+
+<string name="loan_amount">ప్రారంభ మొత్తం</string>
+<string name="loan_amt">రుణ మొత్తం</string>
+<string name="percentage">శాతం రేటు</string>
+<string name="period">పొదుపు కాలం</string>
+<string name="saving">మంత్లీ డిపాజిట్</string>
+<string name="capitalization">వడ్డీ కలిసిన</string>
+<string name="deposit_period">నిక్షేపాలు ఫ్రీక్వెన్సీ</string>
+<string name="target_amount">టార్గెట్ మొత్తం</string>
+<string name="total_deposit">మొత్తం డిపాజిట్</string>
+
+<string name="need_percentage">మీరు శాతం చొప్పున మితంగా అవసరం (సంవత్సరానికి)</string>
+<string name="need_gain">మీరు సంపాదించడానికి అవసరం</string>
+<string name="period_deposit">ప్రతి కాలం లో మీరు మితంగా అవసరం</string>
+<string name="total">Economized మొత్తం</string>
+<string name="profit">లాభం / మొత్తం డిపాజిట్% గా</string>
+<string name="fill_in">అన్ని ఇన్పుట్ ఖాళీలను పూరించండి</string>
+<string name="required_period">పొదుపు అవసరమైన కాలం</string>
+<string name="percent">శాతాన్ని (సంవత్సరానికి)</string>
+<string name="payments">వాయిదాలలో యొక్క సంఖ్య</string>
+<string name="payment_amount">వాయిదా మొత్తం</string>
+<string name="each_month">(ప్రతి నెల చెల్లించే విధంగా)</string>
+<string name="total_cost">మొత్తం ఖర్చు /</string>
+<string name="cost_percent">రుణ మొత్తంలో% గా</string>
+<string name="commission">కమిషన్ / సర్చార్జి</string>
+<string name="other_fees">ఇతర రుసుములు</string>
+<string name="annual_percent_rate">వార్షిక రేటు శాతాన్ని</string>
+<string name="total_repay">తిరిగి చెల్లించవలసిన మొత్తం</string>
+<string name="leave_one_of_two">శాతం, వాయిదా సొమ్ము: ఖాళీ వదిలి. క్రింది సూచనలను చూడండి.</string>
+
+<string name="deposit_calc">డిపాజిట్ మొత్తాన్ని లెక్కించు</string>
+<string name="savings_calc">పొదుపు మొత్తాన్ని లెక్కించు</string>
+<string name="period_calc">కాలం పొదుపు లెక్కించు</string>
+<string name="intrest_calc">వడ్డీ రేటు లెక్కించు</string>
+<string name="loan_calc">రుణ వాయిదాలలో లెక్కించు</string>
+
+<string name="submit">లెక్కించు</string>
+<string name="clear">అన్నీ క్లియర్</string>
+<string name="del">తొలగించు</string>
+<string name="show">షో</string>
+<string name="go">వెళ్ళండి</string>
+<string name="exit">నిష్క్రమించు</string>
+<string name="cancel">రద్దు</string>
+<string name="ok">సరే</string>
+<string name="settings">సెట్టింగులు</string>
+<string name="go_to_menu">అంగీకరించు మరియు మూసివేయండి</string>
+<string name="choose_currency">కరెన్సీ ఎంచుకోండి</string>
+
+<string name="instructions">సూచనలు</string>
+<string name="see_details">సూచనలను చూడడానికి క్రిందికి స్క్రోల్</string>
+<string name="results">ఫలితాలు</string>
+<string name="hint_amount">మీ రుణ మొత్తం.</string>
+<string name="hint_principal">ఎంత మీరు ఇప్పుడు కలిగి లేదు?</string>
+<string name="hint_target">మీరు ఎంత మితంగా అనుకుంటున్నారు?</string>
+<string name="hint_period">ఎంత మీరు మితంగా ప్రణాళిక?</string>
+<string name="hint_percent">శాతాన్ని ఏమి రేటు వద్ద మీరు మితంగా ఉంటుంది?</string>
+<string name="hint_interest">మీ ఋణం (సంవత్సరానికి) వడ్డీ రేటు ఎంత?</string>
+<string name="hint_deposit">ఎంత మీరు ప్రతి నెల మీ పొదుపు ఖాతాకు జమ చేయవచ్చు?</string>
+<string name="hint_dep_period">ఎంత తరచుగా మీరు మీ పొదుపు ఖాతా డబ్బు జమ చేస్తుంది?</string>
+<string name="hint_install">నెలవారీ చెల్లింపులు సంఖ్య సాధారణంగా సమాన</string>
+<string name="hint_compounded">కాలం ఇది వద్ద మీ పొదుపుపై వడ్డీ ప్రధాన మొత్తం జోడిస్తారు. ఇది మీ బ్యాంకు / పరిస్థితులు / నిబంధనలపై ఆధారపడి ఉంటుంది. విలువలు పట్టవచ్చు: వార్షిక, నెలవారీ లేదా రోజువారీ.</string>
+<string name="hint_amount_pro">మీ రుణ మొత్తం. మీరు కొనుగోలు అనుకుంటున్నారా ఉత్పత్తి యొక్క ధర సాధారణంగా సమాన. ఈ ఫీల్డ్ అవసరం.</string>
+<string name="hint_commission">కమిషన్ (లేదా రుణ రుసుము) రుణ మొత్తంలో% గా. తెలియదు ఉంటే, ఖాళీ వదిలి.</string>
+<string name="hint_other_fees">రుణ మొత్తాన్ని ఆధారపడి లేని అన్ని ఇతర రుసుములు. తెలియదు ఉంటే, ఖాళీ వదిలి.</string>
+<string name="hint_total_repay">అవసరం ఉంటుంది నగదు మొత్తం రుణదాత తిరిగి చెల్లించాల్సిన.</string>
+<string name="hint_total_cost">చక్రవడ్డీ మరియు అన్ని రుసుములు సహా రుణ ఖర్చు మొత్తం.</string>
+<string name="hint_cost_percent">మొత్తం ఖర్చు (పైన) రుణ మొత్తంలో శాతం వ్యక్తం చేశాయి.</string>
+<string name="hint_apr">రుణ ఎఫెక్టివ్ (నిజ) వార్షిక వడ్డీ రేటు. ఇది రుణ మొత్తంలో శాతంలో మొత్తం ఖర్చు సమానంగా ఉంటుంది.</string>
+<string name="hint_payment">ప్రతి విడతలో (నెలసరి) మొత్తం. మీరు "శాతం రేటు" ఖాళీగా తప్ప మీరు, ఈ రంగంలో పూరించడానికి అవసరం లేదు. ఖాళీగా ఉంటే, అది బటన్ నొక్కడం తర్వాత లెక్కించబడతాయి.</string>
+
+<string name="information_1">ఈ కాలిక్యులేటర్ మీరు సమ్మేళనం వడ్డీ రేటు కంటె చేస్తుంది ఇది భవిష్యత్తులో మీ పొదుపు మొత్తం, అలాగే లాభం, కనుగొనేందుకు అనుమతిస్తుంది. ఇది మీరు క్రింది విలువలను తెలుసుకోవాలనుకుంటే తెలుపుతాయి:</string>
+<string name="information_2">ఈ కాలిక్యులేటర్ మీరు మీ లక్ష్య మొత్తం మితంగా అవసరమయ్యే సమయం, కాలం నిర్ణయించడానికి వీలు ఉంటుంది. ఇది మీరు క్రింది అందించేందుకు ఊహిస్తుంది:</string>
+<string name="information_3">ఇక్కడ మీరు పొదుపు మీ లక్ష్యం చేరుకోవడానికి క్రమంలో ప్రతి నెల మితంగా ఉంటుంది మొత్తాన్ని, ఇది నెలవారీ డిపాజిట్ గణించవచ్చు. ఇది క్రింది డేటా అవసరం:</string>
+<string name="information_4">ఇది మీరు మీ లక్ష్య మొత్తం చేరటానికి మితంగా ఉంటుంది దీనిలో వడ్డీ రేటు, కనుగొనేందుకు అనుమతిస్తుంది. మీరు అందించే ఉంటుంది:</string>
+<string name="information_5">ఈ సాధారణ కాలిక్యులేటర్ ధన్యవాదాలు మీరు మీ ఋణం ప్రతి విడతలో యొక్క మొత్తంను నిర్ణయించటానికి, మరియు మీ కరెన్సీలో రుణ మొత్తాన్ని శాతంగా దాని మొత్తం ఖర్చు లెక్కించేందుకు చెయ్యగలరు. మీరు తెలుసుకోవాలి అన్ని ఉంది:</string>
+<string name="information_6">మీరు మీ కొనుగోళ్లకు రుణం తీసుకోవాలని ప్లాన్ ఉంటే, మీరు ప్రభావవంతమైన (నిజ) వార్షిక రేటు శాతాన్ని అలాగే చేరి అన్ని ఖర్చులు లెక్కించవచ్చు. ఇది మొదటి మీరు రుణదాత మరియు నెలవారీ వాయిదాలలో యొక్క మొత్తం అలాగే మొత్తం ఖర్చులు లెక్కించేందుకు ఉంటుంది అప్లికేషన్ ద్వారా అందించబడిన నామమాత్రపు (వార్షిక) శాతం రేటు నమోదు చేయాలి, రెండు రీతులను పనిచేస్తుంది. రెండవ మోడ్ లో, మీరు (కొన్నిసార్లు ఒక వ్యాపారి అందించారు) నెలసరి వాయిదా మొత్తం ఎంటర్ అవసరం, మరియు అప్లికేషన్ మీరు కోసం శాతం మరియు ఖర్చులు లెక్కించేందుకు ఉంటుంది.</string>
+
+<string name="years">సంవత్సరాల</string>
+<string name="months">నెలల</string>
+<string name="days">రోజులు</string>
+<string-array name="kapitalizacja">
+<item>డైలీ</item>
+<item>వీక్లీ</item>
+<item>మంత్లీ</item>
+<item>ప్రతి 3 నెలల</item>
+<item>ప్రతి 6 నెలల</item>
+<item>ప్రతిసంవత్సరం</item>
+</string-array>
+<string-array name="okres">
+<item>నెలలు</item>
+<item>ఇయర్స్</item>
+</string-array>
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">ఇక్కడ</string>
+<string name="profit_percent">మొత్తం డిపాజిట్లలో% గా</string>
+<string name="that_is">ఉంది</string>
+<string name="of_deposit">మొత్తం డిపాజిట్లలో</string>
+<string name="config">ఆకృతీకరణ</string>
+<string name="help">సహాయం</string>
+<string name="info">సమాచారం</string>
+<string name="month">నెల</string>
+<string name="hello_world">హలో ప్రపంచ!</string>
+<string name="menu_settings">సెట్టింగులు</string>
+
+</resources>

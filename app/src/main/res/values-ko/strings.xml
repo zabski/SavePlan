@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">집안의 재정</string>
+<string name="app_name2">대출 및 투자</string>
+<string name="menu_title">당신은 무엇을 계산하고 싶어?</string>
+<string name="SavingCalc">저축의 미래 가치</string>
+<string name="PeriodCalc">저장 기간</string>
+<string name="DepositCalc">정기 예금의 양</string>
+<string name="IntrestCalc">금리</string>
+<string name="LoanCalc">대출의 할부 금액</string>
+<string name="action_settings">설정</string>
+<string name="info">정보</string>
+<string name="loan_amount">초기 금액</string>
+<string name="loan_amt">대출 금액</string>
+<string name="percentage">비율의 비율 (연간)</string>
+<string name="period">저장 기간</string>
+<string name="saving">월간 예금</string>
+<string name="capitalization">관심이 복잡해집니다</string>
+<string name="deposit_period">예금의 주파수</string>
+<string name="target_amount">목표량</string>
+<string name="total_deposit">총 예금</string>
+<string name="need_percentage">당신은 이자율에 저장해야합니다 (연간)</string>
+<string name="need_gain">당신은 적립해야합니다</string>
+<string name="period_deposit">각 기간은 입금해야합니다</string>
+<string name="total">금액이 저장</string>
+<string name="profit">이익 / 총 예금의 %로</string>
+<string name="fill_in">모든 입력 필드를 기입하십시오</string>
+<string name="required_period">절약의 필수 기간</string>
+<string name="percent">비율의 비율 (연간)</string>
+<string name="payments">분할 수</string>
+<string name="payment_amount">할부 금액</string>
+<string name="each_month">(매월 지불하는)</string>
+<string name="total_cost">총 비용</string>
+<string name="total_cost_">총 비용/</string>
+<string name="cost_percent">대출 금액의 %로</string>
+<string name="deposit_calc">보증금의 양을 계산</string>
+<string name="savings_calc">저축의 값을 계산</string>
+<string name="period_calc">절약의 기간을 계산</string>
+<string name="intrest_calc">이자율을 계산</string>
+<string name="loan_calc">분할의 값을 계산</string>
+<string name="submit">계산</string>
+<string name="clear">모두 지우기</string>
+<string name="del">삭제</string>
+<string name="show">쇼</string>
+<string name="go">이동</string>
+<string name="exit">출구</string>
+<string name="settings">설정</string>
+<string name="go_to_menu">동의 및 닫기</string>
+    <string name="remove_ads">광고를 제거</string>
+<string name="instructions">지침</string>
+<string name="hint_amount">대출의 양.</string>
+<string name="hint_principal">얼마나 당신은 지금해야합니까?</string>
+<string name="hint_target">얼마나 저장 하시겠습니까?</string>
+<string name="hint_period">얼마나 오래 저장할 계획입니까?</string>
+<string name="hint_percent">비율 어떤 속도로 당신이 저장됩니다?</string>
+<string name="hint_interest">대출의 (연간)의 이자율은 무엇인가?</string>
+<string name="hint_deposit">얼마나 매달 당신의 저축 계정에 입금 할 수 있습니까?</string>
+<string name="hint_dep_period">얼마나 자주 당신은 당신의 저축 계좌에 돈을 입금 할 것인가?</string>
+<string name="hint_install">월부금의 수와 일반적으로 동일</string>
+<string name="hint_compounded">기간이되는 저축의이자는 원금에 추가됩니다. 그것은 당신의 은행 및 / 또는 연금 / 저축 계획의 규정에 따라 다릅니다. 그것은 \'연간\'에 \'매일\'의 값이 걸릴 수 있습니다.</string>
+<string name="information_1">이 계산기는 당신이 관심의 형태로 혼합 비율을 만들 것입니다 미래 저축의 양뿐만 아니라 이익을 알 수 있습니다. 그것은 당신이 다음을 알고 가정합니다 :</string>
+<string name="information_2">이 계산기는 당신이 당신의 목표 금액을 저장하는 데 필요한 기간을 결정하기 위해 드릴 것입니다. 그것은 당신이 다음을 제공 할 것입니다 가정</string>
+<string name="information_3">다음은 월간 보증금을 계산할 수 있습니다, ​​그건 당신이 절약의 목표에 도달하기 위해 매달 저장해야합니다 금액입니다. 그것은 다음과 같은 데이터가 필요합니다 :</string>
+<string name="information_4">그것은 당신이 당신의 목표 금액에 도달하기 위해, 저장해야 할이자의 비율을 알 수 있습니다. 당신은 제공해야합니다 :</string>
+<string name="information_5">이 간단한 계산기 덕분에 당신은 당신의 대부의 각 분할의 양을 결정하고, 돈 가치가 대출 금액의 비율로 대출의 총 비용을 계산 할 수있을 것입니다. 당신이 알아야 할 모든 것입니다 :</string>
+<string name="information_6">당신이 당신의 구입을위한 대출을하려는 경우에는 효과 (실제) 연간 이자율뿐만 아니라 관련된 모든 비용을 계산할 수 있습니다. 그것은 첫째로 당신은 대출 및 월별 분할의 양뿐만 아니라 총 비용을 계산합니다 응용 프로그램에서 제공 명목 (연간) 이자율을 입력 할 필요가, 두 가지 모드로 작동합니다. 두 번째 모드에서는 (때로는 상인에 의해 제공) 월 할부 금액을 입력해야하고, 응용 프로그램은 당신을 위해 비율과 비용을 계산합니다.</string>
+<string name="years">년</string>
+<string name="months">개월</string>
+<string name="days">일</string>
+<string name="LoanCalcPro">대출의 연간 이자율</string>
+<string name="help_translate">이 응용 프로그램을 번역에 참여하세요</string>
+<string name="rate_app">이 응용 프로그램을 평가하기!</string>
+<string name="feedback">여러분의 의견을 알려주세요</string>
+<string name="feedback_prompt">안녕하세요, 당신은 우리에게 당신의 경험을 개선 할 수 있도록 몇 가지 피드백을 제공 하시겠습니까?</string>
+<string name="opinion">의견</string>
+<string name="commission">위원회</string>
+<string name="other_fees">기타 수수료</string>
+<string name="annual_percent_rate">연간 이자율</string>
+<string name="total_repay">상환하는 총</string>
+<string name="leave_one_of_two">비율, 할부 금액 : 빈 중 하나를 둡니다. 아래의 지침을 참조하십시오.</string>
+<string name="cancel">취소</string>
+<string name="okay">좋아요</string>
+<string name="choose_currency">통화 선택</string>
+<string name="see_details">지시 사항은 아래로 스크롤 들어</string>
+<string name="results">결과</string>
+<string name="hint_amount_pro">대출의 양. 당신이 구입하려는 제품의 가격을 보통 동일. 이 필드는 필수입니다.</string>
+<string name="hint_commission">위원회 (또는 대출 수수료) 대출 금액의 %로. 알 수없는 경우, 비워 둡니다.</string>
+<string name="hint_other_fees">대출 금액에 의존하지 않는 다른 모든 비용. 알 수없는 경우, 비워 둡니다.</string>
+<string name="hint_total_repay">해야합니다 총 금액은 대출 기관에 상환한다.</string>
+<string name="hint_total_cost">복리 및 모든 비용을 포함한 대출의 총 비용.</string>
+<string name="hint_cost_percent">총 비용은 (위와 같이) 대출 금액의 백분율로 표시.</string>
+<string name="hint_apr">총 비용을 포함한 대출의 효과 (실제) 연간 이자율.</string>
+<string name="hint_payment">당신의 (월간) 할부 각각의 양. 당신은 "이자율"비어를 제외하고는,이 필드에 입력 할 필요가 없습니다. 비어 경우, 버튼을 누른 후 계산한다.</string>
+
+    <string-array name="kapitalizacja">
+<item>매일</item>
+<item>주간</item>
+<item>월</item>
+<item>분기 별</item>
+<item>매 6 개월마다</item>
+<item>연간</item>
+    </string-array>    
+    <string-array name="okres">
+<item>달</item>
+<item>년</item>
+    </string-array>     	    
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">여기</string>
+<string name="profit_percent">총 예금의 %로</string>
+<string name="that_is">즉</string>
+<string name="of_deposit">총 예금</string>
+
+<string name="ok">OK</string>
+<string name="config">구성</string>
+<string name="help">도움말</string>
+<string name="month">개월</string>
+<string name="hello_world">여보세요 세계!</string>
+<string name="menu_settings">설정</string>
+
+</resources>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">घर के आराम से, वित्त</string>
+<string name="app_name2">ऋण और निवेश</string>
+<string name="menu_title">क्या आप गणना करने के लिए करना चाहते हैं?</string>
+<string name="SavingCalc">बचत के भविष्य के मूल्य</string>
+<string name="PeriodCalc">बचत की अवधि</string>
+<string name="DepositCalc">नियमित रूप से जमा की राशि</string>
+<string name="IntrestCalc">ब्याज दर</string>
+<string name="LoanCalc">एक ऋण की किश्तों की राशि</string>
+<string name="action_settings">सेटिंग्स</string>
+<string name="info">सूचना</string>
+<string name="loan_amount">आरंभिक राशि</string>
+<string name="loan_amt">ऋण की राशि</string>
+<string name="percentage">प्रतिशत की दर (प्रति वर्ष)</string>
+<string name="period">बचत की अवधि</string>
+<string name="saving">मासिक जमा</string>
+<string name="capitalization">ब्याज बढ़ रहा है</string>
+<string name="deposit_period">जमा की फ्रीक्वेंसी</string>
+<string name="target_amount">लक्ष्य राशि</string>
+<string name="total_deposit">कुल जमा</string>
+<string name="need_percentage">आप प्रतिशत दर से बचाने के लिए की आवश्यकता होगी (प्रति वर्ष)</string>
+<string name="need_gain">आप अर्जित करने की आवश्यकता होगी</string>
+<string name="period_deposit">प्रत्येक अवधि आप जमा करने की आवश्यकता होगी</string>
+<string name="total">राशि बचाया</string>
+<string name="profit">लाभ / कुल जमा का%</string>
+<string name="fill_in">सभी इनपुट क्षेत्रों में भरें</string>
+<string name="required_period">बचत की अवधि</string>
+<string name="percent">प्रतिशत की दर (प्रति वर्ष)</string>
+<string name="payments">किस्तों की संख्या</string>
+<string name="payment_amount">किस्त की राशि</string>
+<string name="each_month">(प्रत्येक माह भुगतान किया जा सकता है)</string>
+<string name="total_cost">कुल लागत</string>
+<string name="total_cost_">कुल लागत/</string>
+<string name="cost_percent">ऋण राशि का%</string>
+<string name="deposit_calc">जमा की राशि की गणना</string>
+<string name="savings_calc">बचत के मूल्य की गणना</string>
+<string name="period_calc">बचत की अवधि की गणना</string>
+<string name="intrest_calc">ब्याज की दर की गणना</string>
+<string name="loan_calc">किश्तों के मूल्य की गणना</string>
+<string name="submit">गणना</string>
+<string name="clear">सभी साफ़</string>
+<string name="del">हटाएं</string>
+<string name="show">दिखाएँ</string>
+<string name="go">जाना</string>
+<string name="exit">बाहर निकलें</string>
+<string name="settings">सेटिंग्स</string>
+<string name="go_to_menu">स्वीकारें और बंद</string>
+    <string name="remove_ads">विज्ञापन हटाएँ</string>
+<string name="instructions">निर्देश</string>
+<string name="hint_amount">अपने ऋण की राशि.</string>
+<string name="hint_principal">कितना तुम अब क्या करना है?</string>
+<string name="hint_target">कितना आप को बचाने के लिए करना चाहते हैं?</string>
+<string name="hint_period">कब तक आप को बचाने के लिए आपकी क्या योजना है?</string>
+<string name="hint_percent">प्रतिशत के किस दर पर बचाने के लिए होगा?</string>
+<string name="hint_interest">अपने ऋण की (प्रति वर्ष) ब्याज की दर क्या है?</string>
+<string name="hint_deposit">कितना आप हर महीने अपने बचत खाते में जमा कर सकते हैं?</string>
+<string name="hint_dep_period">कितनी बार आप अपने बचत खाते में पैसे जमा करेंगे?</string>
+<string name="hint_install">मासिक भुगतान की संख्या को आमतौर पर बराबर</string>
+<string name="hint_compounded">अवधि, जिस पर अपनी बचत की ब्याज मूलधन राशि में जोड़ा जाता है. यह आपके बैंक और / या अपने पेंशन / बचत योजना के नियमों पर निर्भर करता है. यह वार्षिक \'करने के लिए\' दैनिक \'से मान ले सकता है.</string>
+<string name="information_1">इस कैलकुलेटर आप आप ब्याज के रूप चक्रवृद्धि दर करना होगा कि भविष्य आपके बचत की राशि के रूप में अच्छी तरह से लाभ पता लगाने के लिए अनुमति देता है. यह आप निम्नलिखित पता मानता है:</string>
+<string name="information_2">इस कैलकुलेटर आप अपने लक्षित राशि को बचाने के लिए आवश्यक है कि समय की अवधि निर्धारित करने के लिए देंगे. यह आप निम्नलिखित प्रदान करेगा मानता है:</string>
+<string name="information_3">यहाँ आप मासिक जमा गणना कर सकते हैं, कि आप बचत के अपने लक्ष्य तक पहुंचने के लिए हर महीने बचाने के लिए की आवश्यकता होगी पैसे की राशि है. यह निम्न डेटा की आवश्यकता होगी:</string>
+<string name="information_4">यह आप आप अपने लक्षित राशि तक पहुँचने के क्रम में, बचत करने की आवश्यकता होगी, जिस पर ब्याज की दर पता लगाने के लिए अनुमति देता है. आप प्रदान करने की आवश्यकता होगी:</string>
+<string name="information_5">इस सरल कैलकुलेटर करने के लिए धन्यवाद आप अपने ऋण की प्रत्येक किस्त की राशि का निर्धारण, और पैसे के मूल्य में और ऋण की राशि के एक प्रतिशत के रूप में ऋण की कुल लागत की गणना करने में सक्षम हो जाएगा. तुम्हें पता करने की जरूरत है:</string>
+<string name="information_6"></string>
+<string name="years">साल</string>
+<string name="months">महीने</string>
+<string name="days">दिन</string>
+<string name="LoanCalcPro">ऋण का प्रतिशत वार्षिक दर</string>
+<string name="help_translate">इस आवेदन के अनुवाद में मदद</string>
+<string name="rate_app">इस आवेदन दर!</string>
+<string name="feedback">अपनी प्रतिक्रिया दें</string>
+<string name="feedback_prompt">हाय, तुम हमें हम अपने अनुभव में सुधार कर सकते हैं ताकि कुछ प्रतिक्रिया देना चाहते हैं?</string>
+<string name="opinion">राय</string>
+<string name="commission">आयोग</string>
+<string name="other_fees">अन्य शुल्क</string>
+<string name="annual_percent_rate">प्रतिशत वार्षिक दर</string>
+<string name="total_repay">चुकाने के लिए कुल</string>
+<string name="leave_one_of_two">प्रतिशत, किस्त राशि: खाली की एक छोड़ दो. नीचे निर्देश देखें.</string>
+<string name="cancel">रद्द करना</string>
+<string name="okay">ठीक है</string>
+<string name="choose_currency">मुद्रा चुनें</string>
+<string name="see_details">निर्देश नीचे स्क्रॉल के लिए</string>
+<string name="results">परिणाम</string>
+<string name="hint_amount_pro">अपने ऋण की राशि. आप खरीद करना चाहते हैं उत्पाद की कीमत के लिए आम तौर पर बराबर. यह फ़ील्ड आवश्यक है.</string>
+<string name="hint_commission">आयोग (या ऋण शुल्क) ऋण राशि का%. ज्ञात नहीं, तो खाली छोड़ दें.</string>
+<string name="hint_other_fees">ऋण की राशि पर निर्भर नहीं कर रहे हैं कि अन्य सभी फीस. ज्ञात नहीं, तो खाली छोड़ दें.</string>
+<string name="hint_total_repay">की आवश्यकता होगी कि कुल राशि ऋण देने के लिए चुकाना होगा.</string>
+<string name="hint_total_cost">चक्रवृद्धि ब्याज और सभी फीस सहित ऋण की कुल लागत,.</string>
+<string name="hint_cost_percent">कुल लागत (ऊपर के रूप में) ऋण राशि के प्रतिशत के रूप में व्यक्त किया.</string>
+<string name="hint_apr">कुल लागत सहित ऋण की प्रभावी (वास्तविक) वार्षिक ब्याज दर.</string>
+<string name="hint_payment">अपने (मासिक) किस्त में से प्रत्येक की राशि. आप "प्रतिशत की दर" खाली नहीं छोड़ा, जब तक आप इस क्षेत्र में भरने की जरूरत नहीं है. खाली छोड़ दिया है, यह बटन दबाने के बाद की गणना की जाएगी.</string>
+
+    <string-array name="kapitalizacja">
+<item>दैनिक</item>
+<item>साप्ताहिक</item>
+<item>मासिक</item>
+<item>त्रैमासिक</item>
+<item>हर 6 महीने</item>
+<item>वार्षिक</item>
+    </string-array>    
+    <string-array name="okres">
+<item>महीने</item>
+<item>साल</item>
+    </string-array>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">यहाँ</string>
+<string name="profit_percent">कुल जमा का%</string>
+<string name="that_is">है</string>
+<string name="of_deposit">कुल जमा की</string>
+
+<string name="ok">ठीक है</string>
+<string name="config">विन्यास</string>
+<string name="help">मदद</string>
+<string name="month">माह</string>
+<string name="hello_world">दुनिया नमस्कार!</string>
+<string name="menu_settings">सेटिंग्स</string>
+
+</resources>

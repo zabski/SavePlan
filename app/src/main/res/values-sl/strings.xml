@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Posojila in varčevanje</string>
+
+<string name="app_name2">Posojila in naložbe</string>
+
+<string name="menu_title">Kaj želite izračunati?</string>
+<string name="SavingCalc">Prihodnja vrednost prihrankov</string>
+<string name="PeriodCalc">Obdobje varčevanja</string>
+<string name="DepositCalc">Znesek rednih depozitov</string>
+<string name="IntrestCalc">Obrestna mera prihrankov</string>
+<string name="LoanCalc">Stroški posojila in obroke</string>
+<string name="LoanCalcPro">Efektivna obrestna mera za posojila</string>
+
+<string name="action_settings">Nastavitve</string>
+
+<string name="rate_app">Ocenite to aplikacijo!</string>
+<string name="feedback">Povejte svoje mnenje</string>
+<string name="feedback_prompt">Pozdravljeni, bi radi, da nam pošljete svoje mnenje, tako da bomo lahko izboljšali to aplikacijo za vas?</string>
+<string name="opinion">Mnenje</string>
+
+<string name="loan_amount">Začetni znesek</string>
+<string name="loan_amt">Znesek posojila</string>
+<string name="percentage">Odstotek,</string>
+<string name="period">Obdobje varčevanja</string>
+<string name="saving">Mesečni depozit</string>
+<string name="capitalization">Prišteti obresti</string>
+<string name="deposit_period">Pogostost depozitov</string>
+<string name="target_amount">Ciljni znesek</string>
+<string name="total_deposit">Skupaj Deposit</string>
+
+<string name="need_percentage">Boste morali varčevati pri odstotno obrestno mero (letno)</string>
+<string name="need_gain">Boste morali zaslužiti</string>
+<string name="period_deposit">V vsakem obdobju morate varčevati</string>
+<string name="total">Varčevati Znesek</string>
+<string name="profit">Dobiček / kot% celotnega depozita</string>
+<string name="fill_in">Prosimo, da izpolnite vsa vnosna polja</string>
+<string name="required_period">Zahtevana obdobje varčevanja</string>
+<string name="percent">Stopnja odstotek (na leto)</string>
+<string name="payments">Število obrokov</string>
+<string name="payment_amount">Obrok Količina</string>
+<string name="each_month">(Plača vsak mesec)</string>
+<string name="total_cost">Total Cost /</string>
+<string name="cost_percent">Kot% zneska posojila</string>
+<string name="commission">Komisija / doplačilo</string>
+<string name="other_fees">Drugi Pristojbine</string>
+<string name="annual_percent_rate">Efektivna obrestna mera</string>
+<string name="total_repay">Skupaj za poplačilo</string>
+<string name="leave_one_of_two">Pustite prazno eno: Odstotek, Znesek obroka. Glejte navodila spodaj.</string>
+
+<string name="deposit_calc">Izračun zneska pologa</string>
+<string name="savings_calc">Izračuna znesek prihrankov</string>
+<string name="period_calc">Izračunajte prihranek obdobje</string>
+<string name="intrest_calc">Izračunajte obrestno mero</string>
+<string name="loan_calc">Izračunajte posojilnih obrokov</string>
+
+<string name="submit">Izračunaj</string>
+<string name="clear">Počisti vse</string>
+<string name="del">Izbriši</string>
+<string name="show">Prikaži</string>
+<string name="go">Pojdi</string>
+<string name="exit">Exit</string>
+<string name="cancel">Prekliči</string>
+<string name="ok">Ok</string>
+<string name="settings">Nastavitve</string>
+<string name="go_to_menu">Sprejmi in zapri</string>
+<string name="choose_currency">Izberite valuto</string>
+
+<string name="instructions">Navodila</string>
+<string name="see_details">Pomaknite se navzdol da vidite navodila</string>
+<string name="results">Rezultati</string>
+<string name="hint_amount">Znesek vaše posojilo.</string>
+<string name="hint_principal">Koliko imaš zdaj?</string>
+<string name="hint_target">Koliko želite varčevati?</string>
+<string name="hint_period">Kako dolgo nameravate varčevati?</string>
+<string name="hint_percent">Na kakšni stopnji odstotka boste varčevati?</string>
+<string name="hint_interest">Koliko je obrestna mera (na leto) za vaše posojilo?</string>
+<string name="hint_deposit">Koliko lahko deponira na vaš varčevalnega računa vsak mesec?</string>
+<string name="hint_dep_period">Kako pogosto boste polog denarja na svoj račun varčevanja?</string>
+<string name="hint_install">Ponavadi je enako številu mesečnih plačil</string>
+<string name="hint_compounded">Obdobje, v katerem je dodan obresti od vaših prihrankov za znesek glavnice. To je odvisno od vaše banke / pogoji / predpisi. Lahko vrednosti: letno, mesečno ali dnevno.</string>
+<string name="hint_amount_pro">Znesek vaše posojilo. Ponavadi je enaka ceni izdelka, ki ga želite kupiti. To polje je obvezno.</string>
+<string name="hint_commission">Komisija (ali pristojbina posojilo) kot% od zneska posojila. Če ta ni znana, pustite prazno.</string>
+<string name="hint_other_fees">Vsi drugi stroški, ki niso odvisni od višine posojila. Če ta ni znana, pustite prazno.</string>
+<string name="hint_total_repay">Skupni znesek, ki ga bo treba odplačati posojilodajalcu.</string>
+<string name="hint_total_cost">Skupni stroški posojila, Vključno z obrestnimi obrestmi in vsemi pristojbinami.</string>
+<string name="hint_cost_percent">Skupni stroški (kot zgoraj), izražena kot odstotek zneska posojila.</string>
+<string name="hint_apr">Učinkovito (realna) letna obrestna mera za posojilo. To je enako skupni stroški, izraženi kot odstotek od zneska posojila.</string>
+<string name="hint_payment">Višina vsakega obroka (mesečno). Vam ni treba izpolniti na tem področju, razen če ste levi "stopnja Odstotek" prazno. Če je prazno, se izračuna po pritisku na gumb.</string>
+
+<string name="information_1">Ta kalkulator vam omogoča, da ugotovite, količino svoje prihranke v prihodnje, kot tudi dobiček, ki vam bo iz sestavljenih obrestnih mer. Predpostavlja, da veste naslednje vrednosti:</string>
+<string name="information_2">Ta kalkulator vam bo določitev časa, ki je potreben, da varčevati vaš ciljni znesek. To predpostavlja, da zagotovijo naslednje:</string>
+<string name="information_3">Tukaj si lahko izračunate mesečno depozit, kar je znesek, ki ga boste morali varčevati vsak mesec, da bi dosegli svoj cilj varčevanja. To bodo potrebovali naslednje podatke:</string>
+<string name="information_4">To vam omogoča, da ugotovite, obrestno mero, po kateri boste morali varčevati, da bi dosegli svoj ciljni znesek. Boste morali zagotoviti:</string>
+<string name="information_5">Hvala za ta kalkulator, boste lahko, da določitev zneska vsakega obroka vaše posojilo, in izračun skupne stroške v svoji valuti in kot odstotek od zneska posojila. Vse, kar morate vedeti, je:</string>
+<string name="information_6">Če nameravate vzeti posojilo za vaše nakupe, si lahko izračunate vse stroške, povezane, kakor tudi učinkovito (realno) letnega odstotka obresti. Deluje na dva načina, v prvi morate vnesti nominalno (letno) odstotek obresti, ki jih posojilodajalec in uporabe bodo izračunali višino mesečnih obrokih, kakor tudi skupne stroške. V drugem načinu, morate vnesti znesek mesečnega obroka (ki ga trgovec včasih predstavljen), in bo aplikacija izračuna odstotek in stroške za vas.</string>
+
+<string name="years">Let</string>
+<string name="months">Mesecev</string>
+<string name="days">Dni</string>
+<string-array name="kapitalizacja">
+<item>Daily</item>
+<item>Tedenski</item>
+<item>Mesečni</item>
+<item>Vsake 3 mesece</item>
+<item>Vsakih 6 mesecev</item>
+<item>Letno</item>
+</string-array>
+<string-array name="okres">
+<item>Mesecev</item>
+<item>Let</item>
+</string-array>
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Tukaj</string>
+<string name="profit_percent">Kot% vseh vlog</string>
+<string name="that_is">Da je</string>
+<string name="of_deposit">Vseh vlog</string>
+<string name="config">Konfiguracija</string>
+<string name="help">Pomaga</string>
+<string name="info">Informacije</string>
+<string name="month">Mesec</string>
+<string name="hello_world">Zdravo svet!</string>
+<string name="menu_settings">Nastavitve</string>
+
+</resources>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Evin mali</string>
+<string name="app_name2">Krediler ve yatırımlar</string>
+<string name="menu_title">Ne hesaplamak istiyorsun?</string>
+<string name="SavingCalc">Tasarrufların gelecekteki değeri</string>
+<string name="PeriodCalc">Tasarruf dönemi</string>
+<string name="DepositCalc">Düzenli mevduat miktarı</string>
+<string name="IntrestCalc">Faiz oranı</string>
+<string name="LoanCalc">Bir kredinin taksit tutarları</string>
+<string name="action_settings">Ayarlar</string>
+<string name="info">Bilgi</string>
+<string name="loan_amount">Ilk miktarı</string>
+<string name="loan_amt">Kredi Tutarı</string>
+<string name="percentage">Yüzde oranı (yıllık)</string>
+<string name="period">Tasarruf dönemi</string>
+<string name="saving">Aylık mevduat</string>
+<string name="capitalization">Faiz karmaşıklaşır</string>
+<string name="deposit_period">Mevduat Frekans</string>
+<string name="target_amount">Hedef miktarı</string>
+<string name="total_deposit">Toplam mevduat</string>
+<string name="need_percentage">Sen yüzde oranında tasarruf gerekir (yılda)</string>
+<string name="need_gain">Sen kazanmak için ihtiyacınız olacak</string>
+<string name="period_deposit">Her dönem yatırmak gerekir</string>
+<string name="total">Tutar kurtardı</string>
+<string name="profit">Kar / toplam mevduatın% olarak</string>
+<string name="fill_in">Tüm giriş alanları doldurunuz</string>
+<string name="required_period">Tasarrufu Gerekli dönemi</string>
+<string name="percent">Yüzde oranı (yıllık)</string>
+<string name="payments">Taksit Sayısı</string>
+<string name="payment_amount">Taksit tutarı</string>
+<string name="each_month">(her ay ödenecek)</string>
+<string name="total_cost">Toplam maliyeti</string>
+<string name="total_cost_">Toplam maliyeti /</string>
+<string name="cost_percent">Kredi tutarının% olarak</string>
+<string name="deposit_calc">Mevduat miktarını hesaplayın</string>
+<string name="savings_calc">Tasarrufların değerini hesaplayın</string>
+<string name="period_calc">Tasarruf dönemi hesaplayın</string>
+<string name="intrest_calc">Faiz oranını hesaplamak</string>
+<string name="loan_calc">Taksit değerini hesaplayın</string>
+<string name="submit">Hesapla</string>
+<string name="clear">Tümünü Temizle</string>
+<string name="del">Silmek</string>
+<string name="show">Göster</string>
+<string name="go">Git</string>
+<string name="exit">Çıkış</string>
+<string name="settings">Ayarlar</string>
+<string name="go_to_menu">Kabul ve Kapat</string>
+    <string name="remove_ads">Reklamları kaldır</string>
+<string name="instructions">Talimatlar</string>
+<string name="hint_amount">Kredinin miktarı.</string>
+<string name="hint_principal">Ne kadar şimdi var mı?</string>
+<string name="hint_target">Ne kadar tasarruf istiyorsun?</string>
+<string name="hint_period">Ne kadar tasarruf planlıyorsunuz?</string>
+<string name="hint_percent">Yüzdesi hangi oranda tasarruf edecek?</string>
+<string name="hint_interest">Kredinin (yılda) faiz oranı nedir?</string>
+<string name="hint_deposit">Ne kadar her ay tasarruf hesabına yatırabilirsiniz?</string>
+<string name="hint_dep_period">Ne kadar sıklıkla sizin tasarruf hesabınıza para yatırmak olacak?</string>
+<string name="hint_install">Aylık ödemelerin sayısına genellikle eşit</string>
+<string name="hint_compounded">Dönem hangi sizin tasarruf faiz anapara tutarına ilave edilir. Bu sizin banka ve / veya emeklilik / tasarruf planının yönetmeliklere bağlıdır. Bu \'yıllık\' ile \'günlük\' değerleri alabilir.</string>
+<string name="information_1">Bu hesap size ilgi formu bileşik oranı yapacak geleceği sizin tasarruf miktarı yanı sıra kar bulmanızı sağlar. Bu şu bildiğiniz varsayılmaktadır:</string>
+<string name="information_2">Bu hesap sizin hedeflenen miktarda tasarruf için gereken süreyi belirlemek için izin verir. Bu şu sağlayacaktır varsayılmaktadır:</string>
+<string name="information_3">Burada aylık mevduat hesaplayabilirsiniz, bu size tasarruf hedefe ulaşmak için her ay kaydetmeniz gerekir para miktarıdır. Bu aşağıdaki verileri gerekir:</string>
+<string name="information_4">Bu size hedeflenen miktar ulaşmak için, tasarruf gerekir hangi faiz oranını bulmak sağlar. Sen sağlamanız gerekir:</string>
+<string name="information_5">Bu basit bir hesap makinesi sayesinde size her kredi taksit miktarını belirlemek ve para değeri ve kredinin miktarının bir yüzdesi olarak kredinin toplam maliyetini hesaplamak mümkün olacaktır. Bilmeniz gereken:</string>
+<string name="information_6"></string>
+<string name="years">Yıl</string>
+<string name="months">Ay</string>
+<string name="days">Gün</string>
+<string name="LoanCalcPro">Kredinin Yıllık Yüzde Oranı</string>
+<string name="help_translate">Bu uygulamayı çevrilmesine yardımcı</string>
+<string name="rate_app">Bu uygulamayı oylayın!</string>
+<string name="feedback">Geribildirim vermek</string>
+<string name="feedback_prompt">Merhaba, bize deneyiminizi geliştirmek böylece bazı geribildirim vermek istiyorum?</string>
+<string name="opinion">Görüş</string>
+<string name="commission">Komisyon</string>
+<string name="other_fees">Diğer Ücretler</string>
+<string name="annual_percent_rate">Yıllık Yüzde Oranı</string>
+<string name="total_repay">Ödemek Toplam</string>
+<string name="leave_one_of_two">Yüzde, Taksit Tutarı: Boş birini bırakın. Aşağıdaki talimatlara bakın.</string>
+
+<string name="okay">Tamam</string>
+<string name="choose_currency">Döviz seçin</string>
+<string name="see_details">Talimatları aşağı kaydırmak için</string>
+<string name="results">Sonuçlar</string>
+<string name="hint_amount_pro">Kredinin miktarı. Satın almak istediğiniz ürünün fiyat genellikle eşit. Bu alan gereklidir.</string>
+<string name="hint_commission">Komisyonu (veya kredi ücret) kredi tutarının% olarak. Eğer bilinmiyorsa, boş bırakın.</string>
+<string name="hint_other_fees">Kredi miktarına bağımlı olmayan tüm diğer ücretler. Eğer bilinmiyorsa, boş bırakın.</string>
+<string name="hint_total_repay">Ihtiyacınız olacak toplam tutarı borç geri ödemesi olmak.</string>
+<string name="hint_total_cost">Bileşik faiz ve tüm ücretler dahil kredinin toplam maliyeti,.</string>
+<string name="hint_cost_percent">Toplam maliyet (yukarıdaki gibi) kredi tutarının yüzde olarak ifade edildi.</string>
+<string name="hint_apr">Toplam maliyeti dahil kredinin efektif (gerçek) yıllık faiz oranı.</string>
+<string name="hint_payment">Sizin (aylık) taksit her birinin miktarı. Eğer "Yüzde oranı" boş bırakılırsa sürece, bu alanı doldurmanız gerekmez. Boş bırakılırsa, bu düğmeye bastıktan sonra hesaplanacaktır.</string>
+
+    <string-array name="kapitalizacja">
+<item>Günlük</item>
+<item>Haftalık</item>
+<item>Aylık</item>
+<item>Üç aylık</item>
+<item>Her 6 ayda</item>
+<item>Yıllık</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Ay</item>
+<item>Yıl</item>
+    </string-array>     	    
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Burada</string>
+<string name="profit_percent">Toplam mevduatın % olarak</string>
+<string name="that_is">Olmasıdır</string>
+<string name="of_deposit">Toplam mevduatın</string>
+<string name="cancel">İptal</string>
+<string name="ok">Tamam</string>
+<string name="config">Yapılandırma</string>
+<string name="help">Yardım</string>
+<string name="month">Ay</string>
+<string name="hello_world">Selam Dünya!</string>
+<string name="menu_settings">Ayarlar</string>
+
+</resources>

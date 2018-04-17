@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Os préstamos e aforro</string>
+
+<string name="app_name2">Os préstamos e investimentos</string>
+
+<string name="menu_title">O que quere calcular?</string>
+<string name="SavingCalc">Valor futuro de aforro</string>
+<string name="PeriodCalc">Período de aforro</string>
+<string name="DepositCalc">Cantidade de depósitos regulares</string>
+<string name="IntrestCalc">Taxa de interese do aforro</string>
+<string name="LoanCalc">Custos de préstamo e prestacións</string>
+<string name="LoanCalcPro">A taxa anual de préstamo</string>
+
+<string name="action_settings">Axustes</string>
+
+<string name="rate_app">Avaliar este programa!</string>
+<string name="feedback">Dea a súa opinión</string>
+<string name="feedback_prompt">Hola, quere enviar a súa opinión, para que pudéssemos mellorar esta aplicación para ti?</string>
+<string name="opinion">Opinión</string>
+
+<string name="loan_amount">Importe inicial</string>
+<string name="loan_amt">Importe do préstamo</string>
+<string name="percentage">Taxa porcentual</string>
+<string name="period">Período de aforro</string>
+<string name="saving">Depósito mensual</string>
+<string name="capitalization">Xuros compostos</string>
+<string name="deposit_period">Frecuencia de depósitos</string>
+<string name="target_amount">Obxectivo Importe</string>
+<string name="total_deposit">Depósito total</string>
+
+<string name="need_percentage">Debe aforrar en taxa porcentual (por ano)</string>
+<string name="need_gain">Ten que gañar</string>
+<string name="period_deposit">En cada período, o que precisa para aforrar</string>
+<string name="total">Valor aforrado</string>
+<string name="profit">Beneficio / en% do depósito total</string>
+<string name="fill_in">Por favor, encha todos os campos de entrada</string>
+<string name="required_period">Período necesario de aforro</string>
+<string name="percent">Taxa porcentual (por ano)</string>
+<string name="payments">Número de parcelas</string>
+<string name="payment_amount">Valor da prestación</string>
+<string name="each_month">(A ser pago cada mes)</string>
+<string name="total_cost">Custo Total /</string>
+<string name="cost_percent">En% do importe do préstamo</string>
+<string name="commission">Comisión / sobretaxa</string>
+<string name="other_fees">Outras Taxas</string>
+<string name="annual_percent_rate">Taxa anual</string>
+<string name="total_repay">Total a pagar</string>
+<string name="leave_one_of_two">Deixar un baleiro de: Porcentaxe, a cantidade de parcela. Vexa instrucións de abaixo.</string>
+
+<string name="deposit_calc">Calcular valor do depósito</string>
+<string name="savings_calc">Calcular o importe do aforro</string>
+<string name="period_calc">Calcule período de aforro</string>
+<string name="intrest_calc">Calcule o tipo de interese</string>
+<string name="loan_calc">Calcular prestacións do préstamo</string>
+
+<string name="submit">Calcular</string>
+<string name="clear">Limpar Todo</string>
+<string name="del">Eliminar</string>
+<string name="show">Espectáculo</string>
+<string name="go">Ir</string>
+<string name="exit">Saída</string>
+<string name="cancel">Cancelar</string>
+<string name="ok">Ok</string>
+<string name="settings">Axustes</string>
+<string name="go_to_menu">Aceptar e pechar</string>
+<string name="choose_currency">Elixa a moeda</string>
+
+<string name="instructions">Instrucións</string>
+<string name="see_details">Role para abaixo para ver as instrucións</string>
+<string name="results">Resultados</string>
+<string name="hint_amount">O importe do préstamo.</string>
+<string name="hint_principal">Como ten agora?</string>
+<string name="hint_target">Como quere aforrar?</string>
+<string name="hint_period">Canto tempo desexa aforrar?</string>
+<string name="hint_percent">A que tipo de porcentaxe que vai aforrar?</string>
+<string name="hint_interest">Cal é o tipo de interese (por ano) do seu préstamo?</string>
+<string name="hint_deposit">Como pode depositar na súa conta de aforro de cada mes?</string>
+<string name="hint_dep_period">Cantas veces vai depositar o diñeiro da súa conta aforro?</string>
+<string name="hint_install">Normalmente, igual ao número de pagamentos mensuais</string>
+<string name="hint_compounded">Período en que os intereses das súas economías se engade ao valor do principal. El depende do seu banco / condicións / regulamentos. Poden asumir valores: anual, mensual ou diaria.</string>
+<string name="hint_amount_pro">O importe do préstamo. Normalmente igual ao prezo do produto que quere mercar. Este campo é obrigatorio.</string>
+<string name="hint_commission">Comisión (ou taxa de préstamo) en% do importe do préstamo. Se non sabe, deixe baleiro.</string>
+<string name="hint_other_fees">Todas as outras taxas que non dependen do importe do préstamo. Se non sabe, deixe baleiro.</string>
+<string name="hint_total_repay">O valor total que terá que ser reembolsado ao prestado.</string>
+<string name="hint_total_cost">O custo total do préstamo, incluíndo os xuros compostos e todas as taxas.</string>
+<string name="hint_cost_percent">Custo total (como antes), expresado como unha porcentaxe do importe do préstamo.</string>
+<string name="hint_apr">(Real) taxa de interese efectiva do préstamo. El é igual ao custo total, expresada en porcentaxe do importe do préstamo.</string>
+<string name="hint_payment">O valor de cada parcela (mensual). Non é preciso cubrir este campo, a menos que deixou "Taxa" baleiro. Se deixa baleiro, el será calculado despois premer o botón.</string>
+
+<string name="information_1">A calculadora permítelle descubrir o valor das súas economías no futuro, así como o beneficio, o que vai facer a partir de taxa de xuros compostos. El asume que sabe os seguintes valores:</string>
+<string name="information_2">A calculadora permítelle determinar o período de tempo, o que é necesario para aforrar o seu valor de destino. El asume que fornecer o seguinte:</string>
+<string name="information_3">Aquí pode calcular depósito mensual, que é a cantidade, o que terá que aforrar cada mes, a fin de alcanzar o seu obxectivo de aforro. Terá os seguintes datos:</string>
+<string name="information_4">Permite que para saber o tipo de interese, no que terá que aforrar, a fin de alcanzar o seu valor de destino. Terá de proporcionar:</string>
+<string name="information_5">Grazas a esta calculadora simple que vai ser capaz de determinar o valor de cada parte do seu préstamo, e calcular o seu custo total na súa moeda e en porcentaxe do importe do préstamo. Todo o que precisa saber é:</string>
+<string name="information_6">Se pretende tomar un préstamo para as súas compras, pode calcular todos os custos implicados, así como efectivo (real) taxa anual. Funciona en dous modos, no primeiro ten que escribir nominal taxa (anual) fornecido polo acredor ea aplicación irá calcular cantidade de parcelas mensuais, así como os custos totais. No segundo modo, ten que entrar cantidade de parcela mensual (ás veces presentada por un comerciante), ea aplicación irá calcular porcentaxe e custos para ti.</string>
+
+<string name="years">Anos</string>
+<string name="months">Meses</string>
+<string name="days">Días</string>
+<string-array name="kapitalizacja">
+<item>Diariamente</item>
+<item>Semanal</item>
+<item>Mensual</item>
+<item>Cada 3 meses</item>
+<item>Cada seis meses</item>
+<item>Anual</item>
+</string-array>
+<string-array name="okres">
+<item>Meses</item>
+<item>Anos</item>
+</string-array>
+
+
+    <string name="title_activity_loan_calc">LoanCalc</string>
+    <string name="enter_here">Aquí</string>
+    <string name="profit_percent">Como% do total de depósitos</string>
+    <string name="that_is">Que é</string>
+    <string name="of_deposit">Do total de depósitos</string>
+    <string name="config">Configuración</string>
+    <string name="help">Socorro</string>
+    <string name="info">Información</string>
+    <string name="month">Mes</string>
+    <string name="hello_world">Ola Mundo!</string>
+    <string name="menu_settings">Axustes</string>
+
+    </resources>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Paskolos ir taupymas</string>
+
+<string name="app_name2">Paskolos ir investicijos</string>
+
+<string name="menu_title">Ką jūs norite apskaičiuoti?</string>
+<string name="SavingCalc">Ateities santaupų vertė</string>
+<string name="PeriodCalc">Laikotarpis taupymo</string>
+<string name="DepositCalc">Suma reguliariai indėliai</string>
+<string name="IntrestCalc">Palūkanų norma santaupų</string>
+<string name="LoanCalc">Išlaidos paskolos ir dalimis</string>
+<string name="LoanCalcPro">Metinė norma paskolos</string>
+
+<string name="action_settings">Nustatymai</string>
+
+<string name="rate_app">Įvertinti šį prašymą!</string>
+<string name="feedback">Suteikite savo nuomonę</string>
+<string name="feedback_prompt">Sveiki, ar norėtumėte siųsti mums savo nuomonę, kad galėtume patobulinti šią jums paraišką?</string>
+<string name="opinion">Nuomonė</string>
+
+<string name="loan_amount">Pradinė suma</string>
+<string name="loan_amt">Paskolos suma</string>
+<string name="percentage">Procentinis dydis</string>
+<string name="period">Laikotarpis taupymo</string>
+<string name="saving">Mėnesio indėlių</string>
+<string name="capitalization">Apsunkina Palūkanos</string>
+<string name="deposit_period">Dažnio indėlių</string>
+<string name="target_amount">Tikslinė suma</string>
+<string name="total_deposit">Iš viso indėlių</string>
+
+<string name="need_percentage">Jums reikia taupyti ne norma (per metus)</string>
+<string name="need_gain">Jūs turite uždirbti</string>
+<string name="period_deposit">Kiekvienu laikotarpiu jums reikia taupyti</string>
+<string name="total">Taupomas suma</string>
+<string name="profit">Pelnas /% nuo viso užstato</string>
+<string name="fill_in">Prašome užpildyti visus įvesties laukus</string>
+<string name="required_period">Reikalinga laikotarpis taupymo</string>
+<string name="percent">Procentinis dydis (per metus)</string>
+<string name="payments">Taškų dalimis</string>
+<string name="payment_amount">Įmokos suma</string>
+<string name="each_month">(Mokama kiekvieną mėnesį)</string>
+<string name="total_cost">Viso kaina /</string>
+<string name="cost_percent">% nuo paskolos sumos</string>
+<string name="commission">Komisija / už papildomą mokestį</string>
+<string name="other_fees">Kiti mokesčiai</string>
+<string name="annual_percent_rate">Metinė norma</string>
+<string name="total_repay">Iš viso grąžinti</string>
+<string name="leave_one_of_two">Palikite tuščią vieną: procentais, suma įmoka. Žiūrėkite instrukcijas žemiau.</string>
+
+<string name="deposit_calc">Apskaičiuokite įmokos sumą</string>
+<string name="savings_calc">Apskaičiuokite taupymo sumą</string>
+<string name="period_calc">Apskaičiuokite taupymo laikotarpis</string>
+<string name="intrest_calc">Apskaičiuokite palūkanų normą</string>
+<string name="loan_calc">Apskaičiuokite paskolų įmokas</string>
+
+<string name="submit">Apskaičiuoti</string>
+<string name="clear">Išvalyti</string>
+<string name="del">Panaikinti</string>
+<string name="show">Šou</string>
+<string name="go">Eiti</string>
+<string name="exit">Išeiti</string>
+<string name="cancel">Atšaukti</string>
+<string name="ok">Gerai</string>
+<string name="settings">Nustatymai</string>
+<string name="go_to_menu">Priimti ir uždaryti</string>
+<string name="choose_currency">Pasirinkite valiutą</string>
+
+<string name="instructions">Instrukcijos</string>
+<string name="see_details">Slinkite žemyn norėdami pamatyti instrukcijas</string>
+<string name="results">Rezultatai</string>
+<string name="hint_amount">Savo paskolos sumą.</string>
+<string name="hint_principal">Kiek jūs turite dabar?</string>
+<string name="hint_target">Kiek jūs norite taupyti?</string>
+<string name="hint_period">Kaip ilgai jūs planuojate taupyti?</string>
+<string name="hint_percent">Tuo, ką norma procentais jums taupyti?</string>
+<string name="hint_interest">Kiek palūkanų norma (per metus) savo paskolą?</string>
+<string name="hint_deposit">Kiek galite deponuoti savo taupymo sąskaitą kiekvieną mėnesį?</string>
+<string name="hint_dep_period">Kaip dažnai jums pervesti pinigus į savo taupymo sąskaitą?</string>
+<string name="hint_install">Paprastai lygus mėnesinių mokėjimų skaičius</string>
+<string name="hint_compounded">Laikotarpis, kurio metu savo santaupas palūkanos pridedamos prie pagrindinės sumos. Tai priklauso nuo jūsų banko / sąlygos / taisyklės. Gali imtis reikšmes: kasmet, kas mėnesį ar dieną.</string>
+<string name="hint_amount_pro">Savo paskolos sumą. Paprastai lygus produkto gamintojo kainos norite įsigyti. Šis laukas būtinas.</string>
+<string name="hint_commission">Komisija (arba paskolos mokestis)% nuo paskolos sumos. Jei nežinoma, palikite tuščią.</string>
+<string name="hint_other_fees">Visi kiti mokesčiai, kurie nėra priklausomi nuo paskolos sumos. Jei nežinoma, palikite tuščią.</string>
+<string name="hint_total_repay">Bendra suma, kuri turės būti grąžinta skolintojui.</string>
+<string name="hint_total_cost">Iš viso paskolos, įskaitant sudėtinių palūkanų ir visus mokesčius.</string>
+<string name="hint_cost_percent">Iš viso išlaidų (kaip nurodyta pirmiau), išreikštas proc paskolos sumos.</string>
+<string name="hint_apr">Efektyvus (nekilnojamojo) metinė palūkanų norma paskolos. Jis yra lygus viso, išreikštas kaip procentinė dalis nuo kredito sumos savikaina.</string>
+<string name="hint_payment">Kiekvienos įmokos (kas mėnesį) suma. Jums nereikia užpildyti šioje srityje, jei paliko "procentinis dydis" yra tuščias. Jei paliktas tuščias, jis bus apskaičiuojamas paspaudus mygtuką.</string>
+
+<string name="information_1">Ši skaičiuoklė leidžia jums sužinoti sumą savo santaupas į ateitį, taip pat pelno, kuris jums bus padaryti iš sudėtinių palūkanų norma. Ji daro prielaidą, kad jūs žinote, šias reikšmes:</string>
+<string name="information_2">Ši skaičiuoklė padės jums nustatyti laiką, kurį reikalaujama sutaupyti jūsų tikslinę sumą laikotarpį. Daroma prielaida, kad jūs pateikiate taip:</string>
+<string name="information_3">Čia galite apskaičiuoti mėnesio įmoką, kuri yra suma, kurią turės taupyti kiekvieną mėnesį, kad būtų pasiektas savo tikslą sutaupyti. Ji turės šiuos duomenis:</string>
+<string name="information_4">Jis leidžia jums sužinoti palūkanų normą, už kurią jums reikės taupyti, norint pasiekti savo tikslinę sumą. Jums reikės pateikti:</string>
+<string name="information_5">Ačiū, kad šis paprastas skaičiuotuvas galėsite nustatyti kiekvienos jūsų paskola įmokos suma ir apskaičiuoti jo bendras išlaidas savo valiuta ir kaip paskolos sumos procentu. Viskas, ką jums reikia žinoti, yra:</string>
+<string name="information_6">Jei planuojate imti paskolą už pirkinius, galite apskaičiuoti visas išlaidas, susijusias, taip pat veiksmingos (Real) metinę procentinę normą. Jis veikia dviem režimais, kad pirmiausia turite įvesti nominali (metinis) normą pateiktą skolintojo ir taikymo bus apskaičiuoti sumą dalimis kas mėnesį, taip pat bendras išlaidas. Be antruoju režimu, jums reikės įvesti sumą Mėnesio įmoka (kartais pateiktą prekybininkai) ir paraiška bus apskaičiuoti procentą ir išlaidas už jus.</string>
+
+<string name="years">Metų</string>
+<string name="months">Mėnesių</string>
+<string name="days">Dienos</string>
+<string-array name="kapitalizacja">
+<item>Kasdien</item>
+<item>Kas savaitę</item>
+<item>Mėnesinis</item>
+<item>Kas 3 mėnesius</item>
+<item>Kas 6 mėnesius</item>
+<item>Kasmet</item>
+</string-array>
+<string-array name="okres">
+<item>Mėnesių</item>
+<item>Metų</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Čia</string>
+<string name="profit_percent">Kaip% visų indėlių</string>
+<string name="that_is">, kad yra</string>
+<string name="of_deposit">Visų indėlių</string>
+<string name="config">Konfigūracija</string>
+<string name="help">Padėkite</string>
+<string name="info">Informacija</string>
+<string name="month">Mėnuo</string>
+<string name="hello_world">Hello world!</string>
+<string name="menu_settings">Nustatymai</string>
+
+</resources>

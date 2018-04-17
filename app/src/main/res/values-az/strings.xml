@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Müştərilərə verilmiş kreditlər və qənaət</string>
+<string name="app_name2">Kreditlər və investisiyalar</string>
+<string name="menu_title">Nə hesablamaq istəyirsiniz?</string>
+<string name="SavingCalc">Qənaət gələcək dəyər</string>
+<string name="PeriodCalc">Qənaət müddəti</string>
+<string name="DepositCalc">Müntəzəm yataqlarının məbləği</string>
+<string name="IntrestCalc">Qənaət faiz dərəcəsi</string>
+<string name="LoanCalc">Kredit və hissələrlə xərcləri</string>
+<string name="LoanCalcPro">Kreditin illik faiz dərəcəsi</string>
+
+<string name="action_settings">Parametrlər</string>
+<string name="info">Məlumat</string>
+<string name="rate_app">Bu proqram dərəcəsi!</string>
+<string name="feedback">Sizin rəy verin</string>
+<string name="feedback_prompt">Salam, biz sizin üçün bu proqram yaxşılaşdırılması bilər ki, bizə rəy göndərmək istəyirsiniz?</string>
+<string name="opinion">Rəy</string>
+
+<string name="loan_amount">Ilkin məbləği</string>
+<string name="loan_amt">Kredit məbləği</string>
+<string name="percentage">Faiz dərəcəsi</string>
+<string name="period">Qənaət müddəti</string>
+<string name="saving">Aylıq əmanət</string>
+<string name="capitalization">Faiz mürəkkəbləşdirib</string>
+<string name="deposit_period">Yataqlarının tezliyi</string>
+<string name="target_amount">Target məbləği</string>
+<string name="total_deposit">Ümumi Depozit</string>
+
+<string name="need_percentage">Siz faiz dərəcəsi qənaət etmək lazımdır (illik)</string>
+<string name="need_gain">Siz qazanmaq lazımdır</string>
+<string name="period_deposit">Hər dövr siz qənaət etmək lazımdır</string>
+<string name="total">Qənaət məbləği</string>
+<string name="profit">Mənfəət / ümumi depozit% kimi</string>
+<string name="fill_in">Bütün giriş sahələri doldurun</string>
+<string name="required_period">Qənaət Tələb olunan müddət</string>
+<string name="percent">Faiz dərəcəsi (illik)</string>
+<string name="payments">Hissələrlə sayı</string>
+<string name="payment_amount">Kredit məbləği</string>
+<string name="each_month">(Hər ay ödənilməli)</string>
+<string name="total_cost">Cəmi İlkin dəyər /</string>
+<string name="cost_percent">Kredit məbləğinin% kimi</string>
+<string name="commission">Komissiya / sürşarj</string>
+<string name="other_fees">Digər haqq</string>
+<string name="annual_percent_rate">İllik faiz dərəcəsi</string>
+<string name="total_repay">Qaytarmaq Cəmi</string>
+<string name="leave_one_of_two">Faiz, ödəniş məbləği: boş bir buraxın. Aşağıdakı talimatları baxın.</string>
+
+<string name="deposit_calc">Depozit məbləğini özünüz hesablayın</string>
+<string name="savings_calc">Əmanət məbləğini özünüz hesablayın</string>
+<string name="period_calc">Dövr qənaət hesablayın</string>
+<string name="intrest_calc">Faiz dərəcəsi hesablayın</string>
+<string name="loan_calc">Kredit hissələrlə hesablayın</string>
+
+<string name="submit">Hesablamaq</string>
+<string name="clear">Clear All</string>
+<string name="del">Sil</string>
+<string name="show">Göstərmək</string>
+<string name="go">Getmək</string>
+<string name="exit">Çıxış</string>
+<string name="cancel">Ləğv etmək</string>
+<string name="ok">Əvət</string>
+<string name="settings">Parametrlər</string>
+<string name="go_to_menu">Qəbul və yaxın</string>
+<string name="choose_currency">Valyuta seçin</string>
+
+<string name="instructions">Təlimat</string>
+<string name="see_details">Talimatları görmek üçün aşağıya fırladın</string>
+<string name="results">Nəticələri</string>
+<string name="hint_amount">Sizin kredit məbləği.</string>
+<string name="hint_principal">Nə qədər siz artıq var?</string>
+<string name="hint_target">Nə qədər qənaət etmək istəyirsiniz?</string>
+<string name="hint_period">Necə uzun qənaət etməyi nəzərdə tutursunuz?</string>
+<string name="hint_percent">Faiz nə dərəcəsi siz qənaət edəcək?</string>
+<string name="hint_interest">Sizin kredit (illik) faiz dərəcəsi nə qədərdir?</string>
+<string name="hint_deposit">Nə qədər hər ay qənaət hesabına depozit bilər?</string>
+<string name="hint_dep_period">Necə tez-tez sizin qənaət hesabına pul yatırmasını olacaq?</string>
+<string name="hint_install">Aylıq ödənişlərin sayı Adətən bərabər</string>
+<string name="hint_compounded">Dövr olan əmanət faiz əsas məbləğinə əlavə olunur. Bu bank / şərait / qaydalara asılıdır. Dəyərləri bilər: illik, aylıq və ya gündəlik.</string>
+<string name="hint_amount_pro">Sizin kredit məbləği. Siz almaq istəyirəm məhsulun qiymət Adətən bərabərdir. Bu sahədə tələb olunur.</string>
+<string name="hint_commission">Komissiya (və ya kredit ödəniş) kredit məbləğinin% kimi. Məlum deyilsə, boş buraxın.</string>
+<string name="hint_other_fees">Kredit məbləği asılı olmayan bütün digər haqları. Məlum deyilsə, boş buraxın.</string>
+<string name="hint_total_repay">Lazımdır ümumi məbləği kreditor ödənişi təmin ediləcək.</string>
+<string name="hint_total_cost">Mürəkkəb faiz və haqları, o cümlədən kreditin ümumi dəyəri.</string>
+<string name="hint_cost_percent">Ümumi dəyəri (yuxarıda) kredit məbləğinin faizi kimi ifadə.</string>
+<string name="hint_apr">Kreditin effektiv (real) illik faiz dərəcəsi. Bu kredit məbləğinin faizi kimi ifadə ümumi dəyəri bərabərdir.</string>
+<string name="hint_payment">Hər ödəniş (aylıq) məbləği. Siz "Faiz dərəcəsi" boş tərk halda, bu sahədə doldurmaq lazım deyil. Boş tərk edərsə, bu düyməsinə basaraq sonra hesablanır.</string>
+
+<string name="information_1">Bu kalkulyator siz mürəkkəb faiz dərəcəsi edəcək gələcəkdə əmanət məbləği, eləcə də mənfəət, tapmaq üçün imkan verir. Bu, aşağıdakı dəyərləri bilirsiniz ki, nəzərdə tutur:</string>
+<string name="information_2">Bu kalkulyator sizin hədəf məbləği qənaət üçün lazımi vaxt, müddəti müəyyən imkan verir. Bu, aşağıdakı təmin edir:</string>
+<string name="information_3">Burada əmanət məqsədə çatmaq üçün hər ay qənaət olacaq məbləği aylıq əmanət hesablamaq olar. Bu, aşağıdakı məlumatlar lazımdır:</string>
+<string name="information_4">Bu sizin hədəf məbləği əldə etmək üçün, qənaət etmək lazımdır ki, faiz dərəcəsi, tapmaq üçün imkan verir. Siz təmin etmək lazımdır:</string>
+<string name="information_5">Bu sadə kalkulyator sayəsində kredit hər ödəniş məbləği müəyyən və valyuta və kredit məbləğinin faizi kimi ümumi dəyəri hesablamaq edə biləcəklər. Bildiyiniz üçün lazım olan bütün:</string>
+<string name="information_6">Siz alış-veriş üçün kredit almaq üçün planlıyorsanız, siz effektiv (real) İllik faiz dərəcəsi, eləcə də cəlb edilmiş bütün xərcləri hesablamaq olar. Bu ilk siz kreditor və aylıq hissələrlə məbləği, eləcə də ümumi xərcləri hesablamaq proqram tərəfindən təmin nominal (illik) faiz dərəcəsi daxil etmək lazımdır, iki rejimdə işləyir. İkinci rejimində, siz (bəzən bir tacir tərəfindən təqdim) aylıq ödəniş məbləği daxil etmək lazımdır, və proqram sizin üçün faiz və xərcləri hesaplarız.</string>
+
+<string name="years">Il</string>
+<string name="months">Ay</string>
+<string name="days">Gün</string>
+<string-array name="kapitalizacja">
+<item>Gündəlik</item>
+<item>Həftəlik</item>
+<item>Aylıq</item>
+<item>Hər 3 ay</item>
+<item>Hər 6 ay</item>
+<item>Illik</item>
+</string-array>
+<string-array name="okres">
+<item>Ay</item>
+<item>İllər</item>
+</string-array>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Burada</string>
+<string name="profit_percent">Ümumi əmanətlərin% kimi</string>
+<string name="that_is">Ki,</string>
+<string name="of_deposit">Ümumi əmanətlərin</string>
+<string name="config">Konfiqurasiya</string>
+<string name="help">Kömək</string>
+
+<string name="month">Ay</string>
+<string name="hello_world">Salam dünya!</string>
+<string name="menu_settings">Parametrlər</string>
+
+</resources>

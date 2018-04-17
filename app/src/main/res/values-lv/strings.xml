@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Kredīti un ietaupījumi</string>
+
+<string name="app_name2">Aizdevumi un investīcijas</string>
+
+<string name="menu_title">Ko jūs vēlaties aprēķināt?</string>
+<string name="SavingCalc">Nākotnes vērtība ietaupījumu</string>
+<string name="PeriodCalc">Periods taupīšanas</string>
+<string name="DepositCalc">Apmērs regulāriem noguldījumiem</string>
+<string name="IntrestCalc">Procentu likme ietaupījumu</string>
+<string name="LoanCalc">Izmaksas aizdevumu un daļām</string>
+<string name="LoanCalcPro">Gada procentu likme kredīta</string>
+
+<string name="action_settings">Settings</string>
+
+<string name="rate_app">Novērtēt šo pieteikumu!</string>
+<string name="feedback">Dodiet savu viedokli</string>
+<string name="feedback_prompt">Sveiki, vai jūs vēlētos, lai nosūtītu mums savu viedokli, lai mēs varētu uzlabot šo pieteikumu par jums?</string>
+<string name="opinion">Domas</string>
+
+<string name="loan_amount">Sākotnējā summa</string>
+<string name="loan_amt">Aizdevuma summa</string>
+<string name="percentage">Procentu likme</string>
+<string name="period">Periods taupīšanas</string>
+<string name="saving">Mēneša depozīts</string>
+<string name="capitalization">Procentu sarežģī</string>
+<string name="deposit_period">Biežums noguldījumiem</string>
+<string name="target_amount">Mērķa Summa</string>
+<string name="total_deposit">Kopā Noguldījumu</string>
+
+<string name="need_percentage">Jums ir nepieciešams ekonomēt pie procentu likmes (gadā)</string>
+<string name="need_gain">Jums ir nepieciešams, lai nopelnītu</string>
+<string name="period_deposit">Katrā periodā jums ir nepieciešams ietaupīt</string>
+<string name="total">Ekonomēts Summa</string>
+<string name="profit">Peļņa /% no kopējā depozītu</string>
+<string name="fill_in">Lūdzu, aizpildiet visas ievades laukus</string>
+<string name="required_period">Nepieciešamais taupīšanas</string>
+<string name="percent">Procentu likme (gadā)</string>
+<string name="payments">Skaits daļām</string>
+<string name="payment_amount">Kārtējie Summa</string>
+<string name="each_month">(Maksā katru mēnesi)</string>
+<string name="total_cost">Kopējās izmaksas /</string>
+<string name="cost_percent">Kā% no aizdevuma summas</string>
+<string name="commission">Komisijas / maksu</string>
+<string name="other_fees">Citi maksas</string>
+<string name="annual_percent_rate">Gada procentu likme</string>
+<string name="total_repay">Summa atmaksāt</string>
+<string name="leave_one_of_two">Atstāt tukšu vienu: procentos, summa daļu. Skatīt norādījumus tālāk.</string>
+
+<string name="deposit_calc">Aprēķināt depozīta summu</string>
+<string name="savings_calc">Aprēķināt uzkrājuma summu</string>
+<string name="period_calc">Aprēķināt ietaupot periods</string>
+<string name="intrest_calc">Aprēķināt procentu likme</string>
+<string name="loan_calc">Aprēķināt aizdevuma daļu</string>
+
+<string name="submit">Aprēķināt</string>
+<string name="clear">Clear All</string>
+<string name="del">Izdzēst</string>
+<string name="show">Parādīt</string>
+<string name="go">Iet</string>
+<string name="exit">Izeja</string>
+<string name="cancel">Atcelt</string>
+<string name="ok">Labi</string>
+<string name="settings">Settings</string>
+<string name="go_to_menu">Pieņemt un Close</string>
+<string name="choose_currency">Izvēlēties valūtu</string>
+
+<string name="instructions">Instrukcijas</string>
+<string name="see_details">Ritiniet uz leju, lai redzētu norādījumus</string>
+<string name="results">Rezultāti</string>
+<string name="hint_amount">Jūsu kredīta summa.</string>
+<string name="hint_principal">Cik daudz jums ir tagad?</string>
+<string name="hint_target">Cik daudz jūs vēlaties ietaupīt?</string>
+<string name="hint_period">Cik ilgi jūs plānojat ietaupīt?</string>
+<string name="hint_percent">Pēc kāda kursa procentuālā jūs ietaupīt?</string>
+<string name="hint_interest">Cik daudz ir procentu likme (gadā) par savu kredītu?</string>
+<string name="hint_deposit">Cik daudz jūs varat noguldīt jūsu taupīšanas kontā katru mēnesi?</string>
+<string name="hint_dep_period">Cik bieži jūs noguldīt naudu savā krājkontā?</string>
+<string name="hint_install">Parasti ir vienāds ar skaitu mēneša maksājumu</string>
+<string name="hint_compounded">Periods, kurā intereses savu uzkrājumu tiek pievienota pamatsummas. Tas ir atkarīgs no jūsu bankas / apstākļiem / noteikumi. Var pieņemt vērtības: katru gadu, mēnesi vai katru dienu.</string>
+<string name="hint_amount_pro">Jūsu kredīta summa. Parasti ir vienāds ar produkta cenu, kuru vēlaties iegādāties. Šis lauks ir vajadzīgs.</string>
+<string name="hint_commission">Komisija (vai aizdevums maksa), kā% no aizdevuma summas. Ja nav zināms, atstāt tukšu.</string>
+<string name="hint_other_fees">Visas citas komisijas, kas nav atkarīga no aizdevuma summas. Ja nav zināms, atstāt tukšu.</string>
+<string name="hint_total_repay">Kopējā summa, kas būs jāatmaksā aizdevējam.</string>
+<string name="hint_total_cost">Kopējās izmaksas par aizdevumu, Tostarp saliktiem procentiem un visu maksu.</string>
+<string name="hint_cost_percent">Kopējās izmaksas (kā iepriekš), kas izteikta procentos no aizdevuma summas.</string>
+<string name="hint_apr">Efektīva (real) gada procentu likmi aizdevumu. Tas ir vienāds ar kopējām izmaksām, kas izteikta procentos no aizdevuma summas.</string>
+<string name="hint_payment">Katras daļas (mēneša) summa. Jums nav nepieciešams aizpildīt šajā jomā, ja vien jūs pa kreisi "procentu likme" tukšs. Ja to atstāj tukšu, tas tiks aprēķināts pēc pogas nospiešanas.</string>
+
+<string name="information_1">Šis kalkulators ļauj jums, lai uzzinātu, daudzumu jūsu ietaupījumus nākotnē, kā arī peļņu, kas jums dos no salikto procentu likmi. Tā pieņem, ka jūs zināt, šādas vērtības:</string>
+<string name="information_2">Šis kalkulators ļaus jums noteikt laika periodu, kas ir nepieciešama, lai ekonomētu savu mērķa summu. Tas pieņem jūs sniedzat šo:</string>
+<string name="information_3">Šeit jūs varat aprēķināt ikmēneša iemaksu, kas ir summa, kas jums būs ietaupīt katru mēnesi, lai sasniegtu savu mērķi ietaupījumu. Tā būs nepieciešami sekojoši dati:</string>
+<string name="information_4">Tas ļauj jums, lai uzzinātu, procentu likmi, par kuru jums būs nepieciešams taupīt, lai sasniegtu savu mērķa summu. Jums būs nepieciešams, lai nodrošinātu:</string>
+<string name="information_5">Pateicoties šo vienkāršo kalkulatoru jums būs iespēja, lai noteiktu summu katru daļu savu aizdevumu, un aprēķināt to kopējās izmaksas savā valūtā, un procentos no aizdevuma summas. Viss, kas jums jāzina, ir:</string>
+<string name="information_6">Ja plānojat ņemt kredītu par pirkumiem, jūs varat aprēķināt visi iesaistītie, kā arī efektīvu (reālu) gada procentu likmes izmaksas. Tas darbojas divos režīmos, jo vispirms ir jāievada nominālu (gada) procentu likmi, aizdevējam un pieteikuma aprēķinās ikmēneša maksājumos apmēru, kā arī kopējās izmaksas paredzēts. Otrajā režīmā, jums ir nepieciešams ievadīt summu ikmēneša maksājumu (dažreiz iesniegtajā komersanta), un pieteikums tiks aprēķināt procentus un izmaksas jums.</string>
+
+<string name="years">Gadiem</string>
+<string name="months">Mēneši</string>
+<string name="days">Dienas</string>
+<string-array name="kapitalizacja">
+<item>Katru dienu</item>
+<item>Nedēļas</item>
+<item>Ikmēneša</item>
+<item>Ik pēc 3 mēnešiem</item>
+<item>Ik pēc 6 mēnešiem</item>
+<item>Katru gadu</item>
+</string-array>
+<string-array name="okres">
+<item>Mēneši</item>
+<item>Years</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Šeit</string>
+<string name="profit_percent">Kā% no kopējiem noguldījumiem</string>
+<string name="that_is">Kas ir</string>
+<string name="of_deposit">No kopējiem noguldījumiem</string>
+<string name="config">Konfigurācija</string>
+<string name="help">Palīdzēt</string>
+<string name="info">Informācija</string>
+<string name="month">Mēnesis</string>
+<string name="hello_world">Sveika pasaule!</string>
+<string name="menu_settings">Settings</string>
+
+</resources>

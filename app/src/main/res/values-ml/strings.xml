@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">വായ്പകളും മിച്ചം</string>
+
+<string name="app_name2">വായ്പകൾ നിക്ഷേപം</string>
+
+<string name="menu_title">നിങ്ങൾ കണക്കുകൂട്ടാൻ എന്താണ് വേണ്ടത്?</string>
+<string name="SavingCalc">സേവിംഗ്സ് ഭാവി മൂല്യം</string>
+<string name="PeriodCalc">രക്ഷിച്ചുകൊണ്ട് കാലാവധി</string>
+<string name="DepositCalc">സാധാരണ നിക്ഷേപത്തിന്റെ തുക</string>
+<string name="IntrestCalc">സേവിംഗ്സ് പലിശ നിരക്ക്</string>
+<string name="LoanCalc">വായ്പ, ഗഡുക്കളുടെ ചെലവ്</string>
+<string name="LoanCalcPro">വായ്പ വാർഷിക ശതമാനം നിരക്ക്</string>
+
+<string name="action_settings">ക്രമീകരണങ്ങൾ</string>
+
+<string name="rate_app">ഈ അപ്ലിക്കേഷൻ വിലയിരുത്തുക!</string>
+<string name="feedback">നിങ്ങളുടെ അഭിപ്രായം</string>
+<string name="feedback_prompt">ഹലോ, നിങ്ങൾക്ക് നാം ഈ അപ്ലിക്കേഷൻ മെച്ചപ്പെടുത്താൻ കഴിഞ്ഞില്ല അങ്ങനെ നിങ്ങളുടെ അഭിപ്രായം അയയ്ക്കാൻ ആഗ്രഹിക്കുന്നു?</string>
+<string name="opinion">അഭിപ്രായ</string>
+
+<string name="loan_amount">പ്രാരംഭ തുക</string>
+<string name="loan_amt">വായ്പാ തുക</string>
+<string name="percentage">ശതമാനം നിരക്ക്</string>
+<string name="period">രക്ഷിച്ചുകൊണ്ട് കാലാവധി</string>
+<string name="saving">പ്രതിമാസ ഡെപ്പോസിറ്റ്</string>
+<string name="capitalization">പലിശ കോമ്പൗണ്ടഡ്</string>
+<string name="deposit_period">നിക്ഷേപത്തിന്റെ ആവൃത്തി</string>
+<string name="target_amount">ടാർജറ്റ് തുക</string>
+<string name="total_deposit">ആകെ നിക്ഷേപ</string>
+
+<string name="need_percentage">നിങ്ങൾ (വർഷം) ശതമാനം നിരക്കിൽ economize വേണം</string>
+<string name="need_gain">നിങ്ങൾ നേടാൻ വേണമെങ്കിൽ</string>
+<string name="period_deposit">ഓരോ കാലാവധിക്കും നിങ്ങളെ economize ആവശ്യം</string>
+<string name="total">Economized തുക</string>
+<string name="profit">ലാഭം / മൊത്തം നിക്ഷേപത്തിന്റെ% ആയി</string>
+<string name="fill_in">എല്ലാ ഇൻപുട്ട് ഫീൽഡുകളും പൂരിപ്പിക്കുക</string>
+<string name="required_period">രക്ഷിച്ചുകൊണ്ട് ആവശ്യമുള്ള കാലയളവ്</string>
+<string name="percent">(വർഷം) ശതമാനം നിരക്ക്</string>
+<string name="payments">ഗഡുക്കളുടെ എണ്ണം</string>
+<string name="payment_amount">ഗഡു തുക</string>
+<string name="each_month">(ഓരോ മാസവും നൽകേണ്ട)</string>
+<string name="total_cost">ആകെ ചെലവ് /</string>
+<string name="cost_percent">വായ്പാ തുക% ആയി</string>
+<string name="commission">കമ്മീഷൻ / സർചാർജ്</string>
+<string name="other_fees">മറ്റ് ഫീസ്</string>
+<string name="annual_percent_rate">വാർഷിക ശതമാനം നിരക്ക്</string>
+<string name="total_repay">പകരം മൊത്തം</string>
+<string name="leave_one_of_two">ശതമാനം, ഗഡു തുക: ഒരു ഒഴിഞ്ഞ ഒരു വിടുക. താഴെ http://www.mediawiki.org/wiki/Manual:External_editors കാണുക.</string>
+
+<string name="deposit_calc">ഡെപ്പോസിറ്റ് തുക കണക്കുകൂട്ടുക</string>
+<string name="savings_calc">സേവിങ്സ് തുക കണക്കുകൂട്ടുക</string>
+<string name="period_calc">കാലയളവ് സംരക്ഷിക്കുന്നത് കണക്കുകൂട്ടുക</string>
+<string name="intrest_calc">പലിശ നിരക്ക് കണക്കുകൂട്ടുക</string>
+<string name="loan_calc">വായ്പ ഗഡുക്കളായി കണക്കുകൂട്ടുക</string>
+
+<string name="submit">കണക്കാക്കുക</string>
+<string name="clear">തെളിഞ്ഞ എല്ലാ</string>
+<string name="del">ഇല്ലാതാക്കുക</string>
+<string name="show">കാണിക്കുക</string>
+<string name="go">എന്തിനുവേണ്ടി</string>
+<string name="exit">പുറത്ത്</string>
+<string name="cancel">റദ്ദാക്കുക</string>
+<string name="ok">ശരി</string>
+<string name="settings">ക്രമീകരണങ്ങൾ</string>
+<string name="go_to_menu">അംഗീകരിച്ച് അടയ്ക്കുക</string>
+<string name="choose_currency">കറൻസി തിരഞ്ഞെടുക്കുക</string>
+
+<string name="instructions">നിർദ്ദേശങ്ങൾ</string>
+<string name="see_details">നിർദ്ദേശങ്ങൾ കാണാൻ താഴേക്ക് സ്ക്രോൾ</string>
+<string name="results">ഫലങ്ങൾ</string>
+<string name="hint_amount">നിങ്ങളുടെ വായ്പ.</string>
+<string name="hint_principal">എത്ര ഇപ്പോൾ ഉണ്ടോ?</string>
+<string name="hint_target">നിങ്ങൾ economize എങ്ങനെ വേണം?</string>
+<string name="hint_period">നീ എത്രത്തോളം economize പ്ലാൻ?</string>
+<string name="hint_percent">ശതമാനം എന്തു നിരക്ക് നിങ്ങളെ economize ചെയ്യും?</string>
+<string name="hint_interest">നിങ്ങളുടെ വായ്പാ (വർഷം) പലിശ നിരക്ക് എത്രയാണ്?</string>
+<string name="hint_deposit">എത്ര ഓരോ മാസവും നിങ്ങളുടെ എസ്ബി അക്കൗണ്ട് ലേക്കുള്ള സമർപ്പിക്കാവുന്നതാണ്?</string>
+<string name="hint_dep_period">എത്ര പ്രാവശ്യം നിങ്ങളുടെ എസ്ബി അക്കൗണ്ട് പണം സക്കൗണ്ടിചലത്തുവ്ോൻ?</string>
+<string name="hint_install">പ്രതിമാസ പണം എണ്ണം സാധാരണയായി തുല്യമാണ്</string>
+<string name="hint_compounded">സേവിംഗ്സ് പലിശ മുതലും ചേർത്തു നൽകുന്ന കാലാവധി. അതു നിങ്ങളുടെ ബാങ്ക് / വ്യവസ്ഥകൾ / നിയന്ത്രണങ്ങൾ ആശ്രയിച്ചിരിക്കുന്നു. മൂല്യങ്ങൾ എടുത്തേക്കാം: വാർഷികം പ്രതിമാസം അല്ലെങ്കിൽ ദിനംപ്രതി.</string>
+<string name="hint_amount_pro">നിങ്ങളുടെ വായ്പ. നിങ്ങൾ വാങ്ങിയ ആഗ്രഹിക്കുന്ന ഉല്പന്നത്തിന്റെ വില സാധാരണയായി തുല്യമാണ്. ഈ ഫീൽഡ് പൂരിപ്പിക്കേണ്ടതുണ്ട്.</string>
+<string name="hint_commission">കമ്മീഷൻ (അല്ലെങ്കിൽ വായ്പ ഫീസ്) വായ്പാ തുക% ആയി. അറിയാത്ത എങ്കിൽ, വെറുതെ ഇടുക.</string>
+<string name="hint_other_fees">വായ്പാ തുക ആശ്രയിക്കുന്നില്ലെന്ന് മറ്റു ഫീസും. അറിയാത്ത എങ്കിൽ, വെറുതെ ഇടുക.</string>
+<string name="hint_total_repay">ബാങ്കായ പ്രതിഫലം വേണം എന്ന് ആകെ തുക.</string>
+<string name="hint_total_cost">ഏകാന്തരക്രമത്തിൽ പലിശ എല്ലാ ഫീസും ഉൾപ്പെടെ വായ്പ ആകെ ചെലവ്.</string>
+<string name="hint_cost_percent">(മുകളിൽ) ആകെ ചിലവു വായ്പാ തുക ശതമാനം ആവിഷ്കരിച്ചിരിക്കുന്നു.</string>
+<string name="hint_apr">വായ്പ ഫലപ്രദമായ (യഥാർത്ഥ) വാർഷിക പലിശ നിരക്ക്. അതു വായ്പ തുക ശതമാനത്തിൽ പ്രകടിപ്പിച്ച ആകെ ചെലവ് തുല്യമാണ്.</string>
+<string name="hint_payment">ഓരോ ഗഡു തുക (പ്രതിമാസം). കാലി "ശതമാനം നിരക്ക്" left എങ്കിൽ നിങ്ങൾ ഈ ഫീൽഡ് പൂരിപ്പിക്കുക ആവശ്യമില്ല. ശൂന്യമായി വിട്ടാൽ, അത് ബട്ടൺ അമർത്തിയശേഷം കണക്കു.</string>
+
+<string name="information_1">ഈ കാൽക്കുലേറ്റർ നിങ്ങൾ സംയുക്തം പലിശ നിരക്ക് ചെയ്യും ഭാവിയിൽ സേവിംഗ്സ് തുക, അതോടൊപ്പം ലാഭം കണ്ടെത്താൻ അനുവദിക്കുന്നു. അതു നിങ്ങൾ താഴെ മൂല്യങ്ങൾ അറിയുന്നു കരുതുന്നു:</string>
+<string name="information_2">ഈ കാൽക്കുലേറ്റർ നിങ്ങളുടെ ലക്ഷ്യം തുക economize ലേക്കുള്ള ആവശ്യമായ സമയം കാലഘട്ടം നിർണ്ണയിക്കാൻ എന്നു പറഞ്ഞു. അതു നിങ്ങൾ താഴെ നൽകുന്നു ഏറ്റെടുക്കുന്നില്ല:</string>
+<string name="information_3">ഇവിടെ നിങ്ങൾ സമ്പാദ്യം നിങ്ങളുടെ ലക്ഷ്യം എത്താൻ ഓരോ മാസം economize ചെയ്യും ഏത് തുക ആണ് പ്രതിമാസ ഡെപ്പോസിറ്റ്, കണ്ടുപിടിക്കാൻ സാധിക്കും. അതു താഴെ ഡാറ്റ ആവശ്യമാണ്:</string>
+<string name="information_4">അതു നിങ്ങളുടെ ലക്ഷ്യം തുക എത്താൻ വേണ്ടി, economize ചെയ്യേണ്ടതുണ്ട് ഏത് പലിശ നിരക്ക്, കണ്ടെത്താൻ അനുവദിക്കുന്നു. നിങ്ങൾ ആവശ്യമാണ്:</string>
+<string name="information_5">ഈ ലളിതമായ കാൽക്കുലേറ്റർ നന്ദി നിങ്ങളുടെ വായ്പാ ഓരോ ഗഡു തുക നിർണ്ണയിക്കാൻ കഴിയാതെ, നിങ്ങളുടെ കറൻസിയിൽ വായ്പാ തുക ഒരു ശതമാനത്തിൽ മൊത്തം ചിലവു കണക്കുകൂട്ടുന്നു. നിങ്ങൾ അറിഞ്ഞിരിക്കേണ്ട എല്ലാ:</string>
+<string name="information_6">നിങ്ങളുടെ വാങ്ങലുകൾ ഒരു വായ്പ തീരുമാനിക്കുകയാണെങ്കിൽ, നിങ്ങൾ എല്ലാവരും ഗതാഗതനയത്തിനു അതുപോലെ ഫലപ്രദമായ (യഥാർത്ഥ) വാർഷിക ശതമാനം നിരക്ക് കണക്കാക്കാൻ കഴിയും. അതു ആദ്യം നാമമാത്ര (വാർഷിക) ശതമാനം ബാങ്കായ നൽകിയ റേറ്റ് അപ്ലിക്കേഷൻ മാസ തുക പോലെ ആകെ ചെലവ് കണക്കുകൂട്ടുന്നു നൽകുക ആവശ്യം രണ്ടു മോഡുകൾ പ്രവർത്തിക്കുന്നു. രണ്ടാം മോഡിൽ, നിങ്ങൾ (ചിലപ്പോൾ ഒരു വ്യാപാരിയാണ് ഹാജരാക്കിയ) പ്രതിമാസം തുക നൽകേണ്ടതുണ്ട്, ആപ്ലിക്കേഷൻ നിങ്ങൾക്ക് ശതമാനം ചെലവ് കണക്കുകൂട്ടുന്നു.</string>
+
+<string name="years">വർഷം</string>
+<string name="months">മാസം</string>
+<string name="days">ദിവസം</string>
+<string-array name="kapitalizacja">
+<item>ദിവസേന</item>
+<item>പ്രതിവാര</item>
+<item>പ്രതിമാസം</item>
+<item>ഓരോ 3 മാസം</item>
+<item>ഓരോ 6 മാസം</item>
+<item>വാർഷികം</item>
+</string-array>
+<string-array name="okres">
+<item>മാസം</item>
+<item>വർഷം</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">ഇവിടെ</string>
+<string name="profit_percent">മൊത്തം നിക്ഷേപത്തിന്റെ% ആയി</string>
+<string name="that_is">ആണ്</string>
+<string name="of_deposit">മൊത്തം നിക്ഷേപത്തിന്റെ</string>
+<string name="config">ക്രമീകരണം</string>
+<string name="help">സഹായം</string>
+<string name="info">വിവരം</string>
+<string name="month">മാസം</string>
+<string name="hello_world">ഹലോ വേൾഡ്!</string>
+<string name="menu_settings">ക്രമീകരണങ്ങൾ</string>
+
+</resources>

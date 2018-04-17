@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Легкие финансы дома</string>
+<string name="app_name2">Кредиты и инвестиции</string>
+<string name="menu_title">Что вы хотите, чтобы вычислить?</string>
+<string name="SavingCalc">Будущая стоимость сбережений</string>
+<string name="PeriodCalc">Период экономии</string>
+<string name="DepositCalc">Сумма регулярных вкладов</string>
+<string name="IntrestCalc">Процентная ставка</string>
+<string name="LoanCalc">Сумма платежей по кредиту</string>
+<string name="action_settings">Настройки</string>
+<string name="info">Информация</string>
+<string name="loan_amount">Первоначальная сумма</string>
+<string name="loan_amt">Сумма займа</string>
+<string name="percentage">Курсы процент (за год)</string>
+<string name="period">Период экономии</string>
+<string name="saving">Месячный депозит</string>
+<string name="capitalization">Интерес усугубляется</string>
+<string name="deposit_period">Частота месторождений</string>
+<string name="target_amount">Целевая сумма</string>
+<string name="total_deposit">Всего депозит</string>
+<string name="need_percentage">Вам нужно будет сохранить в процентной ставке (в год)</string>
+<string name="need_gain">Вам нужно будет заработать</string>
+<string name="period_deposit">Каждый период вам нужно будет внести</string>
+<string name="total">Сумма сохранены</string>
+<string name="profit">Прибыль / в % от общего депозита</string>
+<string name="fill_in">Пожалуйста, заполните все поля ввода</string>
+<string name="required_period">Требуется период экономии</string>
+<string name="percent">Курсы процент (за год)</string>
+<string name="payments">Количество платежей</string>
+<string name="payment_amount">Сумма взноса</string>
+<string name="each_month">(выплачивается ежемесячно)</string>
+<string name="total_cost">Общая стоимость</string>
+<string name="total_cost_">Общая стоимость /</string>
+<string name="cost_percent">В% от суммы кредита</string>
+<string name="deposit_calc">Рассчитать сумму вклада</string>
+<string name="savings_calc">Рассчитать стоимость сбережений</string>
+<string name="period_calc">Рассчитать период экономии</string>
+<string name="intrest_calc">Рассчитать процентную ставку</string>
+<string name="loan_calc">Рассчитать стоимость рассрочку</string>
+<string name="submit">Вычислять</string>
+<string name="clear">Очистить все</string>
+<string name="del">Удалять</string>
+<string name="show">Шоу</string>
+<string name="go">Идти</string>
+<string name="exit">Выход</string>
+<string name="settings">Настройки</string>
+<string name="go_to_menu">Принять и закрыть</string>
+    <string name="remove_ads">Убрать рекламу</string>
+<string name="instructions">Инструкции</string>
+<string name="hint_amount">Сумма Вашего кредита.</string>
+<string name="hint_principal">Сколько у вас сейчас?</string>
+<string name="hint_target">Сколько вы хотите сохранить?</string>
+<string name="hint_period">Как долго вы планируете сэкономить?</string>
+<string name="hint_percent">По какой ставке процентного вы будете экономить?</string>
+<string name="hint_interest">Что такое процентная ставка (в год) вашего кредита?</string>
+<string name="hint_deposit">Сколько вы можете внести на свой сберегательный счет каждый месяц?</string>
+<string name="hint_dep_period">Как часто вы будете вносить деньги на свой сберегательный счет?</string>
+<string name="hint_install">Обычно равно числу ежемесячных платежей</string>
+<string name="hint_compounded">Период, в которой интерес ваших сбережений добавляется к основной сумме. Это зависит от вашего банка и / или правилами вашего плана пенсионного / экономии. Это может принимать значения от \'ежедневно\' до \'ежегодно.</string>
+<string name="information_1">Этот калькулятор позволяет узнать будущую сумму ваших сбережений, а также прибыль, что вы будете делать вид усугубляется процентной ставки. Это предполагает, что вы знать следующее:</string>
+<string name="information_2">Этот калькулятор позволит вам определить период времени, необходимый для сохранения вашей целевой суммы. Это предполагает, что вы будете предоставлять следующие:</string>
+<string name="information_3">Здесь Вы можете рассчитать месячный депозит, то есть сумму, которую вы должны будете сохранить каждый месяц, чтобы достичь своей цели экономии. Это будет необходимо иметь следующие данные:</string>
+<string name="information_4">Она позволяет узнать процентную ставку, при которой вам необходимо экономить, чтобы достичь вашей целевой суммы. Вам нужно будет предоставить:</string>
+<string name="information_5">Благодаря этой простой калькулятор вы сможете определить количество каждой части вашего кредита, и вычислить общую стоимость кредита в денежном выражении и в процентах от суммы кредита. Все, что вам нужно знать, это:</string>
+<string name="information_6">Если вы планируете взять кредит на ваших покупок, вы можете рассчитать все расходы, связанные, а также эффективной (реальной) Годовая процентная ставка. Она работает в двух режимах, в первый необходимо ввести номинальную (годовой) процентную ставку, предоставленную кредитором и применения будет рассчитать количество ежемесячных платежей, а также общие затраты. Во втором режиме, вам нужно ввести сумму ежемесячного взноса (иногда представленного купца), и приложение будет рассчитать процент и цены для вас.</string>
+<string name="years">Лет</string>
+<string name="months">Месяцев</string>
+<string name="days">Дней</string>
+<string name="LoanCalcPro">Годовая процентная ставка по кредиту</string>
+<string name="help_translate">Помогите перевести это приложение</string>
+<string name="rate_app">Оценить это приложение!</string>
+<string name="feedback">Дайте обратную связь</string>
+<string name="feedback_prompt">Привет, вы бы хотели, чтобы дать нам обратную связь, чтобы мы могли улучшить свой опыт?</string>
+<string name="opinion">Мнение</string>
+<string name="commission">Комиссия</string>
+<string name="other_fees">Другие сборы</string>
+<string name="annual_percent_rate">Годовая процентная ставка</string>
+<string name="total_repay">Всего на погашение</string>
+<string name="leave_one_of_two">Оставьте пустую один из: Процент, рассрочка Сумму. Смотрите инструкции ниже.</string>
+<string name="cancel">Отменить</string>
+<string name="okay">Хорошо</string>
+<string name="choose_currency">Выбор валюты</string>
+<string name="see_details">Для получения инструкций по прокрутите вниз</string>
+<string name="results">Результаты</string>
+<string name="hint_amount_pro">Сумма Вашего кредита. Обычно равен цене продукта вы хотите приобрести. Заполнение данного поля обязательно.</string>
+<string name="hint_commission">Комиссия (или плата кредит) в% от суммы кредита. Если не известно, оставьте поле пустым.</string>
+<string name="hint_other_fees">Все остальные платежи, которые не зависят от суммы кредита. Если не известно, оставьте поле пустым.</string>
+<string name="hint_total_repay">Общая сумма, которая потребуется, чтобы быть погашен к кредитору.</string>
+<string name="hint_total_cost">Общая стоимость кредита, в том числе сложных процентов и со всеми налогами.</string>
+<string name="hint_cost_percent">Общая стоимость (как указано выше), выраженная в процентах от суммы кредита.</string>
+<string name="hint_apr">Эффективная (реальная) процентная ставка по кредиту, включая общую стоимость.</string>
+<string name="hint_payment">Сумма каждой из ваших (ежемесячно) в рассрочку. Вам не нужно заполнять в этой области, если вы не оставили "Процентная ставка" пустым. Если оставить пустым, он будет рассчитываться после нажатия кнопки.</string>
+
+    <string-array name="kapitalizacja">
+<item>Ежедневно</item>
+<item>Еженедельно</item>
+<item>Ежемесячно</item>
+<item>Ежеквартально</item>
+<item>Каждые 6 месяцев</item>
+<item>Годовой</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Месяцев</item>
+<item>Лет</item>
+    </string-array>     	    
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Здесь</string>
+<string name="profit_percent">В% от общего депозита</string>
+<string name="that_is">То есть</string>
+<string name="of_deposit">От общего депозита</string>
+
+<string name="ok">ОК</string>
+<string name="config">Конфиг</string>
+<string name="help">Помогите</string>
+<string name="month">Месяц</string>
+<string name="hello_world">Привет мир!</string>
+<string name="menu_settings">Настройки</string>
+
+</resources>

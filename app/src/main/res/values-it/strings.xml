@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Facile Economia</string>
+<string name="app_name2">Finanziamenti e investimenti</string>
+<string name="menu_title">Cosa vuoi calcolare?</string>
+<string name="SavingCalc">Valore futuro del risparmio</string>
+<string name="PeriodCalc">Periodo del risparmio</string>
+<string name="DepositCalc">Quantità di versamenti regolari</string>
+<string name="IntrestCalc">Tasso d\'interesse (annuale)</string>
+<string name="LoanCalc">Ammontare delle rate di un prestito</string>
+<string name="action_settings">Impostazioni</string>
+<string name="info">Informazioni</string>
+<string name="loan_amount">Importo iniziale</string>
+<string name="loan_amt">Importo del prestito</string>
+<string name="percentage">Tasso di percentuale (annuale)</string>
+<string name="period">Periodo del risparmio</string>
+<string name="saving">Deposito mensile</string>
+<string name="capitalization">L\'interesse è aggravato</string>
+<string name="deposit_period">Frequenza dei depositi</string>
+<string name="target_amount">Importo-obiettivo</string>
+<string name="total_deposit">Deposito totale</string>
+<string name="need_percentage">Avrete bisogno di salvare in percentuale (annuale)</string>
+<string name="need_gain">Avrete bisogno di guadagnare</string>
+<string name="period_deposit">Ogni periodo sarà necessario depositare</string>
+<string name="total">Importo salvato</string>
+<string name="profit">Utile / come% della caparra</string>
+<string name="fill_in">Si prega di compilare tutti i campi di input</string>
+<string name="required_period">Periodo obbligatorio di risparmio</string>
+<string name="percent">Tasso di percentuale (all\'anno)</string>
+<string name="payments">Numero di rate</string>
+<string name="payment_amount">Importo della rata</string>
+<string name="each_month">(da pagare ogni mese)</string>
+<string name="total_cost">Costo totale</string>
+<string name="total_cost_">Costo totale /</string>
+<string name="cost_percent">Come % dell\'importo del prestito</string>
+<string name="deposit_calc">Calcola importo del deposito</string>
+<string name="savings_calc">Calcola il valore del risparmio</string>
+<string name="period_calc">Calcola il periodo di risparmio</string>
+<string name="intrest_calc">Calcola il tasso di interesse</string>
+<string name="loan_calc">Calcola il valore delle rate</string>
+<string name="submit">Calcola</string>
+<string name="clear">Cancella tutto</string>
+    <string name="ok">Ok</string>
+<string name="del">Cancella</string>
+<string name="show">Mostra</string>
+<string name="go">Andare</string>
+<string name="exit">Uscita</string>
+<string name="settings">Impostazioni</string>
+<string name="go_to_menu">Accetta e Chiudi</string>
+    <string name="remove_ads">Rimuovere gli annunci</string>
+<string name="instructions">Istruzione</string>
+<string name="hint_amount">L\'importo del prestito.</string>
+<string name="hint_principal">Quanto hai adesso?</string>
+<string name="hint_target">Quanto vuoi salvare?</string>
+<string name="hint_period">Quanto tempo pensi di risparmiare?</string>
+<string name="hint_percent">A quale tasso di percentuale si salva?</string>
+<string name="hint_interest">Qual è il tasso di interesse (per anno) del vostro prestito?</string>
+<string name="hint_deposit">Quanto si può depositare sul tuo conto di risparmio ogni mese?</string>
+<string name="hint_dep_period">Quante volte vi siete depositare denaro sul tuo conto di risparmio?</string>
+<string name="hint_install">Di solito uguale al numero di pagamenti mensili</string>
+<string name="hint_compounded">Periodo a cui si aggiunge l\'interesse dei vostri risparmi per la quota capitale. Essa dipende dalla vostra banca e / o normative del piano pensionistico / risparmio. Esso può assumere valori da \'quotidiano\' per \'annuale\'.</string>
+<string name="information_1">Questa calcolatrice consente di scoprire il futuro quantità di vostri risparmi così come il profitto che si farà forma tasso composto di interesse. Si presuppone che conosciate il seguente:</string>
+<string name="information_2">Questo calcolatore vi permetterà di determinare il periodo di tempo che è necessario per salvare la quantità mirato. Si presuppone si forniscono le seguenti:</string>
+<string name="information_3">Qui è possibile calcolare deposito mensile, che è la quantità di denaro è necessario salvare ogni mese al fine di raggiungere il vostro obiettivo di risparmio. Avrà bisogno dei seguenti dati:</string>
+<string name="information_4">Esso consente di scoprire il tasso di interesse al quale dovrai essere il risparmio, al fine di raggiungere l\'importo mirato. Sarà necessario fornire:</string>
+<string name="information_5">Grazie a questo semplice calcolatrice si sarà in grado di determinare l\'importo di ciascuna rata del vostro prestito e calcolare il costo totale del prestito in valore monetario e come percentuale dell\'importo del prestito. Tutto quello che devi sapere è:</string>
+<string name="information_6">Se avete intenzione di prendere un prestito per i vostri acquisti, è possibile calcolare tutti i costi così come effettiva (reale) tasso annuo effettivo globale. Funziona in due modi, il primo è necessario inserire nominale (annuale) percentuale fornita dal creditore e l\'applicazione calcolerà importo delle rate mensili, nonché i costi totali. Nella seconda modalità, è necessario inserire l\'importo della rata mensile (a volte presentata da un commerciante), e l\'applicazione calcolerà la percentuale e costi per voi.</string>
+<string name="years">Anni</string>
+<string name="months">Mesi</string>
+<string name="days">Giorni</string>
+<string name="LoanCalcPro">Tasso annuo effettivo globale di prestito</string>
+<string name="help_translate">Aiutare a tradurre questa applicazione</string>
+<string name="rate_app">Vota questa applicazione!</string>
+<string name="feedback">I tuoi giudizi</string>
+<string name="feedback_prompt">Ciao, ti piacerebbe darci un feedback in modo che possiamo migliorare la tua esperienza?</string>
+<string name="opinion">Opinione</string>
+<string name="commission">Commissione</string>
+<string name="other_fees">Altre spese</string>
+<string name="annual_percent_rate">Tasso annuo effettivo globale</string>
+<string name="total_repay">Totale da rimborsare</string>
+<string name="leave_one_of_two">Lascia un vuoto: percentuale, importo della rata. Vedere le istruzioni riportate di seguito.</string>
+<string name="cancel">Annullare</string>
+<string name="okay">Bene</string>
+<string name="choose_currency">Scelta di valuta</string>
+<string name="see_details">Per le istruzioni di scorrere verso il basso</string>
+<string name="results">Risultati</string>
+<string name="hint_amount_pro">L\'importo del prestito. Di solito pari al prezzo del prodotto che si desidera acquistare. Questo campo è obbligatorio.</string>
+<string name="hint_commission">Commissione (o prestito a pagamento) in% dell\'importo del prestito. Se non è noto, lasciare in bianco.</string>
+<string name="hint_other_fees">Tutte le altre spese che non dipendono importo del prestito. Se non è noto, lasciare in bianco.</string>
+<string name="hint_total_repay">Importo totale che dovrà essere rimborsato per il creditore.</string>
+<string name="hint_total_cost">Costo totale del credito, compresi gli interessi composti e tutte le tasse.</string>
+<string name="hint_cost_percent">Costo totale (come sopra) espresso come percentuale dell\'importo del prestito.</string>
+<string name="hint_apr">Effettiva (reale) tasso di interesse annuo del prestito comprensivo del costo totale.</string>
+<string name="hint_payment">L\'importo di ciascuna della vostra rata (mensile). Non è necessario compilare questo campo, a meno che non te ne sei andato "tasso" vuoto. Se lasciato vuoto, verrà calcolato dopo aver premuto il pulsante.</string>
+
+    <string-array name="kapitalizacja">
+<item>Quotidiano</item>
+<item>Settimanale</item>
+<item>Mensile</item>
+<item>Trimestrale</item>
+<item>Ogni 6 mesi</item>
+<item>Annuale</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Mesi</item>
+<item>Anni</item>
+    </string-array>
+
+    <string name="title_activity_loan_calc">LoanCalc</string>
+    <string name="enter_here">Qui</string>
+    <string name="profit_percent">Come % della caparra</string>
+    <string name="that_is">Distante</string>
+    <string name="of_deposit">Della caparra</string>
+
+
+    <string name="config">Config</string>
+    <string name="help">Aiuto</string>
+    <string name="month">Mese</string>
+    <string name="hello_world">Ciao mondo!</string>
+    <string name="menu_settings">Impostazioni</string>
+
+    </resources>

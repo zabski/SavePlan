@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">ချေးငွေနှင့်ငွေစု</string>
+
+<string name="app_name2">ချေးငွေနှင့်ရင်းနှီးမြှုပ်နှံမှုများ</string>
+
+<string name="menu_title">သင်တွက်ချက်ဖို့ဘာလိုချင်သလဲ?</string>
+<string name="SavingCalc">ငွေစု၏အနာဂတ်တန်ဖိုး</string>
+<string name="PeriodCalc">ချွေတာကာလ</string>
+<string name="DepositCalc">ပုံမှန်သိုက်ပမာဏ</string>
+<string name="IntrestCalc">ငွေစု၏အတိုးနှုန်း</string>
+<string name="LoanCalc">ချေးငွေနှင့်အရစ်ကျ၏ကုန်ကျစရိတ်များ</string>
+<string name="LoanCalcPro">ချေးငွေ၏နှစ်ပတ်လည်ရာခိုင်နှုန်း Rate</string>
+
+<string name="action_settings">Settings များ</string>
+
+<string name="rate_app">ဒီ application ကကောဘယ်လောက်ရှိသလဲ!</string>
+<string name="feedback">သင့်ရဲ့ထင်မြင်ချက်ပေးပါ</string>
+<string name="feedback_prompt">Hello, သင်ငါတို့သည်သင်တို့အဘို့ဤလျှောက်လွှာကိုတိုးတက်နိုင်အောင်, ကျွန်တော်တို့ကိုသင့်ရဲ့ထင်မြင်ချက်ကိုပေးပို့ဖို့လိုပါသလဲ?</string>
+<string name="opinion">သဘော</string>
+
+<string name="loan_amount">ကနဦးငွေပမာဏ</string>
+<string name="loan_amt">ချေးငွေပမာဏ</string>
+<string name="percentage">ရာခိုင်နှုန်းနှုန်းကို</string>
+<string name="period">ချွေတာကာလ</string>
+<string name="saving">လစဉ်သိုက်</string>
+<string name="capitalization">အတိုးပိုဆိုး</string>
+<string name="deposit_period">သတ္တုသိုက်၏ frequency</string>
+<string name="target_amount">အဆိုပါ နှစ်မှစ. ပမာဏ</string>
+<string name="total_deposit">Total ကုမ္ပဏီ Deposit</string>
+
+<string name="need_percentage">သင် (တစ်နှစ်လျှင်) ရာခိုင်နှုန်းနှုန်းချွေရန်လိုအပ်ပါတယ်</string>
+<string name="need_gain">သင်သည်ဝင်ငွေရန်လိုအပ်ပါတယ်</string>
+<string name="period_deposit">တစ်ခုချင်းစီကိုကာလ၌သင်တို့ကိုချွေရန်လိုအပ်ပါတယ်</string>
+<string name="total">Economized ပမာဏ</string>
+<string name="profit">အမြတ်အစွန်း / စုစုပေါင်းသိုက်၏% အဖြစ်</string>
+<string name="fill_in">အားလုံး input ကိုလယ်ကွက်ကိုဖြည့်ပေးပါ</string>
+<string name="required_period">ချွေတာ၏တောင်းဆိုနေတဲ့ကာလ</string>
+<string name="percent">(တစ်နှစ်) ရာခိုင်နှုန်းနှုန်းကို</string>
+<string name="payments">အရစ်ကျအရေအတွက်</string>
+<string name="payment_amount">အရစ်ကျငွေပမာဏ</string>
+<string name="each_month">(လတိုင်းပေးချေရရန်)</string>
+<string name="total_cost">စုစုပေါင်းကုန်ကျစရိတ် /</string>
+<string name="cost_percent">ချေးငွေပမာဏ၏% အဖြစ်</string>
+<string name="commission">ကော်မရှင် / surcharge</string>
+<string name="other_fees">အခြားသည့်အခကြေးငွေများ</string>
+<string name="annual_percent_rate">နှစ်ပတ်လည်ရာခိုင်နှုန်း Rate</string>
+<string name="total_repay">ပြန်ဆပ်ဖို့ Total ကုမ္ပဏီ</string>
+<string name="leave_one_of_two">ရာခိုင်နှုန်း, အရစ်ကျ၏ပမာဏ: များ၏အချည်းနှီးတချန်ထားပါ။ အောက်တွင်ညွှန်ကြားချက်များကိုကြည့်ရှုပါ။</string>
+
+<string name="deposit_calc">သိုက်ပမာဏကိုတွက်ချက်</string>
+<string name="savings_calc">ငွေစုငွေပမာဏကိုတွက်ချက်</string>
+<string name="period_calc">ကာလချွေချင့်တွက်</string>
+<string name="intrest_calc">အတိုးနှုန်းချင့်တွက်</string>
+<string name="loan_calc">ချေးငွေအရစ်ကျ calculate ကို</string>
+
+<string name="submit">ရေတွက်</string>
+<string name="clear">အားလုံးကိုရှင်းလင်း</string>
+<string name="del">အဖြစ်မှဖယ်ရှာသည်</string>
+<string name="show">ပြသ</string>
+<string name="go">Go ကို</string>
+<string name="exit">ထွက်ပေါက်</string>
+<string name="cancel">Cancel</string>
+<string name="ok">Okay</string>
+<string name="settings">Settings များ</string>
+<string name="go_to_menu">Accept နှင့် Close</string>
+<string name="choose_currency">ငွေကြေးကိုကိုရွေးချယ်ပါ</string>
+
+<string name="instructions">ညွှန်ကြားချက်များ</string>
+<string name="see_details">ညွှန်ကြားချက်များကြည့်ရှုရန်အောက်ဆင်းပြီး</string>
+<string name="results">ရလဒ်များကို</string>
+<string name="hint_amount">သင့်ရဲ့ချေးငွေပမာဏ။</string>
+<string name="hint_principal">မည်မျှယခုသင်သလဲ?</string>
+<string name="hint_target">သင်ချွေဘယ်လောက်လိုချင်သလဲ?</string>
+<string name="hint_period">သင်သည်အဘယ်မျှကာလပတ်လုံးချွေဖို့စီစဉ်ထားသလဲ?</string>
+<string name="hint_percent">ရာခိုင်နှုန်းအဘယ်သို့မှုနှုန်းမှာသင်ချွေတော်မူမည်လော</string>
+<string name="hint_interest">သင့်ရဲ့ချေးငွေ (တစ်နှစ်) ကိုအတိုးနှုန်းကဘယ်လောက်ပါလဲ</string>
+<string name="hint_deposit">ဘယ်လောက်လတိုင်းသင့်ရဲ့ကယ်တင်ခြင်းအကောင့်ကိုငွေသွင်းနိုင်ပါသလဲ?</string>
+<string name="hint_dep_period">မကြာခဏဘယ်လိုသင့်ရဲ့ကယ်တင်ခြင်းအကောင့်မှငွေပေးသွင်းရမည်လိမ့်မည်နည်း</string>
+<string name="hint_install">လစဉ်ငွေပေးချေ၏အရေအတွက်များသောအားဖြင့်တန်းတူညီမျှ</string>
+<string name="hint_compounded">သင့်ရဲ့ငွေစုရဲ့စိတ်ဝင်စားမှုကိုကျောင်းအုပ်ကြီးပမာဏကိုထည့်သွင်းထားတဲ့အချိန်ကာလ။ ဒါဟာသင့်ရဲ့ဘဏ်ငွေ / အခြေအနေများ / စည်းမျဉ်းများပေါ်တွင်မူတည်သည်။ တန်ဖိုးများကိုယူနိုင်ပါစေ: နှစ်စဉ်နှစ်တိုင်း, လစဉ်သို့မဟုတ်နေ့စဉ်။</string>
+<string name="hint_amount_pro">သင့်ရဲ့ချေးငွေပမာဏ။ သင်ယ်ယူလိုသည့်ထုတ်ကုန်ပစ္စည်းများ၏စျေးနှုန်းအများအားဖြင့်တန်းတူ။ ဤစာကွက်လပ်မှာဖြည့်ရန်လိုအပ်ပါသည်။</string>
+<string name="hint_commission">ကော်မရှင် (သို့မဟုတ်ချေးငွေအခကြေးငွေ) ချေးငွေပမာဏ၏% အဖြစ်။ မထင်ရှားပါက, အလွတ်ထားခဲ့ပါ။</string>
+<string name="hint_other_fees">ချေးငွေပမာဏအပေါ်မှီခိုမနေသောသူအပေါင်းတို့သည်အခြားအဖိုးအခ။ မထင်ရှားပါက, အလွတ်ထားခဲ့ပါ။</string>
+<string name="hint_total_repay">ပေးသောသူကျေးဇူးဆပ်ရန်လိုအပ်လိမ့်မည်ဟုစုစုပေါင်းပမာဏ။</string>
+<string name="hint_total_cost">ဒြပ်ပေါင်းများအတိုးနှင့်တကွလူအပေါင်းတို့အဖိုးအခများအပါအဝင်ချေးငွေစုစုပေါင်းကုန်ကျစရိတ်, ။</string>
+<string name="hint_cost_percent">(အထက်ပါကဲ့သို့) စုစုပေါင်းကုန်ကျစရိတ်ချေးငွေပမာဏ၏ရာခိုင်နှုန်းအဖြစ်ထုတ်ဖော်ပြောဆိုခဲ့သည်။</string>
+<string name="hint_apr">ချေးငွေ၏ထိရောက်သော (အစစ်အမှန်) နှစ်ပတ်လည်အတိုးနှုန်း။ ဒါဟာချေးငွေပမာဏ၏ရာခိုင်နှုန်းအဖြစ်ထုတ်ဖော်ပြောဆိုစုစုပေါင်းကုန်ကျစရိတ်နှင့်ညီမျှသည်။</string>
+<string name="hint_payment">တစ်ခုချင်းစီအရစ်ကျပမာဏကို (လစဉ်) ။ သင်ကွက်လပ် "ရာခိုင်နှုန်းနှုန်းကို" စွန့်ပစ်လျှင်, သင်တို့သည်ဤမြေကွက်၌ဖြည့်ရန်မလိုအပ်ပါဘူး။ ကွက်လပ်မကျန်ကြွင်းပါကခလုတ်ကိုနှိပ်ပြီးနောက်တွက်ချက်ထားကြလိမ့်မည်။</string>
+
+<string name="information_1">ဒီဂဏန်းပေါင်းစက်ကသင်ဒြပ်ပေါင်းတစ်မျိုးအတိုးနှုန်းမှငါဖြစ်စေမည်သည့်အနာဂတ်၌သင်တို့၏စုဆောင်းငွေပမာဏအဖြစ်အမြတ်အစွန်းထွက်ကိုရှာဖွေခွင့်ပြုထားသည်။ ဒါဟာသင့်ကိုအောက်ပါတန်ဖိုးများကိုသိတယ်လို့ယူဆ:</string>
+<string name="information_2">ဒီဂဏန်းပေါင်းစက်ကသင့်ပစ်မှတ်ပမာဏကိုချွေရန်လိုအပ်သည်သောအချိန်ကာလကိုဆုံးဖြတ်ပါစေ။ ဒါဟာသင့်ကိုအောက်ပါပေးတယ်လို့ယူဆ:</string>
+<string name="information_3">ဤနေရာတွင်သင်ငွေစုသင့်ရဲ့ပန်းတိုင်ကိုရောက်ရှိနိုင်ဖို့အတွက်တစ်ဦးချင်းစီတစ်လချွေဖို့ရှိသည်တံ့သောပမာဏ, ဖြစ်သည့်လစဉ်ပေးသွင်းငွေ, ချင့်တွက်နိုင်ပါတယ်။ အောက်ပါ data တွေကိုလိုအပ်ပါလိမ့်မည်:</string>
+<string name="information_4">ဒါဟာသင်ပစ်မှတ်ငွေပမာဏရောက်ရှိနိုင်ဖို့အတွက်ချွေဖို့လိုအပ်ပါလိမ့်မည်မှာအတိုးနှုန်းထွက်ရှာဖွေခွင့်ပြုထားသည်။ ပေးဖို့လိုအပ်ပါလိမ့်မယ်:</string>
+<string name="information_5">ဒီရိုးရှင်းတဲ့ဂဏန်းပေါင်းစက်ကိုကျေးဇူးတင်သင့်ရဲ့ချေးငွေ၏တစ်ဦးချင်းစီအရစ်ကျ၏ငွေပမာဏကိုသတ်မှတ်နိုင်မှာ, သင့်ရဲ့ငွေကြေးနှင့်ချေးငွေပမာဏ၏တစ်ရာခိုင်နှုန်းအဖြစ်၎င်း၏စုစုပေါင်းကုန်ကျစရိတ်ကိုတွက်ချက်မည်။ သင်သိလိုသမျှကိုဖြစ်:</string>
+<string name="information_6">သင်သည်သင်၏ဝယ်ယူမှုများအတွက်ချေးငွေယူဖို့စီစဉ်ထားတယ်ဆိုရင်, သင်တို့ရှိသမျှကိုပါဝင်ပတ်သက်နေကုန်ကျစရိတ်များအပြင်ထိရောက်သော (အစစ်အမှန်) နှစ်ပတ်လည်ရာခိုင်နှုန်းနှုန်းကိုတွက်ချက်နိုင်ပါတယ်။ ဒါဟာပထမဦးဆုံးသင်အမည်ခံ (နှစ်ပတ်လည်) ရာခိုင်နှုန်းပေးသောသူကထောက်ပံ့မှုနှုန်းနှင့်လျှောက်လွှာကိုလစဉ်အရစ်ကျပမာဏအဖြစ်စုစုပေါင်းကုန်ကျစရိတ်ကိုတွက်ချက်ပါလိမ့်မယ်ရိုက်ထည့်ရန်လိုအပ်ပါတယ်အတွက်နှစ်ဦးသည် Modes မှာအလုပ်လုပ်နေပါတယ်။ ဒုတိယ mode ထဲမှာသင် (တခါတရံကုန်သည်တို့ကပေးအပ်လှူဒါန်း) လစဉ်အရစ်ကျ၏ပမာဏကိုရိုက်ထည့်ရန်လိုခြင်း, လျှောက်လွှာသင့်အဘို့အရာခိုင်နှုန်းနှင့်ကုန်ကျစရိတ်များတွက်ချက်မည်။</string>
+
+<string name="years">နှစ်ပေါင်း</string>
+<string name="months">လများ</string>
+<string name="days">လက်ထက်</string>
+<string-array name="kapitalizacja">
+<item>နေ့စဉ်</item>
+<item>အပတ်စဉ်</item>
+<item>လစဉ်</item>
+<item>3 လတကြိမ်</item>
+<item>တိုင်း 6 လ</item>
+<item>နှစ်အလိုက်</item>
+</string-array>
+<string-array name="okres">
+<item>လအနည်းငယ်</item>
+<item>နှစ်ပေါင်း</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">ဒီမှာ</string>
+<string name="profit_percent">စုစုပေါင်းသိုက်% အဖြစ်</string>
+<string name="that_is">ကြောင်း</string>
+<string name="of_deposit">စုစုပေါင်းသိုက်၏</string>
+<string name="config">Configuration ကို</string>
+<string name="help">ကူညီကြပါ</string>
+<string name="info">ပြန်ကြားရေး</string>
+<string name="month">လ</string>
+<string name="hello_world">မင်္ဂလာပါကမ္ဘာလောက!</string>
+<string name="menu_settings">Settings များ</string>
+
+</resources>

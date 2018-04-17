@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="ExtraTranslation">
+
+<string name="app_name">ឥណទាន​និង​សន្សំ</string>
+
+<string name="app_name2">ការ​ផ្តល់​ប្រាក់​កម្ចី​និង​ការ​វិនិយោគ</string>
+
+<string name="menu_title">តើ​អ្នក​ចង់​គណនា​អ្វី​?</string>
+<string name="SavingCalc">តម្លៃ​នៃ​ការ​សន្សំ​នា​ពេល​អនាគត</string>
+<string name="PeriodCalc">រយៈ​ពេល​នៃ​ការ​សន្សំ</string>
+<string name="DepositCalc">ចំនួន​ទឹកប្រាក់​នៃ​ការ​ដាក់​ប្រាក់​បញ្ញើ​ជា​ប្រចាំ</string>
+<string name="IntrestCalc">អត្រា​ការ​ប្រាក់​នៃ​ការ​សន្សំ</string>
+<string name="LoanCalc">ការ​ចំណាយ​លើ​ប្រាក់​កម្ចី​និង​ការ​ដំឡើង</string>
+<string name="LoanCalcPro">អត្រា​ភាគរយ​ប្រចាំ​ឆ្នាំ​នៃ​ការ​ប្រាក់​កម្ចី</string>
+
+<string name="action_settings">ការ​កំណត់</string>
+
+<string name="rate_app">អត្រា​កម្មវិធី​នេះ​!</string>
+<string name="feedback">សូម​ផ្តល់​មតិ​របស់​អ្នក</string>
+<string name="feedback_prompt">ជំរាបសួរ​នឹង​អ្នក​ចង់​ផ្ញើ​មក​យើង​គំនិត​របស់​អ្នក​ដូច្នេះ​យើង​អាច​កែ​លម្អ​កម្មវិធី​សម្រាប់​អ្នក​នេះ​?</string>
+<string name="opinion">មតិ</string>
+
+<string name="loan_amount">ចំនួន​ទឹកប្រាក់​ដំបូង</string>
+<string name="loan_amt">ចំនួន​សរុប​នៃ​ឥណទាន</string>
+<string name="percentage">អត្រា​ភាគរយ</string>
+<string name="period">រយៈ​ពេល​នៃ​ការ​សន្សំ</string>
+<string name="saving">ការ​ដាក់​ប្រាក់​ប្រចាំខែ</string>
+<string name="capitalization">ផ្សំ​ការ​ប្រាក់</string>
+<string name="deposit_period">ភាព​ញឹកញាប់​នៃ​ការ​ដាក់​ប្រាក់​បញ្ញើ</string>
+<string name="target_amount">គោលដៅ​ចំនួន</string>
+<string name="total_deposit">ប្រាក់​បញ្ញើ​សរុប</string>
+
+<string name="need_percentage">អ្នក​ត្រូវ economize នៅ​អត្រា​ភាគរយ (ក្នុង​មួយ​ឆ្នាំ​)</string>
+<string name="need_gain">អ្នក​ត្រូវ​ការ​ដើម្បី​រក​ប្រាក់</string>
+<string name="period_deposit">នៅ​ក្នុង​រយៈ​ពេល​គ្នា​ដែល​អ្នក​ត្រូវ economize</string>
+<string name="total">ចំនួន Economized</string>
+<string name="profit">ប្រាក់​ចំណេញ / ជា​% នៃ​ប្រាក់​បញ្ញើ​សរុប</string>
+<string name="fill_in">សូម​បំពេញ​នៅ​ក្នុង​វាល​បញ្ចូល​ទាំង​អស់</string>
+<string name="required_period">ដែល​ត្រូវការ​រយៈ​ពេល​នៃ​ការ​សន្សំ</string>
+<string name="percent">អត្រា​ភាគរយ (ក្នុង​មួយ​ឆ្នាំ​)</string>
+<string name="payments">ចំនួន​នៃ​ការ​ដំឡើង</string>
+<string name="payment_amount">ចំនួន​រំលោះ</string>
+<string name="each_month">(ត្រូវ​បង់​ជា​រៀងរាល់​ខែ​)</string>
+<string name="total_cost">តម្លៃ​សរុប /</string>
+<string name="cost_percent">ជា​% នៃ​ចំនួន​ប្រាក់កម្ចី</string>
+<string name="commission">គណៈ​ក​ម្មា / បង់​ប​ន្ថេ​ម</string>
+<string name="other_fees">ថ្លៃ​សេវា​ផ្សេងទៀត</string>
+<string name="annual_percent_rate">អត្រា​ភាគរយ​ប្រចាំ​ឆ្នាំ</string>
+<string name="total_repay">សរុប​សង</string>
+<string name="leave_one_of_two">ទុក​ឱ្យ​មួយ​ទទេ​: ភាគរយ​, ចំនួន​ទឹកប្រាក់​នៃ​ការ​ដំឡើង​។ សូម​មើល​សេចក្ដី​ណែនាំ​ខាងក្រោម​។</string>
+
+<string name="deposit_calc">គណនា​ចំនួន​ទឹកប្រាក់​ដែល​ដាក់​ប្រាក់</string>
+<string name="savings_calc">គណនា​ចំនួន​ទឹកប្រាក់​សន្សំ</string>
+<string name="period_calc">គណនា​អំឡុង​ពេល​សន្សំ</string>
+<string name="intrest_calc">គណនា​អត្រា​ការ​ប្រាក់</string>
+<string name="loan_calc">គណនា​រំលស់​ប្រាក់​កម្ចី</string>
+
+<string name="submit">គណនា</string>
+<string name="clear">ជម្រះ​ទាំង​អស់</string>
+<string name="del">លុប</string>
+<string name="show">បង្ហាញ</string>
+<string name="go">ចូរ​ទៅ</string>
+<string name="exit">ការ​ចាក​ចេញ</string>
+<string name="cancel">បោះបង់</string>
+<string name="ok">មិន​អី​ទេ</string>
+<string name="settings">ការ​កំណត់</string>
+<string name="go_to_menu">ទទួល​យក​និង​បិទ</string>
+<string name="choose_currency">ជ្រើស​រូបិយប័ណ្ណ</string>
+
+<string name="instructions">សេចក្តី​ណែនាំ</string>
+<string name="see_details">រមូរ​ចុះ​ក្រោម​ដើម្បី​មើល​សេចក្ដី​ណែនាំ</string>
+<string name="results">ល​ទ​ធ​ផល</string>
+<string name="hint_amount">ចំនួន​នៃ​ប្រាក់​កម្ចី​របស់​អ្នក​។</string>
+<string name="hint_principal">តើ​អ្នក​ឥឡូវនេះ​?</string>
+<string name="hint_target">តើ​អ្នក​ចង់ economize​?</string>
+<string name="hint_period">តើ​ធ្វើ​ដូចម្តេច​ពេល​វែង​តើ​អ្នក​មាន​គម្រោង economize​?</string>
+<string name="hint_percent">អ្វី​ដែល​អត្រា​នៃ​ភាគរយ​អ្នក​នឹង economize​?</string>
+<string name="hint_interest">របៀប​ជា​ច្រើន​អត្រា​ការ​ប្រាក់ (ក្នុង​មួយ​ឆ្នាំ​) នៃ​ប្រាក់​កម្ចី​របស់​អ្នក​គឺ​ជា​?</string>
+<string name="hint_deposit">របៀប​ជា​ច្រើន​ដែល​អ្នក​អាច​ដាក់​ប្រាក់​ចូល​ក្នុង​គណនី​សន្សំ​របស់​អ្នក​ជា​រៀងរាល់​ខែ​?</string>
+<string name="hint_dep_period">ជា​ញឹកញាប់​អ្នក​នឹង​ដាក​​់​ប្រាក់​ទៅ​ក្នុង​គណនី​សន្សំ​របស់​អ្នក​ឬ​?</string>
+<string name="hint_install">ជា​ធម្មតា​ស្មើ​នឹង​ចំនួន​នៃ​ការ​បង់​ប្រាក់​ប្រចាំ​ខែ​នេះ</string>
+<string name="hint_compounded">អំឡុង​ពេល​ដែល​ការ​ប្រាក់​នៃ​ប្រាក់​សន្សំ​របស់​អ្នក​ត្រូវ​បាន​បន្ថែម​ទៅ​ចំនួន​ទឹកប្រាក់​ដ៏​សំខាន់​នេះ​។ វា​អាស្រ័យ​លើ​ធនាគារ / លក្ខខណ្ឌ / បទ​ប្ប​ញ្ញ​ត្តិ​របស់​អ្នក​។ អាច​យក​តម្លៃ​: ប្រចាំ​ឆ្នាំ​ប្រចាំ​ខែ​ឬ​ប្រចាំ​ថ្ងៃ​។</string>
+<string name="hint_amount_pro">ចំនួន​នៃ​ប្រាក់​កម្ចី​របស់​អ្នក​។ ជា​ធម្មតា​ស្មើ​ទៅ​នឹង​តម្លៃ​នៃ​ផលិតផល​ដែល​អ្នក​ចង់​ទិញ​។ វាល​នេះ​គឺ​ត្រូវ​បាន​ទាមទារ​។</string>
+<string name="hint_commission">គណៈ​កម្ម​ការ (ឬ​ថ្លៃ​ប្រាក់​កម្ចី​) ជា​% នៃ​ចំនួន​ទឹកប្រាក់​ឥណទាន​។ ប្រសិន​បើ​មិន​បាន​គេ​ស្គាល់​ថា​ទុក​ឱ្យ​នៅ​ទទេ​។</string>
+<string name="hint_other_fees">ថ្លៃ​សេវា​ផ្សេង​ទៀត​ទាំងអស់​ដែល​មិន​ពឹង​ផ្អែក​លើ​ចំនួន​ទឹកប្រាក់​ឥណទាន​។ ប្រសិន​បើ​មិន​បាន​គេ​ស្គាល់​ថា​ទុក​ឱ្យ​នៅ​ទទេ​។</string>
+<string name="hint_total_repay">ចំនួន​សរុប​ដែល​នឹង​ត្រូវ​សង​ទៅ​ឱ្យ​អ្នក​ផ្តល់​ប្រាក់​កម្ចី​នេះ​។</string>
+<string name="hint_total_cost">ចំណាយ​សរុប​នៃ​ការ​ប្រាក់​កម្ចី​ដែល​បាន​រួម​ទាំង​ការ​ប្រាក់​បរិវេណ​និង​ថ្លៃ​ទាំងអស់​។</string>
+<string name="hint_cost_percent">ការ​ចំណាយ​សរុប (ដូច​ខាងលើ​) បាន​បញ្ជាក់​ជា​ភាគរយ​នៃ​ចំនួន​ទឹកប្រាក់​ឥណទាន​។</string>
+<string name="hint_apr">មាន​ប្រសិទ្ធិ​ភាព (ពិត​) អត្រា​ការ​ប្រាក់​ប្រចាំ​ឆ្នាំ​នៃ​ការ​ប្រាក់​កម្ចី​។ វា​ស្មើ​នឹង​ចំណាយ​សរុប​ដែល​បញ្ជាក់​ជា​ភាគរយ​នៃ​ចំនួន​ទឹកប្រាក់​ឥណទាន​។</string>
+<string name="hint_payment">ចំនួន​ទឹកប្រាក់​នៃ​ការ​ដំឡើង​គ្នា (ប្រចាំខែ​) បាន​។ អ្នក​មិន​ចាំបាច់​ដើម្បី​បំពេញ​នៅក្នុង​ផ្នែក​នេះ​ទេ​លុះត្រា​តែ​អ្នក​បាន​ចាក​ចេញ​ពី "អត្រា​ភាគរយ​" ទទេ​។ ប្រសិន​បើ​អ្នក​ទុក​ឱ្យ​នៅ​ទទេ​វា​នឹង​ត្រូវ​បាន​គណនា​បន្ទាប់​ពី​ចុច​ប៊ូតុង​។</string>
+
+<string name="information_1">ការ​គណនា​នេះ​អនុញ្ញាត​ឱ្យ​អ្នក​ដើម្បី​រក​ឱ្យ​ឃើញ​ចំនួន​ទឹកប្រាក់​នៃ​ការ​សន្សំ​ប្រាក់​របស់​អ្នក​នៅ​ក្នុង​ពេល​អនាគត​, ក៏​ដូច​ជា​ការ​ស្វែង​រក​ប្រាក់​ចំណេញ​ដែល​អ្នក​នឹង​ធ្វើ​ឱ្យ​បាន​ពី​អត្រា​ការ​ប្រាក់​បរិវេណ​។ វា​ស​ន្ម​ត់​ថា​អ្នក​បាន​ដឹង​ថា​តម្លៃ​ដូច​ខាង​ក្រោម​នេះ​:</string>
+<string name="information_2">ការ​គណនា​នេះ​នឹង​អនុញ្ញាត​ឱ្យ​អ្នក​កំណត់​រយៈពេល​ដែល​ត្រូវ​បាន​ទាមទារ​ដើម្បី economize ចំនួន​ដែល​ជា​គោលដៅ​របស់​អ្នក​។ វា​ស​ន្ម​ត់​ថា​អ្នក​ផ្តល់​ការ​ដូច​ខាង​ក្រោម​:</string>
+<string name="information_3">នៅ​ទីនេះ​អ្នក​អាច​គណនា​ប្រាក់​បញ្ញើ​ប្រចាំ​ខែ​ដែល​នេះ​ជា​ចំនួន​ទឹកប្រាក់​ដែល​អ្នក​នឹង​ត្រូវ economize ជា​រៀងរាល់​ខែ​ដើម្បី​សម្រេច​គោលដៅ​របស់​អ្នក​នៃ​ការ​សន្សំ​។ វា​នឹង​ត្រូវ​ការ​ទិន្នន័យ​ដូច​ខាងក្រោម​:</string>
+<string name="information_4">វា​អនុញ្ញាត​ឱ្យ​អ្នក​ដើម្បី​រក​ឱ្យ​ឃើញ​អត្រា​ការ​ប្រាក់​នៅ​ពេល​ដែល​អ្នក​នឹង​ត្រូវការ​ដើម្បី economize នៅ​ក្នុង​គោល​បំណង​ដើម្បី​ឈាន​ទៅ​ដល់​ចំនួន​ដែល​គោលដៅ​របស់​អ្នក​។ អ្នក​នឹង​ត្រូវការ​ដើម្បី​ផ្តល់​នូវ​:</string>
+<string name="information_5">សូម​អរគុណ​ដល់​ការ​គណនា​ដ៏​សាមញ្ញ​នេះ​អ្នក​នឹង​អាច​កំណត់​ចំនួន​នៃ​ការ​ដំឡើង​គ្នា​នៃ​ប្រាក់​កម្ចី​របស់​អ្នក​, និង​គណនា​ការ​ចំណាយ​សរុប​របស់​ខ្លួន​នៅ​ក្នុង​រូបិយប័ណ្ណ​របស់​អ្នក​និង​ជា​ភាគរយ​នៃ​ចំនួន​ប្រាក់​កម្ចី​នេះ​។ អ្វី​ទាំងអស់​ដែល​អ្នក​ត្រូវ​ដឹង​គឺ​:</string>
+<string name="information_6">ប្រសិន​បើ​លោក​អ្នក​មាន​គម្រោង​យក​ប្រាក់​កម្ចី​សម្រាប់​ការ​ទិញ​របស់​អ្នក​អ្នក​អាច​គណនា​ការ​ចំណាយ​ទាំង​អស់​ជាប់​ពាក់​ព័ន្ធ​ក៏​ដូច​ជា​អត្រា​ភាគរយ​ដែល​មាន​ប្រសិទ្ធិ​ភាព (ពិត​) ប្រចាំឆ្នាំ​។ វា​ធ្វើ​ការ​នៅ​ក្នុង​របៀប​ពីរ​នៅ​ក្នុង​ការ​លើក​ដំបូង​ដែល​អ្នក​ត្រូវ​បញ្ចូល​ឈ្មោះ (ប្រចាំឆ្នាំ​) អត្រា​ភាគរយ​ដែល​បាន​ផ្តល់​ដោយ​អ្នក​ផ្តល់​ប្រាក់​កម្ចី​និង​កម្មវិធី​នឹង​គណនា​ចំនួន​ទឹកប្រាក់​នៃ​ការ​បង់​រំលស់​ប្រចាំ​ខែ​ក៏​ដូច​ជា​ការ​ចំណាយ​សរុប​។ នៅ​ក្នុង​របៀប​ទី​ពីរ​អ្នក​ត្រូវ​ចូល​ទៅ​ក្នុង​ចំនួន​ទឹកប្រាក់​នៃ​ការ​ដំឡើង​ប្រចាំ​ខែ (ជួនកាល​បទ​បង្ហាញ​ដោយ​អ្នកជំនួញ​មួយ​)​, ​​និង​កម្មវិធី​នឹង​គណនា​ចំនួន​ភាគរយ​និង​ការ​ចំណាយ​សម្រាប់​អ្នក​។</string>
+
+<string name="years">ប៉ុន្មាន​ឆ្នាំ</string>
+<string name="months">ខែ</string>
+<string name="days">ថ្ងៃ</string>
+<string-array name="kapitalizacja">
+<item>ជា​រៀង​រាល់​ថ្ងៃ</item>
+<item>ប្រចាំ​ស​ប្តា​ហ៍</item>
+<item>ប្រចាំខែ</item>
+<item>ជា​រៀង​រាល់ 3 ខែ</item>
+<item>ជា​រៀង​រាល់ 6 ខែ</item>
+<item>ប្រចាំឆ្នាំ</item>
+</string-array>
+<string-array name="okres">
+<item>ខែ</item>
+<item>ច្រើន​ឆ្នាំ</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">នៅ​ទីនេះ</string>
+<string name="profit_percent">ជា​% នៃ​ប្រាក់​បញ្ញើ​សរុប</string>
+<string name="that_is">នោះ​គឺ</string>
+<string name="of_deposit">នៃ​ប្រាក់​បញ្ញើ​សរុប</string>
+<string name="config">ការ​កំណត់​រចនា​សម្ព័ន្ធ</string>
+<string name="help">ជួយ</string>
+<string name="info">ព​ត៌​មាន</string>
+<string name="month">ខែ</string>
+<string name="hello_world">ជំរាបសួរ​ពិភពលោក​!</string>
+<string name="menu_settings">ការ​កំណត់</string>
+
+</resources>

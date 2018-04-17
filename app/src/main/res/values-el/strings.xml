@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Δάνεια και Ταμιευτηρίου</string>
+<string name="app_name2">Δάνεια και επενδύσεις</string>
+<string name="menu_title">Τι θέλετε να υπολογίσετε;</string>
+<string name="SavingCalc">Μελλοντική αξία των αποταμιεύσεων</string>
+<string name="PeriodCalc">Περίοδος εξοικονόμησης</string>
+<string name="DepositCalc">Ποσό των τακτικών καταθέσεων</string>
+<string name="IntrestCalc">Επιτόκιο της αποταμίευσης</string>
+<string name="LoanCalc">Κόστος του δανείου και οι δόσεις</string>
+<string name="LoanCalcPro">Συνολικό Ετήσιο Πραγματικό Επιτόκιο δανείου</string>
+<string name="info">Πληροφορίες</string>
+<string name="help_translate">Βοήθεια μεταφράσει αυτό το app</string>
+<string name="rate_app">Βαθμολογήστε αυτό το app!</string>
+<string name="feedback">Δώστε τη γνώμη σας</string>
+<string name="feedback_prompt">Γεια σου, θα ήθελες να μας δώσετε κάποιες πληροφορίες, έτσι ώστε να μπορούμε να βελτιώσουμε την εμπειρία σας;</string>
+<string name="opinion">Γνώμη</string>
+<string name="loan_amount">Αρχικό ποσό</string>
+<string name="loan_amt">Ποσό δανείου</string>
+<string name="percentage">Ποσοστό</string>
+<string name="period">Περίοδος εξοικονόμησης</string>
+<string name="saving">Μηνιαία δόση</string>
+<string name="capitalization">Τόκοι επιδεινώνεται</string>
+<string name="deposit_period">Συχνότητα των καταθέσεων</string>
+<string name="target_amount">Στόχος Ποσό</string>
+<string name="total_deposit">Σύνολο καταθέσεων</string>
+<string name="need_percentage">Θα πρέπει να αποθηκεύσετε σε ποσοστό (ανά έτος)</string>
+<string name="need_gain">Χρειάζεται να κερδίσετε</string>
+<string name="period_deposit">Κάθε περίοδος θα πρέπει να αποθηκεύσετε</string>
+<string name="total">Αποθηκεύτηκε Ποσό</string>
+<string name="profit">Κέρδη / ως% του συνόλου των καταθέσεων</string>
+<string name="fill_in">Παρακαλούμε συμπληρώστε όλα τα πεδία εισαγωγής</string>
+<string name="required_period">Απαιτούμενη περιόδου αποταμίευσης</string>
+<string name="percent">Ποσοστό (ανά έτος)</string>
+<string name="payments">Αριθμός δόσεων</string>
+<string name="payment_amount">Ποσό δόσεων</string>
+<string name="each_month">(που πρέπει να καταβληθεί κάθε μήνα)</string>
+<string name="total_cost">Συνολικό Κόστος</string>
+<string name="total_cost_">Συνολικό Κόστος /</string>
+<string name="cost_percent">Ως% του ποσού του δανείου</string>
+<string name="commission">Προμήθεια</string>
+<string name="other_fees">Άλλα Δικαιώματα</string>
+<string name="annual_percent_rate">Συνολικό Ετήσιο Ποσοστό Επιβάρυνσης</string>
+<string name="total_repay">Συνολική να επιστρέψει</string>
+<string name="leave_one_of_two">Αφήστε το κενό ένα από τα: Ποσοστό, ποσό δόσης. Δείτε παρακάτω οδηγίες.</string>
+<string name="deposit_calc">Υπολογίστε το ποσό της κατάθεσης</string>
+<string name="savings_calc">Υπολογίστε το ποσό αποταμίευσης</string>
+<string name="period_calc">Υπολογίστε την εξοικονόμηση περίοδο</string>
+<string name="intrest_calc">Υπολογίστε επιτόκιο</string>
+<string name="loan_calc">Υπολογίστε τις δόσεις των δανείων</string>
+<string name="submit">Υπολογίστε</string>
+<string name="clear">Διαγραφή όλων</string>
+<string name="del">Διαγραφή</string>
+<string name="show">Σόου</string>
+<string name="go">Πηγαίνω</string>
+<string name="exit">Έξοδος</string>
+<string name="cancel">Ακύρωση</string>
+<string name="ok">OK</string>
+<string name="settings">Ρυθμίσεις</string>
+<string name="go_to_menu">Αποδοχή και Κλείσιμο</string>
+<string name="choose_currency">Επιλέξτε το νόμισμα</string>
+<string name="instructions">Οδηγίες</string>
+<string name="see_details">Για οδηγίες μετακινηθείτε προς τα κάτω</string>
+<string name="results">Αποτελέσματα</string>
+<string name="hint_amount">Το ποσό του δανείου σας.</string>
+<string name="hint_principal">Πόσο έχεις τώρα;</string>
+<string name="hint_target">Πόσα θέλετε να αποθηκεύσετε;</string>
+<string name="hint_period">Πόσο καιρό σκοπεύεις να σώσει;</string>
+<string name="hint_percent">Σε ποιο ποσοστό θα σας σώσει;</string>
+<string name="hint_interest">Ποιο είναι το επιτόκιο (ανά έτος) του δανείου σας;</string>
+<string name="hint_deposit">Πόσο μπορείτε να καταθέσετε στο λογαριασμό εξοικονόμηση σας κάθε μήνα;</string>
+<string name="hint_dep_period">Πόσο συχνά θα καταθέσετε χρήματα στον αποταμιευτικό λογαριασμό σας;</string>
+<string name="hint_install">Συνήθως ίσο με τον αριθμό των μηνιαίων πληρωμών</string>
+<string name="hint_compounded">Περίοδος κατά την οποία προστίθενται οι τόκοι των καταθέσεων σας στο αρχικό ποσό. Αυτό εξαρτάται από την τράπεζά σας ή / και ρύθμισης συνταξιοδοτικό πρόγραμμα / εξοικονόμηση. Μπορεί να πάρει τιμές: ετήσια, μηνιαία και ημερήσια.</string>
+<string name="hint_amount_pro">Το ποσό του δανείου σας. Συνήθως ισούται με την τιμή του προϊόντος που θέλετε να αγοράσετε. Αυτό το πεδίο είναι υποχρεωτικό.</string>
+<string name="hint_commission">Επιτροπή (ή τέλος δάνειο) ως% του ποσού του δανείου. Εάν δεν είναι γνωστό, αφήστε κενό.</string>
+<string name="hint_other_fees">Όλα τα άλλα έξοδα που δεν εξαρτώνται από το ποσό του δανείου. Εάν δεν είναι γνωστό, αφήστε κενό.</string>
+<string name="hint_total_repay">Συνολικό ποσό που θα πρέπει να επιστραφούν στο δανειστή.</string>
+<string name="hint_total_cost">Συνολικό κόστος του δανείου, συμπεριλαμβανομένων των σύνθετων τόκων και όλων των τελών.</string>
+<string name="hint_cost_percent">Συνολικό κόστος (όπως παραπάνω), που εκφράζεται ως ποσοστό του ποσού του δανείου.</string>
+<string name="hint_apr">Αποτελεσματική (πραγματικό) ετήσιο επιτόκιο του δανείου, συμπεριλαμβανομένων του συνολικού κόστους.</string>
+<string name="hint_payment">Το ποσό της κάθε της (μηνιαίας) δόση σας. Δεν χρειάζεται να συμπληρώσετε σε αυτό το πεδίο, αν δεν μείνει "Ποσοστό" κενό. Αν μείνει κενό, θα πρέπει να υπολογίζεται μετά το πάτημα του κουμπιού.</string>
+<string name="information_1">Αυτός ο υπολογιστής σας επιτρέπει να ανακαλύψετε το μέλλον ποσό των αποταμιεύσεών σας καθώς και τα κέρδη που θα κάνετε επιτόκιο μορφή ένωσης. Υποθέτει σας γνωρίζουμε τα εξής:</string>
+<string name="information_2">Αυτός ο υπολογιστής θα σας αφήσει να καθορίσει το χρονικό διάστημα που απαιτείται για να σώσει το ποσό-στόχο σας. Υποθέτει σας παρέχει τα ακόλουθα:</string>
+<string name="information_3">Εδώ μπορείτε να υπολογίσουν τη μηνιαία κατάθεση, ότι είναι το ποσό που θα χρειαστεί για να σώσει κάθε μήνα, προκειμένου να επιτευχθεί ο στόχος της εξοικονόμησης σας. Θα χρειαστείτε τα ακόλουθα στοιχεία:</string>
+<string name="information_4">Σας επιτρέπει να μάθετε το επιτόκιο με το οποίο θα πρέπει να αποθηκεύσετε, προκειμένου να επιτευχθεί το ποσό-στόχο σας. Θα πρέπει να παρέχει:</string>
+<string name="information_5">Χάρη σε αυτή την απλή αριθμομηχανή θα είστε σε θέση να καθορίσει το ποσό της κάθε δόσης του δανείου σας, και να υπολογίσετε το συνολικό κόστος στο νόμισμά σας και ως ποσοστό επί του ποσού του δανείου. Όλα όσα πρέπει να γνωρίζετε είναι:</string>
+<string name="information_6">Αν σκοπεύετε να πάρετε ένα δάνειο για τις αγορές σας, μπορείτε να υπολογίσετε όλα τα έξοδα, καθώς και την αποτελεσματική (πραγματική) Συνολικό Ετήσιο Ποσοστό Επιβάρυνσης. Λειτουργεί με δύο τρόπους, το πρώτο που πρέπει να εισάγετε ονομαστικές (ετήσια) ποσοστό που προβλέπεται από το δανειστή και η εφαρμογή θα υπολογίσει το ποσό των μηνιαίων δόσεων καθώς και το συνολικό κόστος. Στη δεύτερη κατάσταση, θα πρέπει να εισάγετε το ποσό της μηνιαίας δόσης (μερικές φορές παρουσιάζεται από έναν έμπορο), και η εφαρμογή θα υπολογίσει το ποσοστό και το κόστος για εσάς.</string>
+<string name="years">Χρόνια</string>
+<string name="months">Μήνες</string>
+<string name="days">Ημέρες</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string-array name="kapitalizacja">
+<item>Καθημερινά</item>
+<item>Εβδομαδιαίος</item>
+<item>Μηνιαίος</item>
+<item>Κάθε 3 μήνες</item>
+<item>Κάθε 6 μήνες</item>
+<item>Ετήσια</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Μήνες</item>
+<item>Έτη</item>
+</string-array>
+</resources>

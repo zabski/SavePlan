@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="text_xs">10dp</dimen>
+    <!--
+    <dimen name="text_s">13sp</dimen>
+    <dimen name="text_m">14sp</dimen>
+    <dimen name="text_l">16sp</dimen>
+    -->
+    <dimen name="text_s">12dp</dimen>
+    <dimen name="text_m">13dp</dimen>
+    <dimen name="text_l">14dp</dimen>
+    <dimen name="text_xl">16dp</dimen>
+    <dimen name="text_xx">18dp</dimen>
+    <dimen name="margin_xs">1dp</dimen>
+    <dimen name="margin_s">2dp</dimen>
+    <dimen name="margin_m">3dp</dimen>
+    <dimen name="margin_l">4dp</dimen>
+    <dimen name="margin_xl">6dp</dimen>
+    <dimen name="margin_xx">8dp</dimen>
+    <dimen name="row_s">20dp</dimen>
+    <dimen name="row_m">25dp</dimen>
+    <dimen name="row_l">30dp</dimen>
+    <dimen name="row_xl">40dp</dimen>
+    <dimen name="row_xx">50dp</dimen>
+    <dimen name="row_3x">60dp</dimen>
+    <dimen name="stroke">2dp</dimen>
+    <dimen name="month_width">200dp</dimen>
+    <dimen name="table_s">100dp</dimen>
+    <dimen name="table_m">125dp</dimen>
+    <dimen name="table_l">150dp</dimen>
+    <dimen name="chart_hgt">200dp</dimen>
+    <!-- dimen name="week_top_margin">37px</dimen -->
+    <dimen name="week_top_margin">2dp</dimen>
+    <dimen name="menu_ht">80dp</dimen>
+    <dimen name="label_width">125dp</dimen>
+    <dimen name="edit_width">120dp</dimen>
+    <dimen name="edit_small">50dp</dimen>
+    <dimen name="text_size">15sp</dimen>
+    <dimen name="edit_text_size">@dimen/row_l</dimen>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="padding_l">10dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="btn_txt">0dp</dimen>
+	<dimen name="percent_width">70dp</dimen>
+	<dimen name="amount_width">80dp</dimen>        
+
+</resources>

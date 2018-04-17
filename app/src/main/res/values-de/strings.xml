@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="help_translate">Hilft übersetzen diese Anwendung</string>
+<string name="rate_app">Bewerten Sie diese Anwendung!</string>
+<string name="feedback">Feedback geben</string>
+<string name="feedback_prompt">Hallo, möchten Sie uns ein Feedback, damit wir für Sie zu verbessern zu geben?</string>
+<string name="opinion">Meinung</string>
+<string name="commission">Provision</string>
+<string name="other_fees">Sonstige Gebühren</string>
+<string name="annual_percent_rate">Effektiver Jahreszins</string>
+<string name="total_repay">Insgesamt zurückzahlen</string>
+<string name="leave_one_of_two">Leer lassen einem: Prozentsatz, Ratenhöhe. Siehe Erklärung unten.</string>
+<string name="app_name">Haushaltskosten</string>
+<string name="app_name2">Kredite und Investitionen</string>
+<string name="menu_title">Was wollen Sie berechnen?</string>
+<string name="SavingCalc">Zukunft Wert der Ersparnisse</string>
+<string name="PeriodCalc">Ansparzeit</string>
+<string name="DepositCalc">Menge der regelmäßige Einzahlungen</string>
+<string name="IntrestCalc">Zinssatz</string>
+<string name="LoanCalc">Höhe der Raten eines Kredits</string>
+<string name="LoanCalcPro">Effektiver Jahreszins</string>
+<string name="info">Informationen</string>
+    <string name="ok">OK</string>
+    <string name="loan_amount">Anfangsbetrag</string>
+<string name="loan_amt">Höhe des Darlehens</string>
+<string name="percentage">Rate von Prozentsatz</string>
+<string name="period">Ansparzeit</string>
+<string name="saving">Monatliche Einzahlung</string>
+<string name="capitalization">Interesse wird verstärkt</string>
+<string name="deposit_period">Frequenz der Einlagen</string>
+<string name="target_amount">Zielbetrag</string>
+<string name="total_deposit">Einlage</string>
+<string name="need_percentage">Sie müssen bei Zins sparen (pro Jahr)</string>
+<string name="need_gain">Sie müssen zu verdienen</string>
+<string name="period_deposit">Jede Periode müssen Sie hinterlegen</string>
+<string name="total">Menge gespeichert</string>
+<string name="profit">Gewinn / in% der gesamten Anzahlung</string>
+<string name="fill_in">Bitte füllen Sie alle Eingabefelder</string>
+<string name="required_period">Erforderliche Zeiteinsparung</string>
+<string name="percent">Rate von Prozentsatz (pro Jahr)</string>
+<string name="payments">Anzahl der Raten</string>
+<string name="payment_amount">Höhe der Rate</string>
+<string name="each_month">(jeden Monat bezahlt werden)</string>
+<string name="total_cost">Gesamtkosten</string>
+<string name="total_cost_">Gesamtkosten /</string>
+<string name="cost_percent">In% des Kreditbetrages</string>
+<string name="deposit_calc">Berechnen Höhe der Kaution</string>
+<string name="savings_calc">Berechnen Wert der Ersparnisse</string>
+<string name="period_calc">Berechnen Ansparzeit</string>
+<string name="intrest_calc">Berechnen Zinssatz</string>
+<string name="loan_calc">Berechnen Wert der Raten</string>
+<string name="submit">Berechnen</string>
+<string name="clear">Alles</string>
+<string name="del">Löschen</string>
+<string name="show">Show</string>
+<string name="go">Gehen</string>
+<string name="exit">Ausgang</string>
+<string name="settings">Einstellungen</string>
+<string name="go_to_menu">Zu übernehmen und</string>
+    <string name="remove_ads">Anzeigen entfernen</string>
+<string name="instructions">Anleitung</string>
+<string name="hint_amount">Die Höhe Ihres Darlehens.</string>
+<string name="hint_principal">Wie viel haben Sie jetzt?</string>
+<string name="hint_target">Wie viel wollen Sie sparen?</string>
+<string name="hint_period">Wie lange wollen Sie sparen?</string>
+<string name="hint_percent">In welchem ​​Tempo der Anteil werden Sie sparen?</string>
+<string name="hint_interest">Was ist der Zinssatz (pro Jahr) Ihrer Kredit?</string>
+<string name="hint_deposit">Wie viel können Sie jeden Monat einzahlen, um Ihre Sparkonto?</string>
+<string name="hint_dep_period">Wie oft werden Sie Geld einzahlen, um Ihre Sparkonto?</string>
+<string name="hint_install">Regel gleich der Anzahl der monatlichen Zahlungen</string>
+<string name="hint_compounded">Zeitraum, in dem das Interesse Ihrer Ersparnisse an den Kapitalbetrag hinzugefügt. Es hängt von Ihrer Bank und / oder Vorschriften Ihrer Rente / Sparplan. Es kann Werte von "täglich" bis "jährlich" zu nehmen.</string>
+<string name="information_1">Dieser Rechner ermöglicht Ihnen, künftige Höhe Ihrer Ersparnisse und Gewinn, die Sie Form zusammengesetzt Zinssatz zu informieren. Es setzt voraus, Sie Folgendes wissen:</string>
+<string name="information_2">Dieser Rechner wird Ihnen die Zeit, die erforderlich ist, um Ihre Zielmenge speichern zu bestimmen. Es setzt voraus, Sie werden die folgenden:</string>
+<string name="information_3">Hier können Sie monatliche Einzahlung zu berechnen, ist, dass der Betrag, den Sie benötigen, um jeden Monat, um Ihr Ziel zu erreichen Spar speichern. Es wird folgende Daten:</string>
+<string name="information_4">Es ermöglicht Ihnen, den Zinssatz, zu dem Sie zu sparen müssen, um Ihre Zielbetrag erreichen herauszufinden. Sie müssen liefern:</string>
+<string name="information_5">Dank dieser einfachen Taschenrechner werden Sie in der Lage, die Höhe der Raten des Darlehens bestimmen und berechnen die Gesamtkosten des Darlehens in Geldwert und als Prozentsatz der Höhe des Darlehens. Alles, was Sie wissen müssen, ist:</string>
+<string name="information_6">Wenn Sie planen, einen Kredit für Ihre Einkäufe zu nehmen, können Sie alle Beteiligten sowie effektive (real) Jahreszins Kosten zu berechnen. Es arbeitet in zwei Modi, in dem Sie zunächst nominal (jährlich) Zins durch die Kreditgeber und die Anwendung wird Höhe der monatlichen Raten sowie die Gesamtkosten zu berechnen sofern eingeben. Im zweiten Modus, müssen Sie Höhe der monatlichen Rate (manchmal von einem Händler vorgelegt) geben, und die Anwendung wird in Prozent und die Kosten für Sie zu berechnen.</string>
+<string name="years">Jahre</string>
+<string name="months">Monate</string>
+<string name="days">Tage</string>
+<string name="cancel">Stornieren</string>
+<string name="okay">Okay</string>
+<string name="choose_currency">Währung auswählen</string>
+<string name="see_details">Für Anweisungen nach unten scrollen</string>
+<string name="results">Ergebnisse</string>
+<string name="hint_amount_pro">Die Höhe Ihres Darlehens. Normalerweise gleich Preises der Ware, die Sie kaufen möchten. Dieses Feld ist erforderlich.</string>
+<string name="hint_commission">Kommission (oder Leihgebühr) in% des Kreditbetrages. Wenn nicht bekannt ist, leer lassen.</string>
+<string name="hint_other_fees">Alle anderen Gebühren, die nicht abhängig von Kreditbetrag sind. Wenn nicht bekannt ist, leer lassen.</string>
+<string name="hint_total_repay">Gesamtbetrag geben, die dann an den Kreditgeber zurückgezahlt werden.</string>
+<string name="hint_total_cost">Gesamtkosten des Kredits, einschließlich Zinsen und Zinseszinsen und aller Gebühren.</string>
+<string name="hint_cost_percent">Gesamtkosten (wie oben), ausgedrückt in Prozent der Kreditsumme.</string>
+<string name="hint_apr">Effektive (real) Jahreszinssatz des Darlehens einschließlich Gesamtkosten.</string>
+<string name="hint_payment">Die Menge an jedem Ihrer (monatlich) Tranche. Sie brauchen nicht, in diesem Bereich zu füllen, wenn Sie links "Prozentsatz" leer. Bleibt das Feld leer, wird es nach dem Drücken der Taste berechnet werden.</string>
+    <string name="hello_world">¡Hola Mundo!</string>
+    <string-array name="kapitalizacja">
+<item>Täglich</item>
+<item>Wöchentlich</item>
+<item>Monatlich</item>
+<item>Vierteljährlich</item>
+<item>Alle 6 Monate</item>
+<item>Jährlich</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Monate</item>
+<item>Jahre</item>
+    </string-array>     	    
+
+<!-- 
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Hier</string>
+<string name="profit_percent">In% der gesamten Anzahlung</string>
+<string name="that_is">Das heißt</string>
+<string name="of_deposit">Der gesamten Anzahlung</string>
+<string name="cancel">Stornieren</string>
+<string name="ok">Ok</string>
+<string name="config">Config</string>
+<string name="help">Hilfe</string>
+<string name="info">Informationen</string>
+<string name="month">Monat</string>
+<string name="hello_world">Hallo Welt!</string>
+<string name="menu_settings">Einstellungen</string>
+-->
+</resources>

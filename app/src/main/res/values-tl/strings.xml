@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Pagtitipid sa mga pautang at</string>
+
+<string name="app_name2">Pamumuhunan pautang at</string>
+
+<string name="menu_title">Ano ang gusto mong upang kalkulahin?</string>
+<string name="SavingCalc">Hinaharap na halaga ng mga matitipid</string>
+<string name="PeriodCalc">Panahon ng pag-save</string>
+<string name="DepositCalc">Halaga ng regular na deposito</string>
+<string name="IntrestCalc">Antas ng interes na pagtitipid</string>
+<string name="LoanCalc">Mga Gastos ng pautang at installment</string>
+<string name="LoanCalcPro">Taunang Porsiyento Rate ng utang</string>
+
+<string name="action_settings">Mga Setting</string>
+
+<string name="rate_app">I-rate ang application na ito!</string>
+<string name="feedback">Bigyan ang iyong opinyon</string>
+<string name="feedback_prompt">Kamusta, gusto mong ipadala sa amin ang iyong opinyon, sa gayon ay maaari naming mapabuti ang application na ito para sa iyo?</string>
+<string name="opinion">Palagay</string>
+
+<string name="loan_amount">Paunang halaga</string>
+<string name="loan_amt">Halaga ng Pautang</string>
+<string name="percentage">Porsyento ng rate</string>
+<string name="period">Panahon ng pag-save</string>
+<string name="saving">Buwanang deposito</string>
+<string name="capitalization">Compounded Interes</string>
+<string name="deposit_period">Dalas ng deposito</string>
+<string name="target_amount">Target na Halaga</string>
+<string name="total_deposit">Kabuuang Deposito</string>
+
+<string name="need_percentage">Kailangan mong magtipid sa porsyento rate (bawat taon)</string>
+<string name="need_gain">Kailangan mong kumita ng</string>
+<string name="period_deposit">Sa bawat panahon na kailangan mong magtipid</string>
+<string name="total">Economized Halaga</string>
+<string name="profit">Profit / bilang% ng kabuuang deposito</string>
+<string name="fill_in">Mangyaring punan ang lahat ng field ng input</string>
+<string name="required_period">Mga kinakailangang panahon ng pag-save</string>
+<string name="percent">Porsyento ng rate (bawat taon)</string>
+<string name="payments">Bilang ng mga installment</string>
+<string name="payment_amount">Grupo ng paninda Halaga</string>
+<string name="each_month">(Na babayaran sa bawat buwan)</string>
+<string name="total_cost">Kabuuang Gastos /</string>
+<string name="cost_percent">Bilang% ng halaga ng pautang</string>
+<string name="commission">Komisyon / patong na singil</string>
+<string name="other_fees">Iba pang Mga Bayarin</string>
+<string name="annual_percent_rate">Porsyento ng Rate ng Taunang</string>
+<string name="total_repay">Kabuuang magbayad</string>
+<string name="leave_one_of_two">Iwanang walang laman ang isa sa: Porsyento, Halaga ng grupo ng paninda. Tingnan ang mga tagubilin sa ibaba.</string>
+
+<string name="deposit_calc">Kalkulahin ang halaga ng deposito</string>
+<string name="savings_calc">Kalkulahin ang halaga ng mga matitipid</string>
+<string name="period_calc">Kalkulahin ang pagse-save ng panahon</string>
+<string name="intrest_calc">Kalkulahin ang antas ng interes</string>
+<string name="loan_calc">Kalkulahin ang installment pautang</string>
+
+<string name="submit">Kalkulahin</string>
+<string name="clear">I-clear ang Lahat</string>
+<string name="del">Alisin</string>
+<string name="show">Palabas</string>
+<string name="go">Pumunta</string>
+<string name="exit">Labasan</string>
+<string name="cancel">Kanselahin</string>
+<string name="ok">Ayos</string>
+<string name="settings">Mga Setting</string>
+<string name="go_to_menu">Tanggapin at Isara</string>
+<string name="choose_currency">Pumili ng salapi</string>
+
+<string name="instructions">Tagubilin</string>
+<string name="see_details">Mag-scroll pababa upang tingnan ang mga tagubilin</string>
+<string name="results">Mga Resulta</string>
+<string name="hint_amount">Ang halaga ng iyong utang.</string>
+<string name="hint_principal">Magkano ang mayroon kang ngayon?</string>
+<string name="hint_target">Magkano ang gusto mong magtipid?</string>
+<string name="hint_period">Gaano katagal ang plano mong magtipid?</string>
+<string name="hint_percent">Sa anong rate ng porsyento makikita mo magtipid?</string>
+<string name="hint_interest">Magkano ang interest rate (bawat taon) ng iyong mga pautang?</string>
+<string name="hint_deposit">Magkano maaari mong magdeposito sa iyong pag-save ng account sa bawat buwan?</string>
+<string name="hint_dep_period">Gaano kadalas mo na magdeposito ng pera sa iyong pag-save ng account?</string>
+<string name="hint_install">Karaniwan katumbas ng bilang ng mga buwanang mga pagbabayad</string>
+<string name="hint_compounded">Panahon ng kung saan ang interes ng iyong mga matitipid ay idinagdag sa punong-guro na halaga. Depende ito sa iyong bank / kundisyon / regulasyon. Maaaring tumagal halaga: taun-taon, buwanan o pang araw-araw.</string>
+<string name="hint_amount_pro">Ang halaga ng iyong utang. Karaniwan katumbas ng presyo ng produkto na nais mong bumili. Ang patlang na ito ay kinakailangan.</string>
+<string name="hint_commission">Commission (o pautang na bayad) bilang% ng halaga ng utang. Kung hindi kilala, iwanang blangko.</string>
+<string name="hint_other_fees">Ang lahat ng iba pang mga bayarin na hindi nakadepende sa halaga ng pautang. Kung hindi kilala, iwanang blangko.</string>
+<string name="hint_total_repay">Kabuuang halaga na kailangan na babayaran sa tagapagpahiram.</string>
+<string name="hint_total_cost">Kabuuang halaga ng pautang, Kabilang ang interes compound at ang lahat ng mga bayarin.</string>
+<string name="hint_cost_percent">Kabuuang gastos (tulad ng nasa itaas) na ipinahiwatig bilang porsiyento ng halaga ng utang.</string>
+<string name="hint_apr">Epektibong (tunay) taunang antas ng interes na ang utang. Ito ay katumbas ng kabuuang halaga na ipinahiwatig bilang porsyento ng halaga ng utang.</string>
+<string name="hint_payment">Ang halaga ng bawat grupo ng paninda (buwanan). Hindi mo na kailangan upang punan ang mga patlang na ito, maliban kung left "Porsyento rate" blangko. Kung iwanang blangko, ito ay kalkulado matapos ang pagpindot sa pindutan.</string>
+
+<string name="information_1">Pinapayagan ka ng calculator na ito na malaman ang halaga ng iyong mga matitipid sa hinaharap, pati na rin ang tubo, na kung saan ay gumawa ka mula sa tambalang antas ng interes. Ipinapalagay nito na alam mo ang mga sumusunod na halaga:</string>
+<string name="information_2">Calculator na ito ay magbibigay-daan sa iyo na matukoy ang tagal ng panahon, na kinakailangan upang magtipid sa iyong target na halaga. Ipinapalagay itong magbigay sa iyo ang sumusunod:</string>
+<string name="information_3">Dito ay maaari mong kalkulahin ang buwanang deposito, kung saan ay ang halaga na kailangan mong magtipid bawat buwan upang maabot ang iyong layunin na matitipid. Kakailanganin nito ang sumusunod na data:</string>
+<string name="information_4">Pinapayagan ka nitong malaman ang antas ng interes, kung saan ay kailangan mong magtipid, upang maabot ang iyong target na halaga. Kakailanganin mong magbigay ng:</string>
+<string name="information_5">Salamat sa simpleng calculator magagawa mong upang matukoy ang halaga ng bawat grupo ng paninda ng iyong utang, at kalkulahin nito kabuuang gastos sa iyong pera at bilang isang porsyento ng halaga ng utang. Lahat ng kailangan mong malaman ay:</string>
+<string name="information_6">Kung plano mong kumuha ng pautang para sa iyong pagbili, maaari kang kalkulahin ang lahat ng mga gastos na kasangkot pati na rin ang epektibong (real) Porsyento Rate ng Taunang. Gumagana ito sa dalawang mga mode, sa unang kailangan mong ipasok ang nominal (taunang) porsyento rate na ibinigay ng tagapagpahiram at ang application ay kalkulahin ang halaga ng buwanang installment pati na rin ang kabuuang gastos. Sa pangalawang mode, kailangan mong ipasok ang halaga ng buwanang hulugan (minsan na ipinakita sa pamamagitan ng isang mangangalakal), at kakalkulahin ang application porsyento at mga gastos para sa iyo.</string>
+
+<string name="years">Taon</string>
+<string name="months">Na buwan</string>
+<string name="days">Araw</string>
+<string-array name="kapitalizacja">
+<item>Araw-araw</item>
+<item>Linggu-linggo</item>
+<item>Buwan-buwan</item>
+<item>Tuwing 3 buwan</item>
+<item>Tuwing 6 na buwan</item>
+<item>Taun-taon</item>
+</string-array>
+<string-array name="okres">
+<item>Buwan</item>
+<item>Taon</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Dito</string>
+<string name="profit_percent">Bilang% ng kabuuang deposito</string>
+<string name="that_is">Na</string>
+<string name="of_deposit">Ng kabuuang deposito</string>
+<string name="config">Configuration</string>
+<string name="help">Tulong</string>
+<string name="info">Impormasyon</string>
+<string name="month">Buwan</string>
+<string name="hello_world">Kamusta mundo!</string>
+<string name="menu_settings">Mga Setting</string>
+
+</resources>

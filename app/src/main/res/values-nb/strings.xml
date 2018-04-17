@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Enkel økonomi av huset</string>
+<string name="app_name2">Lån og investeringer</string>
+<string name="menu_title">Hva ønsker du å regne?</string>
+<string name="SavingCalc">Fremtidige verdien av sparing</string>
+<string name="PeriodCalc">Periode med sparing</string>
+<string name="DepositCalc">Mengde vanlige innskudd</string>
+<string name="IntrestCalc">Rente</string>
+<string name="LoanCalc">Mengde avdrag på et lån</string>
+<string name="action_settings">Innstillinger</string>
+<string name="info">Informasjon</string>
+<string name="loan_amount">Opprinnelige beløpet</string>
+<string name="loan_amt">Mengden av lån</string>
+<string name="percentage">Valuta prosentandel (per år)</string>
+<string name="period">Periode med sparing</string>
+<string name="saving">Månedlig innskudd</string>
+<string name="capitalization">Interessen er beregnet</string>
+<string name="deposit_period">Frekvens av innskudd</string>
+<string name="target_amount">Målet mengde</string>
+<string name="total_deposit">Totalt innskudd</string>
+<string name="need_percentage">Du må spare på prosentsats (per år)</string>
+<string name="need_gain">Du må tjene</string>
+<string name="period_deposit">Hver periode du må sette inn</string>
+<string name="total">Beløpet lagres</string>
+<string name="profit">Gevinst / i% av totale innskuddet</string>
+<string name="fill_in">Vennligst fyll ut alle inntastingsfelt</string>
+<string name="required_period">Nødvendig periode med sparing</string>
+<string name="percent">Valuta prosentandel (per år)</string>
+<string name="payments">Antall terminer</string>
+<string name="payment_amount">Mengde avdrag</string>
+<string name="each_month">(betales hver måned)</string>
+<string name="total_cost">Total kostnad</string>
+<string name="total_cost_">Total kostnad /</string>
+<string name="cost_percent">I % av lånebeløpet</string>
+<string name="deposit_calc">Beregne mengden av innskudd</string>
+<string name="savings_calc">Beregn verdien av sparing</string>
+<string name="period_calc">Beregn periode med sparing</string>
+<string name="intrest_calc">Beregn rente</string>
+<string name="loan_calc">Beregn verdien av avdrag</string>
+<string name="submit">Beregn</string>
+<string name="clear">Fjern alle</string>
+<string name="del">Slett</string>
+<string name="show">Vis</string>
+<string name="go">Gå</string>
+<string name="exit">Exit</string>
+<string name="settings">Innstillinger</string>
+<string name="go_to_menu">Godta og lukk</string>
+<string name="instructions">Instruksjoner</string>
+<string name="hint_amount">Mengden av lånet ditt.</string>
+<string name="hint_principal">Hvor mye har du nå?</string>
+<string name="hint_target">Hvor mye ønsker du å spare?</string>
+<string name="hint_period">Hvor lenge har du tenkt å spare?</string>
+<string name="hint_percent">På hvilken sats på andelen vil du spare?</string>
+<string name="hint_interest">Hva er den rente (per år) av lånet ditt?</string>
+<string name="hint_deposit">Hvor mye kan du sette inn på sparekontoen hver måned?</string>
+<string name="hint_dep_period">Hvor ofte vil du sette inn penger til din lagring konto?</string>
+<string name="hint_install">Ofte det samme som antall månedlige utbetalinger</string>
+<string name="hint_compounded">Periode hvor interessen av sparepengene legges til hovedstolen. Det avhenger av din bank og / eller forskrifter i din pensjon / spareprogram. Det kan ta verdier fra "daglig" til "årlig".</string>
+<string name="information_1">Denne kalkulatoren lar deg finne ut tidig mengde av sparepengene samt fortjeneste at du vil gjøre formen forverret rente. Det forutsetter at du vet følgende:</string>
+<string name="information_2">Denne kalkulatoren vil la deg bestemme tid som er nødvendig for å redde den målrettede beløp. Det forutsetter at du vil gi følgende:</string>
+<string name="information_3">Her kan du beregne månedlige innskudd, som er hvor mye penger du må spare hver måned for å nå målet om sparing. Det trenger følgende data:</string>
+<string name="information_4">Den lar deg finne ut renten på som du trenger å være redde, for å nå målrettede beløp. Du må oppgi:</string>
+<string name="information_5">Takket være dette enkle kalkulatoren vil du være i stand til å bestemme mengden av hvert avdrag på lånet ditt, og beregne totale kostnaden for lånet i pengeverdi og som andel av hvor mye lån. Alt du trenger å vite er:</string>
+<string name="information_6"></string>
+<string name="years">År</string>
+<string name="months">Måneder</string>
+<string name="days">Dager</string>
+<string name="LoanCalcPro">Årlig prosentsats av lån</string>
+<string name="help_translate">Hjelp sette dette programmet</string>
+<string name="rate_app">Vurdere dette programmet!</string>
+<string name="feedback">Gi tilbakemelding</string>
+<string name="feedback_prompt">Hei, ønsker du å gi oss en tilbakemelding, slik at vi kan forbedre opplevelsen?</string>
+<string name="opinion">Opinion</string>
+<string name="commission">Kommisjon</string>
+<string name="other_fees">Andre avgifter</string>
+<string name="annual_percent_rate">Årlig prosentsats</string>
+<string name="total_repay">Total å betale tilbake</string>
+<string name="leave_one_of_two">La stå tom en av: Prosentandel, avdrag beløp. Se instruksjonene nedenfor.</string>
+<string name="cancel">Avbryt</string>
+<string name="okay">Ok</string>
+<string name="choose_currency">Velg valuta</string>
+<string name="see_details">For instruksjoner bla nedover</string>
+<string name="results">Resultater</string>
+<string name="hint_amount_pro">Mengden av lånet ditt. Vanligvis lik prisen på produktet du ønsker å kjøpe. Dette feltet er obligatorisk.</string>
+<string name="hint_commission">Commission (eller lån avgift) i% av lånebeløpet. Hvis ikke kjent, la stå tom.</string>
+<string name="hint_other_fees">Alle andre gebyrer som ikke er avhengig av lånebeløpet. Hvis ikke kjent, la stå tom.</string>
+<string name="hint_total_repay">Totalt beløp som må betales tilbake til utlåner.</string>
+<string name="hint_total_cost">Totale kostnaden for lånet, inkludert renters rente og alle avgifter.</string>
+<string name="hint_cost_percent">Totale kostnader (som over), uttrykt som prosent av lånebeløpet.</string>
+<string name="hint_apr">Effektive (real) årlig rente på lånet inkludert totalkostnad.</string>
+<string name="hint_payment">Mengden av hver av dine (månedlig) avdrag. Du trenger ikke å fylle ut dette feltet, med mindre du igjen "Andel rate" blank. Dersom tomt, vil det bli beregnet etter å ha trykket på knappen.</string>
+
+    <string-array name="kapitalizacja">
+<item>Daglig</item>
+<item>Ukentlig</item>
+<item>Månedlig</item>
+<item>Kvartal</item>
+<item>Hver 6. måned</item>
+<item>Årlig</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Måneder</item>
+<item>År</item>
+    </string-array>     	    
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Her</string>
+<string name="profit_percent">I% av totale innskudd</string>
+<string name="that_is">Det vil si</string>
+<string name="of_deposit">Av totale innskudd</string>
+
+<string name="ok">OK</string>
+<string name="config">Config</string>
+<string name="help">Hjelp</string>
+<string name="month">Måned</string>
+<string name="hello_world">Hei, verden!</string>
+<string name="menu_settings">Innstillinger</string>
+
+</resources>

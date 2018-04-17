@@ -1,0 +1,197 @@
+{
+  "project_info": {
+    "project_number": "406476402657",
+    "firebase_url": "https://admob-app-id-9454484174.firebaseio.com",
+    "project_id": "admob-app-id-9454484174",
+    "storage_bucket": "admob-app-id-9454484174.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406476402657:android:3b694d0ecfefbbc0",
+        "android_client_info": {
+          "package_name": "com.zmobile.calendarfree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406476402657-m76ea64s0354gbkfpgbmf47gcgc6ai1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9bxjira8x83CznWCVloXEnG-yR1Etuto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406476402657:android:24094b7d66331585",
+        "android_client_info": {
+          "package_name": "com.zmobile.alcotest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406476402657-m76ea64s0354gbkfpgbmf47gcgc6ai1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9bxjira8x83CznWCVloXEnG-yR1Etuto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406476402657:android:677ed43927a446c8",
+        "android_client_info": {
+          "package_name": "com.zmobile.percentcalc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406476402657-m76ea64s0354gbkfpgbmf47gcgc6ai1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9bxjira8x83CznWCVloXEnG-yR1Etuto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406476402657:android:646d48e1a3c25e4b",
+        "android_client_info": {
+          "package_name": "com.zmobile.saveplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406476402657-m76ea64s0354gbkfpgbmf47gcgc6ai1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9bxjira8x83CznWCVloXEnG-yR1Etuto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406476402657:android:818261d608831620",
+        "android_client_info": {
+          "package_name": "com.zmobile.payplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406476402657-m76ea64s0354gbkfpgbmf47gcgc6ai1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9bxjira8x83CznWCVloXEnG-yR1Etuto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406476402657:android:5b1e5a4a4e2cb6d3",
+        "android_client_info": {
+          "package_name": "com.zmobile.calendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "406476402657-m76ea64s0354gbkfpgbmf47gcgc6ai1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9bxjira8x83CznWCVloXEnG-yR1Etuto"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

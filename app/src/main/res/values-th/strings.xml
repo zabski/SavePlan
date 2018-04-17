@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">ง่ายการเงินของบ้าน</string>
+<string name="app_name2">เงินให้สินเชื่อและเงินลงทุน</string>
+<string name="menu_title">สิ่งที่คุณต้องการในการคำนวณ?</string>
+<string name="SavingCalc">มูลค่าในอนาคตของเงินฝากออมทรัพย์</string>
+<string name="PeriodCalc">ระยะเวลาของการประหยัด</string>
+<string name="DepositCalc">จำนวนเงินฝากปกติ</string>
+<string name="IntrestCalc">อัตราดอกเบี้ย</string>
+<string name="LoanCalc">จำนวนเงินที่ผ่อนชำระเงินกู้</string>
+<string name="action_settings">การตั้งค่า</string>
+<string name="info">ข้อมูล</string>
+<string name="loan_amount">จำนวนเงินเริ่มต้น</string>
+<string name="loan_amt">ปริมาณของสินเชื่อ</string>
+<string name="percentage">อัตราร้อยละ (ต่อปี)</string>
+<string name="period">ระยะเวลาของการประหยัด</string>
+<string name="saving">เงินฝากรายเดือน</string>
+<string name="capitalization">ดอกเบี้ยประกอบ</string>
+<string name="deposit_period">ความถี่ของเงินฝาก</string>
+<string name="target_amount">จำนวนเป้าหมาย</string>
+<string name="total_deposit">เงินฝากทั้งหมด</string>
+<string name="need_percentage">คุณจะต้องบันทึกในอัตราร้อยละ (ต่อปี)</string>
+<string name="need_gain">คุณจะต้องได้รับ</string>
+<string name="period_deposit">แต่ละช่วงเวลาที่คุณจะต้องฝากเงิน</string>
+<string name="total">จำนวนเงินที่บันทึกไว้</string>
+<string name="profit">กำไร /% ของเงินฝากทั้งหมด</string>
+<string name="fill_in">กรุณากรอกข้อมูลลงในช่องป้อนข้อมูลทั้งหมด</string>
+<string name="required_period">ระยะเวลาที่จำเป็นในการประหยัด</string>
+<string name="percent">อัตราร้อยละ (ต่อปี)</string>
+<string name="payments">จำนวนงวด</string>
+<string name="payment_amount">จำนวนเงินที่ผ่อนชำระ</string>
+<string name="each_month">(ที่จะต้องจ่ายในแต่ละเดือน)</string>
+<string name="total_cost">ค่าใช้จ่ายทั้งหมด</string>
+<string name="total_cost_">ค่าใช้จ่ายทั้งหมด/</string>
+<string name="cost_percent">% ของจำนวนเงินกู้</string>
+<string name="deposit_calc">คำนวณจำนวนเงินฝาก</string>
+<string name="savings_calc">คำนวณค่าของเงินฝากออมทรัพย์</string>
+<string name="period_calc">คำนวณระยะเวลาของการประหยัด</string>
+<string name="intrest_calc">อัตราดอกเบี้ยคำนวณ</string>
+<string name="loan_calc">คำนวณค่างวด</string>
+<string name="submit">คำนวณ</string>
+<string name="clear">ล้างทั้งหมด</string>
+<string name="del">ลบ</string>
+<string name="show">แสดง</string>
+<string name="go">ไป</string>
+<string name="exit">ทางออก</string>
+<string name="settings">การตั้งค่า</string>
+<string name="go_to_menu">ยอมรับและปิด</string>
+<string name="instructions">คำแนะนำ</string>
+<string name="hint_amount">จำนวนเงินกู้ของคุณ</string>
+<string name="hint_principal">เท่าไหร่คุณมีตอนนี้หรือไม่</string>
+<string name="hint_target">เท่าไหร่คุณต้องการที่จะบันทึก?</string>
+<string name="hint_period">นานแค่ไหนคุณวางแผนที่จะบันทึก?</string>
+<string name="hint_percent">สิ่งที่อัตราร้อยละที่คุณจะบันทึก?</string>
+<string name="hint_interest">อัตราดอกเบี้ย (ต่อปี) เงินกู้ยืมของคุณคืออะไร</string>
+<string name="hint_deposit">เท่าไหร่ที่คุณสามารถฝากเงินในบัญชีออมทรัพย์ของคุณในแต่ละเดือน?</string>
+<string name="hint_dep_period">บ่อยแค่ไหนที่คุณจะฝากเงินในบัญชีออมทรัพย์ของคุณ?</string>
+<string name="hint_install">มักจะเท่ากับจำนวนของการชำระเงินรายเดือน</string>
+<string name="hint_compounded">ระยะเวลาที่ผลประโยชน์ของเงินออมของคุณจะถูกเพิ่มจำนวนเงินต้น มันขึ้นอยู่กับธนาคารและ / หรือกฎระเบียบของเงินบำนาญ / แผนประหยัดของคุณ มันอาจจะใช้ค่าจาก \'ทุกวัน\' เป็น \'ปี\'</string>
+<string name="information_1">เครื่องคิดเลขนี้ช่วยให้คุณสามารถหาปริมาณในอนาคตของเงินออมของคุณเช่นเดียวกับกำไรที่คุณจะทำให้รูปแบบอัตราการผสมที่น่าสนใจ จะถือว่าคุณรู้ว่าต่อไปนี้:</string>
+<string name="information_2">เครื่องคิดเลขนี้จะช่วยให้คุณสามารถกำหนดระยะเวลาที่ต้องใช้ในการบันทึกจำนวนเป้าหมายของคุณ โดยจะถือว่าคุณจะให้ต่อไปนี้:</string>
+<string name="information_3">ที่นี่คุณสามารถคำนวณเงินฝากรายเดือนที่เป็นจำนวนเงินที่คุณจะต้องบันทึกในแต่ละเดือนเพื่อที่จะบรรลุเป้าหมายของคุณของการประหยัด มันจะต้องมีข้อมูลต่อไปนี้</string>
+<string name="information_4">จะช่วยให้คุณเพื่อหาอัตราที่น่าสนใจที่คุณจะต้องได้รับการบันทึกในการที่จะไปถึงจำนวนเป้าหมายของคุณ คุณจะต้องให้:</string>
+<string name="information_5">ขอบคุณเครื่องคิดเลขง่ายนี้คุณจะสามารถที่จะกำหนดจำนวนงวดของเงินกู้ของคุณแต่ละและคำนวณค่าใช้จ่ายทั้งหมดของเงินกู้ในค่าเงินและเป็นร้อยละของจำนวนเงินกู้ ทั้งหมดที่คุณจำเป็นต้องรู้คือ</string>
+<string name="information_6"></string>
+<string name="years">ปี</string>
+<string name="months">เดือนที่</string>
+<string name="days">วัน</string>
+<string name="LoanCalcPro">อัตราร้อยละต่อปีของเงินกู้ยืม</string>
+<string name="help_translate">ช่วยแปลโปรแกรมนี้</string>
+<string name="rate_app">คะแนนโปรแกรมนี้!</string>
+<string name="feedback">แสดงความคิดเห็น</string>
+<string name="feedback_prompt">สวัสดี, คุณต้องการที่จะให้เราข้อเสนอแนะเพื่อให้เราสามารถปรับปรุงประสบการณ์ของคุณได้ไหม?</string>
+<string name="opinion">ความคิดเห็น</string>
+<string name="commission">คณะกรรมาธิการ</string>
+<string name="other_fees">ค่าธรรมเนียมอื่น ๆ</string>
+<string name="annual_percent_rate">อัตราร้อยละต่อปี</string>
+<string name="total_repay">รวมการชำระคืน</string>
+<string name="leave_one_of_two">ออกจากหนึ่งว่างเปล่าของ: ร้อยละจํานวนเงินงวด ดูคำแนะนำด้านล่าง</string>
+
+<string name="okay">ถูก</string>
+<string name="choose_currency">เลือกสกุลเงิน</string>
+<string name="see_details">สำหรับคำแนะนำเลื่อนลง</string>
+<string name="results">ผล</string>
+<string name="hint_amount_pro">จำนวนเงินกู้ของคุณ มักจะเท่ากับราคาของผลิตภัณฑ์ที่คุณต้องการที่จะซื้อ ฟิลด์นี้จะต้อง</string>
+<string name="hint_commission">สำนักงานคณะกรรมการกำกับ (หรือค่าธรรมเนียมยืม)% ของจำนวนเงินกู้ ถ้าไม่รู้จักปล่อยว่าง</string>
+<string name="hint_other_fees">ค่าใช้จ่ายอื่น ๆ ที่ไม่ได้ขึ้นอยู่กับจำนวนเงินกู้ ถ้าไม่รู้จักปล่อยว่าง</string>
+<string name="hint_total_repay">รวมเป็นจำนวนเงินที่จะต้องชำระคืนแก่ผู้ให้กู้</string>
+<string name="hint_total_cost">ค่าใช้จ่ายทั้งหมดของเงินให้กู้ยืมรวมทั้งดอกเบี้ยและค่าธรรมเนียมทั้งหมด</string>
+<string name="hint_cost_percent">ค่าใช้จ่ายรวม (เหนือ) แสดงเป็นร้อยละของจำนวนเงินกู้</string>
+<string name="hint_apr">ที่มีประสิทธิภาพ (จริง) อัตราดอกเบี้ยรายปีของเงินกู้รวมถึงค่าใช้จ่ายทั้งหมด</string>
+<string name="hint_payment">จำนวนเงินของแต่ละท่าน (รายเดือน) งวด คุณไม่จำเป็นต้องกรอกข้อมูลลงในฟิลด์นี้ถ้าคุณซ้าย "อัตราร้อยละ" ว่างเปล่า หากปล่อยทิ้งไว้ว่างเปล่าก็จะมีการคำนวณหลังจากที่กดปุ่ม</string>
+
+    <string-array name="kapitalizacja">
+<item>ในชีวิตประจำวัน</item>
+<item>รายสัปดาห์</item>
+<item>รายเดือน</item>
+<item>รายไตรมาส</item>
+<item>ทุก 6 เดือน</item>
+<item>เป็นประจำทุกปี</item>
+    </string-array>    
+    <string-array name="okres">
+<item>เดือนที่</item>
+<item>ปีที่ผ่านมา</item>
+    </string-array>     	    
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">ที่นี่</string>
+<string name="profit_percent">เป็น% ของเงินฝากทั้งหมด</string>
+<string name="that_is">ที่เป็น</string>
+<string name="of_deposit">ของเงินฝากทั้งหมด</string>
+<string name="cancel">ยกเลิก</string>
+<string name="ok">ตกลง</string>
+<string name="config">การกำหนดค่า</string>
+<string name="help">ช่วยให้</string>
+<string name="month">เดือน</string>
+<string name="hello_world">สวัสดีชาวโลก</string>
+<string name="menu_settings">การตั้งค่า</string>
+
+</resources>

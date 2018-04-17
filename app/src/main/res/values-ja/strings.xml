@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">家の財政</string>
+<string name="app_name2">投融資</string>
+<string name="menu_title">何を計算するのですか？</string>
+<string name="SavingCalc">貯蓄の将来価値</string>
+<string name="PeriodCalc">貯蓄の期間</string>
+<string name="DepositCalc">定期的に預金の額</string>
+<string name="IntrestCalc">金利</string>
+<string name="LoanCalc">ローンの分割払い額</string>
+<string name="action_settings">設定</string>
+<string name="info">情報</string>
+<string name="loan_amount">初期量</string>
+<string name="loan_amt">融資額</string>
+<string name="percentage">パーセンテージの割合（年間）</string>
+<string name="period">貯蓄の期間</string>
+<string name="saving">毎月預金</string>
+<string name="capitalization">関心が配合されている</string>
+<string name="deposit_period">預金の頻度</string>
+<string name="target_amount">目標量</string>
+<string name="total_deposit">総預金</string>
+<string name="need_percentage">あなたがパーセンテージレートで保存する必要があります（年間）</string>
+<string name="need_gain">あなたが獲得する必要があります。</string>
+<string name="period_deposit">各期間は、あなたが堆積する必要があるでしょう</string>
+<string name="total">金額が保存</string>
+<string name="profit">利益/総預金の％として</string>
+<string name="fill_in">すべての入力フィールドを記入してください</string>
+<string name="required_period">貯蓄の必要な期間</string>
+<string name="percent">パーセンテージの割合（年間）</string>
+<string name="payments">分割払いの数</string>
+<string name="payment_amount">割賦額</string>
+<string name="each_month">（毎月支払われる）</string>
+<string name="total_cost">総費用</string>
+<string name="total_cost_">総費用/</string>
+<string name="cost_percent">融資額の％として</string>
+<string name="deposit_calc">保証金の額を計算する</string>
+<string name="savings_calc">貯蓄の値を計算します</string>
+<string name="period_calc">貯蓄の期間を計算します</string>
+<string name="intrest_calc">利子率を計算する</string>
+<string name="loan_calc">分割払いの値を計算します</string>
+<string name="submit">計算</string>
+<string name="clear">すべてクリア</string>
+<string name="del">削除</string>
+<string name="show">ショー</string>
+<string name="go">行く</string>
+<string name="exit">出口</string>
+<string name="settings">設定</string>
+<string name="go_to_menu">同意して閉じる</string>
+    <string name="remove_ads">広告を削除</string>
+<string name="instructions">インストラクション</string>
+<string name="hint_amount">あなたのローンの量。</string>
+<string name="hint_principal">どのくらいあなたが今持っているのですか？</string>
+<string name="hint_target">どのくらいあなたが保存したいのですか？</string>
+<string name="hint_period">どのくらいの期間保存するように計画していますか？</string>
+<string name="hint_percent">パーセンテージのどの程度の割合で、あなたが救うのだろうか？</string>
+<string name="hint_interest">あなたのローンの（年間）金利は何ですか？</string>
+<string name="hint_deposit">どのくらいあなたは毎月の貯蓄口座に入金することができますか？</string>
+<string name="hint_dep_period">どのくらいの頻度であなたの預金口座にお金を入金します？</string>
+<string name="hint_install">毎月の支払額の数に通常等しい</string>
+<string name="hint_compounded">期間はこれであなたの貯蓄の利息は元本に加算されます。それはあなたの銀行および/またはあなたの年金/節電計画の規定によります。それは毎年の\'に\'毎日\'の値をとることができる。</string>
+<string name="information_1">この計算機は、あなたが興味のあるフォーム配合割合を行います将来のあなたの貯蓄の量だけでなく、利益を調べることができます。それはあなたが次のことを知っている前提としています。</string>
+<string name="information_2">この計算機は、あなたのターゲットと量を節約するために必要な時間を決定するようになる。それはあなたが以下を提供します前提としています。</string>
+<string name="information_3">ここでは、毎月の預金を計算することができ、それはあなたが節約のあなたの目標を達成するために、毎月​​保存する必要がありますお金の量である。これは、次のデータが必要になります。</string>
+<string name="information_4">それはあなたがあなたの目標と量に達するために、セーブする必要がありますれる利子率を調べることができます。あなたが提供する必要があります。</string>
+<string name="information_5">この簡単な電卓のおかげで、あなたのローンの各割賦の量を決定し、貨幣価値で、ローンの量の割合として、ローンの総コストを計算することができるようになります。あなたが知る必要があるのは、次のとおりです。</string>
+<string name="information_6"></string>
+<string name="years">年</string>
+<string name="months">ヶ月</string>
+<string name="days">日</string>
+<string name="LoanCalcPro">ローンの年率</string>
+<string name="help_translate">このアプリケーションを翻訳に役立つ</string>
+<string name="rate_app">このアプリケーションを評価する！</string>
+<string name="feedback">あなたのフィードバックを与える</string>
+<string name="feedback_prompt">こんにちは、あなたは私たちがあなたの経験を向上させることができるように、いくつかのフィードバックを与えることを希望ですか？</string>
+<string name="opinion">意見</string>
+<string name="commission">コミッション</string>
+<string name="other_fees">その他料金</string>
+<string name="annual_percent_rate">年率</string>
+<string name="total_repay">返済する合計</string>
+<string name="leave_one_of_two">パーセンテージ、割賦金額：空の1のままにしておきます。下記の手順を参照してください。</string>
+<string name="cancel">キャンセル</string>
+<string name="okay">オーケー</string>
+<string name="choose_currency">通貨を選択してください</string>
+<string name="see_details">命令が下にスクロールするために</string>
+<string name="results">その結果</string>
+<string name="hint_amount_pro">あなたのローンの量。あなたが購入したい製品の価格が通常等しい。このフィールドは必須です。</string>
+<string name="hint_commission">委員会（またはローン手数料）融資額の％として。知られていない場合は、空白のままにします。</string>
+<string name="hint_other_fees">融資額に依存しない、その他の手数料。知られていない場合は、空白のままにします。</string>
+<string name="hint_total_repay">必要になります合計金額が貸し手に返済する。</string>
+<string name="hint_total_cost">複利とすべての費用を含むローンの総コスト、。</string>
+<string name="hint_cost_percent">総コストは、（上記のように）融資額のパーセントとして表した。</string>
+<string name="hint_apr">総費用を含む融資の有効（実）年利率。</string>
+<string name="hint_payment">あなたの（毎月）割賦のそれぞれの量。あなたは「パーセンテージ率」を空白のまましない限り、あなたは、このフィールドに入力する必要はありません。空白のままにした場合、それはボタンを押した後に計算されます。</string>
+    <string name="ok">[OK]を</string>
+    <string-array name="kapitalizacja">
+<item>毎日の</item>
+<item>毎週</item>
+<item>毎月の</item>
+<item>季刊</item>
+<item>6ヶ月ごとに</item>
+<item>毎年の</item>
+    </string-array>    
+    <string-array name="okres">
+<item>月間</item>
+<item>年</item>
+    </string-array>     	    
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">ここに</string>
+<string name="profit_percent">総預金の％として</string>
+<string name="that_is">すなわち</string>
+<string name="of_deposit">総預金の</string>
+
+
+<string name="config">設定</string>
+<string name="help">助け</string>
+<string name="month">月</string>
+<string name="hello_world">こんにちは、世界！</string>
+<string name="menu_settings">設定</string>
+
+</resources>

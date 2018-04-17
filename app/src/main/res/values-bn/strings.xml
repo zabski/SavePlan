@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">ঋণ ও সঞ্চয়</string>
+<string name="app_name2">ঋণ ও বিনিয়োগ</string>
+
+<string name="menu_title">কি আপনি নিরূপণ করতে চান?</string>
+<string name="SavingCalc">সঞ্চয় ভবিষ্যত মূল্য</string>
+<string name="PeriodCalc">টি সময়কাল</string>
+<string name="DepositCalc">নিয়মিত আমানত পরিমাণ</string>
+<string name="IntrestCalc">সঞ্চয় সুদের হার</string>
+<string name="LoanCalc">ঋণ এবং কিস্তিতে খরচ</string>
+<string name="LoanCalcPro">ঋণ বার্ষিক শতকরা হার</string>
+
+<string name="action_settings">সেটিংস</string>
+
+<string name="rate_app">এই অ্যাপ্লিকেশন হার!</string>
+<string name="feedback">আপনার মতামত দিন</string>
+<string name="feedback_prompt">হ্যালো, আমরা আপনার জন্য এই অ্যাপ্লিকেশন উন্নত করতে পারে, যাতে আমাদের আপনার মতামত পাঠাতে চান?</string>
+<string name="opinion">ধারণা</string>
+
+<string name="loan_amount">প্রাথমিক পরিমাণ</string>
+<string name="loan_amt">ঋণের পরিমাণ</string>
+<string name="percentage">শতকরা হার</string>
+<string name="period">টি সময়কাল</string>
+<string name="saving">মাসিক আমানত</string>
+<string name="capitalization">সুদের মিশ্রিত</string>
+<string name="deposit_period">আমানত ফ্রিকোয়েন্সি</string>
+<string name="target_amount">টার্গেট পরিমাণ</string>
+<string name="total_deposit">মোট আমানত</string>
+
+<string name="need_percentage">আপনি শতাংশ হারে খরচ বাঁচান প্রয়োজন (প্রতি বছর)</string>
+<string name="need_gain">আপনি উপার্জন করতে হবে</string>
+<string name="period_deposit">প্রতিটি সময়ের মধ্যে আপনি খরচ বাঁচান প্রয়োজন</string>
+<string name="total">Economized পরিমাণ</string>
+<string name="profit">লাভ / মোট আমানতের% হিসাবে</string>
+<string name="fill_in">সব ইনপুট ক্ষেত্র পূরণ করুন</string>
+<string name="required_period">টি প্রয়োজনীয় সময়ের</string>
+<string name="percent">শতকরা হার (প্রতি বছর)</string>
+<string name="payments">কিস্তিতে সংখ্যা</string>
+<string name="payment_amount">কিস্তি পরিমাণ</string>
+<string name="each_month">(প্রতি মাসে প্রদান করা)</string>
+<string name="total_cost">মোট খরচ /</string>
+<string name="cost_percent">ঋণের পরিমাণ% হিসাবে</string>
+<string name="commission">কমিশন / অধিভার</string>
+<string name="other_fees">অন্যান্য ফি</string>
+<string name="annual_percent_rate">বার্ষিক শতকরা হার</string>
+<string name="total_repay">শোধ করা মোট</string>
+<string name="leave_one_of_two">শতকরা, কিস্তি পরিমাণ: খালি এক ছেড়ে দিন. নীচের নির্দেশাবলী দেখুন.</string>
+
+<string name="deposit_calc">আমানত পরিমাণ গণনা</string>
+<string name="savings_calc">সঞ্চয় পরিমাণ গণনা</string>
+<string name="period_calc">সময়ের সঞ্চয় গণনা</string>
+<string name="intrest_calc">সুদের হার গণনা</string>
+<string name="loan_calc">ঋণ কিস্তিতে গণনা</string>
+
+<string name="submit">গণনা করা</string>
+<string name="clear">সমস্ত সাফ</string>
+<string name="del">মুছে দিন</string>
+<string name="show">প্রদর্শন</string>
+<string name="go">যাওয়া</string>
+<string name="exit">প্রস্থান</string>
+<string name="cancel">বাতিল</string>
+<string name="ok">ঠিক আছে</string>
+<string name="settings">সেটিংস</string>
+<string name="go_to_menu">এবং স্বীকার বন্ধ করুন</string>
+<string name="choose_currency">মুদ্রা পছন্দ করুন</string>
+
+<string name="instructions">নির্দেশনা</string>
+<string name="see_details">নির্দেশাবলী দেখুন স্ক্রোল ডাউন</string>
+<string name="results">ফলাফল</string>
+<string name="hint_amount">আপনার ঋণের পরিমাণ.</string>
+<string name="hint_principal">কত আপনি এখন আছে?</string>
+<string name="hint_target">আপনি কত খরচ বাঁচান করতে চান?</string>
+<string name="hint_period">কতক্ষণ আপনি খরচ বাঁচান পরিকল্পনা করবেন?</string>
+<string name="hint_percent">শতাংশ কি হার আপনি খরচ বাঁচান হবে?</string>
+<string name="hint_interest">আপনার ঋণ (প্রতি বছর) সুদের হার কত?</string>
+<string name="hint_deposit">কত আপনি প্রতি মাসে আপনার সঞ্চয় অ্যাকাউন্টে জমা করতে পারেন?</string>
+<string name="hint_dep_period">আপনি কত ঘন ঘন আপনার সঞ্চয় অ্যাকাউন্টে টাকা জমা হবে?</string>
+<string name="hint_install">মাসিক পেমেন্ট সংখ্যা সাধারণত সমান</string>
+<string name="hint_compounded">সময়কাল যা আপনার সঞ্চয় সুদ প্রধান পরিমাণ যোগ করা হয়. এটি আপনার ব্যাংক / শর্ত / প্রবিধান উপর নির্ভর করে. মান গ্রহণ করা হতে পারে: বার্ষিক, মাসিক বা দৈনন্দিন.</string>
+<string name="hint_amount_pro">আপনার ঋণের পরিমাণ. আপনি ক্রয় করতে চান পণ্য মূল্য সাধারণত সমান. এই ক্ষেত্রটি প্রয়োজন বোধ করা হয়.</string>
+<string name="hint_commission">কমিশন (বা ঋণ ফি) ঋণের পরিমাণ% হিসাবে. যদি পরিচিত না, ফাঁকা ছেড়ে চলে যান.</string>
+<string name="hint_other_fees">ঋণের পরিমাণ উপর নির্ভরশীল নয় যে সমস্ত অন্যান্য ফি. যদি পরিচিত না, ফাঁকা ছেড়ে চলে যান.</string>
+<string name="hint_total_repay">প্রয়োজন হবে মোট পরিমাণ ঋণদাতা শোধিত করা.</string>
+<string name="hint_total_cost">চক্রবৃদ্ধিহারে সুদ এবং সব ফি সহ ঋণ মোট খরচ.</string>
+<string name="hint_cost_percent">মোট খরচ (যেমন উপরে) ঋণের পরিমাণ শতাংশ হিসাবে প্রকাশ করা.</string>
+<string name="hint_apr">ঋণ কার্যকর (বাস্তব) বার্ষিক সুদের হার. এটা ঋণের পরিমাণ শতকরা হিসাবে প্রকাশ করা মোট খরচ সমান.</string>
+<string name="hint_payment">প্রতিটি কিস্তি (মাসিক) পরিমাণ. যদি আপনি "শতকরা হার" খালি রাখা, যদি না আপনি, এই ফিল্ড পূরণ করতে হবে না. খালি, তাহলে এটি বাটন টিপে পরে গণনা করা হবে.</string>
+
+<string name="information_1">এই ক্যালকুলেটর আপনি চক্রবৃদ্ধিহারে সুদ হার থেকে করতে হবে, যা ভবিষ্যতে আপনার সঞ্চয় পরিমাণ, যেমন লাভ, খুঁজে বের করতে পারবেন. এটা আপনি নিম্নলিখিত মান জানি যে অনুমান:</string>
+<string name="information_2">এই ক্যালকুলেটর আপনি আপনার লক্ষ্য পরিমাণ খরচ বাঁচান প্রয়োজন বোধ করা হয় যা সময়, সময়ের নির্ধারণ করে দেওয়া হবে. এটা আপনি নিম্নলিখিত প্রদান অনুমান:</string>
+<string name="information_3">এখানে আপনি সঞ্চয় আপনার লক্ষ্য পৌঁছানোর করার জন্য প্রতিটি মাস খরচ বাঁচান করতে হবে, যা পরিমাণ, যা মাসিক আমানত, নিরূপণ করতে পারেন. নিম্নলিখিত তথ্য প্রয়োজন হবে:</string>
+<string name="information_4">এটা আপনি আপনার টার্গেট পরিমাণ পৌঁছাতে, যাতে খরচ বাঁচান করতে হবে, যা এ সুদের হার, খুঁজে বের করতে পারবেন. আপনি প্রদান করতে হবে:</string>
+<string name="information_5">এই সহজ ক্যালকুলেটর ধন্যবাদ আপনি আপনার ঋণ প্রতিটি কিস্তি পরিমাণ নির্ধারণ, এবং আপনার মুদ্রা এবং ঋণের পরিমাণ শতকরা হিসাবে তার মোট খরচ নিরূপণ করতে সক্ষম হবে. আপনাকে জানতে হবে তা হল:</string>
+<string name="information_6">আপনি আপনার ক্রয়ের জন্য একটি ঋণ গ্রহণ করতে ইচ্ছুক, আপনি কার্যকর (বাস্তব) বার্ষিক শতকরা হার হিসেবে জড়িত সব খরচ নিরূপণ করতে পারেন. এটা প্রথম আপনি ঋণদাতা এবং মাসিক কিস্তিতে পরিমাণ হিসেবে মোট খরচ নিরূপণ করা হবে অ্যাপ্লিকেশন দ্বারা উপলব্ধ নামমাত্র (বার্ষিক) শতকরা হার প্রবেশ করতে হবে, দুটি মোড মধ্যে কাজ করে. দ্বিতীয় মোডে, আপনি (কখনও কখনও একটি বণিক দ্বারা উপস্থাপিত) মাসিক কিস্তি পরিমাণ প্রবেশ করতে হবে, এবং অ্যাপ্লিকেশন আপনার জন্য শতাংশ এবং খরচ নিরূপণ করা হবে.</string>
+
+<string name="years">বছর</string>
+<string name="months">মাস</string>
+<string name="days">দিন</string>
+<string-array name="kapitalizacja">
+<item>দৈনিক</item>
+<item>সাপ্তাহিক</item>
+<item>মাসিক</item>
+<item>প্রতি 3 মাস</item>
+<item>প্রতি 6 মাস</item>
+<item>বাত্সরিক</item>
+</string-array>
+<string-array name="okres">
+<item>মাস</item>
+<item>বছর</item>
+</string-array>
+
+
+
+    <string name="title_activity_loan_calc">LoanCalc</string>
+    <string name="enter_here">এখানে</string>
+    <string name="profit_percent">মোট আমানতের% হিসাবে</string>
+    <string name="that_is">যে</string>
+    <string name="of_deposit">মোট আমানতের</string>
+    <string name="config">কনফিগারেশন</string>
+    <string name="help">সাহায্য</string>
+    <string name="info">তথ্য</string>
+    <string name="month">মাস</string>
+    <string name="hello_world">হ্যালো দুনিয়া!</string>
+    <string name="menu_settings">সেটিংস</string>
+
+
+    </resources>

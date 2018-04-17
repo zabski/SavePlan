@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools"
+    tools:locale="en"
+    tools:ignore="MissingTranslation">
+	<!-- Menu labels -->
+    <string name="pack">com.zmobile.saveplan</string>
+    <integer name="ads">3</integer>
+    <integer name="fb_ads">1</integer>
+    <integer name="log">0</integer>
+
+    <string name="facebook_app_id">576037092547613</string>
+    <string name="facebook_banner_id">576037092547613_585197291631593</string>
+    <string name="facebook_native_id">576037092547613_603066596511329</string>
+    <string name="facebook_inter_id">576037092547613_576067165877939</string>
+    <string name="admob_app_save">ca-app-pub-4402674240600002~4147934173</string>
+    <string name="admob_app_id">ca-app-pub-4402674240600002~8078606179</string>
+    <string name="admob_banner_save">ca-app-pub-4402674240600002/5624667377</string>
+    <string name="admob_banner_1">ca-app-pub-4402674240600002/9555339371</string>
+    <string name="admob_banner_bmi">ca-app-pub-4402674240600002/4265685372</string>
+    <string name="admob_inter_id00">ca-app-pub-4402674240600002/3354423372</string>
+    <string name="admob_inter_save">ca-app-pub-4402674240600002/5545457772</string>
+    <string name="admob_inter_id1">ca-app-pub-4402674240600002/9158481370</string>
+    <string name="admob_inter_id2">ca-app-pub-4402674240600002/6413668577</string>
+    <string name="admob_inter_id3">ca-app-pub-4402674240600002/2055690972</string>
+    <string name="admob_inter_id4">ca-app-pub-4402674240600002/6681890171</string>
+    <string name="admob_inter_id">ca-app-pub-4402674240600002/5586933374</string>
+    <string name="admob_express_small_id">ca-app-pub-4402674240600002/2911595775</string>
+    <string name="admob_express_large_id">ca-app-pub-4402674240600002/4248728178</string>
+    <string name="admob_express_large_id2">ca-app-pub-4402674240600002/1483625772</string>
+    <string name="amazon_app_id">8d4fd9066c834c3898e32c6cf7e8ad42</string>
+    <string name="remove_ads_item">saveplan_remove_ads</string>
+
+    <string name="icon_desc">Ad icon</string>
+    <string name="image_desc">Ad image</string>
+    <string name="load_native_ad">Load Native Ad</string>
+    <string name="app_name">Loans and Savings</string>
+    <string name="app_name2">Loans and investments</string>
+    <string name="menu_title">What do you want to calculate?</string>
+    <string name="SavingCalc">Future value of savings</string>
+    <string name="PeriodCalc">Period of saving</string>
+    <string name="DepositCalc">Amount of regular deposits</string>
+    <string name="IntrestCalc">Interest rate of savings</string>
+    <string name="LoanCalc">Costs of loan and installments</string>
+    <string name="LoanCalcPro">Annual Percentage Rate of loan</string>
+    <!-- Action labels -->        
+    <string name="info">Information</string>
+    <string name="fill_in_compulsory" translatable="false">Please fill in all required fields</string>
+    <string name="rate_app">Rate this app!</string>
+    <string name="feedback">Give your feedback</string>
+    <string name="feedback_prompt">Hello, would you like to send us your opinion, so that we can improve this application for you?</string>
+    <string name="opinion">Opinion</string>    
+    <!-- Input field labels -->
+    <string name="loan_amount">Initial amount</string>
+    <string name="loan_amt">Amount of Loan</string>
+    <string name="percentage">Percentage rate</string>
+    <string name="period">Period of saving</string>
+    <string name="saving">Monthly deposit</string>    
+    <string name="capitalization">Interest compounded</string>
+    <string name="deposit_period">Frequency of deposits</string>
+    <string name="target_amount">Target Amount</string>    
+    <string name="total_deposit">Total Deposit</string>    
+    <!-- Results labels -->
+    <string name="need_percentage">You need to save at percentage rate (per year)</string>
+    <string name="need_gain">You need to earn</string>       
+    <string name="period_deposit">Each period you need to save</string>
+    <string name="total">Saved Amount</string>
+    <string name="profit">Profit / as % of total deposit</string>   
+    <string name="fill_in">Please fill in all input fields</string>
+    <string name="required_period">Required period of saving</string>
+    <string name="percent">Percentage rate (per year)</string>
+    <string name="payments">Number of installments</string>
+    <string name="payment_amount">Installment Amount</string>
+    <string name="each_month">(to be paid each month)</string>    
+    <string name="total_cost">Total Cost / </string>
+    <string name="total_cost_">Total Cost / </string>
+    <string name="cost_percent">as % of loan amount</string> 
+    <string name="commission">Commission</string>
+    <string name="other_fees">Other Fees</string> 
+    <string name="annual_percent_rate">Annual Percentage Rate</string>  
+    <string name="total_repay">Total to repay</string>
+    <string name="leave_one_of_two">Leave empty one of: Percentage, Installment Amount. See instructions below.</string>  
+	<!-- Activity titles -->
+    <string name="deposit_calc">Calculate deposit amount</string>
+    <string name="savings_calc">Calculate savings amount</string>
+    <string name="period_calc">Calculate saving period</string>
+    <string name="intrest_calc">Calculate interest rate</string>
+    <string name="loan_calc">Calculate loan installments</string>
+    <!-- Button labels (imperative mode) -->
+    <string name="submit">Calculate</string>
+    <string name="clear">Clear All</string>
+    <string name="del">Delete</string>    
+   	<string name="show">Show</string>
+   	<string name="go">Go</string>   	
+    <string name="exit">Exit</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string> 	
+    <string name="settings">Settings</string>
+    <string name="go_to_menu">Accept and Close</string>	
+    <string name="choose_currency">Choose currency</string>
+    <string name="remove_ads">Remove Ads</string>
+    <!-- Instructions / help text -->
+    <string name="instructions">Instructions</string>
+    <string name="see_details">For instructions scroll down</string>
+    <string name="results">Results</string>
+    <string name="hint_amount">The amount of your loan.</string>
+    <string name="hint_principal">How much do you have now?</string>
+    <string name="hint_target">How much do you want to save?</string>
+    <string name="hint_period">How long do you plan to save?</string>
+    <string name="hint_percent">At what percentage rate will you save?</string>
+    <string name="hint_interest">What is the interest rate (per year) of your loan?</string>
+    <string name="hint_deposit">How much can you deposit to your saving account each month?</string>
+    <string name="hint_dep_period">How often will you deposit money to your saving account?</string>
+    <string name="hint_install">Usually equal to the number of monthly payments</string>
+    <string name="hint_compounded">Period at which the interest of your savings is added to the principal amount. It depends on your bank and/or pension/saving plan regulation. May take values: yearly, monthly and daily.</string>
+    <string name="hint_amount_pro">The amount of your loan. Usually equal to price of the product you want to purchase. This field is required.</string>
+    <string name="hint_commission">Commission (or loan fee) as % of loan amount. If not known, leave blank.</string>
+    <string name="hint_other_fees">All other fees that are not dependent on loan amount. If not known, leave blank.</string>
+    <string name="hint_total_repay">Total amount that will need to be repaid to the lender.</string>
+    <string name="hint_total_cost">Total cost of the loan, Including compound interest and all fees.</string>
+    <string name="hint_cost_percent">Total cost (as above) expressed as percent of loan amount.</string>
+    <string name="hint_apr">Effective (real) annual interest rate of the loan including total cost.</string>
+    <string name="hint_payment">The amount of each of your (monthly) installment. You do not need to fill in this field, unless you left "Percentage rate" blank. If left blank, it will be calculated after pressing the button.</string>
+ 	<!-- Full text explainations -->
+    <string name="information_1">This calculator allows you to find out future amount of your savings as well as profit that you will make form compound interest rate. It assumes you know the following:</string>
+    <string name="information_2">This calculator will let you determine the period of time that is required to save your target amount. It assumes you provide the following:</string>
+    <string name="information_3">Here you can calculate monthly deposit, that is the amount you will need to save each month in order to reach your saving goal. It will need the following data:</string>
+    <string name="information_4">It allows you to find out the interest rate at which you will need to be saving, in order to reach your target amount. You will need to provide:</string>
+    <string name="information_5">Thanks to this simple calculator you will be able to determine the amount of each installment of your loan, and calculate it\'s total cost in your currency and as a percentage of the loan amount. All you need to know is:</string>
+    <string name="information_6">If you plan to take a loan for your purcheses, you can calculate all costs involved as well as effective (real) Annual Percentage Rate. It works in two modes, in the first you need to enter nominal (annual) percentage rate provided by the lender and the application will calculate amount of monthly installments as well as total costs. In the second mode, you need to enter amount of monthly installment (sometimes presented by a merchant), and the application will calculate percentage and costs for you.</string>              
+	<!-- Time descriptive forms -->
+    <string name="years">years</string>
+    <string name="months">months</string>    
+    <string name="days">days</string>
+    <string-array name="kapitalizacja">
+        <item>Daily</item>
+        <item>Weekly</item>        
+        <item>Monthly</item>
+        <item>Every 3 months</item>
+        <item>Every 6 months</item>
+        <item>Yearly</item>
+    </string-array>    
+    <string-array name="okres">
+        <item>Months</item>
+        <item>Years</item>
+    </string-array>     	    
+	<!-- Additional -->
+    <string name="hello_world">¡Hola Mundo!</string>
+	<string name="currency" translatable="false">$</string>
+    <string name="pre_currency" translatable="false"></string>
+    <!-- Below are UI action options, and should be in imperative form -->	  	
+	<!-- 
+	<string name="title_activity_loan_calc">LoanCalc</string>
+	<string name="enter_here">here</string>
+	<string name="profit_percent">as % of total depoist</string>    	
+    <string name="that_is">that is</string>
+    <string name="of_deposit">of total deposit</string>         
+    <string name="config">Config</string>
+    <string name="help">Help</string>
+    <string name="month">month</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>    
+	 -->
+<string-array name="symbols" translatable="false">
+<item>$</item>
+<item>€</item>
+<item>£</item>
+<item>¥</item>
+<item>元</item>
+<item>₹</item>
+<item>₩</item>
+<item>ل.س</item>
+<item>ج.م</item>
+<item>.د.ب</item>
+<item>؋</item>
+<item>৳</item>
+<item>฿</item>
+<item>៛</item>
+<item>₡</item>
+<item>₦</item>
+<item>₪</item>
+<item>₫</item>
+<item>₭</item>
+<item>₮</item>
+<item>₱</item>
+<item>₲</item>
+<item>₴</item>
+<item>₵</item>
+<item>Ar</item>
+<item>B/.</item>
+<item>Br</item>
+<item>Bs F</item>
+<item>Bs.</item>
+<item>C$</item>
+<item>D</item>
+<item>Db</item>
+<item>Esc</item>
+<item>Fr</item>
+<item>ƒ</item>
+<item>ƒ</item>
+<item>G</item>
+<item>K</item>
+<item>Kč</item>
+<item>KM</item>
+<item>kn</item>
+<item>kr</item>
+<item>Kz</item>
+<item>L</item>
+<item>Le</item>
+<item>Ls</item>
+<item>Lt</item>
+<item>m</item>
+<item>MK</item>
+<item>MTn</item>
+<item>Nfk</item>
+<item>Nu.</item>
+<item>P</item>
+<item>Q</item>
+<item>R</item>
+<item>R$</item>
+<item>RM</item>
+<item>Rp</item>
+<item>₨</item>
+<item>S/.</item>
+<item>Sh</item>
+<item>T</item>
+<item>T$</item>
+<item>TL</item>
+<item>UM</item>
+<item>Vt</item>
+<item>ZK</item>
+<item>zł</item>
+<item>ден</item>
+<item>дин.</item>
+<item>din.</item>
+<item>ЅМ</item>
+<item>лв</item>
+<item>р.</item>
+<item>ლ</item>
+<item>դր.</item>
+<item>դր.</item>
+<item>د.إ</item>
+<item>د.ا</item>
+<item>د.ت</item>
+<item>د.ج</item>
+<item>د.ك</item>
+<item>د.م.</item>
+<item>ر.س</item>
+<item>ر.ع.</item>
+<item>ر.ق</item>
+<item>﷼</item>
+<item>﷼</item>
+<item>ع.د</item>
+<item>ل.د</item>
+<item>ل.ل</item>
+<item>ރ.</item>
+<item>₸</item>
+</string-array>
+
+</resources>

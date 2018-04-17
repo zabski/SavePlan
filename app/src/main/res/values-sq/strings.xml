@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Kredi dhe kursime</string>
+
+<string name="app_name2">Kredi dhe investime</string>
+
+<string name="menu_title">Çfarë doni të llogaritur?</string>
+<string name="SavingCalc">Vlera e ardhshme e kursimeve</string>
+<string name="PeriodCalc">Periudha e kursimit</string>
+<string name="DepositCalc">Sasia e depozitave të rregullta</string>
+<string name="IntrestCalc">Norma e interesit të kursimeve</string>
+<string name="LoanCalc">Kostot e huasë dhe kësteve</string>
+<string name="LoanCalcPro">Norma vjetore Përqindja e kredisë</string>
+
+<string name="action_settings">Cilësimet</string>
+
+<string name="rate_app">Vlerësoni këtë kërkesë!</string>
+<string name="feedback">Jepni mendimin tuaj</string>
+<string name="feedback_prompt">Përshëndetje, do të dëshironit të na dërgoni mendimin tuaj, kështu që ne mund të përmirësojmë këtë kërkesë për ty?</string>
+<string name="opinion">Mendim</string>
+
+<string name="loan_amount">Shuma fillestare</string>
+<string name="loan_amt">Shuma e huasë</string>
+<string name="percentage">Normë përqindje</string>
+<string name="period">Periudha e kursimit</string>
+<string name="saving">Depozitave mujore</string>
+<string name="capitalization">Interesi komplikuar</string>
+<string name="deposit_period">Frekuenca e depozitave</string>
+<string name="target_amount">Target Shuma</string>
+<string name="total_deposit">Depozita Total</string>
+
+<string name="need_percentage">Ju duhet të ekonomizimit në normë përqindje (në vit)</string>
+<string name="need_gain">Ju duhet për të fituar</string>
+<string name="period_deposit">Në çdo periudhë ju duhet të ekonomizimit</string>
+<string name="total">Shuma economized</string>
+<string name="profit">Fitimi / si% e depozitës totale</string>
+<string name="fill_in">Ju lutem plotësoni të gjitha fushat e input</string>
+<string name="required_period">Periudha e kërkuar e kursimit</string>
+<string name="percent">Normë përqindje (në vit)</string>
+<string name="payments">Numri i kësteve</string>
+<string name="payment_amount">Shuma Kësti</string>
+<string name="each_month">(Që do të paguhet çdo muaj)</string>
+<string name="total_cost">Gjithsej Kosto /</string>
+<string name="cost_percent">Si% e shumës së kredisë</string>
+<string name="commission">Komisioni / shtesë</string>
+<string name="other_fees">Tarifat të tjera</string>
+<string name="annual_percent_rate">Norma vjetore Përqindja</string>
+<string name="total_repay">Total për të shlyer</string>
+<string name="leave_one_of_two">Dërgo një bosh të: Përqindja, Shuma e këstit. Shih udhëzimet më poshtë.</string>
+
+<string name="deposit_calc">Llogarit shumën e depozitave</string>
+<string name="savings_calc">Llogarit shumën e kursimeve</string>
+<string name="period_calc">Llogarit periudhë kursim</string>
+<string name="intrest_calc">Të llogaritur normën e interesit</string>
+<string name="loan_calc">Llogarit kësteve të kredisë</string>
+
+<string name="submit">Llogarit</string>
+<string name="clear">Fshij gjitha</string>
+<string name="del">Fshij</string>
+<string name="show">Shfaqje</string>
+<string name="go">Shkoj</string>
+<string name="exit">Dalje</string>
+<string name="cancel">Anuloj</string>
+<string name="ok">Në rregull</string>
+<string name="settings">Cilësimet</string>
+<string name="go_to_menu">Prano dhe Mbylle</string>
+<string name="choose_currency">Zgjidh monedhën</string>
+
+<string name="instructions">Udhëzime</string>
+<string name="see_details">Shkoni poshtë për të parë udhëzimet</string>
+<string name="results">Rezultatet</string>
+<string name="hint_amount">Shuma e kredisë tuaj.</string>
+<string name="hint_principal">Sa ju keni tani?</string>
+<string name="hint_target">Sa ju doni të ekonomizimit?</string>
+<string name="hint_period">Sa kohë keni në plan të ekonomizimit?</string>
+<string name="hint_percent">Në çfarë norma e përqindjes do të ekonomizimit?</string>
+<string name="hint_interest">Sa është norma e interesit (në vit) e kredisë tuaj?</string>
+<string name="hint_deposit">Sa mund të depozitojë në llogarinë tuaj të kursimit çdo muaj?</string>
+<string name="hint_dep_period">Sa shpesh do të depozitojë të holla në llogarinë tuaj të kursimit?</string>
+<string name="hint_install">Zakonisht i barabartë me numrin e pagesave mujore</string>
+<string name="hint_compounded">Periudha në të cilën interesi i kursimeve tuaja është shtuar shumës së principalit. Kjo varet bankare / kushtet / rregulloret e tua. Mund të marrë vlera: vjetore, mujore apo ditë.</string>
+<string name="hint_amount_pro">Shuma e kredisë tuaj. Zakonisht e barabartë me çmimin e produktit që ju dëshironi të blini. Kjo fushë është e nevojshme.</string>
+<string name="hint_commission">Komisioni (apo tarifë hua) si% e shumës së kredisë. Nëse nuk dihet, të lënë bosh.</string>
+<string name="hint_other_fees">Të gjitha tarifat e tjera që nuk janë të varur nga shuma e kredisë. Nëse nuk dihet, të lënë bosh.</string>
+<string name="hint_total_repay">Shuma totale që duhet të paguhet për të huadhënës.</string>
+<string name="hint_total_cost">Kostoja totale e kredisë, duke përfshirë interesin e përbërë dhe të gjitha tarifat.</string>
+<string name="hint_cost_percent">Kostoja totale (si më lartë) të shprehura si përqindje e shumës së kredisë.</string>
+<string name="hint_apr">Norma (e vërtetë) efektive vjetore e interesit të kredisë. Ajo është e barabartë me koston totale shprehur si përqindje e shumës së kredisë.</string>
+<string name="hint_payment">Shuma e çdo kësti (mujore). Ju nuk duhet të plotësoni në këtë fushë, po të mos ju lënë "normë Përqindja" bosh. Nëse lihet bosh, ajo do të llogaritet pasi të shtypur butonin.</string>
+
+<string name="information_1">Kjo Llogaritësi ju lejon për të gjetur sasinë e kursimeve tuaja në të ardhmen, si dhe fitim, të cilat ju do të bëjë nga norma e interesit të përbërë. Ajo supozon se dini vlerat e mëposhtme:</string>
+<string name="information_2">Kjo Llogaritësi do të ju lejojnë të përcaktojë periudhën kohore, e cila është e nevojshme për të ekonomizimit sasi tuaj të synuar. Ajo supozon ju sigurojë në vijim:</string>
+<string name="information_3">Këtu ju mund të llogarisë depozitë mujore, e cila është shuma, të cilat ju do të keni për të ekonomizimit çdo muaj për të arritur qëllimin tuaj të kursimeve. Ajo do të duhet të dhënat e mëposhtme:</string>
+<string name="information_4">Kjo ju lejon për të gjetur normën e interesit, në të cilën ju do të duhet për të ekonomizimit, në mënyrë që të arrijnë shumën tuaj të synuar. Ju do të duhet të sigurojë:</string>
+<string name="information_5">Falë këtij kalkulator të thjeshtë ju do të jetë në gjendje për të përcaktuar shumën e çdo kësti të kredisë tuaj, dhe të llogaritur koston e tij total në monedhën tuaj dhe si përqindje e shumës së kredisë. Të gjithë ju duhet të dini është:</string>
+<string name="information_6">Nëse keni ndërmend të marrë një kredi për blerjet tuaja, ju mund të llogaritur të gjitha shpenzimet e përfshira si dhe efektiv (reale) norma vjetore përqindje. Ajo punon në dy mënyra, në të parë që ju duhet për të hyrë nominale (vjetor) normë përqindje e dhënë nga huadhënës dhe aplikimit do të llogaritur sasinë e kësteve mujore, si dhe shpenzimet e përgjithshme. Në regjimin e dytë, duhet të futni shumën e këstit mujor (nganjëherë të paraqitur nga një tregtar), dhe aplikimi do të llogarisë përqindjen dhe kostot për ju.</string>
+
+<string name="years">Vjet</string>
+<string name="months">Muaj</string>
+<string name="days">Ditë</string>
+<string-array name="kapitalizacja">
+<item>I përditshëm</item>
+<item>Javor</item>
+<item>Mujor</item>
+<item>Çdo 3 muaj</item>
+<item>Çdo 6 muaj</item>
+<item>Vjetor</item>
+</string-array>
+<string-array name="okres">
+<item>Muaj</item>
+<item>Vite</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Këtu</string>
+<string name="profit_percent">Si% e totalit të depozitave</string>
+<string name="that_is">Që është</string>
+<string name="of_deposit">E totalit të depozitave</string>
+<string name="config">Konfiguracion</string>
+<string name="help">Ndihmë</string>
+<string name="info">Informacion</string>
+<string name="month">Muaj</string>
+<string name="hello_world">Tungjatjeta botë!</string>
+<string name="menu_settings">Cilësimet</string>
+
+</resources>

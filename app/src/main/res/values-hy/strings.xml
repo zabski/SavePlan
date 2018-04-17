@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Վարկեր եւ խնայողական</string>
+
+<string name="app_name2">Վարկեր եւ ներդրումներ</string>
+
+<string name="menu_title">Ինչ եք ուզում է հաշվարկել.</string>
+<string name="SavingCalc">Ապագան արժեքը խնայողությունների</string>
+<string name="PeriodCalc">Ժամկետը էներգախնայողության</string>
+<string name="DepositCalc">Գումարը կանոնավոր ավանդների</string>
+<string name="IntrestCalc">Տոկոսադրույք խնայողությունների</string>
+<string name="LoanCalc">Ծախսերը վարկի եւ մարումներով</string>
+<string name="LoanCalcPro">Տարեկան տոկոսադրույք Վարկի</string>
+
+<string name="action_settings">Կառավարում</string>
+
+<string name="rate_app">Գնահատեք այս ծրագիրը.</string>
+<string name="feedback">Տվեք ձեր կարծիքը</string>
+<string name="feedback_prompt">Բարեւ, ցանկանում եք ուղարկել մեզ Ձեր կարծիքը, այնպես որ մենք կարող ենք բարելավել այս ծրագիրը ձեզ համար.</string>
+<string name="opinion">Կարծիք</string>
+
+<string name="loan_amount">Նախնական գումարը</string>
+<string name="loan_amt">Գումարը վարկի</string>
+<string name="percentage">Տոկոսադրույքը</string>
+<string name="period">Ժամկետը էներգախնայողության</string>
+<string name="saving">Ամսական ավանդ</string>
+<string name="capitalization">Տոկոսները բարդացվում</string>
+<string name="deposit_period">Հաճախականությունը ավանդների</string>
+<string name="target_amount">Target Գումարը</string>
+<string name="total_deposit">Total Ավանդի</string>
+
+<string name="need_percentage">Դուք պետք է խնայել, ժամը տոկոսադրույքի (մեկ տարի)</string>
+<string name="need_gain">Դուք պետք է վաստակել</string>
+<string name="period_deposit">Յուրաքանչյուր ժամանակահատվածում դուք պետք է խնայել</string>
+<string name="total">Տնտեսվել Գումարը</string>
+<string name="profit">Շահույթ /% -ով, ընդհանուր ավանդի</string>
+<string name="fill_in">Խնդրում ենք լրացնել բոլոր մուտքային ոլորտներում</string>
+<string name="required_period">Պահանջվող ժամկետը էներգախնայողության</string>
+<string name="percent">Տոկոսադրույքը (տարեկան)</string>
+<string name="payments">Միավորների քան-մարումներով</string>
+<string name="payment_amount">Ապառիկ Գումարը</string>
+<string name="each_month">(Պետք է վճարել ամեն ամիս)</string>
+<string name="total_cost">Ընդհանուր արժեք /</string>
+<string name="cost_percent">% -ով վարկի գումարի</string>
+<string name="commission">Հանձնաժողովը / հավելավճար</string>
+<string name="other_fees">Այլ վճարներ</string>
+<string name="annual_percent_rate">Տարեկան տոկոսադրույք</string>
+<string name="total_repay">Total մարել</string>
+<string name="leave_one_of_two">Թողնել դատարկ մեկը: Տոկոսային, գումարը ապառիկ: Տես հրահանգներին ստորեւ.</string>
+
+<string name="deposit_calc">Հաշվել ավանդի գումարը</string>
+<string name="savings_calc">Հաշվել խնայողության գումարը</string>
+<string name="period_calc">Հաշվել խնայելով ժամանակահատվածը</string>
+<string name="intrest_calc">Հաշվել տոկոսադրույքը</string>
+<string name="loan_calc">Հաշվարկել վարկային մարումներով</string>
+
+<string name="submit">Հաշվել</string>
+<string name="clear">Մաքրել բոլորը</string>
+<string name="del">Ջնջել</string>
+<string name="show">Ցուցադրում</string>
+<string name="go">Գնալ</string>
+<string name="exit">Ելք</string>
+<string name="cancel">Վերացնել</string>
+<string name="ok">Okay</string>
+<string name="settings">Կառավարում</string>
+<string name="go_to_menu">Ընդունել եւ Close</string>
+<string name="choose_currency">Ընտրեք արժույթը</string>
+
+<string name="instructions">Հրահանգներ</string>
+<string name="see_details">Ոլորել ներքեւ է տեսնել հրահանգներին</string>
+<string name="results">Արդյունքները</string>
+<string name="hint_amount">Գումարը Ձեր վարկի.</string>
+<string name="hint_principal">Որքան դուք հիմա.</string>
+<string name="hint_target">Որքան եք ուզում է խնայել.</string>
+<string name="hint_period">Որքան ժամանակ եք նախատեսում է տնտեսել.</string>
+<string name="hint_percent">Թե ինչ փոխարժեքը տոկոսային կարող եք խնայել.</string>
+<string name="hint_interest">Որքան է տոկոսադրույքը (տարեկան) Ձեր վարկի.</string>
+<string name="hint_deposit">Որքան կարող եք ավանդի Ձեր փրկող հաշվին յուրաքանչյուր ամիս.</string>
+<string name="hint_dep_period">Որքան հաճախ կարող եք ավանդի գումար ձեր փրկող հաշվին?</string>
+<string name="hint_install">Սովորաբար հավասար թվով ամսական վճարումների</string>
+<string name="hint_compounded">Ժամկետը, որի հետաքրքրությունը ձեր խնայողությունները ավելացված է մայր գումարի. Դա կախված է ձեր բանկային / պայմանների / կանոնակարգերի. Կարող է տեւել արժեքները: տարեկան, ամսական կամ օրաթերթ.</string>
+<string name="hint_amount_pro">Գումարը Ձեր վարկի. Սովորաբար հավասար է ապրանքի գինը, որը ցանկանում եք ձեռք բերել. Այս դաշտը պարտադիր է:</string>
+<string name="hint_commission">Հանձնաժողովը (կամ վարկային վճար), ինչպես% վարկի գումարից. Եթե ​​հայտնի չէ, թողեք դատարկ.</string>
+<string name="hint_other_fees">Բոլոր այլ վճարները, որոնք կախված չէ վարկի գումարի. Եթե ​​հայտնի չէ, թողեք դատարկ.</string>
+<string name="hint_total_repay">Ընդհանուր գումարը, որը պետք է մարվի մինչեւ պարտատեր.</string>
+<string name="hint_total_cost">Ընդհանուր արժեքը վարկի, այդ թվում բաղադրություն հետաքրքրություն եւ բոլոր վճարները:</string>
+<string name="hint_cost_percent">Ընդհանուր արժեքը (ինչպես վերեւում) արտահայտվում է որպես տոկոս վարկի գումարից.</string>
+<string name="hint_apr">Արդյունավետ (իրական) տարեկան տոկոսադրույքը վարկի. Դա հավասար է ընդհանուր արժեքի արտահայտված որպես տոկոս վարկի գումարից.</string>
+<string name="hint_payment">Գումարը Յուրաքանչյուր ապառիկ (ամսական). Դուք չունեք հաղորդագրություն փակցնելու համար անհրաժեշտ է լրացնել այս ոլորտում, քանի դեռ դուք թողել «Տոկոսային մակարդակը» դատարկ. Եթե ​​ձախ դատարկ, դա կլինի հաշվարկվում է այն բանից հետո, սեղմելով կոճակը:</string>
+
+<string name="information_1">Այս հաշվիչը Ձեզ թույլ է տալիս պարզել, թե գումարը Ձեր խնայողական ապագայում, ինչպես նաեւ շահույթ, որը դուք կարող եք մինչեւ բաղադրություն տոկոսադրույքով. Այն ենթադրում է, որ դուք գիտեք, հետեւյալ արժեքները.</string>
+<string name="information_2">Այս հաշվիչը թույլ կտա ձեզ որոշել, թե ժամանակ է, որը պահանջվում է խնայել ձեր թիրախային գումարը: Այն ենթադրում է տրամադրում եք հետեւյալը:</string>
+<string name="information_3">Այստեղ դուք կարող եք հաշվել ամսական ավանդ, որն այն գումարը, որը դուք պետք է խնայել յուրաքանչյուր ամիս, որպեսզի հասնել ձեր նպատակին խնայողությունները. Այն պետք է հետեւյալ տվյալները`</string>
+<string name="information_4">Այն թույլ է տալիս պարզել տոկոսադրույքը, որը դուք պետք է խնայել, որպեսզի հասնել ձեր թիրախային գումարը: Դուք պետք է տրամադրել:</string>
+<string name="information_5">Շնորհիվ այս պարզ հաշվիչ դուք կկարողանաք որոշելու գումարը յուրաքանչյուր ապառիկ Ձեր վարկի, եւ հաշվարկել է իր ընդհանուր ծախսերը ձեր արժույթով եւ որպես տոկոսային վարկի գումարից. Բոլոր դուք պետք է իմանալ, թե.</string>
+<string name="information_6">Եթե ​​Դուք պլանավորում եք վերցնել վարկ ձեր գնումներ, Դուք կարող եք հաշվել բոլոր ծախսերը ներգրավված, ինչպես նաեւ արդյունավետ (իրական) տարեկան տոկոսադրույքով: Այն աշխատում է երկու եղանակով, առաջին, դուք պետք է մուտք գործել անվանական (տարեկան) տոկոսադրույքի կողմից տրամադրված փոխատու, եւ դիմումը հաշվարկել չափը ամսական մարումներով, ինչպես նաեւ ընդհանուր ծախսերը. Իսկ երկրորդ ռեժիմում, դուք պետք է մուտքագրեք գումարը ամսական ապառիկ (երբեմն ներկայացվել է մի վաճառականի) եւ կիրառման հաշվարկել տոկոսային եւ ծախսերը ձեզ համար.</string>
+
+<string name="years">Տարի</string>
+<string name="months">Տարի</string>
+<string name="days">Օր</string>
+<string-array name="kapitalizacja">
+<item>Օրական</item>
+<item>Շաբաթական</item>
+<item>Ամսական</item>
+<item>3 ամիսը</item>
+<item>Ամեն 6 ամիս</item>
+<item>Ամեն տարի</item>
+</string-array>
+<string-array name="okres">
+<item>Ամիսներ</item>
+<item>Տարի</item>
+</string-array>
+
+
+
+    <string name="title_activity_loan_calc">LoanCalc</string>
+    <string name="enter_here">Այստեղ</string>
+    <string name="profit_percent">% -ով, ընդհանուր ավանդների</string>
+    <string name="that_is">Է, որ</string>
+    <string name="of_deposit">Ընդհանուր ավանդների</string>
+    <string name="config">Տեսիլ</string>
+    <string name="help">Օգնություն</string>
+    <string name="info">Տեղեկատվություն</string>
+    <string name="month">Ամիս</string>
+    <string name="hello_world">Բարեւ աշխարհ!</string>
+    <string name="menu_settings">Կառավարում</string>
+
+    </resources>

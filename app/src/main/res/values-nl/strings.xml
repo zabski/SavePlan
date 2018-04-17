@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Financiën van het huis</string>
+<string name="app_name2">Leningen en investeringen</string>
+<string name="menu_title">Wat wil je berekenen?</string>
+<string name="SavingCalc">Toekomstige waarde van besparingen</string>
+<string name="PeriodCalc">Periode van sparen</string>
+<string name="DepositCalc">Bedrag van regelmatige stortingen</string>
+<string name="IntrestCalc">Rente</string>
+<string name="LoanCalc">Bedrag van de aflossingen van een lening</string>
+<string name="action_settings">Instellingen</string>
+<string name="info">Informatie</string>
+<string name="loan_amount">Initiële bedrag</string>
+<string name="loan_amt">Bedrag van de lening</string>
+<string name="percentage">Snelheid van het percentage (per jaar)</string>
+<string name="period">Periode van sparen</string>
+<string name="saving">Maandelijkse storting</string>
+<string name="capitalization">Rente wordt verergerd</string>
+<string name="deposit_period">Frequentie van de deposito\'s</string>
+<string name="target_amount">Streefbedrag</string>
+<string name="total_deposit">Totaal aanbetaling</string>
+<string name="need_percentage">Je nodig hebt om te besparen op percentage (per jaar)</string>
+<string name="need_gain">U moet verdienen</string>
+<string name="period_deposit">Elke periode moet u storten</string>
+<string name="total">Gespaarde bedrag</string>
+<string name="profit">Winst / als% van de totale storting</string>
+<string name="fill_in">Vult u alstublieft alle invoervelden</string>
+<string name="required_period">Vereiste periode van sparen</string>
+<string name="percent">Snelheid van het percentage (per jaar)</string>
+<string name="payments">Aantal termijnen</string>
+<string name="payment_amount">Bedrag van de afbetaling</string>
+<string name="each_month">(te betalen elke maand)</string>
+<string name="total_cost">Totale kosten</string>
+<string name="total_cost_">Totale kosten /</string>
+<string name="cost_percent">Als % van het geleende bedrag</string>
+<string name="deposit_calc">Bereken bedrag van de aanbetaling</string>
+<string name="savings_calc">Bereken waarde van spaartegoeden</string>
+<string name="period_calc">Bereken periode van sparen</string>
+<string name="intrest_calc">Bereken rente</string>
+<string name="loan_calc">Bereken waarde van termijnen</string>
+<string name="submit">Bereken</string>
+<string name="clear">Alles wissen</string>
+<string name="del">Delete</string>
+<string name="show">Tonen</string>
+<string name="go">Ga</string>
+<string name="exit">Exit</string>
+<string name="settings">Instellingen</string>
+<string name="go_to_menu">Accepteren en Sluiten</string>
+<string name="instructions">Instructies</string>
+<string name="hint_amount">Het bedrag van uw lening.</string>
+<string name="hint_principal">Hoeveel heb je nu?</string>
+<string name="hint_target">Hoeveel wilt u besparen?</string>
+<string name="hint_period">Hoe lang bent u van plan om op te slaan?</string>
+<string name="hint_percent">Op welk percentage percentage zal u besparen?</string>
+<string name="hint_interest">Wat is de rente (per jaar) van uw lening?</string>
+<string name="hint_deposit">Hoeveel kunt u elke maand storten op uw spaarrekening?</string>
+<string name="hint_dep_period">Hoe vaak zal u geld storten op uw spaarrekening?</string>
+<string name="hint_install">Meestal gelijk aan het aantal maandelijkse betalingen</string>
+<string name="hint_compounded">Periode waarin het belang van uw spaargeld wordt toegevoegd aan de hoofdsom. Het hangt af van uw bank en / of voorschriften van uw pensioen / spaarplan. Het kan, zijn van de \'dagelijkse\' naar \'per jaar\'.</string>
+<string name="information_1">Deze calculator kunt u te weten komen toekomstige bedrag van uw spaargeld en winst die je vorm samengestelde rente zal maken. Het veronderstelt dat je weet dat de volgende:</string>
+<string name="information_2">Deze calculator laat u de tijd die nodig is om uw beoogde bedrag op te slaan bepalen. Zij neemt u de volgende gegevens:</string>
+<string name="information_3">Hier kan je maandelijkse storting te berekenen, dat is de hoeveelheid geld die je nodig hebt om elke maand om uw doel van de besparingen op te slaan. Het zal de volgende gegevens nodig:</string>
+<string name="information_4">Het stelt u in staat om uit te vinden van de rente op die u nodig hebt om te sparen, om je streefbedrag te bereiken. U dient te zorgen voor:</string>
+<string name="information_5">Dankzij deze eenvoudige rekenmachine bent u in staat om het bedrag van elke tranche van de lening vast te stellen, en bereken de totale kosten van de lening in geld waarde en als percentage van het bedrag van de lening. Alles wat je moet weten is:</string>
+<string name="information_6"></string>
+<string name="years">Jaar</string>
+<string name="months">Maanden</string>
+<string name="days">Dagen</string>
+<string name="LoanCalcPro">Jaarlijks kostenpercentage van de lening</string>
+<string name="help_translate">Helpen vertalen deze toepassing</string>
+<string name="rate_app">Beoordeel deze applicatie!</string>
+<string name="feedback">Geef uw feedback</string>
+<string name="feedback_prompt">Hallo, wilt u ons feedback geven, zodat wij uw ervaring kunnen verbeteren?</string>
+<string name="opinion">Advies</string>
+<string name="commission">Commissie</string>
+<string name="other_fees">Andere kosten</string>
+<string name="annual_percent_rate">Annual Percentage Rate</string>
+<string name="total_repay">Totaal terug te betalen</string>
+<string name="leave_one_of_two">Leeg laat één van: Percentage, termijnbedrag. Zie onderstaande instructies.</string>
+<string name="cancel">Annuleren</string>
+<string name="okay">Okay</string>
+<string name="choose_currency">Kies valuta</string>
+<string name="see_details">Voor instructies scroll naar beneden</string>
+<string name="results">Resultaten</string>
+<string name="hint_amount_pro">Het bedrag van uw lening. Meestal gelijk aan de prijs van het product dat u wilt kopen. Dit veld is verplicht.</string>
+<string name="hint_commission">Commissie (of een lening tegen betaling) als% van het geleende bedrag. Indien niet bekend, laat leeg.</string>
+<string name="hint_other_fees">Alle andere kosten die niet afhankelijk zijn van geleende bedrag zijn. Indien niet bekend, laat leeg.</string>
+<string name="hint_total_repay">Totale bedrag dat moet worden terugbetaald aan de uitlener.</string>
+<string name="hint_total_cost">Totale kosten van de lening, met inbegrip van samengestelde rente en alle kosten.</string>
+<string name="hint_cost_percent">Totale kosten (zoals hierboven), uitgedrukt als percentage van het geleende bedrag.</string>
+<string name="hint_apr">Effectieve (reële) rente van de lening inclusief totale kosten.</string>
+<string name="hint_payment">De hoeveelheid van elk van uw (maandelijkse) termijn. U hoeft niet in dit veld in te vullen, tenzij je links "percentage" leeg. Indien leeg gelaten, zal deze worden berekend na het indrukken van de knop.</string>
+
+    <string-array name="kapitalizacja">
+<item>Dagelijks</item>
+<item>Wekelijks</item>
+<item>Maandelijks</item>
+<item>Driemaandelijkse</item>
+<item>Om de 6 maanden</item>
+<item>Jaarlijks</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Maanden</item>
+<item>Jaar</item>
+    </string-array>     	    
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Hier</string>
+<string name="profit_percent">Als% van de totale storting</string>
+<string name="that_is">Dat</string>
+<string name="of_deposit">Van de totale storting</string>
+
+<string name="ok">OK</string>
+<string name="config">Config</string>
+<string name="help">Help</string>
+<string name="month">Maand</string>
+<string name="hello_world">Hallo wereld!</string>
+<string name="menu_settings">Instellingen</string>
+
+</resources>

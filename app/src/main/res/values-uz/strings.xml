@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Kreditlar va omonat</string>
+
+<string name="app_name2">Kreditlar va investitsiyalar</string>
+
+<string name="menu_title">Nima siz hisoblash uchun istaysiz?</string>
+<string name="SavingCalc">Jamg\'armalarning Future qiymati</string>
+<string name="PeriodCalc">Tejash muddati</string>
+<string name="DepositCalc">Muntazam omonatlar miqdori</string>
+<string name="IntrestCalc">Jamg\'armalari foiz stavkasi</string>
+<string name="LoanCalc">Kredit va to\'lash xarajatlari</string>
+<string name="LoanCalcPro">Kredit yillik foiz darajasi</string>
+
+<string name="action_settings">Sozlamalar</string>
+
+<string name="rate_app">Ushbu dasturni ber!</string>
+<string name="feedback">Fikringizni bering</string>
+<string name="feedback_prompt">Salom, siz, biz, siz uchun bu dasturni yaxshilash mumkin, shunday qilib, bizga fikringizni yuborishni istayman?</string>
+<string name="opinion">Fikr</string>
+
+<string name="loan_amount">Boshlang\'ich miqdori</string>
+<string name="loan_amt">Qarz summasi</string>
+<string name="percentage">Foiz stavkasi</string>
+<string name="period">Tejash muddati</string>
+<string name="saving">Haftalik depozit</string>
+<string name="capitalization">Foiz aralash</string>
+<string name="deposit_period">Omonatlari Chast</string>
+<string name="target_amount">Target summasi</string>
+<string name="total_deposit">Jami Deposit</string>
+
+<string name="need_percentage">Siz foiz stavka tejashni kerak (yiliga)</string>
+<string name="need_gain">Siz topish uchun kerak</string>
+<string name="period_deposit">Har bir davrda siz tejashni kerak</string>
+<string name="total">Tejab summasi</string>
+<string name="profit">Foyda / jami depozit% sifatida</string>
+<string name="fill_in">Barcha kirish maydonlarni to\'ldiring</string>
+<string name="required_period">Iqtisodni Talab davri</string>
+<string name="percent">Foiz stavkasi (yillik)</string>
+<string name="payments">Uzishiga soni</string>
+<string name="payment_amount">To\'lash summasi</string>
+<string name="each_month">(Har oyda to\'lash kerak)</string>
+<string name="total_cost">Umumiy qiymati /</string>
+<string name="cost_percent">Kredit summasiga nisbatan% sifatida</string>
+<string name="commission">Komissiya / pullik</string>
+<string name="other_fees">Boshqa bojlar</string>
+<string name="annual_percent_rate">Yillik foiz darajasi</string>
+<string name="total_repay">Qaytarish uchun jami</string>
+<string name="leave_one_of_two">Foizi, uzishiga miqdori: bo\'sh birini qoldiring. Quyidagi ko\'rsatmalarga qarang.</string>
+
+<string name="deposit_calc">Depozit miqdori hisoblash</string>
+<string name="savings_calc">Omonat miqdori hisoblash</string>
+<string name="period_calc">Davri tejash hisoblash</string>
+<string name="intrest_calc">Foiz stavkasini hisoblash</string>
+<string name="loan_calc">Kredit to\'lashni hisoblash</string>
+
+<string name="submit">Hisoblash</string>
+<string name="clear">Clear Barcha</string>
+<string name="del">O\'chirish</string>
+<string name="show">Show</string>
+<string name="go">Go</string>
+<string name="exit">Chiqish</string>
+<string name="cancel">Bekor qilish</string>
+<string name="ok">Xop</string>
+<string name="settings">Sozlamalar</string>
+<string name="go_to_menu">Qabul qilish va yopish</string>
+<string name="choose_currency">Valyutani tanlang</string>
+
+<string name="instructions">Ko\'rsatmalarga</string>
+<string name="see_details">Ko\'rsatmalarni ko\'rish uchun pastga aylantiring</string>
+<string name="results">Natijalar</string>
+<string name="hint_amount">Sizning kredit miqdori.</string>
+<string name="hint_principal">Qancha siz hozir bor?</string>
+<string name="hint_target">Qancha tejashni istaysiz?</string>
+<string name="hint_period">Qachongacha tejashni qilmoqchisiz?</string>
+<string name="hint_percent">Foiz qaysi stavka siz tejashni bo\'ladi?</string>
+<string name="hint_interest">Sizning kredit (yiliga) foiz stavkasi qancha turadi?</string>
+<string name="hint_deposit">Qancha siz har oy siz tejash hisobingizga omonatchilar?</string>
+<string name="hint_dep_period">Qanchalik tez-tez siz tejash hisobingizga pul beradi?</string>
+<string name="hint_install">Oylik to\'lovlar soniga Odatda teng</string>
+<string name="hint_compounded">Davr qaysi sizning jamg\'armalari foiz asosiy summasiga qo\'shilmaydi. Bu sizning bank / sharoitlar / qoidalarga bog\'liq. Qiymatlarni qabul qilishi mumkin: yillik, oylik yoki kundalik.</string>
+<string name="hint_amount_pro">Sizning kredit miqdori. Agar sotib olish uchun kerakli mahsulot narxiga Odatda teng. Ushbu qator to\'ldirilishi shart.</string>
+<string name="hint_commission">Komissiya (yoki qarz to\'lovi) kredit summasiga nisbatan% deb. Ma\'lum emas bo\'lsa, bo\'sh qoldiring.</string>
+<string name="hint_other_fees">Kredit summasi bog\'liq emas, boshqa barcha to\'lovlar. Ma\'lum emas bo\'lsa, bo\'sh qoldiring.</string>
+<string name="hint_total_repay">Kerak bo\'ladi jami miqdori qarz beruvchining qaytarilib berilishi.</string>
+<string name="hint_total_cost">Tarkib qiziqish va barcha to\'lovlari, shu jumladan qarz umumiy qiymati.</string>
+<string name="hint_cost_percent">Umumiy qiymati (yuqoridagi kabi) kredit summasining foiz deb bildirdi.</string>
+<string name="hint_apr">Kreditdan samarali (real) yillik foiz stavkasi. Bu kredit summasining ulushi sifatida ifoda jami qiymatiga teng.</string>
+<string name="hint_payment">Har bir uzishiga (oylik) miqdori. Agar "foiz stavkasi" bo\'sh qoldiriladi ekan, bu sohada to\'ldirish shart emas. Bo\'sh qoldirilsa, u tugmani bosib so\'ng hisoblab qilinadi.</string>
+
+<string name="information_1">Ushbu kalkulyator sizga Murakkab Foiz darajasi dan qiladi kelajakda sizning jamg\'armalari miqdorini, shuningdek, foyda, topish imkonini beradi. Bu quyidagi qiymatlarni bilaman, deb ta\'kidlaydi:</string>
+<string name="information_2">Ushbu kalkulyator sizning maqsad miqdorini tejashni talab qilinadi vaqt, muddatini aniqlash ruxsat beradi. Bu quyidagi ta\'minlash nazarda tutadi:</string>
+<string name="information_3">Bu yerda siz jamg\'armalarning maqsadga erishish uchun har bir oy tejashni bo\'ladi miqdorini bo\'lib, oylik omonatini, hisoblash mumkin. Bu quyidagi ma\'lumotlarni lozim bo\'ladi:</string>
+<string name="information_4">Bu sizga maqsad miqdorini erishish uchun, tejashni kerak bo\'lgan foiz stavkasini, topish imkonini beradi. Siz bilan ta\'minlash kerak bo\'ladi:</string>
+<string name="information_5">Bu oddiy kalkulyator rahmat siz qarz har uzishiga miqdorini aniqlash, va sizning valyutada va kredit summasining bir ulushi sifatida jami xarajatlarni hisoblash mumkin bo\'ladi. Bilishingiz kerak bo\'lgan:</string>
+<string name="information_6">Agar siz yollash uchun kredit olish rejangiz bo\'lsa, siz samarali (real) yillik foiz Rate shuningdek etgan barcha xarajatlarini hisoblash mumkin. Bu birinchi siz qarz beruvchi va oylik to\'lash miqdorini, shuningdek, umumiy xarajatlarni hisoblash ariza tomonidan taqdim nominal (yillik) foiz stavkasini kiritish kerak, ikki rejimda ishlaydi. Ikkinchi holatida, (ba\'zan bir savdogar tomonidan taqdim etildi) oylik uzishiga miqdorini kiritish kerak va dastur siz uchun foizini va xarajatlarini hisoblash bo\'ladi.</string>
+
+<string name="years">Yil</string>
+<string name="months">Oy</string>
+<string name="days">Kun</string>
+<string-array name="kapitalizacja">
+<item>Kundalik</item>
+<item>Haftalik</item>
+<item>Oylik</item>
+<item>Har 3 oy</item>
+<item>Har 6 oy</item>
+<item>Yillik</item>
+</string-array>
+<string-array name="okres">
+<item>Oy</item>
+<item>Yillar</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Bu yerga</string>
+<string name="profit_percent">Jami depozitlar% sifatida</string>
+<string name="that_is">Ya\'ni</string>
+<string name="of_deposit">Jami depozitlar</string>
+<string name="config">Konfiguratsiya</string>
+<string name="help">Yordam Bering</string>
+<string name="info">Axborot</string>
+<string name="month">Oy</string>
+<string name="hello_world">Salom Dunyo!</string>
+<string name="menu_settings">Sozlamalar</string>
+
+</resources>

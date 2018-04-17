@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">ऋण र बचत</string>
+
+<string name="app_name2">ऋण र लगानी</string>
+
+<string name="menu_title">के तपाईं गणना गर्न चाहनुहुन्छ?</string>
+<string name="SavingCalc">बचत को भविष्य मूल्य</string>
+<string name="PeriodCalc">बचत को अवधि</string>
+<string name="DepositCalc">नियमित जम्मा राशि</string>
+<string name="IntrestCalc">बचत को ब्याज दर</string>
+<string name="LoanCalc">ऋण र installments को लागत</string>
+<string name="LoanCalcPro">ऋण को वार्षिक प्रतिशत दर</string>
+
+<string name="action_settings">सेटिङ</string>
+
+<string name="rate_app">यस आवेदन दर!</string>
+<string name="feedback">आफ्नो राय दिनुहोस्</string>
+<string name="feedback_prompt">नमस्ते, तपाईं हामी तपाईं को लागि यस आवेदन सुधार सकून् भनेर हामीलाई आफ्नो राय पठाउन चाहनुहुन्छ?</string>
+<string name="opinion">जनमत</string>
+
+<string name="loan_amount">प्रारम्भिक राशि</string>
+<string name="loan_amt">ऋण को राशि</string>
+<string name="percentage">प्रतिशतमा दर</string>
+<string name="period">बचत को अवधि</string>
+<string name="saving">मासिक जम्मा</string>
+<string name="capitalization">ब्याज झनै बढ्यो</string>
+<string name="deposit_period">जम्मा Frequency</string>
+<string name="target_amount">लक्ष्य राशि</string>
+<string name="total_deposit">कुल जम्मा</string>
+
+<string name="need_percentage">तपाईं प्रतिशत दर मा economize आवश्यकता (प्रति वर्ष)</string>
+<string name="need_gain">तपाईं जित्नुपर्छ</string>
+<string name="period_deposit">प्रत्येक अवधिमा तपाईं economize आवश्यकता</string>
+<string name="total">Economized राशि</string>
+<string name="profit">लाभ / कुल निक्षेप% रूपमा</string>
+<string name="fill_in">सबै आगत क्षेत्रहरु मा भर कृपया</string>
+<string name="required_period">बचत को आवश्यक अवधि</string>
+<string name="percent">प्रतिशतमा दर (प्रति वर्ष)</string>
+<string name="payments">Installments को संख्या</string>
+<string name="payment_amount">किस्त राशि</string>
+<string name="each_month">(प्रत्येक महिना भुक्तानी गर्न)</string>
+<string name="total_cost">कुल लागत /</string>
+<string name="cost_percent">ऋण राशि को%</string>
+<string name="commission">आयोग / surcharge</string>
+<string name="other_fees">अन्य शुल्क</string>
+<string name="annual_percent_rate">वार्षिक प्रतिशत दर</string>
+<string name="total_repay">चुक्ता कुल</string>
+<string name="leave_one_of_two">प्रतिशतमा, किस्त को राशि: को खाली एक छोड। तल निर्देशनहरू हेर्नुहोस्।</string>
+
+<string name="deposit_calc">जम्मा राशि को गणना</string>
+<string name="savings_calc">बचत राशि को गणना</string>
+<string name="period_calc">अवधि बचत को गणना</string>
+<string name="intrest_calc">ब्याज दर को गणना</string>
+<string name="loan_calc">ऋण installments को गणना</string>
+
+<string name="submit">को गणना</string>
+<string name="clear">स्पष्ट सबै</string>
+<string name="del">मेट्नुहोस्</string>
+<string name="show">शो</string>
+<string name="go">जानुहोस्</string>
+<string name="exit">निस्कनुहोस्</string>
+<string name="cancel">रद्द</string>
+<string name="ok">ठीक</string>
+<string name="settings">सेटिङ</string>
+<string name="go_to_menu">स्वीकार्नुहोस् र बन्द</string>
+<string name="choose_currency">मुद्रा छान्नुहोस्</string>
+
+<string name="instructions">निर्देश</string>
+<string name="see_details">निर्देशन हेर्न तल स्क्रोल</string>
+<string name="results">परिणाम</string>
+<string name="hint_amount">आफ्नो ऋण को राशि।</string>
+<string name="hint_principal">तपाईं कत्तिको अब छ?</string>
+<string name="hint_target">तपाईं कत्तिको economize गर्न चाहनुहुन्छ?</string>
+<string name="hint_period">कसरी लामो तपाईं economize गर्ने योजना छ?</string>
+<string name="hint_percent">प्रतिशत को के दर मा तपाईं economize हुनेछ?</string>
+<string name="hint_interest">आफ्नो ऋण को (प्रति वर्ष) ब्याज दर कति छ?</string>
+<string name="hint_deposit">तपाईं कत्तिको प्रत्येक महिना आफ्नो बचत खातामा जम्मा गर्न सक्छन्?</string>
+<string name="hint_dep_period">कसरी अक्सर तपाईं आफ्नो बचत खातामा पैसा जम्मा हुनेछ?</string>
+<string name="hint_install">मासिक भुक्तानी को संख्या सामान्यतया बराबर</string>
+<string name="hint_compounded">अवधि जो आफ्नो बचत को ब्याज प्रमुख राशि जोडी छ। यो आफ्नो बैंक / अवस्था / नियमहरु मा निर्भर गर्दछ। मान लिन सक्छ: वार्षिक, मासिक वा दैनिक।</string>
+<string name="hint_amount_pro">आफ्नो ऋण को राशि। तपाईं खरीद गर्न चाहनुहुन्छ उत्पादन को मूल्य सामान्यतया बराबर। यो क्षेत्र आवश्यक छ।</string>
+<string name="hint_commission">आयोग (वा ऋण शुल्क) ऋण राशि को%। ज्ञात छैन भने, खाली छोड्नुहोस्।</string>
+<string name="hint_other_fees">ऋण राशि निर्भर छैनन् कि अन्य सबै शुल्क। ज्ञात छैन भने, खाली छोड्नुहोस्।</string>
+<string name="hint_total_repay">आवश्यकता हुनेछ कुल राशि ऋणदाता गर्न भइ सकेको।</string>
+<string name="hint_total_cost">चक्रवृद्धि ब्याज र सबै शुल्क सहित ऋण कुल लागत,।</string>
+<string name="hint_cost_percent">कुल लागत (रूपमा माथि) ऋण राशि प्रतिशत रूपमा व्यक्त गरे।</string>
+<string name="hint_apr">ऋण प्रभावकारी (वास्तविक) वार्षिक ब्याज दर छ। यो ऋण राशि को प्रतिशत रूपमा व्यक्त कुल लागत बराबर छ।</string>
+<string name="hint_payment">प्रत्येक किस्त (मासिक) को राशि। तपाईं "प्रतिशतमा दर" खाली छोडेर सम्म तपाईं, यो क्षेत्र मा भर्न आवश्यकता छैन। खाली छोडे भने, यो बटन थिचेर पछि गणना गरिनेछ।</string>
+
+<string name="information_1">यो calculator तपाईं चक्रवृद्धि ब्याज दर देखि बनाउने भविष्यमा आफ्नो बचत को राशि, साथै लाभ, पत्ता लगाउन अनुमति दिन्छ। यो तपाईं निम्न मान थाहा मान्छ कि:</string>
+<string name="information_2">यो calculator तपाईं आफ्नो लक्ष्य राशि economize गर्न आवश्यक छ जो समय, को अवधि निर्धारण गरौं हुनेछ। यो तपाईं निम्न प्रदान मान्छ:</string>
+<string name="information_3">यहाँ तपाईँले बचत को आफ्नो लक्ष्य हासिल गर्न प्रत्येक महिना economize हुनेछ जो राशि हो, जसमा मासिक जम्मा, गणना गर्न सक्छन्। यसले निम्न डाटा आवश्यकता हुनेछ:</string>
+<string name="information_4">यो के तपाईं आफ्नो लक्ष्य राशि पुग्न मा, economize गर्न आवश्यक हुनेछ जो मा ब्याज दर, पत्ता लगाउन अनुमति दिन्छ। तपाईं प्रदान गर्न आवश्यक हुनेछ:</string>
+<string name="information_5">यस सरल calculator धन्यवाद तपाईं आफ्नो ऋण प्रत्येक किस्त को राशि निर्धारण, र आफ्नो मुद्रा र ऋण राशि को एक प्रतिशत रूपमा आफ्नो कुल लागत गणना गर्न सक्षम हुनेछ। तपाईंलाई थाहा हुन जरुरी सबै छ:</string>
+<string name="information_6">तपाईं आफ्नो खरिदका लागि एक ऋण लिन योजना भने, तपाईं प्रभावकारी (वास्तविक) वार्षिक प्रतिशत दर साथै संलग्न सबै लागत को गणना गर्न सक्छन्। यो पहिलो तपाईं ऋणदाता र मासिक installments को राशि साथै कुल लागत गणना हुनेछ आवेदन द्वारा प्रदान नाममात्र (वार्षिक) प्रतिशत दर प्रविष्ट गर्न आवश्यक, दुई मोड मा काम गर्दछ। दोस्रो मोडमा, तपाईँले (कहिले काँही एक व्यापारीले प्रस्तुत) मासिक किस्त को राशि प्रवेश गर्न आवश्यक छ, र आवेदन तपाईं लागि प्रतिशत र लागत गणना हुनेछ।</string>
+
+<string name="years">वर्ष</string>
+<string name="months">महिना</string>
+<string name="days">दिन</string>
+<string-array name="kapitalizacja">
+<item>दैनिक</item>
+<item>साप्ताहिक</item>
+<item>मासिक</item>
+<item>हरेक 3 महिना</item>
+<item>हरेक 6 महिना</item>
+<item>वार्षिक</item>
+</string-array>
+<string-array name="okres">
+<item>महिना</item>
+<item>वर्ष</item>
+</string-array>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">यहाँ</string>
+<string name="profit_percent">कुल जम्मा% रूपमा</string>
+<string name="that_is">छ</string>
+<string name="of_deposit">कुल जम्मा</string>
+<string name="config">कन्फिगरेसन</string>
+<string name="help">मदत</string>
+<string name="info">सूचना</string>
+<string name="month">महिना</string>
+<string name="hello_world">संसारमा नमस्कार!</string>
+<string name="menu_settings">सेटिङ</string>
+
+</resources>

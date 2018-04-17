@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Заеми и спестявания</string>
+<string name="app_name2">Заеми и инвестиции</string>
+
+<string name="menu_title">Какво искаш да се изчисли?</string>
+<string name="SavingCalc">Бъдещата стойност на спестяванията</string>
+<string name="PeriodCalc">Период на спестяване</string>
+<string name="DepositCalc">Размер на редовни депозити</string>
+<string name="IntrestCalc">Лихвен процент на спестяванията</string>
+<string name="LoanCalc">Разходи за заем и вноски</string>
+<string name="LoanCalcPro">Годишен процент на заем</string>
+
+<string name="action_settings">Settings</string>
+
+<string name="rate_app">Оценете тази молба!</string>
+<string name="feedback">Дайте вашето мнение</string>
+<string name="feedback_prompt">Здравейте, бихте искали да ни изпратите вашето мнение, така че можем да подобрим това приложение за вас?</string>
+<string name="opinion">Мнение</string>
+
+<string name="loan_amount">Първоначална сума</string>
+<string name="loan_amt">Размер на кредита</string>
+<string name="percentage">Процент</string>
+<string name="period">Период на спестяване</string>
+<string name="saving">Месечни вноски</string>
+<string name="capitalization">Усложнява от лихви</string>
+<string name="deposit_period">Честота на депозити</string>
+<string name="target_amount">Целевата сума</string>
+<string name="total_deposit">Общо депозитите</string>
+
+<string name="need_percentage">Трябва да икономисват по процент на разходите (годишно)</string>
+<string name="need_gain">Вие трябва да спечелите</string>
+<string name="period_deposit">През всеки период трябва да икономисват</string>
+<string name="total">Икономисват Сума</string>
+<string name="profit">Печалба / като% от общата депозитна</string>
+<string name="fill_in">Моля попълнете всички полета за въвеждане</string>
+<string name="required_period">Задължително период на спестяване</string>
+<string name="percent">Процент (годишно)</string>
+<string name="payments">Брой вноски</string>
+<string name="payment_amount">Вноска Сума</string>
+<string name="each_month">(Да се ​​обърне всеки месец)</string>
+<string name="total_cost">Общо разходи /</string>
+<string name="cost_percent">Като% от размера на кредита</string>
+<string name="commission">Комисия / доплащане</string>
+<string name="other_fees">Други Такси</string>
+<string name="annual_percent_rate">Годишен процент на разходите</string>
+<string name="total_repay">Общо за погасяване</string>
+<string name="leave_one_of_two">Оставете празно един от: Процент, Размер на вноска. Вижте инструкциите по-долу.</string>
+
+<string name="deposit_calc">Изчислете сумата на депозита</string>
+<string name="savings_calc">Изчислете икономии възлизат</string>
+<string name="period_calc">Изчислете спестяване период</string>
+<string name="intrest_calc">Изчислете лихвен процент</string>
+<string name="loan_calc">Изчислете кредитни вноски</string>
+
+<string name="submit">Изчислете</string>
+<string name="clear">Clear All</string>
+<string name="del">Изтривам</string>
+<string name="show">Шоу</string>
+<string name="go">Отивам</string>
+<string name="exit">Изход</string>
+<string name="cancel">Отказ</string>
+<string name="ok">Добре</string>
+<string name="settings">Settings</string>
+<string name="go_to_menu">Приеми и затвори</string>
+<string name="choose_currency">Изберете валута</string>
+
+<string name="instructions">Инструкции</string>
+<string name="see_details">Превъртете надолу, за да видите инструкции</string>
+<string name="results">Резултати</string>
+<string name="hint_amount">Размерът на вашия кредит.</string>
+<string name="hint_principal">Колко сега имате?</string>
+<string name="hint_target">Колко искаш да икономисват?</string>
+<string name="hint_period">Колко дълго смятате да икономисват?</string>
+<string name="hint_percent">На какъв процент от процент ще ви икономисват?</string>
+<string name="hint_interest">Колко е лихвеният процент (годишно) на вашия кредит?</string>
+<string name="hint_deposit">Колко може да депозира да си спестовна сметка всеки месец?</string>
+<string name="hint_dep_period">Колко често ще депозирате пари, за да си спестовна сметка?</string>
+<string name="hint_install">Обикновено е равен на броя на месечните плащания</string>
+<string name="hint_compounded">Период, в който се добавя интерес на вашите спестявания до основния размер. Тя зависи от нея / условия / правила. Може да вземе стойности: годишно, месечно или дневно.</string>
+<string name="hint_amount_pro">Размерът на вашия кредит. Обикновено, равна на цената на продукта, който искате да закупите. Това поле е задължително.</string>
+<string name="hint_commission">Комисията (или такса заем) като% от размера на кредита. Ако не са известни, да се остави празно.</string>
+<string name="hint_other_fees">Всички други такси, които не са зависими от размера на кредита. Ако не са известни, да се остави празно.</string>
+<string name="hint_total_repay">Общата сума, която ще трябва да бъдат върнати на заемодателя.</string>
+<string name="hint_total_cost">Обща стойност на заема, включително сложна лихва и всички такси.</string>
+<string name="hint_cost_percent">Общо разходи (както по-горе), изразен като процент от размера на кредита.</string>
+<string name="hint_apr">Ефективно (реално) годишна лихва по кредита. Тя е равна на общата стойност, изразена като процент от размера на кредита.</string>
+<string name="hint_payment">Размерът на всеки транш (месечно). Не е нужно да попълните в тази област, освен ако не сте напуснали "процент" празно. Ако се остави празно, то ще бъде изчислена след натискане на бутона.</string>
+
+<string name="information_1">Този калкулатор ви позволява да разберете размер на спестяванията си в бъдеще, както и печалбата, която ще направи от Съединение лихвен процент. Тя приема, че знаете следните стойности:</string>
+<string name="information_2">Този калкулатор ще ви позволи да се определи периодът от време, който е необходим, за да икономисват вашата целева сума. Това предполага, че предоставят следното:</string>
+<string name="information_3">Тук можете да изчисли месечните депозит, който е в размер, който ще трябва да се икономисват всеки месец, за да постигнат целта си за икономии. Той ще се нуждаем от следните данни:</string>
+<string name="information_4">Тя ви позволява да разберете лихвата, при която ще трябва да икономисват, за да достигне целта сума. Вие ще трябва да предоставят:</string>
+<string name="information_5">Благодарение на този прост калкулатор, ще бъде в състояние да определи сумата на всеки транш от кредита си, и да се изчисли общата му стойност във вашата валута и като процент от размера на кредита. Всичко, което трябва да знаете е:</string>
+<string name="information_6">Ако имате намерение да вземе заем за покупките си, можете да изчислите всички разходи свързани, както и ефективно (реално) Годишен процент на разходите. Тя работи в два режима, в първото, което трябва да въведете номинална (годишен) лихвен процент, предоставена от кредитора и приложението ще се изчисли сумата на месечните вноски, както и общите разходи. Във втория режим, ще трябва да въведете размера на месечната вноска (понякога се представя като един търговец), и приложението ще се изчисли процент и разходи за вас.</string>
+
+<string name="years">Години</string>
+<string name="months">Месеца</string>
+<string name="days">Дни</string>
+<string-array name="kapitalizacja">
+<item>Ежедневно</item>
+<item>Седмично</item>
+<item>Месечен</item>
+<item>На всеки 3 месеца</item>
+<item>На всеки 6 месеца</item>
+<item>Годишно</item>
+</string-array>
+<string-array name="okres">
+<item>Месеци</item>
+<item>Години</item>
+</string-array>
+
+
+    <string name="title_activity_loan_calc">LoanCalc</string>
+    <string name="enter_here">Тук</string>
+    <string name="profit_percent">Като% от общата сума на депозитите</string>
+    <string name="that_is">Че е</string>
+    <string name="of_deposit">От общите депозити</string>
+    <string name="config">Configuration</string>
+    <string name="help">Помощ</string>
+    <string name="info">Информация</string>
+    <string name="month">Месец</string>
+    <string name="hello_world">Здравей, свят!</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>

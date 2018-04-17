@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">Finances Facile</string>
+<string name="app_name2">Prêts et investissements</string>
+<string name="menu_title">Que voulez-vous calculer?</string>
+<string name="SavingCalc">Valeur future de l\'épargne</string>
+<string name="PeriodCalc">Période de l\'épargne</string>
+<string name="DepositCalc">Montant des dépôts réguliers</string>
+<string name="IntrestCalc">Taux d\'intérêt</string>
+<string name="LoanCalc">Montant des versements d\'un prêt</string>
+<string name="action_settings">Paramètres</string>
+<string name="info">Informations</string>
+<string name="loan_amount">Montant initial</string>
+<string name="loan_amt">Montant du prêt</string>
+<string name="percentage">Taux de pourcentage</string>
+<string name="period">Période de l\'épargne</string>
+<string name="saving">Dépôt mensuel</string>
+<string name="capitalization">L\'intérêt est composé</string>
+<string name="deposit_period">Fréquence des dépôts</string>
+<string name="target_amount">Montant objectif</string>
+<string name="total_deposit">Dépôt total</string>
+<string name="need_percentage">Vous aurez besoin d\'épargner à un taux de pourcentage (annuelle)</string>
+<string name="need_gain">Vous aurez besoin de gagner</string>
+<string name="period_deposit">Chaque période vous devez déposer</string>
+<string name="total">Montant épargné</string>
+<string name="profit">Bénéfice / en% du total des dépôts</string>
+<string name="fill_in">S\'il vous plaît remplir tous les champs d\'entrée</string>
+<string name="required_period">Période requise de l\'épargne</string>
+<string name="percent">Taux de pourcentage (annuelle)</string>
+<string name="payments">Nombre de versements</string>
+<string name="payment_amount">Montant du versement</string>
+<string name="each_month">(à payer chaque mois)</string>
+<string name="total_cost">Coût total</string>
+<string name="total_cost_">Coût total /</string>
+<string name="cost_percent">En% du montant du prêt</string>
+<string name="deposit_calc">Calcule la quantité de dépôt</string>
+<string name="savings_calc">Calcule la valeur de l\'épargne</string>
+<string name="period_calc">Calcule la période d\'épargne</string>
+<string name="intrest_calc">Taux d\'intérêt Calculer</string>
+<string name="loan_calc">Calcule la valeur de versements</string>
+<string name="submit">Calcule</string>
+<string name="clear">Efface tout</string>
+<string name="del">Efface</string>
+<string name="show">Affiche</string>
+<string name="go">Aller</string>
+<string name="exit">Sortie</string>
+<string name="settings">Paramètres</string>
+<string name="go_to_menu">Accepter et fermer</string>
+    <string name="remove_ads">Supprimez la pub</string>
+<string name="instructions">Instructions</string>
+<string name="hint_amount">Le montant de votre prêt.</string>
+<string name="hint_principal">Combien vous avez-vous maintenant?</string>
+<string name="hint_target">Combien voulez-vous gagner?</string>
+<string name="hint_period">Combien de temps comptez-vous sauver?</string>
+<string name="hint_percent">À quel taux de pourcentage vous sauver?</string>
+<string name="hint_interest">Quel est le taux d\'intérêt (par an) de votre prêt?</string>
+<string name="hint_deposit">Combien pouvez-vous déposer sur votre compte d\'épargne chaque mois?</string>
+<string name="hint_dep_period">Combien de fois allez-vous déposer de l\'argent sur ​​votre compte d\'épargne?</string>
+<string name="hint_install">Habituellement égal au nombre de paiements mensuels</string>
+<string name="hint_compounded">Période au cours de laquelle l\'intérêt de votre épargne est ajouté au montant du capital. Cela dépend de votre banque et / ou la réglementation de votre régime de retraite / d\'économie. Il peut prendre les valeurs de «tous les jours» à «annuelle».</string>
+<string name="information_1">Cette calculatrice vous permet de connaître le montant futur de votre épargne ainsi que le profit que vous ferez forme taux composé d\'intérêt. Il suppose que vous savez ce qui suit:</string>
+<string name="information_2">Cette calculatrice vous permettra de déterminer la période de temps qui est nécessaire pour enregistrer votre montant cible. Il suppose que vous allez fournir les renseignements suivants:</string>
+<string name="information_3">Ici, vous pouvez calculer dépôt mensuel, c\'est le montant d\'argent que vous devrez épargner chaque mois pour atteindre votre objectif d\'épargne. Il devra les données suivantes:</string>
+<string name="information_4">Il vous permet de trouver le taux d\'intérêt à laquelle vous devrez être sauver, afin d\'atteindre le montant de votre cible. Vous devrez fournir:</string>
+<string name="information_5">Merci à cette simple calculatrice vous serez en mesure de déterminer le montant de chaque versement de votre prêt, et calculer le coût total du prêt de la valeur de l\'argent et en pourcentage du montant du prêt. Tout ce que vous devez savoir, c\'est:</string>
+<string name="information_6">Si vous envisagez de prendre un prêt pour vos achats, vous pouvez calculer tous les coûts impliqués ainsi que le Taux annualisé effectif global (TAEG). Il fonctionne en deux modes, dans le premier, vous devez entrer taux nominal de pourcentage (annuel) fourni par le prêteur et l\'application calculera montant des versements mensuels ainsi que les coûts totaux. Dans le second mode, vous devez entrer le montant de mensualité (parfois présentés par un marchand), et l\'application calculera le pourcentage et les coûts.</string>
+<string name="years">An(s)</string>
+<string name="months">Mois</string>
+<string name="days">Journées</string>
+<string name="LoanCalcPro">Taux Annuel Effectif Global</string>
+<string name="help_translate">Aider à traduire cette application</string>
+<string name="rate_app">Noter cette application!</string>
+<string name="feedback">Donnez votre avis</string>
+<string name="feedback_prompt">Salut, voulez-vous nous donner quelques informations afin que nous puissions améliorer votre expérience?</string>
+<string name="opinion">Avis</string>
+<string name="commission">Commission</string>
+<string name="other_fees">Autres frais</string>
+<string name="annual_percent_rate">Taux Annualisé Effectif Global</string>
+<string name="total_repay">Total à rembourser</string>
+<string name="leave_one_of_two">Laissez vide un de: Pourcentage, versements d\'acomptes provisionnels. Voir les instructions ci-dessous.</string>
+<string name="cancel">Annuler</string>
+<string name="okay">Bien</string>
+<string name="choose_currency">Choisir la devise</string>
+<string name="see_details">Pour obtenir des instructions défiler vers le bas</string>
+<string name="results">Résultats</string>
+<string name="hint_amount_pro">Le montant de votre prêt. Habituellement égal au prix du produit que vous voulez acheter. Ce champ est obligatoire.</string>
+<string name="hint_commission">Commission (ou frais de prêt) en% du montant du prêt. Si ne sait pas, laisser en blanc.</string>
+<string name="hint_other_fees">Tous les autres frais qui ne dépendent pas de la quantité de prêt. Si ne sait pas, laisser en blanc.</string>
+<string name="hint_total_repay">Le montant total qui devra être remboursé au prêteur.</string>
+<string name="hint_total_cost">Le coût total du prêt, y compris les intérêts composés et tous les frais.</string>
+<string name="hint_cost_percent">Coût total (comme ci-dessus), exprimée en pour cent du montant du prêt.</string>
+<string name="hint_apr">Efficace (réel) taux d\'intérêt annuel du prêt, y compris le coût total.</string>
+<string name="hint_payment">Le montant de chacun de vos (mensuel) tranche. Vous ne devez pas remplir ce champ, sauf si vous avez quitté le «taux» en blanc. Si laissé vide, il sera calculé après avoir appuyé sur le bouton.</string>
+
+    <string-array name="kapitalizacja">
+<item>Quotidien</item>
+<item>Hebdomadaire</item>
+<item>Mensuel</item>
+<item>Trimestriel</item>
+<item>Chaque 6 mois</item>
+<item>Annuel</item>
+    </string-array>    
+    <string-array name="okres">
+<item>Mois</item>
+<item>Ans</item>
+    </string-array>
+
+    <string name="title_activity_loan_calc">LoanCalc</string>
+    <string name="enter_here">Ici</string>
+    <string name="profit_percent">En% du total des dépôts</string>
+    <string name="that_is">À savoir</string>
+    <string name="of_deposit">De dépôt total</string>
+
+    <string name="ok">Dáccord</string>
+    <string name="config">Config</string>
+    <string name="help">Aider</string>
+    <string name="month">Mois</string>
+    <string name="hello_world">Bonjour le monde!</string>
+    <string name="menu_settings">Paramètres</string>
+
+    </resources>

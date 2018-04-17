@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+<string name="app_name">القروض والاستثمارات</string>
+<string name="app_name2">القروض والاستثمارات</string>
+<string name="menu_title">ماذا تريد حساب؟</string>
+<string name="SavingCalc">القيمة المستقبلية للمدخرات</string>
+<string name="PeriodCalc">فترة الادخار</string>
+<string name="DepositCalc">حجم الودائع العادية</string>
+<string name="IntrestCalc">سعر الفائدة</string>
+<string name="LoanCalc">مبلغ أقساط قرض</string>
+<string name="action_settings">إعدادات</string>
+<string name="info">معلومات</string>
+<string name="loan_amount">المبلغ الأولي</string>
+<string name="loan_amt">مبلغ القرض</string>
+<string name="percentage">نسبة مئوية (في السنة)</string>
+<string name="period">فترة الادخار</string>
+<string name="saving">إيداع الشهري</string>
+<string name="capitalization">وتتفاقم الفائدة</string>
+<string name="deposit_period">تردد الودائع</string>
+<string name="target_amount">المبلغ المستهدف</string>
+<string name="total_deposit">إجمالي الودائع</string>
+<string name="need_percentage">سوف تحتاج إلى حفظ في معدل النسبة (في السنة)</string>
+<string name="need_gain">وسوف تحتاج إلى كسب</string>
+<string name="period_deposit">كل فترة سوف تحتاج إلى إيداع</string>
+<string name="total">المبلغ المدخر</string>
+<string name="profit">الربح / كنسبة مئوية من إجمالي الودائع</string>
+<string name="fill_in">يرجى ملء جميع حقول الإدخال</string>
+<string name="required_period">المدة اللازمة لتوفير</string>
+<string name="percent">نسبة مئوية (في السنة)</string>
+<string name="payments">عدد الأقساط</string>
+<string name="payment_amount">مبلغ الدفعة</string>
+<string name="each_month">(يجب أن يدفع كل شهر)</string>
+<string name="total_cost">التكلفة الإجمالية</string>
+<string name="total_cost_">التكلفة الإجمالية/</string>
+<string name="cost_percent">كنسبة مئوية من مبلغ القرض</string>
+<string name="deposit_calc">حساب مبلغ الإيداع</string>
+<string name="savings_calc">حساب قيمة الادخار</string>
+<string name="period_calc">حساب فترة الادخار</string>
+<string name="intrest_calc">سعر الفائدة حساب</string>
+<string name="loan_calc">حساب قيمة الأقساط</string>
+<string name="submit">حساب</string>
+<string name="clear">واضح جميع</string>
+<string name="del">حذف</string>
+<string name="show">مشاهدة</string>
+<string name="go">ذهاب</string>
+<string name="exit">خروج</string>
+<string name="settings">إعدادات</string>
+<string name="go_to_menu">قبول وإغلاق</string>
+    <string name="remove_ads">ازالة الاعلانات</string>
+<string name="instructions">تعليمات</string>
+<string name="hint_amount">مبلغ القرض الخاص بك.</string>
+<string name="hint_principal">كم لديك الآن؟</string>
+<string name="hint_target">كم كنت ترغب في حفظ؟</string>
+<string name="hint_period">متى تخططون لإنقاذ؟</string>
+<string name="hint_percent">في ما معدل نسبة سيوفر لك؟</string>
+<string name="hint_interest">ما هو معدل الفائدة (سنويا) من القرض الخاص بك؟</string>
+<string name="hint_deposit">كم يمكنك إيداع في حساب التوفير الخاص بك كل شهر؟</string>
+<string name="hint_dep_period">كم مرة سوف تقوم بإيداع المال في حساب توفير الخاصة بك؟</string>
+<string name="hint_install">يساوي عادة إلى عدد الدفعات الشهرية</string>
+<string name="hint_compounded">في الفترة التي يتم إضافة الفائدة من المدخرات الخاصة بك إلى المبلغ الأصلي. ذلك يعتمد على البنك و / أو أنظمة خطة المعاشات التقاعدية / الادخار الخاص بك الخاص بك. قد يستغرق القيم من  يوميا  إلى  سنويا.</string>
+<string name="information_1">هذه الحاسبة تتيح لك معرفة كمية المستقبل من المدخرات الخاصة بك وكذلك الأرباح التي سوف تجعل شكل معدل يضاعف الفائدة. يفترض أنك تعرف ما يلي:</string>
+<string name="information_2">وهذه الآلة الحاسبة تمكنك من تحديد الفترة الزمنية المطلوبة لحفظ كمية تستهدفها. يفترض سوف توفر ما يلي:</string>
+<string name="information_3">هنا يمكنك حساب الودائع الشهرية، وهذا هو مبلغ من المال سوف تحتاج إلى حفظ كل شهر من أجل الوصول إلى هدفك من الادخار. فإنه سيكون في حاجة البيانات التالية:</string>
+<string name="information_4">انها تسمح لك لمعرفة معدل الفائدة التي سوف تحتاج إلى إنقاذ، من أجل الوصول إلى كمية تستهدفها. سوف تحتاج إلى توفير:</string>
+<string name="information_5">بفضل هذه الآلة الحاسبة البسيطة التي سوف تكون قادرة على تحديد مقدار كل قسط من القرض الخاص بك، وحساب التكلفة الإجمالية للقرض في قيمة المال وكنسبة مئوية من مبلغ القرض. كل ما تحتاج إلى معرفته هو:</string>
+<string name="information_6">إذا كنت تخطط لأخذ قرض لشراء الخاص بك، يمكنك حساب كافة التكاليف المترتبة على ذلك، فضلا عن فعالية (الحقيقي) معدل النسبة السنوية. يعمل في وضعين، في أول تحتاج إلى إدخال الاسمي (السنوي) النسبة المئوية التي يقدمها المقرض والتطبيق سوف يحسب مبلغ الأقساط الشهرية وكذلك التكاليف الإجمالية. في النمط الثاني، تحتاج إلى إدخال كمية من الدفعة الشهرية (عرض في بعض الأحيان من قبل التاجر)، وسيقوم التطبيق بحساب النسبة المئوية والتكاليف بالنسبة لك.</string>
+<string name="years">سنوات</string>
+<string name="months">أشهر</string>
+<string name="days">أيام</string>
+<string name="LoanCalcPro">معدل الفائدة السنوية المئوية</string>
+<string name="help_translate">المساعدة في ترجمة هذا التطبيق</string>
+<string name="rate_app">قيم هذا التطبيق!</string>
+<string name="feedback">إعطاء ملاحظاتك</string>
+<string name="feedback_prompt">مهلا، هل تريد أن تعطينا بعض ردود الفعل حتى نتمكن من تحسين تجربتك؟</string>
+<string name="opinion">رأي</string>
+<string name="commission">عمولة</string>
+<string name="other_fees">رسوم أخرى</string>
+<string name="annual_percent_rate">معدل الفائدة السنوية المئوية</string>
+<string name="total_repay">مجموعه لسداد</string>
+<string name="leave_one_of_two">ترك واحدة فارغة من: النسبة المئوية، مبلغ القسط. رؤية تعليمات أدناه.</string>
+<string name="cancel">إلغاء</string>
+<string name="okay">حسنا</string>
+<string name="choose_currency">اختيار العملة</string>
+<string name="see_details">للحصول على تعليمات انتقل لأسفل</string>
+<string name="results">النتائج</string>
+<string name="hint_amount_pro">مبلغ القرض الخاص بك. يساوي عادة إلى سعر المنتج الذي تريد شراء. هذا الحقل مطلوب.</string>
+<string name="hint_commission">لجنة (أو رسوم القروض) كنسبة مئوية من مبلغ القرض. إن لم يكن معروفا، وترك فارغا.</string>
+<string name="hint_other_fees">جميع الرسوم الأخرى التي لا تعتمد على مبلغ القرض. إن لم يكن معروفا، وترك فارغا.</string>
+<string name="hint_total_repay">إجمالي المبلغ الذي سوف تحتاج إلى سداد للمقرض.</string>
+<string name="hint_total_cost">التكلفة الإجمالية للقرض، بما في ذلك الفائدة المركبة وجميع الرسوم.</string>
+<string name="hint_cost_percent">التكلفة الإجمالية (على النحو الوارد أعلاه) أعربت كنسبة مئوية من مبلغ القرض.</string>
+<string name="hint_apr">فعالية (الحقيقي) سعر الفائدة السنوي للقرض بما في ذلك التكلفة الإجمالية.</string>
+<string name="hint_payment">كمية كل الخاص بك (شهرية) الدفعة. لا تحتاج لملء في هذا المجال، إلا إذا غادر "معدل النسبة المئوية" فارغا. إذا ترك فارغا، سيتم احتسابها بعد الضغط على الزر.</string>
+
+<string-array name="kapitalizacja">
+<item>يوميا</item>
+<item>الأسبوعية</item>
+<item>شهريا</item>
+<item>ثلاثة أشهر</item>
+<item>كل 6 أشهر</item>
+<item>سنويا</item>
+</string-array>    
+<string-array name="okres">
+<item>أشهر</item>
+<item>سنوات</item>
+</string-array>     	    
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">هنا</string>
+<string name="profit_percent">كنسبة مئوية من إجمالي الودائع</string>
+<string name="that_is">وهذا هو</string>
+<string name="of_deposit">من إجمالي الودائع</string>
+<string name="ok">OK</string>
+<string name="config">التكوين</string>
+<string name="help">مساعدة</string>
+<string name="month">شهر</string>
+<string name="hello_world">مرحبا العالم!</string>
+<string name="menu_settings">إعدادات</string>
+
+</resources>

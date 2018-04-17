@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Несиелер және жинақ</string>
+
+<string name="app_name2">Несиелер және инвестициялар</string>
+
+<string name="menu_title">Сіз есептеу үшін не келеді?</string>
+<string name="SavingCalc">Жинақ Болашақ құны</string>
+<string name="PeriodCalc">Үнемдеу мерзімі</string>
+<string name="DepositCalc">Тұрақты депозиттердің көлемі</string>
+<string name="IntrestCalc">Жинақ Сыйақы мөлшерлемесі</string>
+<string name="LoanCalc">Кредитті және ұзартып шығындар</string>
+<string name="LoanCalcPro">Несиенің жылдық пайызбен Rate</string>
+
+<string name="action_settings">Параметрлер</string>
+
+<string name="rate_app">Осы қолданбаны бағалаңыз!</string>
+<string name="feedback">Сіздің пікіріңіз беріңіз</string>
+<string name="feedback_prompt">Сәлеметсіз бе, сіз, біз сіз үшін осы бағдарламаны жақсартуға алмады, сондықтан бізге өз пікірін жібергім келеді?</string>
+<string name="opinion">Пікір</string>
+
+<string name="loan_amount">Бастапқы сомасы</string>
+<string name="loan_amt">Қарыз сомасы</string>
+<string name="percentage">Пайыздық мөлшерлемесі</string>
+<string name="period">Үнемдеу мерзімі</string>
+<string name="saving">Айлық депозиттік</string>
+<string name="capitalization">Пайыздық өршиді</string>
+<string name="deposit_period">Депозиттер жиілігі</string>
+<string name="target_amount">Мақсатты сомасы</string>
+<string name="total_deposit">Жалпы депозиттік</string>
+
+<string name="need_percentage">Сіз (жылына) пайыздық ставка бойынша үнемдеуге керек</string>
+<string name="need_gain">Сіз табу керек</string>
+<string name="period_deposit">Әрбір кезеңде Сіз үнемдеуге қажет</string>
+<string name="total">Үнемделген сома</string>
+<string name="profit">Пайда / жалпы депозит% ретінде</string>
+<string name="fill_in">Барлық кіріс өрістерді толтырыңыз</string>
+<string name="required_period">Үнемдеу талап етілетін мерзімі</string>
+<string name="percent">(Жылына) пайыздық мөлшерлемесі</string>
+<string name="payments">Төлемдер саны</string>
+<string name="payment_amount">Өтеу сомасы</string>
+<string name="each_month">(Ай сайын төленуі тиіс)</string>
+<string name="total_cost">Жалпы құны /</string>
+<string name="cost_percent">Несие сомасының% ретінде</string>
+<string name="commission">Комиссия / қосымша ақы</string>
+<string name="other_fees">Басқа да төлемдер</string>
+<string name="annual_percent_rate">Жылдық пайыздық ставка</string>
+<string name="total_repay">Өтеуге Барлығы</string>
+<string name="leave_one_of_two">Үлесі, жарна сомасы: бос біреуін қалдырыңыз. Төмендегі нұсқауларды қараңыз.</string>
+
+<string name="deposit_calc">Салым сомасын есептеңіз</string>
+<string name="savings_calc">Жинақ сомасын есептеу</string>
+<string name="period_calc">Кезең үнемдеу есептеңіз</string>
+<string name="intrest_calc">Пайыздық ставканы есептеу</string>
+<string name="loan_calc">Несие төлемдерін есептеу</string>
+
+<string name="submit">Есептеп шығару</string>
+<string name="clear">Clear All</string>
+<string name="del">Жою</string>
+<string name="show">Көрсету</string>
+<string name="go">Go</string>
+<string name="exit">Шығу</string>
+<string name="cancel">Күшін жою</string>
+<string name="ok">Жақсы</string>
+<string name="settings">Параметрлер</string>
+<string name="go_to_menu">Қабылдау және жабу</string>
+<string name="choose_currency">Валюта таңдау</string>
+
+<string name="instructions">Нұсқаулықтар</string>
+<string name="see_details">Нұсқауларды көру үшін төмен жылжыңыз</string>
+<string name="results">Нәтижелер</string>
+<string name="hint_amount">Сіздің қарыз сомасы.</string>
+<string name="hint_principal">Қанша сен қазір бар ма?</string>
+<string name="hint_target">Сіз үнемдеуге қанша келеді?</string>
+<string name="hint_period">Сіз қанша үнемдеуге жоспарлап отырсыз?</string>
+<string name="hint_percent">Пайызбен қандай мөлшерлеме кезінде сіз үнемдеуге болады?</string>
+<string name="hint_interest">Сіздің қарыз (жылына) пайыздық ставка қанша тұрады?</string>
+<string name="hint_deposit">Қанша ай сайын жинақ шотыңызға сақтауға болады?</string>
+<string name="hint_dep_period">Сіз қаншалықты жиі жинақ шотыңызға ақша болады?</string>
+<string name="hint_install">Ай сайынғы төлемдер санының Әдетте тең</string>
+<string name="hint_compounded">Сіздің жинақ пайыздық негізгі сомасына қосылады, онда мерзімі. Ол сіздің банк / жағдайлар / ережелерге байланысты. Мәндерді қабылдай алады: жыл сайын, ай сайын немесе күн сайын.</string>
+<string name="hint_amount_pro">Сіздің қарыз сомасы. Сатып сіз өнімнің бағасына Әдетте тең. Бұл керек аймақ.</string>
+<string name="hint_commission">Комиссия (немесе несие комиссия) несие сомасының% ретінде. Белгілі емес болса, бос қалдырыңыз.</string>
+<string name="hint_other_fees">Несие сомасының тәуелді емес барлық басқа алымдар. Белгілі емес болса, бос қалдырыңыз.</string>
+<string name="hint_total_repay">Кредитордың өтелген қажет жалпы сомасы.</string>
+<string name="hint_total_cost">Күрделі пайыздар мен барлық алымдарды қосқанда несие жалпы құны.</string>
+<string name="hint_cost_percent">(Жоғарыда көрсетілгендей) жалпы құны несие сомасының пайызы ретінде көрсетілген.</string>
+<string name="hint_apr">Несиенің тиімді (нақты) жылдық пайыздық мөлшерлеме. Ол несие сомасының пайызбен жалпы құны тең.</string>
+<string name="hint_payment">Әр жарнаның сомасы (ай сайын). Сіз бос «пайыздық мөлшерлемесі» солға егер Сіз осы саладағы толтыру қажет емес. Бос қалдырылған болса, ол батырмасын басқаннан кейін есептелетін болады.</string>
+
+<string name="information_1">Бұл калькулятор сіз құрама пайыздық мөлшерлемеден жасайды болашақта сіздің жинақ сомасын, сондай-ақ пайда табуға мүмкіндік береді. Ол сізге келесі мәндерді білу деп болжайды:</string>
+<string name="information_2">Бұл калькулятор Сіздің мақсатты сомасын үнемдеуге талап етілетін, сіз уақыт кезеңін анықтау мүмкіндік береді. Ол сізге келесі қамтамасыз қабылдайды:</string>
+<string name="information_3">Мұнда Сіз жинақ өз мақсатына жету үшін әр ай сайын үнемдеуге болады сома ай сайынғы депозит, есептеуге болады. Ол келесі мәліметтер керек болады:</string>
+<string name="information_4">Ол сіз мақсатты сомасын жету үшін, үнемдеуге қажет болады, онда пайыздық мөлшерлемені, табуға мүмкіндік береді. Сіз қамтамасыз ету қажет:</string>
+<string name="information_5">Бұл қарапайым калькулятор арқасында сіз өзіңіздің несие әрбір траншты сомасын анықтау алады, және сіздің валютасымен және несие сомасының пайызы ретінде оның жалпы құны есептеп береді. Сіз білу ғана керек:</string>
+<string name="information_6">Егер сіз сатып алу үшін несие алуға жоспарласаңыз, барлық тартылған шығындарды, сондай-ақ тиімді (нақты) жылдық пайыздық ставканы есептеу болады. Ол алдымен атаулы (жылдық) пайыздық кредитор көзделген ставка мен қолдану айлық төлемдердің мөлшерін, сондай-ақ жалпы шығындарды есептеуге болады енгізу қажет, екі режимдерде жұмыс істейді. Екінші режимінде (кейде көпес ұсынылған) айлық жарна сомасын енгізу қажет, және бағдарлама Сіз үшін пайыздық мен шығындарды есептеп береді.</string>
+
+<string name="years">Жыл</string>
+<string name="months">Ай</string>
+<string name="days">Күн</string>
+<string-array name="kapitalizacja">
+<item>Күн сайын</item>
+<item>Апта сайын</item>
+<item>Ай сайын</item>
+<item>Әр 3 ай</item>
+<item>6 ай сайын</item>
+<item>Жыл сайын</item>
+</string-array>
+<string-array name="okres">
+<item>Айлар</item>
+<item>Жылдар</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Мұнда</string>
+<string name="profit_percent">Депозиттердің жалпы көлемінің% ретінде</string>
+<string name="that_is">Яғни</string>
+<string name="of_deposit">Депозиттердің жалпы көлемінің</string>
+<string name="config">Конфигурация</string>
+<string name="help">Көмектесіңіздер</string>
+<string name="info">Ақпарат</string>
+<string name="month">Ай</string>
+<string name="hello_world">Сәлем Әлем!</string>
+<string name="menu_settings">Параметрлер</string>
+
+</resources>

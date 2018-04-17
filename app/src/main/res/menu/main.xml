@@ -1,0 +1,67 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/action_save"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/SavingCalc"/>    
+
+ 	<item
+        android:id="@+id/action_deposit"
+        android:orderInCategory="101"
+        android:showAsAction="never"
+        android:title="@string/DepositCalc"/>
+    
+    <item
+        android:id="@+id/action_period"
+        android:orderInCategory="102"
+        android:showAsAction="never"
+        android:title="@string/PeriodCalc"/>  
+        
+    <item
+        android:id="@+id/action_interest"
+        android:orderInCategory="103"
+        android:showAsAction="never"
+        android:title="@string/IntrestCalc"/>      
+    
+    <item
+        android:id="@+id/action_loan"
+        android:orderInCategory="104"
+        android:showAsAction="never"
+        android:title="@string/LoanCalc"/>
+    
+    <item
+        android:id="@+id/action_currency"
+        android:orderInCategory="105"
+        android:icon="@drawable/dollar"
+        android:showAsAction="ifRoom"
+        android:title="@string/choose_currency"/>     
+            
+    <item
+        android:id="@+id/action_rate_app"
+        android:orderInCategory="106"
+        android:icon="@drawable/ic_action_star_0"
+        android:showAsAction="ifRoom"
+        android:title="@string/rate_app"/>  
+            
+    <item
+        android:id="@+id/action_feedback"
+        android:orderInCategory="107"
+        android:icon="@drawable/ic_action_mail"
+        android:showAsAction="never"
+        android:title="@string/feedback"/> 
+
+    <item
+        android:id="@+id/action_remove_ads"
+        android:orderInCategory="108"
+        android:icon="@drawable/ic_action_halt"
+        android:showAsAction="ifRoom"
+        android:title="@string/remove_ads"/>
+    <!--item
+        android:id="@+id/action_info"
+        android:orderInCategory="106"
+        android:showAsAction="never"
+        android:title="@string/help"/-->
+
+
+</menu>

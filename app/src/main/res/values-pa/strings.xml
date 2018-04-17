@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">ਲੋਨ ਅਤੇ ਬੱਚਤ</string>
+
+<string name="app_name2">ਲੋਨ ਅਤੇ ਨਿਵੇਸ਼</string>
+
+<string name="menu_title">ਕੀ ਤੁਹਾਨੂੰ ਦੀ ਗਣਨਾ ਕਰਨ ਲਈ ਚਾਹੁੰਦੇ ਹੋ?</string>
+<string name="SavingCalc">ਬੱਚਤ ਦੇ ਭਵਿੱਖ ਦਾ ਮੁੱਲ</string>
+<string name="PeriodCalc">ਬਚਾਉਣ ਦੇ ਪੀਰੀਅਡ</string>
+<string name="DepositCalc">ਰੈਗੂਲਰ ਡਿਪਾਜ਼ਿਟ ਦੀ ਮਾਤਰਾ</string>
+<string name="IntrestCalc">ਬੱਚਤ ਦੇ ਵਿਆਜ ਦੀ ਦਰ</string>
+<string name="LoanCalc">ਕਰਜ਼ ਅਤੇ ਕਿਸ਼ਤ ਦੇ ਖ਼ਰਚੇ</string>
+<string name="LoanCalcPro">ਕਰਜ਼ੇ ਦੀ ਸਾਲਾਨਾ ਦਰ ਨਾਲ</string>
+
+<string name="action_settings">ਸੈਟਿੰਗ</string>
+
+<string name="rate_app">ਇਸ ਕਾਰਜ ਨੂੰ ਦਰਜਾ!</string>
+<string name="feedback">ਤੁਹਾਡੀ ਰਾਏ ਦੇ ਦਿਓ</string>
+<string name="feedback_prompt">ਹੈਲੋ, ਤੁਹਾਨੂੰ ਸਾਨੂੰ ਤੁਹਾਡੇ ਲਈ ਇਸ ਅਰਜ਼ੀ ਨੂੰ ਸੁਧਾਰ ਸਕਦਾ ਹੈ, ਜੋ ਕਿ ਇਸ ਲਈ, ਇਸ ਲਈ ਸਾਨੂੰ ਆਪਣੇ ਰਾਏ ਭੇਜਣ ਲਈ ਚਾਹੁੰਦੇ ਹੋ?</string>
+<string name="opinion">ਰਾਏ</string>
+
+<string name="loan_amount">ਸ਼ੁਰੂਆਤੀ ਰਕਮ ਨੂੰ</string>
+<string name="loan_amt">ਕਰਜ਼ੇ ਦੀ ਰਕਮ</string>
+<string name="percentage">ਦਰ</string>
+<string name="period">ਬਚਾਉਣ ਦੇ ਪੀਰੀਅਡ</string>
+<string name="saving">ਮਾਸਿਕ ਡਿਪਾਜ਼ਿਟ</string>
+<string name="capitalization">ਵਿਆਜ ਿਮਸ਼ਰਤ</string>
+<string name="deposit_period">ਪੇਸ਼ਗੀ ਦੇ Frequency</string>
+<string name="target_amount">Target ਮਾਤਰਾ</string>
+<string name="total_deposit">ਕੁੱਲ ਡਿਪਾਜ਼ਿਟ</string>
+
+<string name="need_percentage">ਤੁਹਾਨੂੰ ਦਰ \'ਤੇ economize ਕਰਨ ਦੀ ਲੋੜ ਹੈ (ਪ੍ਰਤੀ ਸਾਲ)</string>
+<string name="need_gain">ਤੁਹਾਨੂੰ ਕਮਾਈ ਕਰਨ ਦੀ ਲੋੜ ਹੈ</string>
+<string name="period_deposit">ਹਰ ਇੱਕ ਦੀ ਮਿਆਦ ਵਿੱਚ ਤੁਹਾਨੂੰ economize ਕਰਨ ਦੀ ਲੋੜ ਹੈ</string>
+<string name="total">Economized ਮਾਤਰਾ</string>
+<string name="profit">ਲਾਭ / ਕੁੱਲ ਡਿਪਾਜ਼ਿਟ ਦੇ ਤੌਰ%</string>
+<string name="fill_in">ਸਭ ਇੰਪੁੱਟ ਖੇਤਰ ਵਿੱਚ ਭਰੋ ਜੀ</string>
+<string name="required_period">ਬਚਾਉਣ ਦੀ ਲੋੜ ਦੀ ਮਿਆਦ</string>
+<string name="percent">ਦਰ (ਪ੍ਰਤੀ ਸਾਲ)</string>
+<string name="payments">ਿਕਸ਼ਤ ਦੀ ਗਿਣਤੀ</string>
+<string name="payment_amount">ਕਿਸ਼ਤ ਮਾਤਰਾ</string>
+<string name="each_month">(ਹਰ ਮਹੀਨੇ ਦਾ ਭੁਗਤਾਨ ਕਰਨ ਦੀ)</string>
+<string name="total_cost">ਕੁੱਲ ਲਾਗਤ /</string>
+<string name="cost_percent">ਲੋਨ ਦੀ ਰਕਮ ਦਾ% ਤੌਰ</string>
+<string name="commission">ਕਮਿਸ਼ਨ / ਸਰਚਾਰਜ</string>
+<string name="other_fees">ਹੋਰ ਫੀਸ</string>
+<string name="annual_percent_rate">ਸਾਲਾਨਾ ਦਰ ਨਾਲ</string>
+<string name="total_repay">ਭੁਗਤਾਨ ਕਰਨ ਲਈ ਕੁੱਲ</string>
+<string name="leave_one_of_two">ਫੀਸਦੀ, ਕਿਸ਼ਤ ਦੀ ਰਾਸ਼ੀ: ਦੇ ਖਾਲੀ ਇੱਕ ਨੂੰ ਛੱਡੋ. ਹੇਠ ਿਹਦਾਇਤ ਦੇਖੋ.</string>
+
+<string name="deposit_calc">ਪੇਸ਼ਗੀ ਰਕਮ ਦਾ ਹਿਸਾਬ</string>
+<string name="savings_calc">ਬੱਚਤ ਦੀ ਰਕਮ ਦੀ ਗਣਨਾ ਕਰੋ</string>
+<string name="period_calc">ਦੀ ਮਿਆਦ ਨੂੰ ਸੰਭਾਲਣ ਦੀ ਗਣਨਾ ਕਰੋ</string>
+<string name="intrest_calc">ਵਿਆਜ ਦੀ ਦਰ ਦੀ ਗਣਨਾ ਕਰੋ</string>
+<string name="loan_calc">ਦਾ ਕਰਜ਼ਾ ਿਕਸ਼ਤ ਦੀ ਗਣਨਾ ਕਰੋ</string>
+
+<string name="submit">ਗਣਨਾ</string>
+<string name="clear">ਆਸਮਾਨ ਸਾਫ ਸਾਰੇ</string>
+<string name="del">ਹਟਾਓ</string>
+<string name="show">ਵੇਖਾਓ</string>
+<string name="go">ਜਾਓ</string>
+<string name="exit">ਨਿਕਾਸ</string>
+<string name="cancel">ਰੱਦ ਕਰੋ</string>
+<string name="ok">ਠੀਕ ਹੈ</string>
+<string name="settings">ਸੈਟਿੰਗ</string>
+<string name="go_to_menu">ਮਨਜ਼ੂਰ ਹੈ ਅਤੇ ਬੰਦ</string>
+<string name="choose_currency">ਮੁਦਰਾ ਚੁਣੋ</string>
+
+<string name="instructions">ਨਿਰਦੇਸ਼</string>
+<string name="see_details">ਨਿਰਦੇਸ਼ ਨੂੰ ਵੇਖਣ ਲਈ ਥੱਲੇ ਸਕ ੋਲ</string>
+<string name="results">ਨਤੀਜੇ</string>
+<string name="hint_amount">ਆਪਣੇ ਕਰਜ਼ੇ ਦੀ ਮਾਤਰਾ ਹੈ.</string>
+<string name="hint_principal">ਕਿੰਨਾ ਕੁ ਤੁਹਾਨੂੰ ਹੁਣ ਹਨ?</string>
+<string name="hint_target">ਤੁਹਾਨੂੰ ਕਿੰਨੀ economize ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+<string name="hint_period">ਕਿੰਨਾ ਚਿਰ ਤੁਹਾਨੂੰ economize ਕਰਨ ਦੀ ਯੋਜਨਾ ਹੈ ਕਰਦੇ ਹਨ?</string>
+<string name="hint_percent">ਪ੍ਰਤੀਸ਼ਤਤਾ ਦੀ ਕਿਹੜੀ ਦਰ \'ਤੇ ਤੁਹਾਨੂੰ economize ਕਰੇਗਾ?</string>
+<string name="hint_interest">ਆਪਣੇ ਕਰਜ਼ੇ ਦੀ (ਪ੍ਰਤੀ ਸਾਲ) ਦੀ ਵਿਆਜ ਦਰ ਕਿੰਨਾ ਹੁੰਦਾ ਹੈ?</string>
+<string name="hint_deposit">ਕਿੰਨਾ ਕੁ ਤੁਹਾਨੂੰ ਹਰ ਮਹੀਨੇ ਆਪਣੇ ਬਚਾਉਣ ਖਾਤੇ ਵਿੱਚ ਜਮ੍ਹਾ ਕਰ ਸਕਦਾ ਹੈ?</string>
+<string name="hint_dep_period">ਕਿੰਨੀ ਵਾਰ ਤੁਹਾਨੂੰ ਆਪਣੇ ਖਾਤੇ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਪੈਸੇ ਜਮ੍ਹਾ ਹੋਵੇਗਾ?</string>
+<string name="hint_install">ਮਹੀਨਾਵਾਰ ਭੁਗਤਾਨ ਨੂੰ ਦੀ ਗਿਣਤੀ ਕਰਨ ਲਈ ਆਮ ਤੌਰ \'ਤੇ ਬਰਾਬਰ</string>
+<string name="hint_compounded">ਪੀਰੀਅਡ, ਜਿਸ \'ਤੇ ਆਪਣੇ ਬੱਚਤ ਦੀ ਦਿਲਚਸਪੀ ਦੇ ਪ੍ਰਮੁੱਖ ਦੀ ਰਕਮ ਨੂੰ ਸ਼ਾਮਿਲ ਕੀਤਾ ਗਿਆ ਹੈ. ਇਹ ਤੁਹਾਡੇ ਬਕ / ਹਾਲਾਤ / ਨਿਯਮ \'ਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ. ਮੁੱਲ ਲੈ ਸਕਦਾ ਹੈ: ਸਲਾਨਾ, ਮਹੀਨੇਵਾਰ ਜ ਰੋਜ਼ਾਨਾ ਦੀ.</string>
+<string name="hint_amount_pro">ਆਪਣੇ ਕਰਜ਼ੇ ਦੀ ਮਾਤਰਾ ਹੈ. ਤੁਹਾਨੂੰ ਖਰੀਦਣ ਲਈ ਚਾਹੁੰਦੇ ਹੋ ਉਤਪਾਦ ਦੀ ਕੀਮਤ ਦੇ ਆਮ ਦੇ ਬਰਾਬਰ. ਇਸ ਫੀਲਡ ਦੀ ਲੋੜ ਹੈ.</string>
+<string name="hint_commission">ਕਮਿਸ਼ਨ (ਜ ਦਾ ਕਰਜ਼ਾ ਦੀ ਫੀਸ) ਦਾ ਕਰਜ਼ਾ ਦੀ ਰਕਮ ਦਾ% ਹੈ. ਜਾਣਿਆ ਨਾ, ਜੇ, ਨੂੰ ਖਾਲੀ ਛੱਡ ਦਿੰਦੇ ਹਨ.</string>
+<string name="hint_other_fees">ਲੋਨ ਦੀ ਮਾਤਰਾ \'ਤੇ ਨਿਰਭਰ ਨਹੀ ਹਨ, ਜੋ ਕਿ ਹੋਰ ਸਾਰੇ ਫੀਸ. ਜਾਣਿਆ ਨਾ, ਜੇ, ਨੂੰ ਖਾਲੀ ਛੱਡ ਦਿੰਦੇ ਹਨ.</string>
+<string name="hint_total_repay">ਦੀ ਲੋੜ ਹੈ, ਜੋ ਕਿ ਕੁੱਲ ਰਕਮ \'ਤੇ ਉਧਾਰ ਦੇਣ ਅਦਾ ਕਰਨਾ ਹੋਵੇਗਾ.</string>
+<string name="hint_total_cost">ਅਹਾਤੇ ਵਿਆਜ ਅਤੇ ਸਾਰੇ ਫੀਸ ਸ਼ਾਮਲ ਹੈ ਕਰਜ਼ੇ ਦੀ ਕੁੱਲ ਲਾਗਤ,.</string>
+<string name="hint_cost_percent">ਕੁੱਲ ਲਾਗਤ (AS ਉੱਪਰ) ਨੂੰ ਕਰਜ਼ਾ ਦੀ ਰਕਮ ਦੀ ਫੀਸਦੀ ਦੇ ਰੂਪ ਵਿੱਚ ਪ੍ਰਗਟ ਕੀਤਾ ਹੈ.</string>
+<string name="hint_apr">ਕਰਜ਼ੇ ਦੀ ਪ੍ਰਭਾਵੀ (ਅਸਲੀ) ਸਾਲਾਨਾ ਵਿਆਜ ਦੀ ਦਰ. ਇਹ ਲੋਨ ਦੀ ਰਕਮ ਦੇ ਪ੍ਰਤੀਸ਼ਤ ਦੇ ਰੂਪ ਵਿੱਚ ਪ੍ਰਗਟ ਕੀਤੀ ਕੁੱਲ ਲਾਗਤ ਦੇ ਬਰਾਬਰ ਹੁੰਦਾ ਹੈ.</string>
+<string name="hint_payment">ਹਰ ਇੱਕ ਕਿਸ਼ਤ (ਮਹੀਨੇਵਾਰ) ਦੀ ਮਾਤਰਾ ਹੈ. ਤੁਹਾਨੂੰ "ਦਰ" ਨੂੰ ਖਾਲੀ ਛੱਡ ਦਿੱਤਾ, ਜਦ ਤੱਕ ਤੁਹਾਨੂੰ, ਇਸ ਖੇਤਰ ਵਿੱਚ ਭਰਨ ਦੀ ਲੋੜ ਨਹ ਹੈ. ਖਾਲੀ ਛੱਡ ਦਿੱਤਾ ਹੈ, ਇਸ ਨੂੰ ਬਟਨ ਨੂੰ ਦਬਾਉਣ ਦੇ ਬਾਅਦ ਦੀ ਗਣਨਾ ਕੀਤੀ ਜਾਵੇਗੀ.</string>
+
+<string name="information_1">ਇਹ ਕੈਲਕੂਲੇਟਰ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਅਹਾਤੇ ਵਿਆਜ ਦਰ ਤੱਕ ਬਣਾ ਦੇਵੇਗਾ, ਜੋ ਕਿ ਭਵਿੱਖ ਵਿੱਚ ਤੁਹਾਡੇ ਬੱਚਤ ਦੀ ਮਾਤਰਾ ਨੂੰ, ਦੇ ਨਾਲ ਨਾਲ ਮੁਨਾਫਾ, ਇਹ ਪਤਾ ਕਰਨ ਲਈ ਸਹਾਇਕ ਹੈ. ਇਹ ਤੁਹਾਨੂੰ ਹੇਠ ਮੁੱਲ ਪਤਾ ਹੈ ਇਹ ਮੰਨਦਾ ਹੈ ਕਿ:</string>
+<string name="information_2">ਇਹ ਕੈਲਕੂਲੇਟਰ ਤੁਹਾਨੂੰ ਆਪਣੇ ਟੀਚੇ ਨੂੰ ਰਕਮ ਦਾ economize ਕਰਨ ਦੀ ਲੋੜ ਹੈ, ਜੋ ਕਿ ਵਾਰ, ਦੀ ਮਿਆਦ ਦੇ ਪਤਾ ਕਰਨ ਦੇਣਗੇ. ਇਹ ਤੁਹਾਨੂੰ ਹੇਠ ਮੁਹੱਈਆ ਮੰਨਦਾ ਹੈ:</string>
+<string name="information_3">ਇੱਥੇ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਬੱਚਤ ਦੇ ਆਪਣੇ ਟੀਚੇ ਨੂੰ ਹਾਸਲ ਕਰਨ ਲਈ ਹਰ ਮਹੀਨੇ economize ਕਰਨ ਲਈ ਹੈ, ਜਾਵੇਗਾ, ਜੋ ਕਿ ਰਕਮ ਨੂੰ, ਹੈ, ਜੋ ਕਿ ਮਹੀਨਾਵਾਰ ਡਿਪਾਜ਼ਿਟ, ਦੀ ਗਣਨਾ ਕਰ ਸਕਦਾ ਹੈ. ਇਸ ਵਿੱਚ ਹੇਠ ਦਿੱਤੇ ਡਾਟਾ ਦੀ ਲੋੜ ਹੋਵੇਗੀ:</string>
+<string name="information_4">ਇਹ ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਆਪਣੇ ਟੀਚੇ ਨੂੰ ਰਕਮ ਦਾ ਤੱਕ ਪਹੁੰਚਣ ਲਈ ਲਈ, economize ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ, ਜਿਸ \'ਤੇ ਵਿਆਜ ਦਰ\', ਇਹ ਪਤਾ ਕਰਨ ਲਈ ਸਹਾਇਕ ਹੈ. ਤੁਹਾਨੂੰ ਮੁਹੱਈਆ ਕਰਨ ਦੀ ਲੋੜ ਹੋਵੇਗੀ:</string>
+<string name="information_5">ਇਸ ਨੂੰ ਸਧਾਰਨ ਕੈਲਕੂਲੇਟਰ ਕਰਨ ਲਈ ਧੰਨਵਾਦ ਹੈ ਤੁਹਾਨੂੰ ਆਪਣੇ ਕਰਜੇ ਦੀ ਹਰ ਇਕ ਕਿਸ਼ਤ ਦੀ ਰਾਸ਼ੀ ਨੂੰ ਪਤਾ ਕਰਨ, ਆਪਣੇ ਅਤੇ ਆਪਣੇ ਮੁਦਰਾ ਵਿੱਚ ਹੈ ਅਤੇ ਕਰਜ਼ੇ ਦੀ ਰਕਮ ਦੀ ਪ੍ਰਤੀਸ਼ਤ ਦੇ ਤੌਰ ਤੇ ਇਸ ਦੀ ਕੁੱਲ ਲਾਗਤ ਦੀ ਗਣਨਾ ਕਰਨ ਦੇ ਯੋਗ ਹੋ ਜਾਵੇਗਾ. ਤੁਹਾਨੂੰ ਪਤਾ ਕਰਨ ਦੀ ਲੋੜ ਹੈ ਸਭ ਹੈ:</string>
+<string name="information_6">ਤੁਹਾਨੂੰ ਆਪਣੇ ਖਰੀਦਦਾਰੀ ਲਈ ਕਰਜ਼ਾ ਲੈਣ ਲਈ ਚਾਹੁੰਦੇ ਹੋ, ਤੁਹਾਨੂੰ ਪ੍ਰਭਾਵਸ਼ਾਲੀ (ਅਸਲੀ) ਸਾਲਾਨਾ ਦਰ ਨਾਲ ਦੇ ਰੂਪ ਵਿੱਚ ਦੇ ਰੂਪ ਵਿੱਚ ਚੰਗੀ ਸ਼ਾਮਲ ਸਾਰੇ ਦੇ ਖਰਚੇ ਦਾ ਹਿਸਾਬ ਕਰ ਸਕਦੇ ਹੋ. ਇਹ ਪਹਿਲੀ ਵਿੱਚ ਤੁਹਾਨੂੰ ਕਰਜ਼ਾ ਦੇਣ ਵਾਲਾ ਅਤੇ ਮਹੀਨਾਵਾਰ ਕਿਸ਼ਤ ਦੀ ਰਕਮ ਨੂੰ ਦੇ ਨਾਲ ਨਾਲ ਕੁੱਲ ਲਾਗਤ ਦਾ ਦਾ ਹਿਸਾਬ ਹੋਵੇਗਾ ਕਾਰਜ ਦੁਆਰਾ ਮੁਹੱਈਆ ਨਾਮਾਤਰ (ਸਾਲਾਨਾ) ਪ੍ਰਤੀਸ਼ਤਤਾ ਦੀ ਦਰ ਦਰਜ ਕਰਨ ਦੀ ਲੋੜ ਹੈ, ਨੂੰ ਦੋ ਢੰਗ ਵਿੱਚ ਕੰਮ ਕਰਦੀ ਹੈ. ਦੂਜਾ ਢੰਗ ਵਿੱਚ, ਤੁਹਾਨੂੰ (ਕਈ ਵਾਰੀ ਵਪਾਰੀ ਦੁਆਰਾ ਪੇਸ਼) ਮਹੀਨੇਵਾਰ ਕਿਸ਼ਤ ਦੀ ਰਕਮ ਨੂੰ ਦਰਜ ਕਰਨ ਦੀ ਲੋੜ ਹੈ, ਅਤੇ ਕਾਰਜ ਨੂੰ ਤੁਹਾਡੇ ਲਈ ਪ੍ਰਤੀਸ਼ਤਤਾ ਅਤੇ ਲਾਗਤ ਨੂੰ ਦਾ ਹਿਸਾਬ ਹੋਵੇਗਾ.</string>
+
+<string name="years">ਸਾਲ</string>
+<string name="months">ਮਹੀਨੇ</string>
+<string name="days">ਦਿਨ</string>
+<string-array name="kapitalizacja">
+<item>ਰੋਜ਼ਾਨਾ</item>
+<item>ਵੀਕਲੀ</item>
+<item>ਮਾਸਿਕ</item>
+<item>ਹਰ 3 ਮਹੀਨੇ</item>
+<item>ਹਰ 6 ਮਹੀਨੇ</item>
+<item>ਸਲਾਨਾ</item>
+</string-array>
+<string-array name="okres">
+<item>ਮਹੀਨੇ</item>
+<item>ਸਾਲ</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">ਇਥੇ</string>
+<string name="profit_percent">ਕੁੱਲ ਪੇਸ਼ਗੀ ਦੇ ਤੌਰ%</string>
+<string name="that_is">ਜੋ ਕਿ ਹੈ,</string>
+<string name="of_deposit">ਕੁੱਲ ਡਿਪਾਜ਼ਿਟ</string>
+<string name="config">ਸੰਰਚਨਾ</string>
+<string name="help">ਮਦਦ ਕਰੋ</string>
+<string name="info">ਜਾਣਕਾਰੀ</string>
+<string name="month">ਮਹੀਨੇ</string>
+<string name="hello_world">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ!</string>
+<string name="menu_settings">ਸੈਟਿੰਗ</string>
+
+</resources>

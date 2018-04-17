@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">कर्ज आणि बचत</string>
+
+<string name="app_name2">कर्ज आणि गुंतवणूक</string>
+
+<string name="menu_title">काय आपण गणना करू इच्छिता?</string>
+<string name="SavingCalc">बचत भविष्यकालीन मूल्य</string>
+<string name="PeriodCalc">बचत कालावधी</string>
+<string name="DepositCalc">नियमित ठेवी रक्कम</string>
+<string name="IntrestCalc">बचत व्याज दर</string>
+<string name="LoanCalc">कर्ज आणि हप्त्यांच्या खर्च</string>
+<string name="LoanCalcPro">कर्ज वार्षिक टक्केवारी दर</string>
+
+<string name="action_settings">सेटिंग्ज</string>
+
+<string name="rate_app">हा अनुप्रयोग रेट करा!</string>
+<string name="feedback">आपले मत द्या</string>
+<string name="feedback_prompt">हॅलो, आम्ही आपल्याला या अनुप्रयोग सुधारण्यासाठी शकते की, आम्हाला आपले मत पाठवू इच्छितो?</string>
+<string name="opinion">मत</string>
+
+<string name="loan_amount">आरंभिक रक्कम</string>
+<string name="loan_amt">कर्जाची रक्कम</string>
+<string name="percentage">टक्केवारी दर</string>
+<string name="period">बचत कालावधी</string>
+<string name="saving">मासिक ठेव</string>
+<string name="capitalization">व्याज चक्रवाढ</string>
+<string name="deposit_period">ठेवी वारंवारता</string>
+<string name="target_amount">लक्ष्य रक्कम</string>
+<string name="total_deposit">एकूण जमा</string>
+
+<string name="need_percentage">आपण टक्केवारी दराने उधळपट्टी करणे आवश्यक आहे (दर वर्षी)</string>
+<string name="need_gain">आपण मिळविण्याचे आवश्यक</string>
+<string name="period_deposit">प्रत्येक काळात आपण उधळपट्टी करणे आवश्यक आहे</string>
+<string name="total">Economized रक्कम</string>
+<string name="profit">नफा / एकूण ठेव% म्हणून</string>
+<string name="fill_in">सर्व इनपुट फील्ड भरा</string>
+<string name="required_period">बचत च्या आवश्यक कालावधी</string>
+<string name="percent">टक्केवारी दर (दर वर्षी)</string>
+<string name="payments">हप्ते संख्या</string>
+<string name="payment_amount">हप्ता रक्कम</string>
+<string name="each_month">(प्रत्येक महिन्यात भरणा)</string>
+<string name="total_cost">एकूण खर्च /</string>
+<string name="cost_percent">कर्जाच्या% म्हणून</string>
+<string name="commission">आयोग / अधिभार</string>
+<string name="other_fees">इतर शुल्क</string>
+<string name="annual_percent_rate">वार्षिक टक्केवारी दर</string>
+<string name="total_repay">परतफेड एकूण</string>
+<string name="leave_one_of_two">टक्केवारी, हप्ता रक्कम: रिक्त एक सोडा. खालील सूचना पहा.</string>
+
+<string name="deposit_calc">ठेव रक्कम याची गणना</string>
+<string name="savings_calc">बचत रक्कम याची गणना</string>
+<string name="period_calc">कालावधी जतन गणना करा</string>
+<string name="intrest_calc">व्याज दर गणना</string>
+<string name="loan_calc">कर्ज हप्ते गणना करा</string>
+
+<string name="submit">गणना करा</string>
+<string name="clear">सर्व साफ करा</string>
+<string name="del">हटवा</string>
+<string name="show">दर्शवा</string>
+<string name="go">जा</string>
+<string name="exit">बाहेर पडा</string>
+<string name="cancel">रद्द करा</string>
+<string name="ok">ठीक आहे</string>
+<string name="settings">सेटिंग्ज</string>
+<string name="go_to_menu">स्वीकारा आणि बंद करा</string>
+<string name="choose_currency">चलन निवडा</string>
+
+<string name="instructions">सूचना</string>
+<string name="see_details">सूचना पाहण्यासाठी खाली स्क्रोल करा</string>
+<string name="results">परिणाम</string>
+<string name="hint_amount">आपल्या कर्जाची रक्कम.</string>
+<string name="hint_principal">किती आता आहे का?</string>
+<string name="hint_target">किती उधळपट्टी करू इच्छिता?</string>
+<string name="hint_period">तुम्ही आणखी किती काळ उधळपट्टी योजना?</string>
+<string name="hint_percent">टक्केवारी कोणत्या दराने आपण उधळपट्टी का?</string>
+<string name="hint_interest">आपल्या कर्ज (दर वर्षी) व्याज दर किती आहे?</string>
+<string name="hint_deposit">किती दरमहा आपल्या बचत खात्यात जमा करू शकतात?</string>
+<string name="hint_dep_period">किती वेळा आपण आपल्या बचत खात्यात पैसे जमा होईल?</string>
+<string name="hint_install">मासिक देयके संख्या सहसा समान</string>
+<string name="hint_compounded">कालावधी जे आपल्या बचत व्याज मुद्दलाची रक्कम जोडले आहे. हे आपल्या बँक / अटी / नियम अवलंबून असते. मूल्ये लागू शकतो: वार्षिक, मासिक किंवा दररोज.</string>
+<string name="hint_amount_pro">आपल्या कर्जाची रक्कम. आपण खरेदी करू इच्छितो उत्पादन किंमत सहसा समान. हे फील्ड आवश्यक आहे.</string>
+<string name="hint_commission">आयोगाने (किंवा कर्ज फी) कर्जाच्या% म्हणून. माहीत नाही तर, रिक्त सोडा.</string>
+<string name="hint_other_fees">कर्जाची रक्कम अवलंबून नाही, की इतर सर्व शुल्क. माहीत नाही तर, रिक्त सोडा.</string>
+<string name="hint_total_repay">आवश्यक आहे की एकूण रक्कम बँक परतफेड करणे.</string>
+<string name="hint_total_cost">चक्रवाढ व्याजासह आणि सर्व शुल्कासह कर्ज एकूण खर्च,.</string>
+<string name="hint_cost_percent">एकूण खर्च (वरील) कर्जाच्या टक्के व्यक्त केले.</string>
+<string name="hint_apr">कर्ज प्रभावी (खर्या) वार्षिक व्याज दर. हे कर्ज रक्कम टक्केवारी व्यक्त एकूण खर्च समान आहे.</string>
+<string name="hint_payment">प्रत्येक हप्ता (मासिक) रक्कम. आपण "टक्केवारी दर" रिक्त ठेवता तोपर्यंत आपण, या क्षेत्रातील भरण्याची आवश्यकता नाही. रिक्त सोडल्यास, ते बटण दाबून नंतर हिशोब केला जाईल.</string>
+
+<string name="information_1">या कॅल्क्युलेटर आपण चक्रवाढ व्याजासह दर करेल जे भविष्यात तुमच्या बचतीची रक्कम, तसेच नफा, बाहेर शोधण्यात परवानगी देते. आपण खालील मूल्ये माहीत आहे की, असे गृहीत धरते:</string>
+<string name="information_2">या कॅल्क्युलेटर आपण आपले लक्ष्य रक्कम उधळपट्टी करणे आवश्यक आहे वेळ, कालावधी निश्चित असेल. आपण खालील प्रदान असे गृहीत धरते:</string>
+<string name="information_3">येथे आपण बचत आपल्या साध्य करण्यासाठी प्रत्येक महिन्यात उधळपट्टी लागेल जे रक्कम, मासिक ठेव, गणना करू शकता. तो खालील माहिती आवश्यक आहे:</string>
+<string name="information_4">ते आपण आपल्या लक्ष्य रक्कम पोहोचण्याचा करण्यासाठी, उधळपट्टी करणे आवश्यक आहे, जे व्याज दर, बाहेर शोधण्यात परवानगी देते. आपण प्रदान करणे आवश्यक आहे:</string>
+<string name="information_5">हे सोपे कॅल्क्युलेटर धन्यवाद आपण आपल्या कर्ज प्रत्येक हप्ता रक्कम निश्चित, आणि आपल्या चलनात कर्ज रक्कम आणि टक्केवारी म्हणून त्याच्या एकूण किंमत काढण्यासाठी सक्षम असेल. तुम्हाला माहिती असायला हवे सर्व आहे:</string>
+<string name="information_6">आपली खरेदी कर्ज घेणे करायचे असल्यास, आपण प्रभावी (खर्या) वार्षिक टक्केवारी दर तसेच सहभागी सर्व खर्च गणना करू शकता. तो प्रथम आपण बँक आणि मासिक हप्ते रक्कम तसेच एकूण खर्च गणना अनुप्रयोग द्वारे प्रदान नाममात्र (वार्षिक) टक्केवारी दर प्रविष्ट करणे आवश्यक आहे, दोन रीती कार्य करते. दुसऱ्या मोड मध्ये, आपण (कधी कधी एक व्यापारी सादर) मासिक हप्ता रक्कम प्रविष्ट करणे आवश्यक आहे, आणि अनुप्रयोग आपण टक्केवारी आणि खर्च गणना होईल.</string>
+
+<string name="years">वर्षे</string>
+<string name="months">महिने</string>
+<string name="days">दिवस</string>
+<string-array name="kapitalizacja">
+<item>दैनिक</item>
+<item>साप्ताहिक</item>
+<item>मासिक</item>
+<item>प्रत्येक 3 महिने</item>
+<item>दर 6 महिन्यांनी</item>
+<item>वार्षिक</item>
+</string-array>
+<string-array name="okres">
+<item>महिने</item>
+<item>वर्ष</item>
+</string-array>
+
+<string name="currency">$</string>
+<string name="pre_currency"></string>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">येथे</string>
+<string name="profit_percent">एकूण ठेवी% म्हणून</string>
+<string name="that_is">आहे</string>
+<string name="of_deposit">एकूण ठेवी</string>
+<string name="config">कॉन्फिगरेशन</string>
+<string name="help">मदत</string>
+<string name="info">माहिती</string>
+<string name="month">महिन्यात</string>
+<string name="hello_world">जागतिक हॅलो!</string>
+<string name="menu_settings">सेटिंग्ज</string>
+
+</resources>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+
+<string name="app_name">Қарздиҳӣ ва пасандозҳо</string>
+
+<string name="app_name2">Қарзҳо ва сармоягузориҳо</string>
+
+<string name="menu_title">Шумо чӣ мехоҳед кардан ба ҳисоб?</string>
+<string name="SavingCalc">Арзиши ояндаи пасандоз</string>
+<string name="PeriodCalc">Мӯҳлати нерӯзахиракунӣ</string>
+<string name="DepositCalc">Ҳаҷми пасандозҳо мунтазам</string>
+<string name="IntrestCalc">Меъёри фоизӣ дар пасандоз</string>
+<string name="LoanCalc">Арзиши қарз ва људо</string>
+<string name="LoanCalcPro">Меъёри фоизи солона ќарз</string>
+
+<string name="action_settings">Танзимот</string>
+
+<string name="rate_app">Rate ин барнома!</string>
+<string name="feedback">Дар баёни андешаи худ</string>
+<string name="feedback_prompt">Салом, мехостам, ки шумо ба мо ирсол фикри Шумо, то ки мо метавонем ин барнома барои шумо беҳтар?</string>
+<string name="opinion">Фикр</string>
+
+<string name="loan_amount">Маблағи аввалия</string>
+<string name="loan_amt">Ҳаҷми қарзи</string>
+<string name="percentage">Меъёри фоизӣ</string>
+<string name="period">Мӯҳлати нерӯзахиракунӣ</string>
+<string name="saving">Амонатии ҳармоҳа</string>
+<string name="capitalization">Фоизӣ дучанд</string>
+<string name="deposit_period">Фосила амонатҳо</string>
+<string name="target_amount">Ҳадаф Маблаѓ</string>
+<string name="total_deposit">Амонатии</string>
+
+<string name="need_percentage">Шумо бояд ба economize дар Меъёри фоизӣ (дар як сол)</string>
+<string name="need_gain">Шумо бояд ба суде,</string>
+<string name="period_deposit">Дар ҳар як давра ба шумо лозим аст, ки economize</string>
+<string name="total">Љамъ сарфагардида</string>
+<string name="profit">Фоида / ҳамчун% аз ҳаҷми умумии амонат</string>
+<string name="fill_in">Лутфан, пур дар тамоми соҳаҳои вуруди</string>
+<string name="required_period">Давраи зарурии нерӯзахиракунӣ</string>
+<string name="percent">Меъёри фоизӣ (солона)</string>
+<string name="payments">Шумораи људо</string>
+<string name="payment_amount">Љамъ насби</string>
+<string name="each_month">(Пардохт шавад ҳар моҳ)</string>
+<string name="total_cost">Total Арзиш /</string>
+<string name="cost_percent">Ҳамчун% аз маблағи қарз</string>
+<string name="commission">Комиссияи / шашмоҳа</string>
+<string name="other_fees">Дигар Боҷҳо</string>
+<string name="annual_percent_rate">Меъёри фоизи солона</string>
+<string name="total_repay">Њамагї ба сазо</string>
+<string name="leave_one_of_two">Тарк як холӣ аз: Фоизи, Маблағи насби. Дастур ба поён нигаред.</string>
+
+<string name="deposit_calc">Ҳисоб кардани маблағи амонат</string>
+<string name="savings_calc">Ҳисоб кардани маблағи пасандозҳои</string>
+<string name="period_calc">Ҳисоб кардани давра наҷотбахши</string>
+<string name="intrest_calc">Ҳисоб кардани меъёри фоизӣ</string>
+<string name="loan_calc">Ҳисоб кардани бо људо қарз</string>
+
+<string name="submit">Ҳисоб кардан</string>
+<string name="clear">Clear Ҳамаи</string>
+<string name="del">Тозакунии</string>
+<string name="show">Нишон</string>
+<string name="go">Рафтан</string>
+<string name="exit">Баромадгоҳ</string>
+<string name="cancel">Бекор</string>
+<string name="ok">Хуб</string>
+<string name="settings">Танзимот</string>
+<string name="go_to_menu">Қабул ва наздик</string>
+<string name="choose_currency">Интихоб асъор</string>
+
+<string name="instructions">Дастурамал</string>
+<string name="see_details">Ба поён ҳаракат кунед, то бубинанд дастурҳои</string>
+<string name="results">Натиҷаҳо</string>
+<string name="hint_amount">Маблағи қарз кунед.</string>
+<string name="hint_principal">Чӣ қадар ки шумо ҳоло доред?</string>
+<string name="hint_target">Чӣ қадар шумо мехоҳед economize?</string>
+<string name="hint_period">Чӣ қадар шумо ба economize?</string>
+<string name="hint_percent">Дар кадом меъёри фоизи шумо economize?</string>
+<string name="hint_interest">Меъёри фоизӣ дар (дар як сол) ќарз шумо чӣ қадар аст?</string>
+<string name="hint_deposit">Чӣ қадар шумо метавонед ба ҳисоби сарфаи шумо маблағ ҳар моҳ?</string>
+<string name="hint_dep_period">Чӣ вақт хоҳад пул шумо маблағ ба ҳисоби сарфаи шумо?</string>
+<string name="hint_install">Одатан ба шумораи пардохтҳои моҳонаи баробар</string>
+<string name="hint_compounded">Давраи дар он фоизҳо аз пасандозҳои худ ба маблағи асосӣ илова шуда. Ин дар бораи бонк / шароити / қоидаҳои шумо вобаста аст. Метавонад арзишҳои мегирад: ҳар моҳ, ҳар моҳ ё ҳар рӯз.</string>
+<string name="hint_amount_pro">Маблағи қарз кунед. Одатан, баробар ба нархи маҳсулот шумо мехоҳед харидорӣ кунед. Ин бахш ҳатмист.</string>
+<string name="hint_commission">Комиссияи (ё пардохти қарз) ҳамчун% аз маблағи қарзии. Агар маълум нест, холӣ монед.</string>
+<string name="hint_other_fees">Ҳамаи пардохтҳои дигар, ки вобаста ба ҳаҷми қарзи нест. Агар маълум нест, холӣ монед.</string>
+<string name="hint_total_repay">Маблағи умумии ки бояд ба ба қарздиҳанда пардохт карда шавад.</string>
+<string name="hint_total_cost">Арзиши умумии қарз, аз ҷумла манфиати мураккаб ва ҳамаи пардохтҳои.</string>
+<string name="hint_cost_percent">Арзиши умумии (тавре ки дар боло), изҳори ҳамчун фоизи маблаѓи ќарз.</string>
+<string name="hint_apr">Самараноки (воқеӣ) меъёри фоизи солонаи қарз. Он ба арзиши умумии изҳори њамчун фоизи маблағи қарзии баробар аст.</string>
+<string name="hint_payment">Маблағи ҳар як насби (моҳона). Шумо лозим нест, ки ба пур дар ин соҳа, агар шумо чап »Қурби Фоизи" холӣ. Агар холӣ гузошта, онро хоҳад пас аз зеркунии тугмаи њисоб карда мешавад.</string>
+
+<string name="information_1">Ин ҳисобкунак шумо имкон медиҳад, ки ба пайдо ҳаҷми пасандозҳои худро дар оянда, инчунин фоида, ки ба шумо аз меъёри фоизи мураккаб кунад. Он дар назар дорад, ки шумо медонед, ки арзишҳои зерин:</string>
+<string name="information_2">Ин ҳисобкунак хоҳад бигзор шуморо дар давраи вақт, ки зарур аст, ба economize маблағи мақсадноки шумо муайян мекунад. Онро дар назар дорад ба шумо пешниҳод зерин:</string>
+<string name="information_3">Дар ин ҷо шумо метавонед амонатии ҳармоҳа, ки он миқдор, ки шумо бояд ба economize ҳар моҳ ба хотири расидан ба ҳадафи худ аз пасандоз ҳисоб кунед. Он маълумоти зерин зарур аст:</string>
+<string name="information_4">Ин ба шумо имкон пайдо кардани меъёри фоизӣ, ки дар он шумо лозим меояд, ки ба economize, ба хотири расидан ба маблағи мақсадноки шумо. Шумо бояд барои таъмини:</string>
+<string name="information_5">Ба шарофати ин калкулятори оддӣ шумо метавонед барои муайян намудани ҳаҷми ҳар насби қарзи худро, ва ҳисоб умумии арзиши он бо пули худ ва ҳамчун фоизи маблағи қарз хоҳад буд. Ҳамаи шумо бояд донед, мебошад:</string>
+<string name="information_6">Агар шумо ба нақша гирифтани қарз барои хариди худ, шумо метавонед ҳамаи хароҷоти ҷалб инчунин самаранок (воқеӣ) Меъёри фоизи солона ҳисоб кунед. Он дар ду шеваи кор, дар аввал шумо бояд ба ворид номиналии (солона) Меъёри фоизӣ пешниҳод аз ҷониби қарздиҳанда ва барнома ба маблағи људо ҳармоҳа инчунин харољоти умумї барои ҳисоб кунед. Дар ҳолати дуюм, ба шумо лозим аст, ки ворид маблағи насби ҳармоҳа (баъзан аз ҷониби тоҷирест, пешнињод), ва барнома фоиз ва харољоти барои шумо ҳисоб кунед.</string>
+
+<string name="years">Сол</string>
+<string name="months">Моҳ</string>
+<string name="days">Рӯз</string>
+<string-array name="kapitalizacja">
+<item>Ҳаррӯза</item>
+<item>Ҳар ҳафта</item>
+<item>Ҳармоҳа</item>
+<item>Ҳар 3 моҳ</item>
+<item>Ҳар 6 моҳ</item>
+<item>Њарсола</item>
+</string-array>
+<string-array name="okres">
+<item>Моҳ</item>
+<item>Сол</item>
+</string-array>
+
+
+<string name="title_activity_loan_calc">LoanCalc</string>
+<string name="enter_here">Ин ҷо</string>
+<string name="profit_percent">Ҳамчун% аз ҳаҷми умумии амонатҳо</string>
+<string name="that_is">Ки аст,</string>
+<string name="of_deposit">Аз ҳаҷми умумии амонатҳо</string>
+<string name="config">Насб</string>
+<string name="help">Кӯмак</string>
+<string name="info">Маълумот</string>
+<string name="month">Моҳ</string>
+<string name="hello_world">Салом Ҷаҳон!</string>
+<string name="menu_settings">Танзимот</string>
+
+</resources>
